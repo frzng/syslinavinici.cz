@@ -1,28 +1,23 @@
-{% for item in pages %}
-  {% if item.listed? and item.published? %}
+{% for item in include.pages %}
+  {% assign url_parts = item.url | split: "/" %}
 
-    <li class="{% if page.fullpath == item.fullpath %}current active{% endif %}">
-      <a href="{% path_to item %}">{{ item.title }}</a>
+  {% if url_parts.size <= 2 %}
+    <li{% if page.url == item.url %} class="current active"{% endif %}>
+      <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
 
-      {% assign render_children = false %}
+      {% assign parent_url = item.url | append: "/" %}
+      {% assign children = include.pages |
+           where_exp: "p", "p.url contains parent_url" %}
 
-      {% for child in item.children %}
-        {% if child.listed? and child.published? %}
-          {% assign render_children = true %}
-        {% endif %}
-      {% endfor %}
-
-      {% if render_children %}
+      {% if children.size > 0 %}
         <ul>
-          {% for subitem in item.children %}
-            {% if subitem.listed? and subitem.published? %}
-              <li>
-                <a href="{% path_to subitem %}">{{ subitem.title }}</a>
-              </li>
-            {% endif %}
+          {% for subitem in children %}
+	    <li>
+	      <a href="{{ subitem.url | relative_url }}">{{ subitem.title }}</a>
+	    </li>
           {% endfor %}
         </ul>
       {% endif %}
     </li>
   {% endif %}
-{% endfor  %}
+{% endfor %}

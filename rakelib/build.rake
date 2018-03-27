@@ -1,5 +1,6 @@
 require 'rake/clean'
 require 'jekyll'
+require_relative 'util'
 
 desc "Build this site\n" +
      "\n" +
@@ -8,19 +9,6 @@ desc "Build this site\n" +
 task build: %w[build:cms build:jekyll]
 
 namespace "build" do
-  def jekyll_config
-    return @config if @config
-
-    opts = {}
-    opts['config'] = ENV['JEKYLL_CONFIG'] if ENV.key? 'JEKYLL_CONFIG'
-
-    Jekyll.logger.log_level = :warn
-    @config = Jekyll.configuration opts
-    Jekyll.logger.log_level = :info
-
-    @config
-  end
-
   CMS_SOURCES = FileList[
     "node_modules/netlify-cms/dist/cms.js",
     "node_modules/netlify-cms/dist/cms.js.map",

@@ -344,7 +344,7 @@ end
 def entry_to_layout entry
   layout = {
     'title' => entry.title,
-    'is_layout' => entry.is_layout,
+    'listed' => entry.is_layout,
     'body' => entry.template
   }
 

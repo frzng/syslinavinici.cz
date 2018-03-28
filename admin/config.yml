@@ -68,21 +68,15 @@ collections:
     label: Created at
     widget: date
     format: YYYY-MM-DD HH:mm:ss ZZ
-- name: authors
-  label: Authors
-  label_singular: Author
-  description: Authors of user answers or photographs
-  folder: _authors
-  create: true
-  fields:
-  - name: name
-    label: Name
-    widget: string
-  meta:
-  - name: date
-    label: Created at
-    widget: date
-    format: YYYY-MM-DD HH:mm:ss ZZ
+- label: Site Settings
+  name: settings
+  files:
+    - label: Authors
+      label_singular: Author
+      name: authors
+      file: _data/authors.yml
+      fields: []
+
 - name: categories
   label: Categories
   label_singular: Category

@@ -3,6 +3,7 @@ title: Sysel na vinici
 image: "/uploads/IMG_1222.JPG"
 home_thumbnail: "/uploads/IMG_1222.JPG"
 gallery_thumbnail: "/uploads/IMG_1222.JPG"
+content_thumbnail: "/uploads/IMG_1222.JPG"
 author: katerina-polednikova
 categories: []
 galleries: slash-news-slash-jaro-ve-velkych-pavlovicich

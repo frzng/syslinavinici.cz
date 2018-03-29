@@ -3,6 +3,7 @@ title: sysel v rouře
 image: "/uploads/IMG_2635.JPG"
 home_thumbnail: "/uploads/IMG_2635.JPG"
 gallery_thumbnail: "/uploads/IMG_2635.JPG"
+content_thumbnail: "/uploads/IMG_2635.JPG"
 author: katerina-polednikova
 categories: []
 galleries: news-slash-sysli-imigranti-ve-dvou-vinarskych-obcich

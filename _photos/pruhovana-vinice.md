@@ -3,6 +3,7 @@ title: Pruhovaná vinice
 image: "/uploads/IMG_1114.JPG"
 home_thumbnail: "/uploads/IMG_1114.JPG"
 gallery_thumbnail: "/uploads/IMG_1114.JPG"
+content_thumbnail: "/uploads/IMG_1114.JPG"
 author: katerina-polednikova
 categories: []
 galleries: slash-news-slash-jaro-ve-velkych-pavlovicich

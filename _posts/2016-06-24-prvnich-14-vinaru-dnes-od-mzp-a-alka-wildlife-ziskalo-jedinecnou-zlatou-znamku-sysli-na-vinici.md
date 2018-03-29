@@ -3,18 +3,16 @@ title: Prvních 14 vinařů získalo známku
 image: "/uploads/IMG_3010_610.jpg"
 date: '2016-06-24'
 ---
-
-
-<b>Velké Pavlovice, 24. 6. 2016 – </b><b>Čeští i moravští vinaři mají
+**Velké Pavlovice, 24. 6. 2016 – Čeští i moravští vinaři mají
 ode dneška nové, naprosto jedinečné ocenění. Je jím speciální zlatá
-známka s vyobrazeným syslem. </b>**Nálepku ve stylu Zdeňka Polreicha,
+známka s vyobrazeným syslem. **Nálepku ve stylu Zdeňka Polreicha,
 který uděluje známky kvalitním restauracím, dostali a dostanou nově
 všichni vinaři, kteří na svých vinicích hospodaří způsobem, který zde
 umožňuje život dnes už vzácným syslům. Syslí populace za posledních 60
 let poklesla v ČR téměř o 90 %. Sysel je nejen roztomilým hlodavcem, ale
 je také velvyslancem celé řady živočichů žijících ve stepích a na
-trávnících.**<b> </b><b>Jeho úbytek ukazuje na mizení celého jednoho
-ekosystému z naší krajiny.   </b>
+trávnících. Jeho úbytek ukazuje na mizení celého jednoho
+ekosystému z naší krajiny.
 
 Příčinou prudkého poklesu populace sysla v ČR, ale i v celé Evropě, jsou
 především změny v zemědělském hospodaření, které zničily jeho přirozené
@@ -25,11 +23,11 @@ náhradní a přesto přirozené prostředí pro sysla. Jde o rozlehlé a
 spojené plochy, které jsou z pohledu sysla ideálním prostředím, kde může
 nerušeně pobývat a postupně se rozmnožovat.
 
- Zatravnění meziřadí však není ve vinicích zatím běžnou praxí. Proto
+Zatravnění meziřadí však není ve vinicích zatím běžnou praxí. Proto
 byla vytvořena ochranná známka „Sysli na vinici“. Ta bude udělována
 vinařům, kteří vinice zatravňují a poskytují tak ideální domov pro
-sysla.<i> „Víno z vinic, kde žije sysel, poznáte podle malé zlaté známky
-na lahvi, vinaře pak podle větší samolepky na dveřích,</i>“ představuje
+sysla. „*Víno z vinic, kde žije sysel, poznáte podle malé zlaté známky
+na lahvi, vinaře pak podle větší samolepky na dveřích*,“ představuje
 ochrannou známku Kateřina Poledníková z organizace ALKA Wildlife,
 o.p.s., která je hlavním autorem projektu ochrany sysla obecného na
 jižní Moravě.
@@ -60,7 +58,7 @@ zatravňovat řádky mezi révou a vytvořili tak vhodné prostředí pro celou
 na jižní Moravě, mají tato území opravdu velký potenciál,*“ dodává
 Matějů.
 
- Pro získání zlaté známky je potřebné splnit tři podmínky: víno pochází
+Pro získání zlaté známky je potřebné splnit tři podmínky: víno pochází
 z viniční trati, kde je potvrzen aktuální výskyt sysla obecného, vinař
 zatravňuje vinice a nepoužívá chemické prostředky na hubení hlodavců.
 Pro získání známky je zapotřebí umět vyrobit dobré víno, ale také si
@@ -71,16 +69,15 @@ dodat, že sysel na vinicích nezpůsobuje žádné škody, není třeba se ho
 tudíž bát,*“ pokračuje Jan Šíma z Ministerstva životního prostředí.
 
 A jak pozná vinař, že může známku získat? Důležité informace vysvětluje
-zoolog Jan Matějů: „<i>Mapování výskytu sysla obecného probíhá každý
+zoolog Jan Matějů: „*Mapování výskytu sysla obecného probíhá každý
 rok, a víme tedy, ve kterých vinicích se sysli vyskytují. Seznam
 viničních tratí se syslem je uveden na stránkách
-</i>[*www.syslinavinici.cz*][1]{: rel="nofollow"}*. Samozřejmě nám ale
+[www.syslinavinici.cz][1]. Samozřejmě nám ale
 výskyt syslů někde mohl uniknout. Proto pokud na seznamu jejich trať
 chybí a o syslech u nich ví, určitě se může ozvat. Na uvedených
-stránkách najdou také kontakty i detailní podmínky udělování známky.“*
+stránkách najdou také kontakty i detailní podmínky udělování známky.*“
 
-*![](/uploads/IMG_2944_610.jpg)  
-*
+![](/uploads/IMG_2944_610.jpg)
 
 Předání prvních známek 14 vinařstvím z Velkých Pavlovic se dnes konalo i
 za účasti ředitele Národního vinařského centra Pavla Kršky, který ke
@@ -95,36 +92,33 @@ oranžovém,*“ uzavírá Kateřina Poledníková.
 **Seznam vinařů, kteří získali známku 24. 6. 2016 (všichni jsou z
 Velkých Pavlovic):**
 
-[Šlechtitelská stanice vinařská Velké Pavlovice, a.s.][2]{: rel="nofollow"}
+[Šlechtitelská stanice vinařská Velké Pavlovice, a.s.][2]
 
-[Vinařství Procházka][3]{: rel="nofollow"}
+[Vinařství Procházka][3]
 
-[Buchtovi][4]{: rel="nofollow"}
+[Buchtovi][4]
 
-[Rodinné vinařství Suský][5]{: rel="nofollow"}
+[Rodinné vinařství Suský][5]
 
-[Karel Reichman][6]{: rel="nofollow"}
+[Karel Reichman][6]
 
-[Lubomír Zborovský][7]{: rel="nofollow"}
+[Lubomír Zborovský][7]
 
-[Rodinné vinařství Krejčiřík][8]{: rel="nofollow"}
+[Rodinné vinařství Krejčiřík][8]
 
-[vinařství Mikulica][9]{: rel="nofollow"}
+[vinařství Mikulica][9]
 
-[Michna][10]{: rel="nofollow"}
+[Michna][10]
 
 Vlastimil Řádek
 
-[vinařství Lacina][11]{: rel="nofollow"}
+[vinařství Lacina][11]
 
 Petr Procházka
 
-[Vinařství V &amp; M Zborovský, v.o.s.][12]{: rel="nofollow"}
+[Vinařství V & M Zborovský, v.o.s.][12]
 
-[Miroslava Balounová][13]{: rel="nofollow"}
-
-
-
+[Miroslava Balounová][13]
 
 
 [1]: http://www.syslinavinici.cz

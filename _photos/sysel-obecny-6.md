@@ -1,6 +1,8 @@
 ---
 title: Sysel obecný
 image: "/uploads/DSCN2832.JPG"
+home_thumbnail: "/uploads/DSCN2832.JPG"
+gallery_thumbnail: "/uploads/DSCN2832.JPG"
 author: fernando-mateos-gonzales
 categories: []
 galleries: slash-news-slash-syslum-zacal-novy-rok-probudili-se

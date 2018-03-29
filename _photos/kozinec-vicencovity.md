@@ -1,6 +1,8 @@
 ---
 title: Kozinec vičencovitý
 image: "/uploads/IMG_2796.JPG"
+home_thumbnail: "/uploads/IMG_2796.JPG"
+gallery_thumbnail: "/uploads/IMG_2796.JPG"
 author: katerina-polednikova
 categories: []
 galleries: slash-news-slash-rozkvetla-vinice

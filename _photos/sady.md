@@ -1,6 +1,8 @@
 ---
 title: Sady
 image: "/uploads/a_SAM_2538.JPG"
+home_thumbnail: "/uploads/a_SAM_2538.JPG"
+gallery_thumbnail: "/uploads/a_SAM_2538.JPG"
 author: katerina-polednikova
 categories: []
 galleries: slash-news-slash-kontrolou-lokalit-byl-zahajen-dvoulety-projekt

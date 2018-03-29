@@ -1,6 +1,8 @@
 ---
 title: Letiště Miroslav
 image: "/uploads/11067918_10204104288835280_735375252_o.jpg"
+home_thumbnail: "/uploads/11067918_10204104288835280_735375252_o.jpg"
+gallery_thumbnail: "/uploads/11067918_10204104288835280_735375252_o.jpg"
 author: tereza-minarikova
 categories: []
 galleries: slash-news-slash-kontrolou-lokalit-byl-zahajen-dvoulety-projekt

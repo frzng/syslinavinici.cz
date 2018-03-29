@@ -1,6 +1,8 @@
 ---
 title: Kozí brada pochybná
 image: "/uploads/IMG_2809.JPG"
+home_thumbnail: "/uploads/IMG_2809.JPG"
+gallery_thumbnail: "/uploads/IMG_2809.JPG"
 author: katerina-polednikova
 categories: []
 galleries: slash-news-slash-rozkvetla-vinice

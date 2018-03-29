@@ -1,24 +1,20 @@
 ---
 title: Online poradna
-published: true
 listed: false
-position: 99
-layout: useranswers
+layout: default
 ---
-{% block content/main %}
-  <div class="item_header">
-    <h4 class="item_title">
-      {{ user_answer.title }}
-    </h4>
-  </div>
+<div class="item_header">
+  <h4 class="item_title">
+    {{ page.title }}
+  </h4>
+</div>
 
-  {% include 'user_answer_info', with answer: user_answer %}
+{% include user_answer_info.html answer=page %}
 
-  <div class="item_img img-full img-full__none item-image">
-    {{ user_answer.image | image_tag }}
-  </div>
+<div class="item_img img-full img-full__none item-image">
+  <img src="{{ page.image | relative_url }}">
+</div>
 
-  <div class="item_fulltext">
-    {{ user_answer.content }}
-  </div>
-{% endblock %}
+<div class="item_fulltext">
+  {{ content }}
+</div>

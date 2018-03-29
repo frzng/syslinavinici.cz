@@ -2,7 +2,7 @@
   {% assign url_parts = item.url | split: "/" %}
 
   {% if url_parts.size <= 2 %}
-    <li{% if page.url == item.url %} class="current active"{% endif %}>
+    <li{% if page.id == item.id %} class="current active"{% endif %}>
       <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
 
       {% assign parent_url = item.url | append: "/" %}
@@ -11,9 +11,9 @@
 
       {% if children.size > 0 %}
         <ul>
-          {% for subitem in children %}
+          {% for child in children %}
 	    <li>
-	      <a href="{{ subitem.url | relative_url }}">{{ subitem.title }}</a>
+	      <a href="{{ child.url | relative_url }}">{{ child.title }}</a>
 	    </li>
           {% endfor %}
         </ul>

@@ -27,7 +27,7 @@ layout: default
                 {{ content | default: content_default }}
               </div>
 
-              {% include related_pages.html pages=page.children %}
+              {% include related_pages.html %}
             </article>
 
             {% include content_gallery.html %}
@@ -41,7 +41,7 @@ layout: default
                 {{ page.editable_elements['Right column/Links'] | markdownify }}
               </div>
 
-              {% include siblings_pages.html pages=page.parent.children %}
+              {% include siblings_pages.html %}
             </div>
           </aside>
         </div>

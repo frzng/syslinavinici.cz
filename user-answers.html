@@ -4,80 +4,159 @@ published: false
 listed: true
 position: 4
 editable_elements:
-  User answers/More: 'More '
-  User answers/Page: 'Page '
-  User answers/Of: 'of '
-  User answers/Prev page: 'Prev '
-  User answers/Next page: 'Next '
-  User answers/Page title: 'User answers '
-  User answers/Categories title: 'Categories '
-  User answers/Archives title: 'Archives '
-  Question form/Title: 'Send us a question '
-  Question form/Name: 'Fullname '
-  Question form/Email: 'Email '
-  Question form/Message: 'Message '
-  Question form/Submit: 'Odeslat '
-  header/Search: 'Hledat... '
-layout: |-
-  useranswers' %}
-
-  {% block content/main %}
-    {% assign from = params.from | default: "1900/01" | parse_date_time %}
-    {% assign to   = params.to   | default: "2100/01" | parse_date_time %}
-
-    {% with_scope _slug: params.category %}
-      {% assign categorized_user_answers = contents.categories.first.user_answers %}
-    {% endwith_scope %}
-
-    {% assign user_answers = categorized_user_answers | default: contents.user_answers %}
-
-    {% with_scope published_at.gte: from, published_at.lte: to %}
-      {% paginate user_answers by 5 %}
-        <div class="items-row cols-1 row-0 row-fluid">
-          <div class="span12">
-            {% for answer in paginate.collection %}
-              <div class="item column-1 m-bottom-4">
-                <div class="item_header">
-                  <h4 class="item_title">
-                    <a href={% path_to answer %}>{{ answer.title }}</a>
-                  </h4>
-                </div>
-                {% include 'user_answer_info' with answer %}
-                <div class="item_introtext">
-                  <p>{{ answer.content | truncatewords: 60 }}</p>
-                </div>
-                <a class="btn btn-info" href={% path_to answer %}>
-                  <span>{% editable_text "More", block: "User answers", rows: 1, format: 'raw' %}More{% endeditable_text %}</span>
-                </a>
-              </div>
-            {% endfor %}
-          </div>
-        </div>
-
-        {% if paginate.total_pages > 1 %}
-          <div class="pagination">
-            <p class="counter">
-              {% editable_text "Page", block: "User answers", rows: 1, format: 'raw' %}Page{% endeditable_text %}
-              {{ paginate.current_page }}
-              {% editable_text "Of", block: "User answers", rows: 1, format: 'raw' %}of{% endeditable_text %}
-              {{ paginate.total_pages }}
-            </p>
-            <ul>
-              {% if paginate.previous_page %}
-                <li class="pagination-start">
-                  <a href="?page={{paginate.previous_page}}" class="pagenav">{% editable_text "Prev page", block: "User answers", rows: 1, format: 'raw' %}Prev{% endeditable_text %}</a>
-                </li>
-              {% endif %}
-              {% if paginate.next %}
-                <li class="pagination-prev">
-                  <a href="?page={{paginate.next_page}}"class="pagenav">{% editable_text "Next page", block: "User answers", rows: 1, format: 'raw
+  User answers/More: More
+  User answers/Page: Page
+  User answers/Of: of
+  User answers/Prev page: Prev
+  User answers/Next page: Next
+  User answers/Page title: User answers
+  User answers/Categories title: Categories
+  User answers/Archives title: Archives
+  Question form/Title: Send us a question
+  Question form/Name: Fullname
+  Question form/Email: Email
+  Question form/Message: Message
+  Question form/Submit: Odeslat
+layout: default
 ---
-Next{% endeditable_text %}</a>
-              </li>
-            {% endif %}
-          </ul>
-        </div>
-      {% endif %}
-    {% endpaginate %}
-  {% endwith_scope %}
-{% endblock %}
+<div id="content-row">
+  <div class="row-container">
+    <div class="container-fluid">
+      {% include breadcrumb.html %}
+      <div class="content-inner row-fluid">
+	<!-- Left sidebar -->
+	<div id="component" class="span8">
+	  <div class="page-blog page-blog__">
+	    <div class="page_header">
+	      <h3>
+		<span class="item_title_part0">{{ page.editable_elements['User answers/Page title'] | default: "User answers" }}</span>
+	      </h3>
+	    </div>
+	    {% assign from = params.from | default: "1900/01" | parse_date_time %}
+	    {% assign to = params.to | default: "2100/01" | parse_date_time %}
+	    {% assign category = params.category | default: "" %}
+	    {% if category != "" %}
+	      {% assign category = " " | append: category | append: " " %}
+	    {% else %}
+	      {% assign category = " " %}
+	    {% endif %}
+	    <div class="items-row cols-1 row-0 row-fluid">
+	      <div class="span12">
+		{% for answer in paginator.user_answers %}
+		  {% if answer.date < from or answer.date > to %}
+		    {% continue %}
+		  {% endif %}
+		  {% assign flattened = answer.categories | join: " " %}
+		  {% assign categories = " " | append: flattened | append: " " %}
+		  {% assign category = " " | append: flattened | append: " " %}
+		  {% unless categories contains category %}
+		    {% continue %}
+		  {% endif %}
+		  <div class="item column-1 m-bottom-4">
+		    <div class="item_header">
+		      <h4 class="item_title">
+			<a href={{ answer.url | relative_url }}>{{ answer.title }}</a>
+		      </h4>
+		    </div>
+		    {% include user_answer_info.html answer=answer %}
+		    <div class="item_introtext">
+		      <p>{{ answer.content | truncatewords: 60 }}</p>
+		    </div>
+		    <a class="btn btn-info" href={% path_to answer %}>
+		      <span>{{ page.editable_elements['User answers/More'] | default: "More" }}</span>
+		    </a>
+		  </div>
+		{% endfor %}
+	      </div>
+	    </div>
+
+	    {% if paginator.total_pages > 1 %}
+	      <div class="pagination">
+		<p class="counter">
+		  {{ page.editable_elements['User answers/Page'] | default: "Page" }}
+		  {{ paginator.page }}
+		  {{ page.editable_elements['User answers/Of'] | default: "of" }}
+		  {{ paginator.total_pages }}
+		</p>
+		<ul>
+		  {% if paginator.previous_page %}
+		    <li class="pagination-start">
+		      <a href="?page={{ paginator.previous_page_path | relative_url }}" class="pagenav">{{ page.editable_elements['User answers/Prev page'] | default: "Prev" }}</a>
+		    </li>
+		  {% endif %}
+		  {% if paginator.next_page %}
+		    <li class="pagination-prev">
+		      <a href="?page={{ paginator.next_page_path | relative_url }}"class="pagenav">{{ page.editable_elements['User answers/Next page'] | default: "Next" }}</a>
+		    </li>
+		  {% endif %}
+		</ul>
+	      </div>
+	    {% endif %}
+	  </div>
+	</div>
+	<!-- Right sidebar -->
+	<div id="aside-right" class="span4">
+	  <aside>
+	    <div class="moduletable ">
+	      <h3 class="moduleTitle ">{{ page.editable_elements['User answers/Categories title'] | default: "Categories" }}</h3>
+	      <ul class="categories-module">
+		{% if params.category %}
+		  <li>
+		    <p>
+		      <a href="{{ "/user_answers" | relative_url }}?">Zobrazit vše</a>
+		      <br/>
+		    </p>
+		  </li>
+		{% endif %}
+		{% assign category_slugs = "" %}
+		{% for user_answer in site.user_answers %}
+		  {% assign flattened = user_answer.categories | join: " " %}
+		  {% assign category_slugs = category_slugs |
+		       append: " " |
+		       append: flattened %}
+		{% endfor %}
+		{% assign category_slugs = category_slugs | split: " " | uniq %}
+		{% for slug in category_slugs %}
+		  {% assign id = "/category_details/" | append: slug %}
+		  {% assign category = site.category_details | where: "id", id | first %}
+		  <li>
+		    <a href="{{ "/user_answers" | relative_url }}?category={{ slug }}">
+		      {{ category.name }}
+		    </a>
+		  </li>
+		{% endfor %}
+	      </ul>
+	    </div>
+	    <div class="moduletable ">
+	      <h3 class="moduleTitle ">{{ page.editable_elements['User answers/Archives title'] | default: "Archives" }}</h3>
+	      <ul class="archive-module">
+		{% if params.from or params.to %}
+		  <li>
+		    <p>
+		      <a href="{{ "/user_answers" | relative_url }}?">Zobrazit vše</a>
+		      <br/>
+		    </p>
+		  </li>
+		{% endif %}
+		{% assign one_month = 2678400 %}
+		{% assign previous_date = site.user_answers.first.date | plus: one_month | date: '%Y/%m' %}
+		{% for user_answer in contents.user_answers %}
+		  {% assign from = user_answer.date | date: "%Y/%m" %}
+		  {% if from != previous_date %}
+		    <li>
+		      <a href="{{ "/user_answers" | relative_url }}?from={{ from }}&to={{ previous_date }}">{{ user_answer.date | date: "%-m/%Y"}}</a>
+		    </li>
+		    {% assign previous_date = user_answer.date | date: "%Y/%m" %}
+		  {% endif %}
+		{% endfor %}
+	      </ul>
+	    </div>
+	    <div class="moduletable aside">
+	      {% include question_form.html %}
+	    </div>
+	  </aside>
+	</div>
+      </div>
+    </div>
+  </div>
+</div>

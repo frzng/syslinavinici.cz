@@ -6,7 +6,7 @@
     {% assign item_url = item_url |
          append: glue |
          append: url_parts[position] %}
-    {% assign item = site.pages | where "url", item_url %}
+    {% assign item = site.pages | where: "url", item_url %}
     {% if item.url == "/" %}
       <a href="{{ "/" | relative_url }}" class="breadcrumb__item uppercase">
         {{ site.title | split: '.' | first }}

@@ -1,32 +1,47 @@
-{% if pages.size > 0 %}
-  {% for sibling in pages %}
-    {% if sibling.slug != page.slug %}
-      {% if sibling.published? %}
-        <div class="items-row cols-1 row-0 row-fluid">
-          <div class="span12">
-            <div class="item column-1">
+{% assign url_parts = page.url | split: "/" %}
+{% assign parent_url = "" %}
+{% for i in (0..url_parts.size-2) %}
+  {% capture glue %}{% if i > 0 %}/{% endif %}{% endcapture %}
+  {% assign parent_url = parent_url |
+       append: glue |
+       append: url_parts[position] %}
+{% endfor %}
+{% assign url_prefix = parent_url | append: "/" %}
+{% assign sibling_pages = site.pages |
+     where_exp: "p", "p.url contains url_prefix" |
+     sort: "position" %}
+{% if sibling_pages.size > 0 %}
+  {% for sibling in sibling_pages %}
+    {% if sibling.id != page.id %}
+      <div class="items-row cols-1 row-0 row-fluid">
+        <div class="span12">
+          <div class="item column-1">
 
-              {% assign title_image_enabled = sibling.editable_elements.page.title_image | strip %}
-              {% if title_image_enabled == 'true' and false %}
-                <div class="item_img img-intro img-intro__left">
-                  {% link_to sibling %}
-                    {{ sibling.editable_elements.page.image | resize: '240x135#' | image_tag }}
-                  {% endlink_to %}
-                </div>
-              {% endif %}
+            {% assign title_image_enabled = sibling.editable_elements['Page/Title image'] | default: true %}
+            {% if title_image_enabled and false %}
+              <div class="item_img img-intro img-intro__left">
+                <a href="{{ sibling.url | relative_url }}">
+                  {% comment %}
+                  TODO If this gets enabled, create new property with
+                  TODO thumbnail. Originally, resize filter with
+                  TODO argument '240x135#'.
+                  {% endcomment %}
+                  <img src="{{ child.editable_elements['Page/image'] | relative_url | default: "http://placehold.it/240x135" }}">
+                </a>
+              </div>
+            {% endif %}
 
-              <div class="item_header">
-                <h4 class="item_title">
-                  <a href={% path_to sibling %}>{{ sibling.editable_elements.page.title }}</a>
-                </h4>
-              </div>
-              <div class="item_introtext">
-                {{ sibling.editable_elements.page.content | strip_html | truncate: 120 }}
-              </div>
+            <div class="item_header">
+              <h4 class="item_title">
+                <a href="{{ sibling.url | relative_url }}">{{ sibling.editable_elements['Page/Title'] | default: sibling.title }}</a>
+              </h4>
+            </div>
+            <div class="item_introtext">
+              {{ sibling.content | strip_html | truncatewords: 50 }}
             </div>
           </div>
         </div>
-      {% endif %}
+      </div>
     {% endif %}
   {% endfor %}
 {% endif %}

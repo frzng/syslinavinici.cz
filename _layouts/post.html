@@ -1,34 +1,44 @@
 ---
 title: News
-published: true
 listed: false
-position: 99
-editable_elements:
-  header/Search: 'Hledat... '
-layout: withrightcolumntemplate
+layout: default
 ---
-{% block content/article %}
-  <article>
-    <div class="item_header">
-      <h3 class="item_title">
-        {{ news.title }}
-      </h3>
-    </div>
-    <div class="item_img img-full img-full__left item-image">
-      {{ news.image.url | image_tag }}
-    </div>
-    <div class="item_fulltext">
-      {{ news.content }}
-    </div>
-  </article>
-{% endblock %}
+<div id="content-row">
+  <div class="row-container">
+    <div class="container-fluid">
+      {% include breadcrumb.html %}
+      <div class="content-inner row-fluid">
+        <div id="component" class="span9">
+          <div class="page-item page-item__">
+            <article>
+              <div class="item_header">
+                <h3 class="item_title">
+                  {{ page.title }}
+                </h3>
+              </div>
+              <div class="item_img img-full img-full__left item-image">
+		<img src="{{ page.image | relative_url }}">
+              </div>
+              <div class="item_fulltext">
+                {{ content }}
+              </div>
+            </article>
 
-{% block content/column %}
-  {% with_scope published: true %}
-    {% for other_news in contents.news, limit: 5 %}
-      {% if news._id != other_news._id %}
-        {% include 'home_news_bigitem' with news: other_news %}
-      {% endif %}
-    {% endfor %}
-  {% endwith_scope %}
-{% endblock %}
+            {% include content_gallery.html %}
+          </div>
+        </div>
+        <div id="aside-right" class="span3">
+          <aside>
+            <div class="moduletable links">
+              {% for post in site.posts limit: 5 %}
+                {% if post.id != page.id %}
+                  {% include home_news_bigitem.html post=post %}
+                {% endif %}
+              {% endfor %}
+            </div>
+          </aside>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

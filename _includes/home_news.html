@@ -2,10 +2,9 @@
   <div class="row-container">
     <div class="container-fluid">
       <div class="row-fluid">
-        {% assign published_posts = site.posts | where: "published", true %}
-        {% for post in published_posts, limit: 3 %}
+        {% for post in site.posts, limit: 3 %}
           <div class="span3">
-            {% include 'home_news_bigitem' post=post %}
+            {% include home_news_bigitem.html post=post %}
           </div>
         {% endfor %}
 
@@ -14,8 +13,8 @@
             {{ page.editable_elements['News/Other news title'] | default: "Other news" }}
           </h4>
           <div class="mod-newsflash-adv mod-newsflash-adv__news">
-            {% for small_post in published_posts, limit: 3, offset: 3 %}
-              {% include 'home_news_smallitem' post=small_post %}
+            {% for post in site.posts, limit: 3, offset: 3 %}
+              {% include home_news_smallitem.html post=post %}
             {% endfor %}
           </div>
 

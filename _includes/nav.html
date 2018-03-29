@@ -6,7 +6,6 @@
           <ul class="sf-menu">
             {% assign listable_pages = site.pages |
                  where: "listed", true |
-                 where: "published", true |
                  sort: "position" %}
             {% include nav_items.html pages=listable_pages %}
           </ul>

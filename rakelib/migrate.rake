@@ -373,13 +373,11 @@ def dump_layout layout
 end
 
 def entry_to_page entry
-  page = {
-    'title' => entry.title,
-    'published' => entry.published,
-    'listed' => entry.listed,
-    'position' => entry.position,
-    'body' => entry.template
-  }
+  page = {'title' => entry.title}
+  page['published'] = false if not entry.published
+  page['listed'] = entry.listed
+  page['position'] = entry.position
+  page['body'] = entry.template
 
   page.merge! simple_data_from entry.editable_elements
 

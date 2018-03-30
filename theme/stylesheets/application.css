@@ -8030,6 +8030,11 @@ input[type="color"]:focus,
 .item_fulltext {
   padding: 0 20px 0 0; }
 
+  .item_fulltext img {
+    float: left;
+    margin-bottom: 8px;
+    margin-right: 8px; }
+
 #jform_images_image_intro,
 #jform_images_image_fulltext {
   height: 29px; }

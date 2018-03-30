@@ -96,7 +96,7 @@ Modrý Portugal
 
 [www.vinarstvilacina.cz][10]
 
---- 
+---
 
 #### ![](/uploads/IMG_3020.jpg)Petr Procházka
 

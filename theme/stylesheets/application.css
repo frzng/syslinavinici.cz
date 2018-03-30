@@ -8035,6 +8035,15 @@ input[type="color"]:focus,
     margin-bottom: 8px;
     margin-right: 8px; }
 
+  .item_fulltext hr {
+    clear: both;
+    height: 1px;
+    border: 0;
+    margin: 0;
+    padding: 0;
+    color: transparent;
+    background-color: transparent; }
+
 #jform_images_image_intro,
 #jform_images_image_fulltext {
   height: 29px; }

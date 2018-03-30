@@ -14,7 +14,11 @@ layout: default
               <div class="item_header">
                 <h3 class="item_title">{{ page.editable_elements['Page/Title'] | default: page.title | default: "Headline" }}</h3>
               </div>
-              {% assign title_image_enabled = page.editable_elements['Page/Title image'] | default: true %}
+              {% if page.editable_elements['Page/Title image'] != false %}
+                {% assign title_image_enabled = true %}
+              {% else %}
+                {% assign title_image_enabled = false %}
+              {% endif %}
               {% if title_image_enabled %}
                 <div class="item_img img-full img-full__none item-image">
                   <img src="{{ page.editable_elements['Page/image'] | relative_url | default: "http://placehold.it/610x385" }}">

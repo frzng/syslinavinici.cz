@@ -11,12 +11,12 @@ layout: contentpage
     {% assign title_image_enabled = page.editable_elements['Page/Title image'] | default: true %}
     {% if title_image_enabled %}
       <div class="item_img img-full img-full__none item-image">
-	<img src="{{ page.editable_elements['Page/image'] | relative_url | default: "http://placehold.it/610x385" }}">
+        <img src="{{ page.editable_elements['Page/image'] | relative_url | default: "http://placehold.it/610x385" }}">
       </div>
     {% endif %}
     <div class="item_fulltext">
       {% capture content_default %}
-	<p>Content of the page</p>
+        <p>Content of the page</p>
       {% endcapture %}
       {{ content | default: content_default }}
     </div>

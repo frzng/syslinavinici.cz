@@ -20,7 +20,7 @@ jsou populace řidší.
 Protože je aktivní ve dne, orientuje se především zrakem a tak je možné
 často pozorovat jak sysli „panáčkují“ a rozhlížejí se po okolí.
 
-![](/uploads/_KMB6072_610.jpg)
+![](/uploads/KMB6072_610.jpg)
 
 Poznat syslí noru není jednoduché. Vchod může být jak šikmý tak i kolmý k povrchu země s průměrem 5 až 6 cm. Nory mohou být jak na volných prostranstvích, tak i u pat stromů či budov.
 

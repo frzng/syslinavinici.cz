@@ -18,7 +18,7 @@
             {% endfor %}
           </div>
 
-          <a class="btn btn-info readmore" href="{{ post.url | relative_url }}">
+          <a class="btn btn-info readmore" href="{{ "/news" | relative_url }}">
             <span>{{ page.editable_elements['News/Show all'] | default: "show all news" }}</span>
           </a>
         </div>

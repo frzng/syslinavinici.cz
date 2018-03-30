@@ -1,7 +1,7 @@
 <li class="gallery-item firstItem isotope-item {{ include.photo.categories | join: " " }}">
   <div class="item_img img-intro img-intro__left">
     <a class="zoom"
-       href={{ include.photo.image }}
+       href={{ include.photo.image | relative_url }}
        data-rel="lightcase:gallery"
        {% comment %}
        TODO Verify this actually works and author details don’t have
@@ -9,9 +9,9 @@
        {% assign author = site.data.authors[include.photo.author] %}
        {% endcomment %}
        title="{{ include.photo.author.name }} &ndash; {{ include.photo.title | strip_html }}"
-       data-lc-title="{{ include.photo.author.name }} &ndash; {{ include.photo.title | strip_html }}"
+       data-lc-title="{{ include.photo.author.name }} &ndash; {{ include.photo.title }}"
        data-categories="{{ include.photo.categories | join: " " }}">
-      <img src="{{ include.photo.gallery_thumbnail }}"
+      <img src="{{ include.photo.gallery_thumbnail | default: include.photo.image | relative_url }}"
            class="gallery__image object-fit-cover" data-object-fit="cover"
            alt="{{ include.photo.description | strip_html }}"/>
     </a>

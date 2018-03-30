@@ -16,16 +16,15 @@ jejich víno nakoupit.
 
 ### Velké Pavlovice:
 
-[![](/uploads/IMG_2970_slechtitelka.jpg)Šlechtitelská stanice vinařská Velké Pavlovice
-a.s.][1]
+#### [![](/uploads/IMG_2970_slechtitelka.jpg)Šlechtitelská stanice vinařská Velké Pavlovice a.s.][1]
 
 [www.slechtitelka.cz][1]
 
 Chardonnay
 
-[![](/uploads/IMG_2973_300.jpg)][2]
+---
 
-####  [Vinařství Procházka][2]
+#### [![](/uploads/IMG_2973_300.jpg)Vinařství Procházka][2]
 
 [www.vinarstvi-prochazka.cz][2]
 
@@ -34,20 +33,25 @@ Tramín červený p.s.
 Cuvée Ryzlink rýnský/Savignon p.s.  
 Neuburské p.s.
 
-[![](/uploads/IMG_2981_buchtovi.jpg)][3]
+---
 
-#### Rodinné vinařství Buchtovi
+#### [![](/uploads/IMG_2981_buchtovi.jpg)Rodinné vinařství Buchtovi][3]
 
 [www.vinobuchtovi.cz][3]
 
-[![](/uploads/IMG_2986.jpg)Rodinné vinařství
-Suský][4]
+---
+
+#### [![](/uploads/IMG_2986.jpg)Rodinné vinařství Suský][4]
 
 [www.vinosusky.cz][4]
+
+---
 
 #### [Vinařství Reichman & Reichman][5]
 
 [www.naturalfactors.cz][5]
+
+---
 
 #### [![](/uploads/IMG_2995_lzborovsky_300.jpg)Víno Zborovský][6]
 
@@ -56,13 +60,15 @@ Suský][4]
 Cabernet Moravia 2015  
 Cabernet Moravia Rosé 2015
 
+---
+
 #### [![](/uploads/IMG_3007_krejcirik_a_300.jpg)Rodinné vinařství Krejčiřík][7]
 
 [www.vinarstvi-krejcirik.cz][7]
 
-[![](/uploads/VP_Mikulica_IMGP9275_300.jpg)][8]
+---
 
-#### [Vinařství Mikulica][8]
+#### [![](/uploads/VP_Mikulica_IMGP9275_300.jpg)Vinařství Mikulica][8]
 
 [www.vinarstvimikulica.cz][8]
 
@@ -72,37 +78,49 @@ Aurelius p.s.
 Rulandské modré p.s.  
 Modrý Portugal
 
+---
+
 #### [Vinařství Michna][9]
 
 [www.michna.cz][9]
 
+---
+
 #### Vlastimil Řádek
 
-vinarstvi.radek@seznam.cz 
+[vinarstvi.radek@seznam.cz][mailto:vinarstvi.radek@seznam.cz]
+
+---
 
 #### [Vinařství Lacina][10]
 
 [www.vinarstvilacina.cz][10]
 
-![](/uploads/IMG_3020.jpg)
+--- 
 
-#### Petr Procházka
+#### ![](/uploads/IMG_3020.jpg)Petr Procházka
+
+---
 
 #### [Vinařství V & M Zborovský, v.o.s.][11]
 
 [www.zborovsky.cz][11]
 
-[![](/uploads/IMG_3016_baloun_300.jpg)][12]
+---
 
-#### [Vinařství Baloun][12]
+#### [![](/uploads/IMG_3016_baloun_300.jpg)Vinařství Baloun][12]
 
 [www.baloun.cz][12]
 
 Muškát moravský
 
-####  [Rodinné vinařství Helena][13]
+---
+
+#### [Rodinné vinařství Helena][13]
 
 [www.vinarstvihelena.cz][13]
+
+---
 
 #### [Vinařství Halm][14]
 
@@ -118,9 +136,7 @@ Muškát moravský
 
 ### Hnanice:
 
-[![](/uploads/IMG_6105_300.JPG)][15]
-
-#### Vinařství Špetíci
+#### [![](/uploads/IMG_6105_300.JPG)Vinařství Špetíci][15]
 
 [www.vinarstvispetici.cz][15]
 
@@ -130,15 +146,17 @@ Veltlínské zelené
 Frankovka  
 Rulandské modré
 
-####  ![](/uploads/IMG_6094_b_300.JPG)Vinařství Schwarz
+---
+
+#### ![](/uploads/IMG_6094_b_300.JPG)Vinařství Schwarz
 
 Savignon  
 Děvín  
 Ryzlink rýnský
 
-[![](/uploads/H_Ko__nek_Vinice_To_na_300.JPG)][16]
+---
 
-#### [Josef Kořínek][16]
+#### [![](/uploads/H_Ko__nek_Vinice_To_na_300.JPG)Josef Kořínek][16]
 
 [www.josef-korinek.cz][16]
 
@@ -146,9 +164,9 @@ Muškát moravský
 Ryzlink rýnský  
 Veltlínské zelené
 
-[![](/uploads/U_HAFANA_VINOBRANI_300.jpg)][17]
+---
 
-#### Vinný sklep U hafana
+#### [![](/uploads/U_HAFANA_VINOBRANI_300.jpg)Vinný sklep U hafana][17]
 
 [www.uhafana.cz][17]
 

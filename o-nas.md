@@ -4,7 +4,6 @@ listed: true
 position: 7
 editable_elements:
   Page/Title image: false
-permalink: "/o-nas"
 layout: withoutrightcolumn
 ---
 Stránky syslinavinici.cz provozují:

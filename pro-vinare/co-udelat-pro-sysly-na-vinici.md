@@ -7,7 +7,6 @@ editable_elements:
   Page/Title image: true
   Page/image: "/uploads/IMG_2845_610.JPG"
   Right column/Title: Dále ke čtení
-permalink: "/pro-vinare/co-udelat-pro-sysly-na-vinici"
 layout: withrightcolumn
 ---
 *Aneb rady pro pěstitele vína, jak podpořit „své“ sysly na vinici či

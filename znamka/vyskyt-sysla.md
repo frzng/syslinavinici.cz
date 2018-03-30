@@ -8,7 +8,6 @@ editable_elements:
   Page/image: "/uploads/IMG_1216_610.JPG"
   Right column/Title: 'Another pages'
   Right column/Links: ''
-permalink: "/znamka/vyskyt-sysla"
 layout: withrightcolumn
 ---
 V současnosti se sysel obecný vyskytuje ve vinicích těchto vinařských

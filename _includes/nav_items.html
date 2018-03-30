@@ -1,21 +1,34 @@
 {% for item in include.pages %}
-  {% assign url_parts = item.url | split: "/" %}
-
+  {% capture item_url -%}
+    {% include helpers/pretty_url.html page=item %}
+  {%- endcapture %}
+  {% assign url_parts = item_url | split: "/" %}
   {% if url_parts.size <= 2 %}
-    <li{% if page.id == item.id %} class="current active"{% endif %}>
-      <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
+    <li{% if page.url == item.url %} class="current active"{% endif %}>
+      <a href="{{ item_url | relative_url }}">{{ item.title }}</a>
 
-      {% assign parent_url = item.url | append: "/" %}
+      {% assign parent_url = item_url | append: "/" %}
       {% assign children = include.pages |
            where_exp: "p", "p.url contains parent_url" %}
 
-      {% if children.size > 0 %}
-        <ul>
-          {% for child in children %}
-	    <li>
-	      <a href="{{ child.url | relative_url }}">{{ child.title }}</a>
-	    </li>
-          {% endfor %}
+      {% assign opened = false %}
+      {% for child in children %}
+        {% if forloop.first %}
+          {% assign opened = true %}
+          <ul>
+        {% endif %}
+        {% capture child_url -%}
+          {% include helpers/pretty_url.html page=child %}
+        {%- endcapture %}
+        {% assign url_parts_size_check = child_url | split: "/" | size | minus: 1 %}
+        {% if url_parts_size_check > url_parts.size %}
+          {% continue %}
+        {% endif %}
+        <li>
+          <a href="{{ child_url | relative_url }}">{{ child.title }}</a>
+        </li>
+      {% endfor %}
+      {% if opened %}
         </ul>
       {% endif %}
     </li>

@@ -1,0 +1,11 @@
+{%- assign pretty_url = "" -%}
+{%- assign url_parts = include.page.url | split: "." -%}
+{%- for url_part in url_parts -%}
+  {%- if forloop.last == true and forloop.first != true -%}
+    {%- continue -%}
+  {%- elsif forloop.first != true -%}
+    {%- assign pretty_url = pretty_url | append: "." -%}
+  {%- endif -%}
+  {%- assign pretty_url = pretty_url | append: url_part -%}
+{% endfor %}
+{{- pretty_url -}}

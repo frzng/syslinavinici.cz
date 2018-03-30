@@ -1,9 +1,6 @@
 ---
 title: Vinice
 image: "/uploads/IMG_1157.JPG"
-home_thumbnail: "/uploads/IMG_1157.JPG"
-gallery_thumbnail: "/uploads/IMG_1157.JPG"
-content_thumbnail: "/uploads/IMG_1157.JPG"
 author: katerina-polednikova
 categories: []
 galleries: slash-news-slash-jaro-ve-velkych-pavlovicich

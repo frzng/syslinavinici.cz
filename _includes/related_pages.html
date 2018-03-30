@@ -1,19 +1,42 @@
-{% assign url_prefix = page.url | append: "/" %}
+{% capture page_url -%}
+  {% include helpers/pretty_url.html page=page %}
+{%- endcapture %}
+{% assign url_parts_count = page_url | split: "/" | size %}
+
+{% assign url_prefix = page_url | append: "/" %}
 {% assign related_pages = site.pages |
      where_exp: "p", "p.url contains url_prefix" |
      sort: "position" %}
 {% if related_pages.size > 0 %}
-  <hr class="separator m-top-3 m-bottom-3">
+
+  {% assign opened = false %}
 
   {% for child in related_pages %}
+
+    {% capture child_url -%}
+      {% include helpers/pretty_url.html page=child %}
+    {%- endcapture %}
+    {% assign url_parts_size_check = child_url | split: "/" | size | minus: 1 %}
+    {% if url_parts_size_check > url_parts_count %}
+      {% continue %}
+    {% endif %}
+
+    {% unless opened %}
+      <hr class="separator m-top-3 m-bottom-3">
+      {% assign opened = true %}
+    {% endunless %}
+
     <div class="items-row cols-1 row-0 row-fluid">
       <div class="span12">
         <div class="item column-1 m-bottom-2">
-
-          {% assign title_image_enabled = child.editable_elements['Page/Title image'] | default: true %}
+          {% if page.editable_elements['Page/Title image'] != false %}
+            {% assign title_image_enabled = true %}
+          {% else %}
+            {% assign title_image_enabled = false %}
+          {% endif %}
           {% if title_image_enabled and false %}
             <div class="item_img img-intro img-intro__left">
-              <a href="{{ child.url | relative_url }}">
+              <a href="{{ child_url | relative_url }}">
                 {% comment %}
                 TODO If this gets enabled, create new property with
                 TODO thumbnail. Originally, resize filter with
@@ -26,11 +49,11 @@
 
           <div class="item_header">
             <h4 class="item_title">
-              <a href="{{ child.url | relative_url }}">{{ child.editable_elements['Page/Title'] | default: child.title }}</a>
+              <a href="{{ child_url | relative_url }}">{{ child.editable_elements['Page/Title'] | default: child.title }}</a>
             </h4>
           </div>
           <div class="item_introtext remove-all-the-styles">
-            {{ child.content | strip_html | truncatewords: 50 }}
+            {{ child.content | markdownify | strip_html | truncatewords: 50 }}
           </div>
         </div>
       </div>

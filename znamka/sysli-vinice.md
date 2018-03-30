@@ -1,5 +1,6 @@
 ---
 title: Viniční tratě se syslem
+published: false
 listed: false
 position: 1
 editable_elements:

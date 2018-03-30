@@ -1,3 +1,4 @@
+{% assign header_settings = site.data.site | first %}
 <div id="header-row">
   <div class="row-container">
     <div class="container-fluid">
@@ -5,12 +6,12 @@
         <div class="row-fluid">
           <div id="logo" class="span2">
             <a href="/">
-              <img alt="vydryonline" class="logo" src="{{ page.editable_elements['Header/logo'] | default: "http://placehold.it/120x120" }}">
+              <img alt="vydryonline" class="logo" src="{{ header_settings.logo | default: "http://placehold.it/120x120" }}">
             </a>
           </div>
 
           <div id="claim" class="span7">
-            <h3>{{ page.editable_elements['header/Claim'] | default: "Vydry online nejsou offline!" }}</h3>
+            <h3>{{ header_settings.claim | default: "Vydry online nejsou offline!" }}</h3>
           </div>
 
           <div class="moduletable search-block  span3">

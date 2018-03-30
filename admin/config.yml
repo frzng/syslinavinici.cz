@@ -123,9 +123,20 @@ collections:
 - label: Site Settings
   name: settings
   files:
-    - label: Authors
+    - name: header
+      label: Header
+      file: _data/header.yml
+      fields:
+        - name: logo
+          label: Logo
+          widget: image
+        - name: claim
+          label: Claim
+          widget: string
+
+    - name: authors
+      label: Authors
       label_singular: Author
-      name: authors
       file: _data/authors.yml
       fields: []
 

@@ -13,13 +13,18 @@ první doprovodné aktivity bylo realizováno v rámci projektu:**
 
 ### **Realizace opatření ZP sysla obecného na jižní Moravě**
 
-**Řešitelé projektu:** [ALKA Wildlife, o.p.s.][1]
-a [Muzeum Karlovy Vary][2]
+#### Partneři"
 
-**Trvání projektu:** 2015­2017
+[ALKA Wildlife, o.p.s.][1]  
+[Muzeum Karlovy Vary][2]
 
-**Finanční zdroje**: EHP fondy 2009­2014, Ministerstvo životního
-prostředí
+#### Trvání projektu:
+
+2015­2017
+
+#### Finanční zdroje
+
+EHP fondy 2009­2014, Ministerstvo životního prostředí
 
 ![](/uploads/loga_mgs_stojato_mm.jpg) Podpořeno
 grantem z Islandu, Lichtenštejnska a Norska.
@@ -29,12 +34,16 @@ Ministerstva životního prostředí. Za jeho obsah je výhradně odpovědná
 ALKA Wildlife,o.p.s. a nelze jej v žádném případě považovat za názor
 donora nebo Ministerstva životního prostředí.“
 
+---
+
 **Program**: Malé grantové schéma Záchranné programy pro zvláště
 chráněné druhy II Programu CZ02
 
-**Vedoucí projektu**: Lukáš Poledník
+#### Kontaktní osoba:
 
-#### Cíl projektu
+Lukáš Poledník
+
+#### **Cíl projektu**
 
 Sysel obecný patřil na našem území v minulosti k běžným druhům savců
 nižších poloh. V druhé polovině 20. století však došlo k strmému úbytku
@@ -63,7 +72,7 @@ mohla být pro zachování sysla v ČR naprosto klíčová.
 
 #### **Aktivity projektu**
 
-##### **1. Monitoring sysla obecného v oblasti jižní Moravy**
+##### 1. Monitoring sysla obecného v oblasti jižní Moravy
 
 Monitoring výskytu sysla obecného je soustředěn do vinařských lokalit
 Kyjovské pahorkatiny. Mapování probíhá formou kontroly předem vybraných

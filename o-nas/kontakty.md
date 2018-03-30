@@ -7,12 +7,16 @@ editable_elements:
   Right column/Title: Více ke čtení
 layout: withrightcolumn
 ---
-### Realizátor projektu:
+#### Realizátor projektu:
 
 [![](/uploads/ALKA_logo.jpg)ALKA Wildlife, o.p.s.][1]  
 Lidéřovice 62, 38001 Peč
 
-### Kontaktní osoby:
+---
+
+ 
+
+#### Kontaktní osoby:
 
 #### Jan Matějů ([Muzeum Karlovy Vary][2])
 

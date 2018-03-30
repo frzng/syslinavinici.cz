@@ -3,17 +3,13 @@
     <a class="zoom"
        href={{ include.photo.image | relative_url }}
        data-rel="lightcase:gallery"
-       {% comment %}
-       TODO Verify this actually works and author details don’t have
-       TODO to be fetched manually from data like this:
        {% assign author = site.data.authors[include.photo.author] %}
-       {% endcomment %}
-       title="{{ include.photo.author.name }} &ndash; {{ include.photo.title | strip_html }}"
-       data-lc-title="{{ include.photo.author.name }} &ndash; {{ include.photo.title }}"
+       title="{{ author.name }} &ndash; {{ include.photo.title | strip_html }}"
+       data-lc-title="{{ author.name }} &ndash; {{ include.photo.title }}"
        data-categories="{{ include.photo.categories | join: " " }}">
       <img src="{{ include.photo.gallery_thumbnail | default: include.photo.image | relative_url }}"
            class="gallery__image object-fit-cover" data-object-fit="cover"
-           alt="{{ include.photo.description | strip_html }}"/>
+           alt="{{ include.photo.content | strip_html }}"/>
     </a>
   </div>
   <div class="item_header">
@@ -22,8 +18,8 @@
     </h5>
   </div>
   <div class="item_introtext">
-    {{ include.photo.description | truncatewords: 10 }}
-    (<i>{{ include.photo.author.name }}</i>)
+    {{ include.photo.content | truncatewords: 10 }}
+    (<i>{{ author.name }}</i>)
   </div>
   <div class="clearfix"></div>
 </li>

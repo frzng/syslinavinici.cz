@@ -9904,6 +9904,12 @@ article {
   .article-gallery-link img {
     border: 5px solid #dab77f; }
 
+@media (min-width: 321px) {
+  .article-gallery-link img {
+    width: 200px;
+    height: 200px; }
+}
+
 .navigation ul.sf-menu > li.lastItem a {
   background: none; }
 

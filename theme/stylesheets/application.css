@@ -99,6 +99,8 @@ textarea {
 
 .clearfix {
   *zoom: 1; }
+.clearfix:empty {
+  display: block; }
 
 .clearfix:before,
 .clearfix:after {

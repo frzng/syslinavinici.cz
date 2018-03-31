@@ -8121,11 +8121,11 @@ input[type="color"]:focus,
   margin: 0 0 23px; }
 
 #mainbottom-row .projects .item {
-  margin: 0 5px 8px 0; }
+  margin: 0 4px 7px 0; }
 
 #mainbottom-row .projects .item.item_num1,
 #mainbottom-row .projects .item.item_num3 {
-  margin: 0 0 8px; }
+  margin: 0 0 7px; }
 
 #mainbottom-row .whyus h3.moduleTitle {
   margin: 0 0 19px; }
@@ -8298,7 +8298,7 @@ input[type="color"]:focus,
 
   #mainbottom-row .projects .item {
     width: 43%;
-    margin: 0 20px 8px 0; }
+    margin: 0 20px 7px 0; }
 
   #mainbottom-row .vision,
   #mainbottom-row .whyus {
@@ -8464,7 +8464,7 @@ input[type="color"]:focus,
 
   #mainbottom-row .projects .item {
     width: 24%;
-    margin: 0 28% 8px 0;
+    margin: 0 28% 7px 0;
     float: left; }
 
   #copyright-row #copyright {
@@ -8497,7 +8497,7 @@ input[type="color"]:focus,
 
   #mainbottom-row .projects .item {
     width: 24%;
-    margin: 0 20% 8px 0; } }
+    margin: 0 20% 7px 0; } }
 /*== Up to 480px ==================================================
 ====================================================================*/
 /* Landscape phones and down */
@@ -8599,7 +8599,7 @@ input[type="color"]:focus,
 
   #mainbottom-row .projects .item {
     width: 44%;
-    margin: 0 10% 8px 0;
+    margin: 0 10% 7px 0;
     float: left; }
 
   .page-category .img-intro {
@@ -8615,7 +8615,7 @@ input[type="color"]:focus,
 
   #mainbottom-row .projects .item {
     width: 30%;
-    margin: 0 10% 8px 0; }
+    margin: 0 10% 7px 0; }
 
   .page-gallery .img-intro img,
   .page-item__gallery .img-intro img,

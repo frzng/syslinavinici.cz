@@ -92,6 +92,14 @@ def field_to_widget f, content_types
   end
 end
 
+def unspecialize_field_name n
+  if n.start_with? '_'
+    n[1..-1]
+  else
+    n
+  end
+end
+
 def to_netlify_field locomotive_field, content_types
   f = {'name' => locomotive_field['name'],
        'label' => locomotive_field['label']}
@@ -142,6 +150,15 @@ def to_netlify_collection content_type, content_types
                   compact
 
   field_by_widget = c['fields'].group_by {|f| f['widget'] }
+
+  unless c['fields'].any? {|f| f['name'] == content_type.order_by }
+    c['order_by'] << {
+      'name' => unspecialize_field_name(content_type.order_by),
+      'label' => unspecialize_field_name(content_type.order_by).humanize,
+      'widget' => 'number',
+      'valueType' => 'int'
+    }
+  end
 
   # Rename only markdown field to body
   if field_by_widget['markdown'] and field_by_widget['markdown'].size == 1
@@ -228,6 +245,14 @@ def field_key_value entry, field
   [k, v]
 end
 
+def ensure_order_field document, entry, collection
+  return unless collection.key? 'order_by'
+
+  order_value = entry.send(collection['order_by'])
+  order_field = unspecialize_field_name collection['order_by']
+  document[order_field] = order_value
+end
+
 def add_implicit_date document, entry
   return if document.key? 'date'
 
@@ -241,6 +266,7 @@ def entry_to_document entry, collection
       map {|f| field_key_value entry, f }.
       reject {|k, v| k.nil? }
   ]
+  ensure_order_field document, entry, collection
   add_implicit_date document, entry
 
   document

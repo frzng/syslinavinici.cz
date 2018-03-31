@@ -186,6 +186,10 @@ collections:
     - page
     valueField: slug
     required: false
+  - name: position
+    label: Position in gallery
+    widget: number
+    valueType: int
   meta:
   - name: date
     label: Created at

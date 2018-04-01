@@ -213,7 +213,7 @@ end
 def local_asset_from remote_asset
   return remote_asset if remote_asset.start_with? '{'
 
-  filename = File.basename remote_asset
+  filename = unspecialize_name File.basename remote_asset
   uri = URI remote_asset.strip
 
   fail "Unknown asset: #{remote_asset}" if uri.host == ENV['ASSET_HOST'] and
@@ -454,6 +454,7 @@ end
 
 def copy_asset asset, file
   dir = File.dirname file
+  file = dir + File::SEPARATOR + unspecialize_name(File.basename(file))
 
   return if File.exist?(file) and
             File.size(file) == asset.raw_size and
@@ -474,6 +475,11 @@ end
 def conflict_values_for coll, prop
   val_counts = coll.reduce({}) do |vals, el|
     val = el.send prop
+    dir = File.dirname val
+    if dir != "." or not val.start_with?(".")
+      val = dir + File::SEPARATOR + unspecialize_name(File.basename(val))
+    end
+
     vals[val] ||= 0
     vals[val] += 1
     vals

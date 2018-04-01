@@ -93,11 +93,7 @@ def field_to_widget f, content_types
 end
 
 def unspecialize_name n
-  if n.start_with? '_'
-    n[1..-1]
-  else
-    n
-  end
+  n.gsub /\A_+/, ''
 end
 
 def to_netlify_field locomotive_field, content_types

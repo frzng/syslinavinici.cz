@@ -15,6 +15,10 @@ collections:
   - name: page
     label: Page
     widget: string
+  - name: position
+    label: Position
+    widget: number
+    valueType: int
   meta:
   - name: date
     label: Created at
@@ -64,6 +68,10 @@ collections:
   - name: image
     label: Image
     widget: image
+  - name: position
+    label: Position
+    widget: number
+    valueType: int
   meta:
   - name: date
     label: Created at
@@ -114,6 +122,10 @@ collections:
     label: Message
     widget: markdown
     locomotive_name: message
+  - name: position
+    label: Position
+    widget: number
+    valueType: int
   meta:
   - name: date
     label: Created at

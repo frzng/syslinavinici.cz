@@ -92,7 +92,7 @@ def field_to_widget f, content_types
   end
 end
 
-def unspecialize_field_name n
+def unspecialize_name n
   if n.start_with? '_'
     n[1..-1]
   else
@@ -149,16 +149,21 @@ def to_netlify_collection content_type, content_types
                   map {|f| to_netlify_field f, content_types }.
                   compact
 
-  field_by_widget = c['fields'].group_by {|f| f['widget'] }
-
   unless c['fields'].any? {|f| f['name'] == content_type.order_by }
-    c['order_by'] << {
-      'name' => unspecialize_field_name(content_type.order_by),
-      'label' => unspecialize_field_name(content_type.order_by).humanize,
+    field = {
+      'name' => unspecialize_name(content_type.order_by),
+      'label' => unspecialize_name(content_type.order_by).humanize,
       'widget' => 'number',
       'valueType' => 'int'
     }
+    if field['name'] != content_type.order_by
+      field['locomotive_name'] = content_type.order_by
+    end
+
+    c['fields'] << field
   end
+
+  field_by_widget = c['fields'].group_by {|f| f['widget'] }
 
   # Rename only markdown field to body
   if field_by_widget['markdown'] and field_by_widget['markdown'].size == 1
@@ -248,8 +253,8 @@ end
 def ensure_order_field document, entry, collection
   return unless collection.key? 'order_by'
 
-  order_value = entry.send(collection['order_by'])
-  order_field = unspecialize_field_name collection['order_by']
+  order_value = entry.send collection['order_by']
+  order_field = unspecialize_name collection['order_by']
   document[order_field] = order_value
 end
 

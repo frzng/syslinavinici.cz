@@ -48,7 +48,7 @@
           </h4>
         </div>
         <div class="item_introtext">
-          {{ sibling.content | markdownify | strip_html | truncatewords: 50 }}
+          {{ sibling.content | markdownify | strip_html | truncate: 120 }}
         </div>
       </div>
     </div>

@@ -178,10 +178,6 @@ collections:
     label: Author
     widget: string
     required: false
-  - name: categories
-    label: Categories
-    widget: list
-    required: false
   - name: galleries
     label: Gallery
     widget: relation
@@ -297,16 +293,6 @@ collections:
         - name: long_title
           label: Title
           widget: string
-        - name: filter
-          label: Filtering
-          widget: object
-          fields:
-            - name: by_category
-              label: By category (filter options title)
-              widget: string
-            - name: all
-              label: All option (no filter)
-              widget: string
         - name: body
           label: Description
           widget: markdown

@@ -1,12 +1,11 @@
-<li class="gallery-item firstItem isotope-item {{ include.photo.categories | join: " " }}">
+<li class="gallery-item firstItem isotope-item">
   <div class="item_img img-intro img-intro__left">
     <a class="zoom"
        href={{ include.photo.image | relative_url }}
        data-rel="lightcase:gallery"
        {% assign author = site.data.authors[include.photo.author] %}
        title="{{ author.name }} &ndash; {{ include.photo.title | strip_html }}"
-       data-lc-title="{{ author.name }} &ndash; {{ include.photo.title }}"
-       data-categories="{{ include.photo.categories | join: " " }}">
+       data-lc-title="{{ author.name }} &ndash; {{ include.photo.title }}">
       <img src="{{ include.photo.gallery_thumbnail | default: include.photo.image | relative_url }}"
            class="gallery__image object-fit-cover" data-object-fit="cover"
            alt="{{ include.photo.content | strip_html }}"/>

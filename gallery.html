@@ -10,34 +10,6 @@ layout: contentpage
     <h3>{{ site.data.gallery.long_title }}</h3>
     {{ site.data.gallery.body | markdownify }}
   </div>
-  {% assign flat_categories = "" %}
-  {% for photo in photos %}
-    {% assign p_categories = photo.categories | join: " " %}
-    {% assign flat_categories = flat_categories |
-         append: " " |
-         append: p_categories %}
-  {% endfor %}
-  {% assign categories = flat_categories | split: " " | compact | uniq %}
-  {% if categories.size > 0 %}
-    <!-- Filter -->
-    <div id="filters" class="filters">
-      <div class="m-bottom-1">
-        <a href="#" data-filter="*" class="selected">
-          {{ site.data.gallery.filter.all }}
-        </a>
-      </div>
-      <div>
-        <b>{{ site.data.gallery.filter.by_category }}</b>
-        <ul class="inline-block m-left-0 p-left-0">
-          {% for category in categories %}
-            <li class="inline-block p-left-1">
-              <a class="" href="#" data-filter=".{{ category }}">{{ category }}</a>
-            </li>
-          {% endfor %}
-        </ul>
-      </div>
-    </div>
-  {% endif %}
   <div class="row-fluid">
     <ul id="isotopeContainer" class="gallery items-row cols-4 isotope">
       {% for photo in photos %}

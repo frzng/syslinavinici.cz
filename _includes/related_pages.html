@@ -5,6 +5,7 @@
 
 {% assign url_prefix = page_url | append: "/" %}
 {% assign related_pages = site.pages |
+     concat: site.md_pages |
      where_exp: "p", "p.url contains url_prefix" |
      sort: "position" %}
 {% if related_pages.size > 0 %}

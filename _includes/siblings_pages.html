@@ -16,6 +16,7 @@
 {% endfor %}
 
 {% assign sibling_pages = site.pages |
+     concat: site.md_pages |
      where_exp: "p", "p.url contains url_prefix" |
      sort: "position" %}
 {% for sibling in sibling_pages %}

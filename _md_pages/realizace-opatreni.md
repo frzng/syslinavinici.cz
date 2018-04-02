@@ -14,7 +14,7 @@ i první doprovodné aktivity bylo realizováno v rámci projektu:**
 
 #### Partneři:
 
-[ALKA Wildlife, o.p.s.][1]
+[ALKA Wildlife, o.p.s.][1]  
 [Muzeum Karlovy Vary][2]
 
 #### Trvání projektu:

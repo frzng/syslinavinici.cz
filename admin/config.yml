@@ -144,60 +144,6 @@ collections:
     widget: date
     format: YYYY-MM-DD HH:mm:ss ZZ
 
-- name: user_answers
-  label: User answers
-  label_singular: User answer
-  description: Answers to user questions that are displayed in counselling section
-  folder: _user_answers
-  create: true
-  fields:
-  - name: title
-    label: Title
-    widget: string
-  - name: author
-    label: Author
-    widget: string
-  - name: date
-    label: Published at
-    widget: date
-    format: YYYY-MM-DD
-    locomotive_name: published_at
-  - name: body
-    label: Content
-    widget: markdown
-    locomotive_name: content
-  - name: categories
-    label: Categories
-    widget: list
-    required: false
-
-- name: user_questions
-  label: User questions
-  label_singular: User question
-  description: Questions that are sent from users from counselling section.
-  folder: _user_questions
-  create: true
-  fields:
-  - name: name
-    label: Name
-    widget: string
-  - name: email
-    label: Email
-    widget: string
-  - name: body
-    label: Message
-    widget: markdown
-    locomotive_name: message
-  - name: position
-    label: Position
-    widget: number
-    valueType: int
-  meta:
-  - name: date
-    label: Created at
-    widget: date
-    format: YYYY-MM-DD HH:mm:ss ZZ
-
 - name: photos
   label: Photos
   label_singular: Photo
@@ -364,17 +310,6 @@ collections:
         - name: body
           label: Description
           widget: markdown
-
-    - name: user_answers
-      label: User answers (not used)
-      label_singular: User answer
-      file: _data/user_answers.yml
-      fields: []
-
-    - name: question_form
-      label: Question form (not used)
-      file: _data/question_form.yml
-      fields: []
 
     - name: search
       label: Search

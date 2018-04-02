@@ -30,10 +30,6 @@ collections:
     output: true
     permalink: "/news/:title"
   showcases: {}
-  user_answers:
-    output: true
-    permalink: "/user_answers/:title"
-  user_questions: {}
   photos: {}
 
 defaults:
@@ -42,11 +38,6 @@ defaults:
       type: posts
     values:
       layout: post
-  - scope:
-      path: ""
-      type: user_answers
-    values:
-      layout: user_answer
 
 # Build settings
 markdown: kramdown

@@ -1,12 +1,8 @@
 <div class="item_info m-bottom-1">
   <dl class="item_info_dl">
     <dd>
-      {% comment %}
-      TODO Verify this actually works and author details don’t have
-      TODO to be fetched manually from data like this:
-      {% assign author = site.data.authors[page.author] %}
-      {% endcomment %}
-      <div class="item_createdby">{{ page.author.name }}</div>
+      {% assign author = site.data.authors[include.answer.author] %}
+      <div class="item_createdby">{{ author.name }}</div>
     </dd>
     |
     <dd>
@@ -20,7 +16,7 @@
     </dd>
     |
     <dd>
-      <div class="item_published">{{ page.date | date: "%e. %-m. %Y" }}</div>
+      <div class="item_published">{{ include.answer.date | date: "%e. %-m. %Y" }}</div>
     </dd>
   </dl>
 </div>

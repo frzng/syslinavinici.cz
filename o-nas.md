@@ -20,6 +20,8 @@ prostředí
 
 Podpořeno grantem z Islandu, Lichtenštejnska a Norska.
 
+<div class="clearfix"></div>
+
 *Tento web byl vytvořen za finanční podpory EHP fondů 2009–2014
 a Ministerstva životního prostředí. Za jeho obsah je výhradně odpovědná
 ALKA Wildlife,o.p.s. a nelze jej v žádném případě považovat za názor

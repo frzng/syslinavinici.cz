@@ -10,38 +10,43 @@ layout: contentpage
     <h3>{{ site.data.gallery.long_title }}</h3>
     {{ site.data.gallery.body | markdownify }}
   </div>
-  <!-- Filter -->
-  <div id="filters" class="filters">
-    <div class="m-bottom-1">
-      <a href="#" data-filter="*" class="selected">
-	{{ site.data.gallery.filter.all }}
-      </a>
+  {% assign category_slugs = "" %}
+  {% for photo in photos %}
+    {% assign flattened = photo.categories | join: " " %}
+    {% assign category_slugs = category_slugs |
+         append: " " |
+         append: flattened %}
+  {% endfor %}
+  {% assign category_slugs = category_slugs | split: " " | uniq %}
+  {% if category_slugs.size > 0 %}
+    <!-- Filter -->
+    <div id="filters" class="filters">
+      <div class="m-bottom-1">
+        <a href="#" data-filter="*" class="selected">
+          {{ site.data.gallery.filter.all }}
+        </a>
+      </div>
+      <div>
+        <b>{{ site.data.gallery.filter.by_category }}</b>
+        <ul class="inline-block m-left-0 p-left-0">
+          {% for slug in category_slugs %}
+            {% assign url = "/category/" | append: slug %}
+            {% comment %}
+            TODO Create detailed_categories collection.
+            {% endcomment %}
+            {% assign category = site.detailed_categories | where: "url", url | first %}
+            <li class="inline-block p-left-1">
+              <a class="" href="#" data-filter=".{{ slug }}">{{ category.name }}</a>
+            </li>
+          {% endfor %}
+        </ul>
+      </div>
     </div>
-    <div>
-      <b>{{ site.data.gallery.filter.by_category }}</b>
-      <ul class="inline-block m-left-0 p-left-0">
-	{% assign category_slugs = "" %}
-	{% for photo in photos %}
-	  {% assign flattened = photo.categories | join: " " %}
-	  {% assign category_slugs = category_slugs |
-               append: " " |
-	       append: flattened %}
-	{% endfor %}
-	{% assign category_slugs = category_slugs | split: " " | uniq %}
-	{% for slug in category_slugs %}
-	  {% assign id = "/category_details/" | append: slug %}
-	  {% assign category = site.category_details | where: "id", id | first %}
-	  <li class="inline-block p-left-1">
-	    <a class="" href="#" data-filter=".{{ slug }}">{{ category.name }}</a>
-	  </li>
-	{% endfor %}
-      </ul>
-    </div>
-  </div>
+  {% endif %}
   <div class="row-fluid">
     <ul id="isotopeContainer" class="gallery items-row cols-4 isotope">
       {% for photo in photos %}
-	{% include gallery_item.html photo=photo %}
+        {% include gallery_item.html photo=photo %}
       {% endfor %}
     </ul>
   </div>
@@ -94,13 +99,13 @@ jQuery(function() {
       $item.outerWidth($container.width());
       $item.addClass('straightDown');
       $container.isotope({
-	layoutMode: 'straightDown'
+        layoutMode: 'straightDown'
       });
     } else {
       $item.outerWidth(Math.floor($container.width() / $cols));
       $item.removeClass('straightDown');
       $container.isotope({
-	layoutMode: 'fitRows'
+        layoutMode: 'fitRows'
       });
     }
   });

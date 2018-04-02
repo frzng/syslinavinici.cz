@@ -11,11 +11,9 @@
     |
     <dd>
       <div class="item_category-name">
-        {% for slug in page.categories %}
-	  {% assign id = "/category_details/" | append: slug %}
-	  {% assign category = site.category_details | where: "id", id | first %}
-          <a href="{{ "/user_answers" | relative_url }}?category={{ slug }}">
-            {{ category.name }}
+        {% for category in include.answer.categories %}
+          <a href="{{ "/user_answers" | relative_url }}?category={{ category }}">
+            {{ category }}
           </a>
         {% endfor %}
       </div>

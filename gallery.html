@@ -10,15 +10,15 @@ layout: contentpage
     <h3>{{ site.data.gallery.long_title }}</h3>
     {{ site.data.gallery.body | markdownify }}
   </div>
-  {% assign category_slugs = "" %}
+  {% assign flat_categories = "" %}
   {% for photo in photos %}
-    {% assign flattened = photo.categories | join: " " %}
-    {% assign category_slugs = category_slugs |
+    {% assign p_categories = photo.categories | join: " " %}
+    {% assign flat_categories = flat_categories |
          append: " " |
-         append: flattened %}
+         append: p_categories %}
   {% endfor %}
-  {% assign category_slugs = category_slugs | split: " " | uniq %}
-  {% if category_slugs.size > 0 %}
+  {% assign categories = flat_categories | split: " " | compact | uniq %}
+  {% if categories.size > 0 %}
     <!-- Filter -->
     <div id="filters" class="filters">
       <div class="m-bottom-1">
@@ -29,14 +29,9 @@ layout: contentpage
       <div>
         <b>{{ site.data.gallery.filter.by_category }}</b>
         <ul class="inline-block m-left-0 p-left-0">
-          {% for slug in category_slugs %}
-            {% assign url = "/category/" | append: slug %}
-            {% comment %}
-            TODO Create detailed_categories collection.
-            {% endcomment %}
-            {% assign category = site.detailed_categories | where: "url", url | first %}
+          {% for category in categories %}
             <li class="inline-block p-left-1">
-              <a class="" href="#" data-filter=".{{ slug }}">{{ category.name }}</a>
+              <a class="" href="#" data-filter=".{{ category }}">{{ category }}</a>
             </li>
           {% endfor %}
         </ul>

@@ -34,7 +34,6 @@ layout: default
 		  {% endif %}
 		  {% assign flattened = answer.categories | join: " " %}
 		  {% assign categories = " " | append: flattened | append: " " %}
-		  {% assign category = " " | append: flattened | append: " " %}
 		  {% unless categories contains category %}
 		    {% continue %}
 		  {% endif %}
@@ -48,7 +47,7 @@ layout: default
 		    <div class="item_introtext">
 		      <p>{{ answer.content | truncatewords: 60 }}</p>
 		    </div>
-		    <a class="btn btn-info" href={% path_to answer %}>
+		    <a class="btn btn-info" href="{{ answer.url | relative_url }}">
 		      <span>{{ site.data.user_answers.show_more }}</span>
 		    </a>
 		  </div>
@@ -94,20 +93,16 @@ layout: default
 		    </p>
 		  </li>
 		{% endif %}
-		{% assign category_slugs = "" %}
+		{% assign flat_categories = "" %}
 		{% for user_answer in site.user_answers %}
-		  {% assign flattened = user_answer.categories | join: " " %}
-		  {% assign category_slugs = category_slugs |
-		       append: " " |
-		       append: flattened %}
+		  {% assign ua_categories = user_answer.categories | join: " " %}
+		  {% assign flat_categories = flat_categories | append: " " | append: ua_categories %}
 		{% endfor %}
-		{% assign category_slugs = category_slugs | split: " " | uniq %}
-		{% for slug in category_slugs %}
-		  {% assign id = "/category_details/" | append: slug %}
-		  {% assign category = site.category_details | where: "id", id | first %}
+		{% assign categories = flat_categories | split: " " | compact | uniq %}
+		{% for category in categories %}
 		  <li>
-		    <a href="{{ "/user_answers" | relative_url }}?category={{ slug }}">
-		      {{ category.name }}
+		    <a href="{{ "/user_answers" | relative_url }}?category={{ category }}">
+		      {{ category }}
 		    </a>
 		  </li>
 		{% endfor %}

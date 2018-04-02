@@ -1,10 +1,12 @@
 ---
 title: Co udělat pro sysly na vinici?
-long_title: Co mohu udělat pro sysly na vinici?
+permalink: "/pro-vinare/co-udelat-pro-sysly-na-vinici"
 image: "/uploads/IMG_2845_610.JPG"
+long_title: Co mohu udělat pro sysly na vinici?
 listed: true
 position: 0
 layout: withrightcolumn
+date: '2016-04-13 15:16:40 +0000'
 ---
 *Aneb rady pro pěstitele vína, jak podpořit „své“ sysly na vinici či pro
 ty vinaře, kteří je tam chtějí z okolí nalákat.*

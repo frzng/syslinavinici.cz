@@ -1,9 +1,11 @@
 ---
 title: Sysli na vinici 2016
+permalink: "/o-nas/projekty/sysli-na-vinici-2016"
 image: "/uploads/IMG_6044_610.JPG"
 listed: true
 position: 1
 layout: withrightcolumn
+date: '2016-12-04 08:59:20 +0000'
 ---
 **Název projektu**: Sysli na vinici
 

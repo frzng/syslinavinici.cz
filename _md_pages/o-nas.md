@@ -1,8 +1,10 @@
 ---
 title: O nás
+permalink: "/o-nas"
 listed: true
 position: 7
 layout: withoutrightcolumn
+date: '2016-04-26 13:35:34 +0000'
 ---
 Stránky syslinavinici.cz provozují:
 

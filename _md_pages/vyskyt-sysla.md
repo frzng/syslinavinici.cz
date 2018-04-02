@@ -1,10 +1,12 @@
 ---
 title: Výskyt sysla
-long_title: Aktuální výskyt sysla obecného
+permalink: "/znamka/vyskyt-sysla"
 image: "/uploads/IMG_1216_610.JPG"
+long_title: Aktuální výskyt sysla obecného
 listed: true
 position: 3
 layout: withrightcolumn
+date: '2016-12-04 06:59:17 +0000'
 ---
 V současnosti se sysel obecný vyskytuje ve vinicích těchto vinařských
 obcí:

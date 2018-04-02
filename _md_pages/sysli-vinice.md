@@ -1,10 +1,12 @@
 ---
 title: Viniční tratě se syslem
+permalink: "/znamka/sysli-vinice"
 image: "/uploads/IMG_1216_610.JPG"
 published: false
 listed: false
 position: 1
 layout: withrightcolumn
+date: '2016-05-28 15:58:34 +0000'
 ---
 #### Viniční tratě s potvrzeným výskytem sysla obecného v roce 2015:
 

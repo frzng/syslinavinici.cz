@@ -1,10 +1,12 @@
 ---
 title: Sysel
-long_title: Sysel obecný
+permalink: "/sysel"
 image: "/uploads/IMG_0817_610.jpg"
+long_title: Sysel obecný
 listed: true
 position: 3
 layout: withoutrightcolumn
+date: '2016-04-26 13:33:45 +0000'
 ---
 Sysel obecný je menší společensky žijící **hlodavec** z příbuzenstva
 veverek.

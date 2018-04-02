@@ -1,9 +1,11 @@
 ---
 title: Pro vinaře
+permalink: "/pro-vinare"
 image: "/uploads/KMB6279_610.jpg"
 listed: true
 position: 6
 layout: withoutrightcolumn
+date: '2016-05-29 04:39:18 +0000'
 ---
 Vinaři – máte ve svém vinohradu sysly? Buďte na ně pyšní – jde
 o opravdovou vzácnost. Sysel obecný je považován za jednoho

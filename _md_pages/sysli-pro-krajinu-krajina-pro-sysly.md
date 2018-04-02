@@ -1,10 +1,12 @@
 ---
 title: Sysli pro krajinu, krajina pro sysly
+permalink: "/o-nas/projekty/sysli-pro-krajinu-krajina-pro-sysly"
 long_title: Sysli pro krajinu, krajina pro sysly
 subtitle: Monitoring a podpora populace sysla obecného na jižní Moravě
 listed: true
 position: 2
 layout: withoutrightcolumn
+date: '2018-03-30 05:58:36 +0000'
 ---
 #### Kódy projektů:
 

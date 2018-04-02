@@ -1,8 +1,10 @@
 ---
 title: Kontakty
+permalink: "/o-nas/kontakty"
 listed: true
 position: 0
 layout: withrightcolumn
+date: '2016-05-28 15:38:36 +0000'
 ---
 #### Realizátor projektu:
 

@@ -6,6 +6,72 @@ backend:
 media_folder: uploads
 
 collections:
+- name: md_pages
+  label: Pages
+  label_singular: Page
+  folder: _md_pages
+  create: true
+  fields:
+  - name: title
+    label: Title
+    widget: string
+  - name: permalink
+    label: Address (creates hierarchy—e.g., “/about/team” is a child of “/about” which is a child of “/”)
+    widget: string
+  - name: image
+    label: Image (610 × 358 px)
+    widget: image
+    required: false
+  - name: long_title
+    label: Long title (heading right above content; defaults to plain title)
+    widget: string
+    required: false
+  - name: subtitle
+    label: Subtitle (optional small heading under long title)
+    widget: string
+    required: false
+  # - name: related_thumbnail
+  #   label: Thumbnail for listing in related pages (240 × 135 px)
+  #   widget: image
+  #   required: false
+  - name: body
+    label: Body
+    widget: markdown
+  - name: published
+    label: Published (publicly available under address)
+    widget: boolean
+    required: false
+    default: true
+  - name: listed
+    label: Show in the navigation menu
+    widget: boolean
+    required: false
+    default: false
+  - name: position
+    label: Position among siblings in listings
+    widget: number
+    valueType: int
+  - name: layout
+    label: Layout
+    widget: relation
+    collection: layouts
+    valueField: ref
+    searchFields:
+    - title
+  - name: aside_title
+    label: Heading for aside
+    widget: string
+    required: false
+  - name: aside_links
+    label: Content for aside above sibling pages listing
+    widget: markdown
+    required: false
+  meta:
+  - name: date
+    label: Created at
+    widget: date
+    format: YYYY-MM-DD HH:mm:ss ZZ
+
 - name: galleries
   label: Galleries
   label_singular: Gallery

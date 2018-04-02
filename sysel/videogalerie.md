@@ -2,9 +2,6 @@
 title: Videogalerie
 listed: true
 position: 1
-editable_elements:
-  Page/Title image: false
-  Right column/Title: Více ke čtení
 layout: withrightcolumn
 ---
 #### Syslí zvědavec

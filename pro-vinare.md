@@ -1,10 +1,8 @@
 ---
 title: Pro vinaře
+image: "/uploads/KMB6279_610.jpg"
 listed: true
 position: 6
-editable_elements:
-  Page/Title image: true
-  Page/image: "/uploads/KMB6279_610.jpg"
 layout: withoutrightcolumn
 ---
 Vinaři – máte ve svém vinohradu sysly? Buďte na ně pyšní – jde

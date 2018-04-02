@@ -2,9 +2,6 @@
 title: Kontakty
 listed: true
 position: 0
-editable_elements:
-  Page/Title image: false
-  Right column/Title: Více ke čtení
 layout: withrightcolumn
 ---
 #### Realizátor projektu:

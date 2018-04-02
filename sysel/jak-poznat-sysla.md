@@ -1,11 +1,8 @@
 ---
 title: Jak poznat sysla
+image: "/uploads/DSCN0127_610.JPG"
 listed: true
 position: 0
-editable_elements:
-  Page/Title image: true
-  Page/image: "/uploads/DSCN0127_610.JPG"
-  Right column/Title: Více ke čtení
 layout: withrightcolumn
 ---
 Sysel obecný je hlodavec z příbuzenstva veverek. Váží nejčastěji 200 až

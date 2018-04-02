@@ -12,23 +12,15 @@ layout: default
           <div class="page-item page-item__">
             <article>
               <div class="item_header">
-                <h3 class="item_title">{{ page.editable_elements['Page/Title'] | default: page.title | default: "Headline" }}</h3>
+                <h3 class="item_title">{{ page.long_title | default: page.title }}{% if page.subtitle %} <small>{{ page.subtitle }}</small>{% endif %}</h3>
               </div>
-              {% if page.editable_elements['Page/Title image'] != false %}
-                {% assign title_image_enabled = true %}
-              {% else %}
-                {% assign title_image_enabled = false %}
-              {% endif %}
-              {% if title_image_enabled %}
+              {% if page.image %}
                 <div class="item_img img-full img-full__none item-image">
-                  <img src="{{ page.editable_elements['Page/image'] | relative_url | default: "http://placehold.it/610x385" }}">
+                  <img src="{{ page.image | relative_url }}">
                 </div>
               {% endif %}
               <div class="item_fulltext">
-                {% capture content_default %}
-                  <p>Content of the page</p>
-                {% endcapture %}
-                {{ content | default: content_default }}
+                {{ content }}
               </div>
 
               {% include related_pages.html %}
@@ -40,9 +32,9 @@ layout: default
         <div id="aside-right" class="span3">
           <aside>
             <div class="moduletable links">
-              <h3>{{ page.editable_elements['Right column/Title'] | default: "Another pages" }}</h3>
+              <h3>{{ page.aside_title | default: site.data.aside.title }}</h3>
               <div class="mod-custom mod-custom__links">
-                {{ page.editable_elements['Right column/Links'] | markdownify }}
+                {{ page.aside_links | markdownify }}
               </div>
 
               {% include siblings_pages.html %}

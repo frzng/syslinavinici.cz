@@ -1,10 +1,8 @@
 ---
 title: Známka
+image: "/uploads/SAM_2545_u_610.JPG"
 listed: true
 position: 5
-editable_elements:
-  Page/Title image: true
-  Page/image: "/uploads/SAM_2545_u_610.JPG"
 layout: withoutrightcolumn
 ---
 *I takto může vypadat zemědělská krajina – různorodá a plná života*

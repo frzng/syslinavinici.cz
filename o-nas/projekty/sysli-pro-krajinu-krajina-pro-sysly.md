@@ -1,11 +1,9 @@
 ---
 title: Sysli pro krajinu, krajina pro sysly
+long_title: Sysli pro krajinu, krajina pro sysly
+subtitle: Monitoring a podpora populace sysla obecného na jižní Moravě
 listed: true
 position: 2
-editable_elements:
-  Page/Title: "Sysli pro krajinu, krajina pro sysly  \n<small>Monitoring a podpora
-    populace sysla obecného na jižní Moravě</small>\n"
-  Page/Title image: false
 layout: withoutrightcolumn
 ---
 #### Kódy projektů:

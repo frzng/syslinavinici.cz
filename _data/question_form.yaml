@@ -1,0 +1,7 @@
+---
+long_title: Send us a question
+fields:
+  name: Fullname
+  email: Email
+  message: Message
+  submit: Odeslat

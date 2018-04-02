@@ -2,45 +2,6 @@
 title: Home
 listed: true
 position: 0
-editable_elements:
-  News/Other news title: Další zprávy
-  News/Show all: Všechny novinky
-  Link 1/Url: "/znamka"
-  Link 1/Image: "/uploads/logo_Sysli_na_vinici_156.jpg"
-  Link 1/Title: Známka
-  Link 2/Url: "/znamka/nasi-vinari"
-  Link 2/Image: "/uploads/DSCN0189_156.JPG"
-  Link 2/Title: Naši vinaři
-  Link 3/Url: "/znamka/sysli-vinice"
-  Link 3/Image: "/uploads/IMG_1114_156.JPG"
-  Link 3/Title: Syslí vinice
-  Link 4/Url: "/sysel"
-  Link 4/Image: "/uploads/IMG_0801u_156.jpg"
-  Link 4/Title: sysel
-  Link 5/Url: "/o-nas/projekt"
-  Link 5/Image: "/uploads/DSCN0196_156.JPG"
-  Link 5/Title: Projekt
-  Mision/Content: |+
-    ### Mise
-
-    Smyslem známky SYSLI NA VINICI je pomoci k záchraně sysla obecného
-    v naší krajině a podpora vinařů, kteří na svých vinohradech sysla
-    mají a hospodaří zde tak, aby zde zůstal, stejně jako řada dalších
-    živočichů.
-  Photogallery/Title: Fotogalerie
-  Appeal/Content: |+
-    ### Výzva
-
-    Hledáme sysly!  
-    Pomozte nám mapovat jejich výskyt.
-
-    * [pište na email](/o-nas/kontakty)
-    * [volejte na číslo 606598903](/o-nas/kontakty)
-    * [pošlete nám fotku](/sysel/jak-poznat-sysla)
-  Other/Content: |+
-    ### [Videogalerie](/sysel/videogalerie)
-
-    ![](/uploads/EK000047_100.JPG)
 layout: default
 ---
 {% include home_showcase.html %}
@@ -51,45 +12,16 @@ layout: default
     <div class="container-fluid">
       <div class="row-fluid">
         <div class="moduletable efforts  span3">
-          {% capture mission_content_default %}
-            <h3>Mission</h3>
-            <p>Lorem ipsum dolor sit amet csectur adipsing elit VivamusAsit amet gravida quis viverra sed nisl. Vetiblum rhoncus nisi in lectus vestibulum.</p>
-            <p>Proin mattis metus at placerat malesuada Quam elit consequat tellus at scelerisque elit libero a ligula. Suspendisse dui felis. </p>
-          {% endcapture %}
-          {{ page.editable_elements['Mision/Content'] | markdownify | default: mission_content_default }}
+          {{ site.data.home.mission.body | markdownify }}
         </div>
         <div class="moduletable projects  span3">
           {% include home_photogallery.html %}
         </div>
         <div class="moduletable whyus  span3">
-          {% capture appeal_content_default %}
-            <h3 class="moduleTitle ">Appeal</h3>
-            <p>Praesent venenatis bibendum is ta eleend. Maecenas non leo et erat pharetra sceleue in sit amet. </p>
-            <ul>
-              <li><a href="#">Donec sit amet bibendum sem</a></li>
-              <li><a href="#">Vestibulum augue libero lobortis</a></li>
-              <li><a href="#">Aliquam faucibus dui quis libero soda</a></li>
-              <li><a href="#">Nam tellus risus dictum nec</a></li>
-              <li><a href="#">Praesent malesuad libero ac</a></li>
-              <li><a href="#">Augue consectetur nis eu tempor</a></li>
-            </ul>
-          {% endcapture %}
-          {{ page.editable_elements['Appeal/Content'] | markdownify | default: appeal_content_default }}
+          {{ site.data.home.appeal.body | markdownify }}
         </div>
         <div class="moduletable whyus  span3">
-          {% capture other_content_default %}
-            <h3 class="moduleTitle ">Other</h3>
-            <p>Praesent venenatis bibendum is ta eleend. Maecenas non leo et erat pharetra sceleue in sit amet. </p>
-            <ul>
-              <li><a href="#">Donec sit amet bibendum sem</a></li>
-              <li><a href="#">Vestibulum augue libero lobortis</a></li>
-              <li><a href="#">Aliquam faucibus dui quis libero soda</a></li>
-              <li><a href="#">Nam tellus risus dictum nec</a></li>
-              <li><a href="#">Praesent malesuad libero ac</a></li>
-              <li><a href="#">Augue consectetur nis eu tempor</a></li>
-            </ul>
-          {% endcapture %}
-          {{ page.editable_elements['Other/Content'] | markdownify | default: other_content_default }}
+          {{ site.data.home.other.body | markdownify }}
         </div>
       </div>
     </div>

@@ -1,11 +1,8 @@
 ---
 title: Sysli na vinici 2016
+image: "/uploads/IMG_6044_610.JPG"
 listed: true
 position: 1
-editable_elements:
-  Page/Title image: true
-  Page/image: "/uploads/IMG_6044_610.JPG"
-  Right column/Title: Another pages
 layout: withrightcolumn
 ---
 **Název projektu**: Sysli na vinici

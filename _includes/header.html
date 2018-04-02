@@ -5,12 +5,12 @@
         <div class="row-fluid">
           <div id="logo" class="span2">
             <a href="/">
-              <img alt="vydryonline" class="logo" src="{{ site.data.header.logo | default: "http://placehold.it/120x120" }}">
+              <img alt="vydryonline" class="logo" src="{{ site.data.header.logo }}">
             </a>
           </div>
 
           <div id="claim" class="span7">
-            <h3>{{ site.data.header.claim | default: "Vydry online nejsou offline!" }}</h3>
+            <h3>{{ site.data.header.claim }}</h3>
           </div>
 
           <div class="moduletable search-block  span3">
@@ -18,7 +18,7 @@
                 <form action="{{ "/search" | relative_url }}" method="get" class="navbar-form">
                   <label for="searchword" class="element-invisible">
                     {% capture search_label -%}
-                      {{ page.editable_elements['header/Search'] | default: "Hledat…" }}
+                      {{ site.data.header.search }}
                     {%- endcapture %}
                     {{ search_label }}
                   </label>

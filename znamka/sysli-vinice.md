@@ -1,13 +1,9 @@
 ---
 title: Viniční tratě se syslem
+image: "/uploads/IMG_1216_610.JPG"
 published: false
 listed: false
 position: 1
-editable_elements:
-  Page/Title image: true
-  Page/image: "/uploads/IMG_1216_610.JPG"
-  Right column/Title: Více ke čtení
-  Right column/Links: ''
 layout: withrightcolumn
 ---
 #### Viniční tratě s potvrzeným výskytem sysla obecného v roce 2015:

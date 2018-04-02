@@ -2,31 +2,23 @@
 title: Fotogalerie
 listed: false
 position: 2
-editable_elements:
-  Gallery/Title: Fotogalerie
-  Gallery/Description: "Většinu snímků a videí publikovaných na tomto webu je možno po domluvě použít pro nekomerční účely (např. do škol pro výuku). V případě domluvy zašleme v lepším rozlišení. Pro komerční použití snímků či videí nás kontaktujte, cena bude stanovena dle konkrétního užití."
-  Gallery/Show all: Všechny
-  Gallery/Filter by category title: "Filtrování dle kategorií:"
 layout: contentpage
 ---
 {% assign photos = site.photos | sort: "position" %}
 <div class="page-gallery page-gallery__gallery">
   <div class="page_header">
-    <h3>{{ page.editable_elements['Gallery/Title'] | default: "Gallery" }}</h3>
-    {% capture description_default %}
-      <p>Prostor pro několikařádkový text (bude tam něco o&nbsp;možnostech stahování/používání fotek pro vlastní a&nbsp;komerční účely)</p>
-    {% endcapture %}
-    {{ page.editable_elements['Gallery/Description'] | markdownify | default: description_default }}
+    <h3>{{ site.data.gallery.long_title }}</h3>
+    {{ site.data.gallery.body | markdownify }}
   </div>
   <!-- Filter -->
   <div id="filters" class="filters">
     <div class="m-bottom-1">
       <a href="#" data-filter="*" class="selected">
-	{{ page.editable_elements['Gallery/Show all'] | default: "Show all" }}
+	{{ site.data.gallery.filter.all }}
       </a>
     </div>
     <div>
-      <b>{{ page.editable_elements['Gallery/Filter by category title'] | default: "Filter by category:" }}</b>
+      <b>{{ site.data.gallery.filter.by_category }}</b>
       <ul class="inline-block m-left-0 p-left-0">
 	{% assign category_slugs = "" %}
 	{% for photo in photos %}

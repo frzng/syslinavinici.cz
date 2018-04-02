@@ -1,12 +1,9 @@
 ---
 title: Co udělat pro sysly na vinici?
+long_title: Co mohu udělat pro sysly na vinici?
+image: "/uploads/IMG_2845_610.JPG"
 listed: true
 position: 0
-editable_elements:
-  Page/Title: Co mohu udělat pro sysly na vinici?
-  Page/Title image: true
-  Page/image: "/uploads/IMG_2845_610.JPG"
-  Right column/Title: Dále ke čtení
 layout: withrightcolumn
 ---
 *Aneb rady pro pěstitele vína, jak podpořit „své“ sysly na vinici či pro

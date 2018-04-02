@@ -1,13 +1,9 @@
 ---
 title: Výskyt sysla
+long_title: Aktuální výskyt sysla obecného
+image: "/uploads/IMG_1216_610.JPG"
 listed: true
 position: 3
-editable_elements:
-  Page/Title: Aktuální výskyt sysla obecného
-  Page/Title image: true
-  Page/image: "/uploads/IMG_1216_610.JPG"
-  Right column/Title: Another pages
-  Right column/Links: ''
 layout: withrightcolumn
 ---
 V současnosti se sysel obecný vyskytuje ve vinicích těchto vinařských

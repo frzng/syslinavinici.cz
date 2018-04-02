@@ -1,11 +1,8 @@
 ---
 title: Realizace opatření ZP
+image: "/uploads/DSCN0196_610.JPG"
 listed: true
 position: 0
-editable_elements:
-  Page/Title image: true
-  Page/image: "/uploads/DSCN0196_610.JPG"
-  Right column/Title: Více ke čtení
 layout: withrightcolumn
 ---
 **Registrace ochranné známky, uvedení do činnosti, webové stránky

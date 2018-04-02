@@ -8,9 +8,9 @@
           </div>
         {% endfor %}
 
-        <div class="moduletable news  span3">
-          <h4 class="moduleTitle ">
-            {{ page.editable_elements['News/Other news title'] | default: "Other news" }}
+        <div class="moduletable news span3">
+          <h4 class="moduleTitle">
+            {{ site.data.home.news.following }}
           </h4>
           <div class="mod-newsflash-adv mod-newsflash-adv__news">
             {% for post in site.posts, limit: 3, offset: 3 %}
@@ -19,7 +19,7 @@
           </div>
 
           <a class="btn btn-info readmore" href="{{ "/news" | relative_url }}">
-            <span>{{ page.editable_elements['News/Show all'] | default: "show all news" }}</span>
+            <span>{{ site.data.home.news.all }}</span>
           </a>
         </div>
       </div>

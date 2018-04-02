@@ -2,13 +2,11 @@
 title: Aktuality
 listed: true
 position: 1
-editable_elements:
-  News/title: Aktuality
 layout: contentpage
 ---
 <div class="page-blog page-blog__">
   <div class="page_header">
-    <h3>{{ page.editable_elements['News/title'] | default: "News" }}</h3>
+    <h3>{{ site.data.news.long_title }}</h3>
   </div>
   {% for post in site.posts %}
     {% include news_item.html post=post %}

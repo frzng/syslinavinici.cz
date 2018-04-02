@@ -1,0 +1,50 @@
+---
+news:
+  following: Další zprávy
+  all: Všechny zprávy
+
+links:
+  - title: Známka
+    url: "/znamka"
+    image: "/uploads/logo_Sysli_na_vinici_156.jpg"
+  - title: Naši vinaři
+    url: "/znamka/nasi-vinari"
+    image: "/uploads/DSCN0189_156.JPG"
+  - title: Syslí vinice
+    url: "/znamka/sysli-vinice"
+    image: "/uploads/IMG_1114_156.JPG"
+  - title: sysel
+    url: "/sysel"
+    image: "/uploads/IMG_0801u_156.jpg"
+  - title: Projekt
+    url: "/o-nas/projekt"
+    image: "/uploads/DSCN0196_156.JPG"
+
+mission:
+  body: |+
+    ### Mise
+
+    Smyslem známky SYSLI NA VINICI je pomoci k záchraně sysla obecného
+    v naší krajině a podpora vinařů, kteří na svých vinohradech sysla
+    mají a hospodaří zde tak, aby zde zůstal, stejně jako řada dalších
+    živočichů.
+
+gallery:
+  title: Fotogalerie
+
+appeal:
+  body: |+
+    ### Výzva
+
+    Hledáme sysly!  
+    Pomozte nám mapovat jejich výskyt.
+
+    * [pište na email](/o-nas/kontakty)
+    * [volejte na číslo 606598903](/o-nas/kontakty)
+    * [pošlete nám fotku](/sysel/jak-poznat-sysla)
+
+other:
+  body: |+
+    ### [Videogalerie](/sysel/videogalerie)
+
+    ![](/uploads/EK000047_100.JPG)

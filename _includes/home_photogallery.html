@@ -1,6 +1,6 @@
 {% assign photos = site.photos | sort: "position" %}
 <h3 class="moduleTitle ">
-  {{ page.editable_elements['Photogallery/Title'] | default: "Gallery" }}
+  {{ site.data.home.gallery.title }}
 </h3>
 <div class="mod-newsflash-adv mod-newsflash-adv__projects">
   <div class="row-fluid">

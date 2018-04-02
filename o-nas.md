@@ -2,8 +2,6 @@
 title: O nás
 listed: true
 position: 7
-editable_elements:
-  Page/Title image: false
 layout: withoutrightcolumn
 ---
 Stránky syslinavinici.cz provozují:

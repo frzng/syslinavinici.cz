@@ -13,3 +13,14 @@ def jekyll_config
     @config
   end
 end
+
+def asset_subdir asset
+  case asset
+  when /\.js(?:\.map)?$/
+    'javascripts'
+  when /\.css(?:\.map)?$/
+    'stylesheets'
+  else
+    fail "Unexpected type of asset #{asset}. Only JS and CSS both with optional Source Maps are supported."
+  end
+end

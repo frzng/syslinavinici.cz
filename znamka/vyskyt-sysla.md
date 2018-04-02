@@ -6,18 +6,18 @@ editable_elements:
   Page/Title: Aktuální výskyt sysla obecného
   Page/Title image: true
   Page/image: "/uploads/IMG_1216_610.JPG"
-  Right column/Title: 'Another pages'
+  Right column/Title: Another pages
   Right column/Links: ''
 layout: withrightcolumn
 ---
-V současnosti se sysel obecný vyskytuje ve vinicích těchto vinařských
+V současnosti se sysel obecný vyskytuje ve vinicích těchto vinařských
 obcí:
 
 ##### Velké Pavlovice
 
 ##### Čejč
 
-##### Hrušovany u Brna
+##### Hrušovany u Brna
 
 ##### Valtice
 

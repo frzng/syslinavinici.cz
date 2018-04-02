@@ -7,9 +7,9 @@ editable_elements:
   Page/Title image: false
 layout: withoutrightcolumn
 ---
-V současnosti má známku Sysli na vinici uděleno 16 vinařství z Velkých
-Pavlovic a 4 z Hnanic. Odkazy Vás navedou na jejich webové stránky, kde
-najdete více informací o těchto vinařstvích, i e-shopy, kde si můžete
+V současnosti má známku Sysli na vinici uděleno 16 vinařství z Velkých
+Pavlovic a 4 z Hnanic. Odkazy Vás navedou na jejich webové stránky, kde
+najdete více informací o těchto vinařstvích, i e-shopy, kde si můžete
 jejich víno nakoupit.
 
 #### Velké Pavlovice:
@@ -54,7 +54,7 @@ Vinařství Schwarz
 
 [Josef Kořínek][16]
 
-[Vinný sklep U hafana][17]
+[Vinný sklep U hafana][17]
 
 
 [1]: http://www.slechtitelka.cz/ "Šlechtitelka"

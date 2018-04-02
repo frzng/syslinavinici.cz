@@ -7,6 +7,5 @@ galleries: news-slash-sysli-imigranti-ve-dvou-vinarskych-obcich
 position: 32
 date: '2016-07-22 09:08:20 +0000'
 ---
-Sysli dokáží bydlet v bezprostřední blízkosti lidí, pokud je lidé
+Sysli dokáží bydlet v bezprostřední blízkosti lidí, pokud je lidé
 nechají.
-

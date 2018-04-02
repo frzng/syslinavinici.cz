@@ -9,10 +9,10 @@ layout: withrightcolumn
 ---
 #### Realizátor projektu:
 
-[![](/uploads/ALKA_logo.jpg)ALKA Wildlife, o.p.s.][1]  
+[![](/uploads/ALKA_logo.jpg){: .wysiwyg-float-left}ALKA Wildlife, o.p.s.][1]  
 Lidéřovice 62, 38001 Peč
 
----
+<div class="clearfix"></div>
 
  
 
@@ -21,20 +21,20 @@ Lidéřovice 62, 38001 Peč
 #### Jan Matějů ([Muzeum Karlovy Vary][2])
 
 email: [HonzaMateju@seznam.cz](mailto:HonzaMateju@seznam.cz)  
-telefon: [+420 723524251](tel:+420-723-524-251)  
+telefon: [+420 723 524 251](tel:+420-723-524-251)  
 *hlášení výskytu/pozorování sysla obecného*
 
 #### Kateřina Poledníková ([ALKA Wildlife][1])
 
-email: katerina.polednikova@alkawildlife.eu  
-tel: [+420 606598903](tel:+420-606-598-903)  
+email: [katerina.polednikova@alkawildlife.eu](mailto:katerina.polednikova@alkawildlife.eu)   
+tel: [+420 606 598 903](tel:+420-606-598-903)  
 *známka Sysli na vinici*
 
-#### Tereza Mináriková ([ALKA Wildlife][1])
+#### Tereza Mináriková ([ALKA Wildlife][1])  
 
 email:
 [tereza.minarikova@alkawildlife.eu](mailto:tereza.minarikova@alkawildlife.eu)  
-tel: [+420 724706806](tel:+420-724-706-806)  
+tel: [+420 724 706 806](tel:+420-724-706-806)  
 *známka sysli na vinici*
 
 

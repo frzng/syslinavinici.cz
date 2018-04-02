@@ -6,6 +6,5 @@ categories: []
 position: 2
 date: '2016-07-22 09:12:07 +0000'
 ---
-Nory syslům slouží jako úkryt před predátory, k odpočinku, spánku a k
-termoregulaci
-
+Nory syslům slouží jako úkryt před predátory, k odpočinku, spánku
+a k termoregulaci

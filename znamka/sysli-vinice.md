@@ -10,19 +10,19 @@ editable_elements:
   Right column/Links: ''
 layout: withrightcolumn
 ---
-#### Viniční tratě s potvrzeným výskytem sysla obecného v roce 2015:
+#### Viniční tratě s potvrzeným výskytem sysla obecného v roce 2015:
 
 | Trať       | Reg. č.  | Podoblast       | Obec            |
 |:-----------|:---------|:----------------|:----------------|
-| Staré Hory | 77924505 | Velkopavlovická | Velké Pavlovice |
-| Bojanovska | 77924504 | Velkopavlovická | Velké Pavlovice |
-| Hrubé      | 61894203 | Slovácká        | Čejč            |
-| Išperky    | 77924503 | Velkopavlovická | Velké Pavlovice |
-| Nové hory  | 77924506 | Velkopavlovická | Velké Pavlovice |
-| Okolesy    | 75488902 | Velkopavlovická | Velké Pavlovice |
-| Kn         | 64000001 | Znojemská       | Hnanice         |
+| Staré Hory | 77924505 | Velkopavlovická | Velké Pavlovice |
+| Bojanovska | 77924504 | Velkopavlovická | Velké Pavlovice |
+| Hrubé      | 61894203 | Slovácká        | Čejč            |
+| Išperky    | 77924503 | Velkopavlovická | Velké Pavlovice |
+| Nové hory  | 77924506 | Velkopavlovická | Velké Pavlovice |
+| Okolesy    | 75488902 | Velkopavlovická | Velké Pavlovice |
+| Kn         | 64000001 | Znojemská       | Hnanice         |
 
-Mapy: viniční tratě s výskytem syslů jsou označeny červeným šrafováním
+Mapy: viniční tratě s výskytem syslů jsou označeny červeným šrafováním
 
 ![](/uploads/VT_Velke_Pavlovice_610.jpg)
 
@@ -30,5 +30,5 @@ Mapy: viniční tratě s výskytem syslů jsou označeny červeným šrafování
 
 ![](/uploads/VT_Hnanice_610.jpg)
 
-Pokud máte nějaký problém s určením trati, více o novém výskytu,
+Pokud máte nějaký problém s určením trati, více o novém výskytu,
 kontaktujte nás.

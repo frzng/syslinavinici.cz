@@ -7,5 +7,5 @@ editable_elements:
   Right column/Title: Dále ke čtení
 layout: withrightcolumn
 ---
-Známka Sysli na vinici a její doprovodné aktivity jsou financovány z
-dotačních projektů.
+Známka Sysli na vinici a její doprovodné aktivity jsou financovány
+z dotačních projektů.

@@ -403,6 +403,7 @@ collections:
   - name: single_column_page
     label: Single-column page
     file: _layouts/single_column_page.html
+    fields: []
     meta:
     - name: title
       label: Title
@@ -413,6 +414,7 @@ collections:
   - name: two_column_page
     label: Two-column page
     file: _layouts/two_column_page.html
+    fields: []
     meta:
     - name: title
       label: Title

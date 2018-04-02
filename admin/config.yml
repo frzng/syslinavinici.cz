@@ -132,26 +132,6 @@ collections:
     widget: date
     format: YYYY-MM-DD HH:mm:ss ZZ
 
-- label: Site Settings
-  name: settings
-  files:
-    - name: header
-      label: Header
-      file: _data/header.yml
-      fields:
-        - name: logo
-          label: Logo
-          widget: image
-        - name: claim
-          label: Claim
-          widget: string
-
-    - name: authors
-      label: Authors
-      label_singular: Author
-      file: _data/authors.yml
-      fields: []
-
 - name: photos
   label: Photos
   label_singular: Photo
@@ -207,3 +187,145 @@ collections:
     label: Created at
     widget: date
     format: YYYY-MM-DD HH:mm:ss ZZ
+
+- label: Site Settings
+  name: settings
+  files:
+    - name: header
+      label: Global header
+      file: _data/header.yml
+      fields:
+        - name: logo
+          label: Logo
+          widget: image
+        - name: claim
+          label: Claim
+          widget: string
+        - name: search
+          label: Search field placeholder
+          widget: string
+
+    - name: aside
+      label: Right column
+      file: _data/aside.yml
+      fields:
+        - name: title
+          label: Default title
+          widget: string
+
+    - name: home
+      label: Home page
+      file: _data/home.yml
+      fields:
+        - name: news
+          label: News section (top)
+          widget: object
+          fields:
+            - name: following
+              label: Heading introducing news following the most recent ones
+              widget: string
+            - name: all
+              label: Button label showing all news
+              widget: string
+        - name: links
+          label: Links section (middle)
+          widget: list
+          allow_add: false
+          fields:
+            - name: title
+              label: Title
+              widget: string
+            - name: url
+              label: Link Address (use relative address)
+              widget: string
+            - name: image
+              label: Image
+              widget: file
+        - name: mission
+          label: Mission section (1st bottom)
+          widget: object
+          fields:
+            - name: body
+              label: Content
+              widget: markdown
+        - name: gallery
+          label: Gallery section (2nd bottom)
+          widget: object
+          fields:
+            - name: title
+              label: Title
+              widget: string
+        - name: appeal
+          label: Appeal section (3rd bottom)
+          widget: object
+          fields:
+            - name: body
+              label: Content
+              widget: markdown
+        - name: other
+          label: Other section (4th bottom)
+          widget: object
+          fields:
+            - name: body
+              label: Content
+              widget: markdown
+
+    - name: news
+      label: News
+      file: _data/news.yml
+      fields:
+        - name: long_title
+          label: Title
+          widget: string
+
+    - name: gallery
+      label: Gallery
+      file: _data/gallery.yml
+      fields:
+        - name: long_title
+          label: Title
+          widget: string
+        - name: filter
+          label: Filtering
+          widget: object
+          fields:
+            - name: by_category
+              label: By category (filter options title)
+              widget: string
+            - name: all
+              label: All option (no filter)
+              widget: string
+        - name: body
+          label: Description
+          widget: markdown
+
+    - name: user_answers
+      label: User answers (not used)
+      label_singular: User answer
+      file: _data/user_answers.yml
+      fields: []
+
+    - name: question_form
+      label: Question form (not used)
+      file: _data/question_form.yml
+      fields: []
+
+    - name: search
+      label: Search
+      file: _data/search.yml
+      fields:
+        - name: long_title
+          label: Title
+          widget: string
+        - name: phrase
+          label: Phrase
+          widget: string
+        - name: loading
+          label: Loading
+          widget: string
+
+    - name: authors
+      label: Authors (requires edit on GitHub)
+      label_singular: Author
+      file: _data/authors.yml
+      fields: []

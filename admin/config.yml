@@ -329,3 +329,28 @@ collections:
       label_singular: Author
       file: _data/authors.yml
       fields: []
+
+- name: layouts
+  label: Layouts
+  label_singular: Layout
+  files:
+  - name: withoutrightcolumn
+    label: Two-column page
+    file: _layouts/withoutrightcolumn.html
+    meta:
+    - name: title
+      label: Title
+      widget: string
+    - name: ref
+      label: Reference
+      widget: string
+  - name: withrightcolumn
+    label: Single-column page
+    file: _layouts/withrightcolumn.html
+    meta:
+    - name: title
+      label: Title
+      widget: string
+    - name: ref
+      label: Reference
+      widget: string

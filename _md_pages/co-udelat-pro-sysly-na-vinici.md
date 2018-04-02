@@ -5,7 +5,7 @@ image: "/uploads/IMG_2845_610.JPG"
 long_title: Co mohu udělat pro sysly na vinici?
 listed: true
 position: 0
-layout: withrightcolumn
+layout: two_column_page
 date: '2016-04-13 15:16:40 +0000'
 ---
 *Aneb rady pro pěstitele vína, jak podpořit „své“ sysly na vinici či pro

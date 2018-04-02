@@ -4,7 +4,7 @@ permalink: "/znamka"
 image: "/uploads/SAM_2545_u_610.JPG"
 listed: true
 position: 5
-layout: withoutrightcolumn
+layout: single_column_page
 date: '2016-04-26 13:34:09 +0000'
 ---
 *I takto může vypadat zemědělská krajina – různorodá a plná života*

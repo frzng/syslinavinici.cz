@@ -3,7 +3,7 @@ title: Naši vinaři
 permalink: "/znamka/nasi-vinari"
 listed: true
 position: 0
-layout: withrightcolumn
+layout: two_column_page
 date: '2016-05-28 15:53:37 +0000'
 ---
 V současnosti má známku Sysli na vinici uděleno 16 vinařství z Velkých

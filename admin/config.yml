@@ -334,9 +334,9 @@ collections:
   label: Layouts
   label_singular: Layout
   files:
-  - name: withoutrightcolumn
-    label: Two-column page
-    file: _layouts/withoutrightcolumn.html
+  - name: single_column_page
+    label: Single-column page
+    file: _layouts/single_column_page.html
     meta:
     - name: title
       label: Title
@@ -344,9 +344,9 @@ collections:
     - name: ref
       label: Reference
       widget: string
-  - name: withrightcolumn
-    label: Single-column page
-    file: _layouts/withrightcolumn.html
+  - name: two_column_page
+    label: Two-column page
+    file: _layouts/two_column_page.html
     meta:
     - name: title
       label: Title

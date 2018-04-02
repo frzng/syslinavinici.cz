@@ -3,7 +3,7 @@ title: Videogalerie
 permalink: "/sysel/videogalerie"
 listed: true
 position: 1
-layout: withrightcolumn
+layout: two_column_page
 date: '2016-05-29 06:58:10 +0000'
 ---
 #### Syslí zvědavec

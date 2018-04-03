@@ -190,13 +190,13 @@ collections:
     label: Author
     widget: string
     required: false
-  - name: galleries
+  - name: gallery
     label: Gallery
     widget: relation
     collection: galleries
     searchFields:
     - page
-    valueField: slug
+    valueField: page
     required: false
   - name: position
     label: Position on global photo gallery page (not the gallery above)

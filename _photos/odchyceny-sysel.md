@@ -2,7 +2,7 @@
 title: Odchycený sysel
 image: "/uploads/11128396_10204104280835080_1057356139_o.jpg"
 author: tereza-minarikova
-galleries: slash-news-slash-kontrolou-lokalit-byl-zahajen-dvoulety-projekt
+gallery: "/news/kontrolou-lokalit-byl-zahajen-dvoulety-projekt"
 position: 5
 date: 2016-05-29 05:16:21 +0000
 ---

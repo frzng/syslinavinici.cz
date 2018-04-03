@@ -9,6 +9,17 @@ collections:
 - name: md_pages
   label: Pages
   label_singular: Page
+  description: >-
+    Simple pages with single- or two-columns layout. The pages form a
+    hierarchy with created from their addresses. The top-most page in
+    the hierarchy is home page with address “/”. Its children are News
+    (“/news”), Gallery (“/gallery”) and Search (“/search”). Previously
+    named pages are special – do not create page with their addresses
+    or their children yourself. Anythis else is up to you… You can for
+    example create About Us page (“/about”) and then its child page
+    Our Team (“/about/team”). This hierarchy is used to generate
+    navigation menu, sibling pages (in the right column) and child
+    pages (under page content).
   folder: _md_pages
   create: true
   fields:
@@ -75,11 +86,14 @@ collections:
 - name: galleries
   label: Galleries
   label_singular: Gallery
+  description: >-
+    Photo galleries linked to any content via its address. Gallery
+    photos are displayed under the content.
   folder: _galleries
   create: true
   fields:
   - name: page
-    label: Page
+    label: Page address (copy and paste from web browser address bar, and remove https:// and domain)
     widget: string
   - name: position
     label: Position
@@ -93,7 +107,6 @@ collections:
 
 - name: posts
   label: News
-  description: News on your project or website
   folder: _posts
   locomotive_name: news
   slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
@@ -106,7 +119,7 @@ collections:
     label: Image
     widget: image
   - name: listing_thumbnail
-    label: Thumbnail for news listing (274 × 175 px)
+    label: Optional thumbnail for news listing (274 × 175 px)
     widget: image
     required: false
   - name: body
@@ -127,7 +140,7 @@ collections:
 - name: showcases
   label: Showcases
   label_singular: Showcase
-  description: Big photos that are displayed on the homepage
+  description: Big photos that are displayed on the homepage.
   folder: _showcases
   create: true
   fields:
@@ -147,7 +160,9 @@ collections:
 - name: photos
   label: Photos
   label_singular: Photo
-  description: Photos in photogallery
+  description: >-
+    Photos in linked to galleries. All photos are displayed on global
+    photo gallery.
   folder: _photos
   create: true
   fields:
@@ -158,15 +173,15 @@ collections:
     label: Image (about one or two megapixels)
     widget: image
   - name: home_thumbnail
-    label: Thumbnail for home page (113 × 103 px)
+    label: Optional thumbnail for home page (113 × 103 px)
     widget: image
     required: false
   - name: gallery_thumbnail
-    label: Thumbnail for gallery (250 × 250 px)
+    label: Optional thumbnail for gallery (250 × 250 px)
     widget: image
     required: false
   - name: content_thumbnail
-    label: Thumbnail for gallery as part of a page (200 × 200 px)
+    label: Optional thumbnail for gallery as part of a page (200 × 200 px)
     widget: image
     required: false
   - name: body
@@ -187,7 +202,7 @@ collections:
     valueField: slug
     required: false
   - name: position
-    label: Position in gallery
+    label: Position on global photo gallery page (not the gallery above)
     widget: number
     valueType: int
   meta:
@@ -198,27 +213,45 @@ collections:
 
 - label: Site Settings
   name: settings
+  description: Content of special pages like titles, button labels etc.
   files:
-    - name: header
-      label: Global header
-      file: _data/header.yml
+    - name: authors
+      label: "\U0001F6AB Authors (edit only on GitHub)"
+      label_singular: Author
+      file: _data/authors.yml
+      fields: []
+
+    - name: search
+      label: Search
+      file: _data/search.yml
       fields:
-        - name: logo
-          label: Logo
-          widget: image
-        - name: claim
-          label: Claim
+        - name: long_title
+          label: Title
           widget: string
-        - name: search
-          label: Search field placeholder
+        - name: phrase
+          label: Phrase
+          widget: string
+        - name: loading
+          label: Loading
           widget: string
 
-    - name: aside
-      label: Right column
-      file: _data/aside.yml
+    - name: gallery
+      label: Gallery
+      file: _data/gallery.yml
       fields:
-        - name: title
-          label: Default title
+        - name: long_title
+          label: Title
+          widget: string
+        - name: body
+          label: Description
+          widget: markdown
+
+    - name: news
+      label: News
+      file: _data/news.yml
+      fields:
+        - name: long_title
+          label: Title
           widget: string
 
     - name: home
@@ -236,9 +269,8 @@ collections:
               label: Button label showing all news
               widget: string
         - name: links
-          label: Links section (middle)
+          label: Links section with 5 items (middle)
           widget: list
-          allow_add: false
           fields:
             - name: title
               label: Title
@@ -247,7 +279,7 @@ collections:
               label: Link Address (use relative address)
               widget: string
             - name: image
-              label: Image
+              label: Image (165 × 117 px)
               widget: file
         - name: mission
           label: Mission section (1st bottom)
@@ -278,48 +310,33 @@ collections:
               label: Content
               widget: markdown
 
-    - name: news
-      label: News
-      file: _data/news.yml
+    - name: aside
+      label: Right column
+      file: _data/aside.yml
       fields:
-        - name: long_title
-          label: Title
+        - name: title
+          label: Default title
           widget: string
 
-    - name: gallery
-      label: Gallery
-      file: _data/gallery.yml
+    - name: header
+      label: Global header
+      file: _data/header.yml
       fields:
-        - name: long_title
-          label: Title
+        - name: logo
+          label: Logo
+          widget: image
+        - name: claim
+          label: Claim
           widget: string
-        - name: body
-          label: Description
-          widget: markdown
-
-    - name: search
-      label: Search
-      file: _data/search.yml
-      fields:
-        - name: long_title
-          label: Title
+        - name: search
+          label: Search field placeholder
           widget: string
-        - name: phrase
-          label: Phrase
-          widget: string
-        - name: loading
-          label: Loading
-          widget: string
-
-    - name: authors
-      label: Authors (requires edit on GitHub)
-      label_singular: Author
-      file: _data/authors.yml
-      fields: []
 
 - name: layouts
-  label: Layouts
-  label_singular: Layout
+  label: "\U0001F6AB"
+  description: >-
+    Layouts to be references from pages. Do not delete nor edit in any
+    way.
   files:
   - name: single_column_page
     label: Single-column page

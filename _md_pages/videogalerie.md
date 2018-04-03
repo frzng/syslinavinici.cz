@@ -5,7 +5,7 @@ published: true
 listed: true
 position: 1
 layout: two_column_page
-date: '2016-05-29 06:58:10 +0000'
+date: 2016-05-29 06:58:10 +0000
 ---
 #### Syslí zvědavec
 

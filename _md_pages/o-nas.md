@@ -1,6 +1,7 @@
 ---
 title: O nás
 permalink: "/o-nas"
+published: true
 listed: true
 position: 7
 layout: single_column_page

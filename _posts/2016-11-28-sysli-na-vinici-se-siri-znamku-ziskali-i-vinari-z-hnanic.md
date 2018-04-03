@@ -1,6 +1,7 @@
 ---
 title: Známka se šíří. Získali ji i vinaři z Hnanic
 image: "/uploads/IMG_6107_610.JPG"
+published: true
 date: '2016-11-28'
 ---
 **Tisková zpráva ALKA Wildlife, o.p.s. a Ministerstva životního

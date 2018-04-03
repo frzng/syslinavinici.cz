@@ -1,6 +1,7 @@
 ---
 title: Projekty
 permalink: "/o-nas/projekty"
+published: true
 listed: true
 position: 1
 layout: two_column_page

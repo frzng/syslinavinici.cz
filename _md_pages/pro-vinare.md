@@ -2,6 +2,7 @@
 title: Pro vinaře
 permalink: "/pro-vinare"
 image: "/uploads/KMB6279_610.jpg"
+published: true
 listed: true
 position: 6
 layout: single_column_page

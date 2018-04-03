@@ -1,6 +1,7 @@
 ---
 title: Kontakty
 permalink: "/o-nas/kontakty"
+published: true
 listed: true
 position: 0
 layout: two_column_page

@@ -1,6 +1,7 @@
 ---
 title: Jaro ve Velkých Pavlovicích
 image: "/uploads/IMG_1112_610.JPG"
+published: true
 date: '2016-04-25'
 ---
 V rámci jarního mapování výskytu syslů jsme pro Vás připravili

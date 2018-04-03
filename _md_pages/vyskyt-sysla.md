@@ -3,6 +3,7 @@ title: Výskyt sysla
 permalink: "/znamka/vyskyt-sysla"
 image: "/uploads/IMG_1216_610.JPG"
 long_title: Aktuální výskyt sysla obecného
+published: true
 listed: true
 position: 3
 layout: two_column_page

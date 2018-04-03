@@ -2,6 +2,7 @@
 title: Známka
 permalink: "/znamka"
 image: "/uploads/SAM_2545_u_610.JPG"
+published: true
 listed: true
 position: 5
 layout: single_column_page

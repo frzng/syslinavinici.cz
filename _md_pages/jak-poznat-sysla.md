@@ -2,6 +2,7 @@
 title: Jak poznat sysla
 permalink: "/sysel/jak-poznat-sysla"
 image: "/uploads/DSCN0127_610.JPG"
+published: true
 listed: true
 position: 0
 layout: two_column_page

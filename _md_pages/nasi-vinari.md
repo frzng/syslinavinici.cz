@@ -1,6 +1,7 @@
 ---
 title: Naši vinaři
 permalink: "/znamka/nasi-vinari"
+published: true
 listed: true
 position: 0
 layout: two_column_page

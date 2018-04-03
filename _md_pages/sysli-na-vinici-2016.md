@@ -2,6 +2,7 @@
 title: Sysli na vinici 2016
 permalink: "/o-nas/projekty/sysli-na-vinici-2016"
 image: "/uploads/IMG_6044_610.JPG"
+published: true
 listed: true
 position: 1
 layout: two_column_page

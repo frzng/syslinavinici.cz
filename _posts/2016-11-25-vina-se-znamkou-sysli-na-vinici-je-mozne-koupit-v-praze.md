@@ -1,6 +1,7 @@
 ---
 title: Vína se známkou je možné koupit v Praze
 image: "/uploads/IMG_6041_610.JPG"
+published: true
 date: '2016-11-25'
 ---
 A je tady první vinárna s naší samolepkou Sysli na vinici! Do Vánoc si

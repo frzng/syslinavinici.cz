@@ -51,13 +51,9 @@ collections:
   - name: published
     label: Published (publicly available under address)
     widget: boolean
-    required: false
-    default: true
   - name: listed
     label: Show in the navigation menu
     widget: boolean
-    required: false
-    default: false
   - name: position
     label: Position among siblings in listings
     widget: number
@@ -129,8 +125,6 @@ collections:
   - name: published
     label: Published
     widget: boolean
-    default: true
-    required: false
   - name: date
     label: Published at
     widget: date

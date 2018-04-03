@@ -1,6 +1,7 @@
 ---
 title: Syslí svatomartinské víno 2017
 image: "/uploads/130-baner-svatomartinske2017_610.jpg"
+published: true
 date: '2017-11-10'
 ---
 Po roce opět můžete ochutnat víno se známkou Sysli na vinici na

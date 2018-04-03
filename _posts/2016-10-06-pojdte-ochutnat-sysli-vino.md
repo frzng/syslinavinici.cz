@@ -1,6 +1,7 @@
 ---
 title: Pojďte ochutnat "syslí" víno
 image: "/uploads/IMG_3042_610.jpg"
+published: true
 date: '2016-10-06'
 ---
 V **listopadu** jsou pro Vás připraveny dvě akce, na kterých můžete

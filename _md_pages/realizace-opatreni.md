@@ -2,6 +2,7 @@
 title: Realizace opatření ZP
 permalink: "/o-nas/projekty/realizace-opatreni"
 image: "/uploads/DSCN0196_610.JPG"
+published: true
 listed: true
 position: 0
 layout: two_column_page

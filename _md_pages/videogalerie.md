@@ -1,6 +1,7 @@
 ---
 title: Videogalerie
 permalink: "/sysel/videogalerie"
+published: true
 listed: true
 position: 1
 layout: two_column_page

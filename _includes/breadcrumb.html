@@ -34,7 +34,7 @@
 
       {% if item.url == "/" %}
         <a href="{{ item_url | relative_url }}" class="breadcrumb__item uppercase">
-          {{ site.title | split: '.' | first }}
+          {{ site.title }}
         </a>
         &gt;
       {% elsif item.url != page.url %}

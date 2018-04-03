@@ -1,6 +1,8 @@
 # Site settings
-title: syslinavinici.cz
-description: ""
+title: Sysli na vinici
+description: >-
+  Záchrana sysla obecného v naší krajině a podpora vinařů, kteří na
+  svých vinohradech sysla mají.
 baseurl: ""
 url: https://www.syslinavinici.cz
 author: alka-wildlife

@@ -228,6 +228,12 @@ def field_key_value entry, field
   case field['widget']
   when 'string', 'text'
     v.strip!
+  when 'date'
+    if field['format'].include? 'H'
+      v = Time.parse v
+    else
+      v = Date.parse
+    end
   when 'image'
     v = local_asset_from v
   when 'list'

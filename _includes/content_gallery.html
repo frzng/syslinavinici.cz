@@ -4,17 +4,16 @@
   <div class="article-gallery m-top-3">
     <h3>Galerie</h3>
     <ul class="article-gallery-list">
-      {% capture gallery_url -%}
-        {% include helpers/pretty_url.html page=gallery %}
-      {%- endcapture %}
-      {% assign gallery_slug = gallery_url | split: "/" | last %}
       {% assign photos = site.photos |
            where: "gallery", gallery.page |
            sort: "position" %}
       {% for photo in photos %}
         <li class="article-gallery-item img-full">
           {% assign author = site.data.authors[photo.author] %}
-          {% capture photo_title %}{{ author.name }} &ndash; {{ photo.title }}{% endcapture %}
+          {% capture photo_title -%}
+            {%- if author %}{{ author.name }} &ndash; {% endif -%}
+            {{ include.photo.title }}
+          {%- endcapture %}
           <a href="{{ photo.image | relative_url }}"
              data-rel="lightcase:gallery"
              class="article-gallery-link"
@@ -22,7 +21,7 @@
              data-lc-title="{{ photo_title }}">
              <img src="{{ photo.content_thumbnail | default: photo.image | relative_url }}"
                   class="object-fit-cover" data-object-fit="cover"
-                  alt="{{ photo.description | markdownify | strip_html }}">
+                  alt="{{ photo.content | markdownify | strip_html}}"/>
           </a>
         </li>
       {% endfor %}

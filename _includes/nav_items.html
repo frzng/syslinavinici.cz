@@ -13,17 +13,21 @@
 
       {% assign opened = false %}
       {% for child in children %}
-        {% if forloop.first %}
-          {% assign opened = true %}
-          <ul>
-        {% endif %}
         {% capture child_url -%}
           {% include helpers/pretty_url.html page=child %}
         {%- endcapture %}
-        {% assign url_parts_size_check = child_url | split: "/" | size | minus: 1 %}
+        {% assign url_parts_size_check = child_url |
+             split: "/" |
+             size |
+             minus: 1 %}
         {% if url_parts_size_check > url_parts.size %}
           {% continue %}
         {% endif %}
+
+        {% unless opened %}
+          {% assign opened = true %}
+          <ul>
+        {% endunless %}
         <li>
           <a href="{{ child_url | relative_url }}">{{ child.title }}</a>
         </li>

@@ -9,6 +9,6 @@ layout: contentpage
     <h3>{{ site.data.news.long_title }}</h3>
   </div>
   {% for post in site.posts %}
-    {% include news_item.html post=post %}
+    {% include news_item.html news=post %}
   {% endfor %}
 </div>

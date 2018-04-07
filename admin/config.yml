@@ -1,4 +1,3 @@
----
 backend:
   name: git-gateway
   branch: master
@@ -104,7 +103,6 @@ collections:
 - name: posts
   label: News
   folder: _posts
-  locomotive_name: news
   slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
   create: true
   fields:
@@ -121,7 +119,6 @@ collections:
   - name: body
     label: Content
     widget: markdown
-    locomotive_name: content
   - name: published
     label: Published
     widget: boolean
@@ -129,7 +126,6 @@ collections:
     label: Published at
     widget: date
     format: YYYY-MM-DD
-    locomotive_name: published_at
 
 - name: showcases
   label: Showcases
@@ -185,7 +181,6 @@ collections:
     label: Description
     widget: markdown
     required: false
-    locomotive_name: description
   - name: author
     label: Author
     widget: string
@@ -346,9 +341,9 @@ collections:
     - name: ref
       label: Reference
       widget: string
-  - name: two_column_page
-    label: Two-column page
-    file: _layouts/two_column_page.html
+  - name: two_columns_page
+    label: Two-columns page
+    file: _layouts/two_columns_page.html
     fields: []
     meta:
     - name: title

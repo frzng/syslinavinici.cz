@@ -1,7 +1,7 @@
 ---
 title: Two-column page with content on the left and aside on the right
 layout: default
-ref: two_column_page
+ref: two_columns_page
 ---
 <div id="content-row">
   <div class="row-container">
@@ -14,6 +14,7 @@ ref: two_column_page
               <div class="item_header">
                 <h3 class="item_title">{{ page.long_title | default: page.title }}{% if page.subtitle %} <small>{{ page.subtitle }}</small>{% endif %}</h3>
               </div>
+
               {% if page.image %}
                 <div class="item_img img-full img-full__none item-image">
                   <img src="{{ page.image | relative_url }}">

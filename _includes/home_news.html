@@ -4,17 +4,15 @@
       <div class="row-fluid">
         {% for post in site.posts, limit: 3 %}
           <div class="span3">
-            {% include home_news_bigitem.html post=post %}
+            {% include home_news_bigitem.html news=post %}
           </div>
         {% endfor %}
 
-        <div class="moduletable news span3">
-          <h4 class="moduleTitle">
-            {{ site.data.home.news.following }}
-          </h4>
+        <div class="moduletable news  span3">
+          <h4 class="moduleTitle ">{{ site.data.home.news.following }}</h4>
           <div class="mod-newsflash-adv mod-newsflash-adv__news">
             {% for post in site.posts, limit: 3, offset: 3 %}
-              {% include home_news_smallitem.html post=post %}
+              {% include home_news_smallitem.html news=post %}
             {% endfor %}
           </div>
 

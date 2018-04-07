@@ -5,7 +5,7 @@ image: "/uploads/DSCN0196_610.JPG"
 published: true
 listed: true
 position: 0
-layout: two_column_page
+layout: two_columns_page
 date: 2016-05-28 09:45:59 +0000
 ---
 **Registrace ochranné známky, uvedení do činnosti, webové stránky

@@ -6,7 +6,7 @@ long_title: Co mohu udělat pro sysly na vinici?
 published: true
 listed: true
 position: 0
-layout: two_column_page
+layout: two_columns_page
 date: 2016-04-13 15:16:40 +0000
 ---
 *Aneb rady pro pěstitele vína, jak podpořit „své“ sysly na vinici či pro

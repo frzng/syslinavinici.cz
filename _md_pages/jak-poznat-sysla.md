@@ -5,7 +5,7 @@ image: "/uploads/DSCN0127_610.JPG"
 published: true
 listed: true
 position: 0
-layout: two_column_page
+layout: two_columns_page
 date: 2016-09-13 13:54:33 +0000
 ---
 Sysel obecný je hlodavec z příbuzenstva veverek. Váží nejčastěji 200 až

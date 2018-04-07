@@ -5,7 +5,7 @@ image: "/uploads/IMG_6044_610.JPG"
 published: true
 listed: true
 position: 1
-layout: two_column_page
+layout: two_columns_page
 date: 2016-12-04 08:59:20 +0000
 ---
 **Název projektu**: Sysli na vinici

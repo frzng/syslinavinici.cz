@@ -5,7 +5,7 @@ image: "/uploads/IMG_1216_610.JPG"
 published: false
 listed: false
 position: 1
-layout: two_column_page
+layout: two_columns_page
 date: 2016-05-28 15:58:34 +0000
 ---
 #### Viniční tratě s potvrzeným výskytem sysla obecného v roce 2015:

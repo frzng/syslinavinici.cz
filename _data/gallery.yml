@@ -4,3 +4,6 @@ body: |+
   použít pro nekomerční účely (např. do škol pro výuku). V případě
   domluvy zašleme v lepším rozlišení. Pro komerční použití snímků či
   videí nás kontaktujte, cena bude stanovena dle konkrétního užití.
+filter:
+  all: všechny fotografie
+  by_tag: Filtr podle kategorií

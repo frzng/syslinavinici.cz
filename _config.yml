@@ -32,6 +32,7 @@ collections:
     output: true
     permalink: "/news/:title"
   showcases: {}
+  filterable_tags: {}
   photos: {}
 
 defaults:

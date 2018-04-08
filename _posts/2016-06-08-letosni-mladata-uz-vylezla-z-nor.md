@@ -2,7 +2,7 @@
 title: Jeden den v životě jedné syslí rodiny
 image: "/uploads/DSCN1240.JPG"
 published: true
-date: '2016-06-08'
+date: 2016-06-08
 ---
 Sysli tráví čas od podzimu do jara zimním spánkem. Po probuzení začíná
 období páření. Po 25–28 dnech březosti samice rodí holá mláďata, která

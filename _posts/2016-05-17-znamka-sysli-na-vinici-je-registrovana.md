@@ -2,7 +2,7 @@
 title: Známka Sysli na vinici je registrovaná
 image: "/uploads/sysli_na_vinici_logo_200.jpg"
 published: true
-date: '2016-05-17'
+date: 2016-05-17
 ---
 U Úřadu průmyslového vlastnictví byla zaregistrována ochranná známka
 Sysli na vinici. Udělována bude vinařům, kteří mají na svých vinicích

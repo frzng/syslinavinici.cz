@@ -2,7 +2,7 @@
 title: O syslovi ve Velkých Pavlovicích
 image: "/uploads/IMG_2372_610.JPG"
 published: true
-date: '2016-06-28'
+date: 2016-06-28
 ---
 ***Přijeďte na víkend do Velkých Pavlovic: v pátek bude přednáška
 o syslovi a v sobotu nás uvidíte po celý den v informačním stánku či se

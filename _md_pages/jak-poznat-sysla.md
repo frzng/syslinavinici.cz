@@ -64,5 +64,5 @@ email: [katerina.polednikova@alkawildlife.eu](mailto:katerina.polednikova@alkawi
 tel: [+420 606 598 903](tel:+420-606-598-903)
 
 
-[1]: http://kvmuz.cz/
-[2]: http://www.alkawildlife.eu/
+[1]: http://kvmuz.cz
+[2]: https://www.alkawildlife.eu

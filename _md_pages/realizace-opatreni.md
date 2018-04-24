@@ -124,5 +124,5 @@ a toleranci ze strany vinařů.
 ![](/uploads/samolepka_Syslinavinici.jpg)
 
 
-[1]: http://www.alkawildlife.eu
+[1]: https://www.alkawildlife.eu
 [2]: http://kvmuz.cz

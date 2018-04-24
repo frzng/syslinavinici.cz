@@ -123,16 +123,16 @@ Petr Procházka
 [Miroslava Balounová][13]
 
 
-[1]: http://www.syslinavinici.cz
-[2]: http://www.slechtitelka.cz/
-[3]: http://www.vinarstvi-prochazka.cz/
-[4]: http://www.vinobuchtovi.cz/
-[5]: http://www.vinosusky.cz/
-[6]: http://www.naturalfactors.cz/
-[7]: http://www.vinozborovsky.cz/
-[8]: http://www.vinarstvi-krejcirik.cz/
-[9]: https://www.vinarstvimikulica.cz/
-[10]: http://www.michna.cz/
-[11]: http://www.vinarstvilacina.cz/
-[12]: http://www.zborovsky.cz/
-[13]: http://www.baloun.cz/
+[1]: https://www.syslinavinici.cz
+[2]: http://www.slechtitelka.cz
+[3]: http://www.vinarstvi-prochazka.cz
+[4]: http://www.vinobuchtovi.cz
+[5]: http://www.vinosusky.cz
+[6]: http://www.naturalfactors.cz
+[7]: http://www.vinozborovsky.cz
+[8]: http://www.vinarstvi-krejcirik.cz
+[9]: https://www.vinarstvimikulica.cz
+[10]: http://www.michna.cz
+[11]: http://www.vinarstvilacina.cz
+[12]: http://www.zborovsky.cz
+[13]: http://www.baloun.cz

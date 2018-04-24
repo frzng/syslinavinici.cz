@@ -45,6 +45,6 @@ a informační letáky. Vaše vinařství bude uvedeno na webových stránkách
 [www.syslinavinici.cz][3].
 
 
-[1]: http://www.alkawildlife.eu/
-[2]: http://www.kvmuz.cz/
-[3]: http://www.syslinavinici.cz
+[1]: https://www.alkawildlife.eu
+[2]: http://www.kvmuz.cz
+[3]: https://www.syslinavinici.cz

@@ -29,7 +29,7 @@ vyjadřovat stanoviska MŽP.
 
 # Partneři:
 
-[ALKA Wildlife, o.p.s.](www.alkawildlife.eu) (vedoucí partner)
+[ALKA Wildlife, o.p.s.](https://www.alkawildlife.eu) (vedoucí partner)
 
 [DAPHNE – Inštitút aplikovanej ekológie][1]
 (hlavní přeshraniční partner)

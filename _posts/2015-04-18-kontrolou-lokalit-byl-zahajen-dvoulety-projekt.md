@@ -3,6 +3,8 @@ title: Kontrolou lokalit byl zahájen dvouletý projekt
 image: "/uploads/IMG_0504_610.JPG"
 published: true
 date: 2015-04-18
+category: news
+layout: news
 ---
 Týdenní expedicí byl zahájen dvouletý projekt Realizace opatření
 Záchranného programu sysla obecného na jižní Moravě.

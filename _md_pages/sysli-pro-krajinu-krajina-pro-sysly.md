@@ -9,12 +9,12 @@ position: 2
 layout: single_column_page
 date: 2018-03-30 05:58:36 +0000
 ---
-#### Kódy projektů:
+# Kódy projektů:
 
 NFP304020D154  
 MZP 104/32/18
 
-#### Financování:
+# Financování:
 
 Program: Interreg V-A Slovenská republika – Česká republika
 
@@ -25,9 +25,9 @@ Spoločne bez hraníc / Společně bez hranic
 Projekt je podpořen Ministerstvem životního prostředí, projekt nemusí
 vyjadřovat stanoviska MŽP.
 
-#### ![](/uploads/OPEU-Logo-MZP_20141218v.JPG)
+# ![](/uploads/OPEU-Logo-MZP_20141218v.JPG)
 
-#### Partneři:
+# Partneři:
 
 [ALKA Wildlife, o.p.s.](www.alkawildlife.eu) (vedoucí partner)
 
@@ -38,15 +38,15 @@ vyjadřovat stanoviska MŽP.
 
 [Národná zoologická záhrada Bojnice][3]
 
-#### Trvání:
+# Trvání:
 
 02/2018 – 01/2020
 
-#### Kontaktní osoba:
+# Kontaktní osoba:
 
 Kateřina Poledníková
 
-#### Cíl projektu
+# Cíl projektu
 
 Sysel obecný je ohrožený druh, jeden z nejvzácnějších savců
 Evropy. V současnosti je znám z programového území jen z 24 izolovaných
@@ -63,7 +63,7 @@ a symbol zachovalé stepní zemědělské krajiny.
 
 ![](/uploads/IMG_2423_u_610.JPG)
 
-#### Aktivity projektu
+# Aktivity projektu
 
 Projekt bude realizovat ochranu tohoto druhu komplexně, na několika
 úrovních, v obou zemích zrcadlově.  Nezbytné jsou výzkumné aktivity,

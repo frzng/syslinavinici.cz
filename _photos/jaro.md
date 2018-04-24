@@ -1,8 +1,0 @@
----
-title: Jaro
-image: "/uploads/IMG_1116.JPG"
-author: katerina-polednikova
-gallery: "/news/jaro-ve-velkych-pavlovicich"
-position: 15
-date: 2016-05-29 05:58:37 +0000
----

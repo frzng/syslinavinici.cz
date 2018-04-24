@@ -25,16 +25,16 @@ Evropy. Proto je v současnosti sysel **chráněným druhem** v kategorii
 kriticky ohrožený. Zakázáno je proto sysly zabíjet, chytat nebo ničit
 jejich nory.
 
-### Dále ke čtení
+# Dále ke čtení
 
-#### [Co dělají sysli v listopadu?](/news/co-delaji-sysli-v-listopadu)
+## [Co dělají sysli v listopadu?](/news/co-delaji-sysli-v-listopadu)
 
 *Co dělají sysli v listopadu? Spí. A někteří už poměrně dlouho. Samice,
 které se v daném roce nerozmnožují, se ukládají ke spánku již na konci
 července, pak je následují samci a nakonec v září či v říjnu tohoroční
 mláďata…*
 
-#### [Jeden den v životě jedné syslí rodiny](/news/letosni-mladata-uz-vylezla-z-nor)
+## [Jeden den v životě jedné syslí rodiny](/news/letosni-mladata-uz-vylezla-z-nor)
 
 *Sysli tráví čas od podzimu do jara zimním spánkem. Po probuzení začíná
 období páření. Po 25–28 dnech březosti samice rodí holá mláďata, která

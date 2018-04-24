@@ -3,6 +3,8 @@ title: O syslovi ve Velkých Pavlovicích
 image: "/uploads/IMG_2372_610.JPG"
 published: true
 date: 2016-06-28
+category: news
+layout: news
 ---
 ***Přijeďte na víkend do Velkých Pavlovic: v pátek bude přednáška
 o syslovi a v sobotu nás uvidíte po celý den v informačním stánku či se
@@ -23,15 +25,15 @@ Kde: **Velké Pavlovice** v rámci dvou akcí:
 
 ![](/uploads/IMG_2378_610.JPG){: .wysiwyg-float-left}
 
-#### Program k syslovi:
+# Program k syslovi:
 
-##### Pátek 1. července 2016
+## Pátek 1. července 2016
 
 **Přednáška** Jana Matějů v rámci semináře od 18:00 v Ekocentru
 Trkmanka: "Sysel obecný – kriticky ohrožený druh naší fauny, proč a jak
 jej chránit"
 
-##### Sobota 2. července 2016
+## Sobota 2. července 2016
 
 **Informační stánek**: v Ekocentru Trkmanka od 10:00 do 17:00
 

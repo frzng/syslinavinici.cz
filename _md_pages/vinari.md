@@ -12,7 +12,7 @@ Pavlovic a 4 z Hnanic. Odkazy Vás navedou na jejich webové stránky, kde
 najdete více informací o těchto vinařstvích, i e-shopy, kde si můžete
 jejich víno nakoupit.
 
-#### Velké Pavlovice:
+# Velké Pavlovice:
 
 [Šlechtitelská stanice vinařská Velké Pavlovice a.s.][1]
 
@@ -46,7 +46,7 @@ Petr Procházka
 
 [Vinařství Halm][14]
 
-#### Hnanice:
+# Hnanice:
 
 [Vinařství Špetíci][15]
 

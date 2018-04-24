@@ -3,6 +3,8 @@ title: Májové Otevřené sklepy
 image: "/uploads/IMG_6119_610.JPG"
 published: true
 date: 2017-04-25
+category: news
+layout: news
 ---
 Příští víkend můžete ochutnat víno se známkou Sysli na vinici a seznámit
 se s vinaři, kterým bylo ocenění uděleno. Příležitost máte na Májových

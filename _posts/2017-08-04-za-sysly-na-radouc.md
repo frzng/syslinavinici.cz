@@ -3,6 +3,8 @@ title: Za sysly na Radouč
 image: "/uploads/sysel_radou__610.jpg"
 published: true
 date: 2017-08-04
+category: news
+layout: news
 ---
 Pojďte se podívat na kolonii syslů žijících v Mladé Boleslavi. Na
 Radouči existuje zřejmě nejochočenější kolonie syslů v ČR. Proč jsou

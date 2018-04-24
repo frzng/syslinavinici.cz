@@ -3,12 +3,14 @@ title: Pojďte ochutnat "syslí" víno
 image: "/uploads/IMG_3042_610.jpg"
 published: true
 date: 2016-10-06
+category: news
+layout: news
 ---
 V **listopadu** jsou pro Vás připraveny dvě akce, na kterých můžete
 ochutnat „syslí“ vína – vína s ochrannou známkou ***Sysli na vinici***.
 Víno můžete ochutnat na **jižní Moravě**, nebo v **Praze**.
 
-#### Svatomartinské otevřené sklepy
+# Svatomartinské otevřené sklepy
 
 Kdy: **12. 11. 2016**             11:00 – 18:00
 
@@ -19,7 +21,7 @@ potkáte u prodeje vstupenek a později v jednotlivých sklepech.
 
 [http://www.vinozvelkychpavlovic.cz/svatomartinske-otevrene-sklepy-2016][1]
 
-#### Degustace vín ve vinotéce na vinohradech
+# Degustace vín ve vinotéce na vinohradech
 
 Kdy: **24. 11. 2016**             19:00 – 21:00
 

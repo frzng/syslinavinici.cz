@@ -3,6 +3,8 @@ title: Vína se známkou je možné koupit v Praze
 image: "/uploads/IMG_6041_610.JPG"
 published: true
 date: 2016-11-25
+category: news
+layout: news
 ---
 A je tady první vinárna s naší samolepkou Sysli na vinici! Do Vánoc si
 zde můžete koupit víno od pěti vinařství, které má zlatou známku Sysli

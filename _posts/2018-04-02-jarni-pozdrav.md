@@ -2,6 +2,8 @@
 title: Jarní pozdrav
 image: "/uploads/DSCN2741.JPG"
 date: 2018-04-02
+category: news
+layout: news
 ---
 S Velikonocemi začíná jaro, nám začíná nový projekt [Sysli pro krajinu
 krajina pro sysly](/o-nas/projekty/sysli-pro-krajinu-krajina-pro-sysly),

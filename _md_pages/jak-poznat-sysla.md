@@ -52,13 +52,13 @@ nevíme.
 
 Údaje o svém pozorování a nálezech nám můžete hlásit na:
 
-#### Jan Matějů ([Muzeum Karlovy Vary][1])
+# Jan Matějů ([Muzeum Karlovy Vary][1])
 
 email: [HonzaMateju@seznam.cz](mailto:HonzaMateju@seznam.cz)  
 telefon: [+420 723 524 251](tel:+420-723-524-251)  
 *hlášení výskytu/pozorování sysla obecného*
 
-#### Kateřina Poledníková ([ALKA Wildlife][2])
+# Kateřina Poledníková ([ALKA Wildlife][2])
 
 email: [katerina.polednikova@alkawildlife.eu](mailto:katerina.polednikova@alkawildlife.eu)  
 tel: [+420 606 598 903](tel:+420-606-598-903)

@@ -3,6 +3,8 @@ title: Syslí imigranti ve dvou vinařských obcích
 image: "/uploads/IMG_2597_610b.JPG"
 published: true
 date: 2016-07-21
+category: news
+layout: news
 ---
 S rakouskými kolegy jsme kontrolovali vinice v blízkosti státní hranice,
 abychom porovnali výskyt syslů v obou zemích od Valtic až po národní

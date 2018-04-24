@@ -11,18 +11,18 @@ date: 2016-05-28 09:45:59 +0000
 **Registrace ochranné známky, uvedení do činnosti, webové stránky
 i první doprovodné aktivity bylo realizováno v rámci projektu:**
 
-### **Realizace opatření ZP sysla obecného na jižní Moravě**
+# **Realizace opatření ZP sysla obecného na jižní Moravě**
 
-#### Partneři:
+## Partneři:
 
 [ALKA Wildlife, o.p.s.][1]  
 [Muzeum Karlovy Vary][2]
 
-#### Trvání projektu:
+## Trvání projektu:
 
 2015–2017
 
-#### Finanční zdroje:
+## Finanční zdroje:
 
 EHP fondy 2009–2014, Ministerstvo životního prostředí
 
@@ -39,11 +39,11 @@ donora nebo Ministerstva životního prostředí.
 **Program**: Malé grantové schéma Záchranné programy pro zvláště
 chráněné druhy II Programu CZ02
 
-#### Kontaktní osoba:
+## Kontaktní osoba:
 
 Lukáš Poledník
 
-#### **Cíl projektu**
+## **Cíl projektu**
 
 Sysel obecný patřil na našem území v minulosti k běžným druhům savců
 nižších poloh. V druhé polovině 20. století však došlo k strmému úbytku
@@ -70,9 +70,9 @@ funkční metapopulace je oblast jižní Moravy jednou z nejpříznivějších
 oblastí v rámci celé ČR a podle indicií posledních let se zdá, že by
 mohla být pro zachování sysla v ČR naprosto klíčová.
 
-#### **Aktivity projektu**
+## **Aktivity projektu**
 
-##### 1. Monitoring sysla obecného v oblasti jižní Moravy
+### 1. Monitoring sysla obecného v oblasti jižní Moravy
 
 Monitoring výskytu sysla obecného je soustředěn do vinařských lokalit
 Kyjovské pahorkatiny. Mapování probíhá formou kontroly předem vybraných
@@ -84,7 +84,7 @@ obyvatel a vlastníků pozemků.
 
 ![](/uploads/IMG_0504_610.JPG)
 
-##### 2. Demografická studie
+### 2. Demografická studie
 
 V rámci studie je opakovaně kontrolována populace sysla obecného na
 travnatém letišti v Miroslavi za účelem zjištění aktuálního stavu
@@ -95,7 +95,7 @@ o zásadní informace pro propojení stávajících izolovaných populací.
 
 ![](/uploads/sysel_chycen_610.jpg)
 
-##### 3. Analýza životaschopnosti populace
+### 3. Analýza životaschopnosti populace
 
 Jedním ze základních nástrojů pro nastavení vhodných opatření pro
 ochranu druhu se v posledních letech stává tzv. metoda PVA (analýza
@@ -111,7 +111,7 @@ efektivity.
 
 ![](/uploads/sysel_2016_basic_srovnani.jpg)
 
-##### 4. Osvěta
+### 4. Osvěta
 
 Cílem osvěty je informování pěstitelů vína a dalších majitelů pozemků na
 jižní Moravě o tomto druhu a podpora vinařů, kteří pěstují vinou révu

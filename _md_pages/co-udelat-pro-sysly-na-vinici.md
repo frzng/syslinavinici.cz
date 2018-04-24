@@ -25,7 +25,7 @@ zaniknou. A pro vinaře, kteří sysla na své vinici nechtějí, máme vzkaz:
 sysli nijak na vinici neškodí, nemusíte se jich bát; a prosbu: pomozte
 nám je chránit, zaslouží si to.  {: .wysiwyg-text-align-justify}
 
-#### Výška porostu do 15 cm
+# Výška porostu do 15 cm
 
 Zcela zásadní je výška travního porostu. Ten by neměl přesáhnout výšku
 15 cm, řídké porosty mohou být i vyšší. Počet sečí závisí na úživnosti
@@ -34,7 +34,7 @@ totiž potřebuje mít přehled o svém okolí, o predátorech, kteří se k 
 blíží. Proto se také neustále rozhlíží, panáčkují a pozorně sledují
 okolí. Trávu je možné pást, kosit i mulčovat.
 
-#### Nepoužívání rodenticidů
+# Nepoužívání rodenticidů
 
 Syslům škodí všechny rodenticidy, což jsou jedy hubící hlodavce. Sysel
 je hlodavec. Problém je, když je rodenticid použit na vinicích, ale také
@@ -43,7 +43,7 @@ soused rozhodne pro použití rodenticidů, poraďte mu, aby jej aplikoval
 jen v zimním období (sysel na rozdíl od ostatních hlodavců spí zimním
 spánkem).
 
-#### Výživné zdroje potravy
+# Výživné zdroje potravy
 
 Sysel se živí různými částmi rostlin – listy, semeny, kořeny. Syslům ale
 můžete pomoci výsevem/sadbou rostlin, které jsou velmi kalorické – sysli
@@ -55,7 +55,7 @@ Pokud plánujete vysazení stromu, myslete na sysly: vhodnější jsou rané
 odrůdy – odrůdy jablek dozrávajících v září již syslům spícím v norách
 nepomohou.
 
-#### Propojení vinic
+# Propojení vinic
 
 Ne všude ve vinařské krajině je prostředí dobré pro sysly. Mezi
 jednotlivými vinicemi, kde se vhodně hospodaří, jsou i nezatravněné
@@ -65,7 +65,7 @@ propojené, aby se mohli jedinci setkávat kvůli rozmnožování, přesunovat
 atd. Vytváření vhodných plošek či pásů tomu pomůže. Může to být i jen
 sečená tráva podél cest, nebo např. porost vojtěšky.
 
-#### Zatravňování
+# Zatravňování
 
 Podmínkou udělení známky „*Sysli na vinici*“ je zatravnění alespoň
 každého druhého meziřadí. Větší prostor pro sysly ale samozřejmě
@@ -73,7 +73,7 @@ vytvoříte tím, že bude zatravněno každé. Také stálost travního porostu
 je důležitá, pokud možno tedy zatravněná meziřadí nepřeorávejte
 a zatravněné plochy nelikvidujte.
 
-#### Přikrmování
+# Přikrmování
 
 Pokud v jarním období (zejména květen a červen) dojde k několikadennímu
 chladnějšímu, deštivému počasí, může dojít k tomu, že samice nezvládnou

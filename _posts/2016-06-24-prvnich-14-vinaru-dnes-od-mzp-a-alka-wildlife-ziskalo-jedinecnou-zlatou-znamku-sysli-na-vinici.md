@@ -3,6 +3,8 @@ title: Prvních 14 vinařů získalo známku
 image: "/uploads/IMG_3010_610.jpg"
 published: true
 date: 2016-06-24
+category: news
+layout: news
 ---
 **Velké Pavlovice, 24. 6. 2016 – Čeští i moravští vinaři mají ode dneška
 nové, naprosto jedinečné ocenění. Je jím speciální zlatá známka

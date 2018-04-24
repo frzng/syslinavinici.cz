@@ -25,7 +25,7 @@ Známku může získat víno, které pochází z vinice
 
 1) z viniční trati, kde byl v daném roce prokázán výskyt sysla obecného
 
-2) na které se hospodaří způsobem šetrným k syslům   
+2) na které se hospodaří způsobem šetrným k syslům  
 (je zatravněn minimálně každý druhý řádek, vinař toleruje sysly
 a nepoužívá rodenticidy)
 

@@ -21,7 +21,7 @@ links:
 
 mission:
   body: |+
-    ### Mise
+    # Mise
 
     Smyslem známky SYSLI NA VINICI je pomoci k záchraně sysla obecného
     v naší krajině a podpora vinařů, kteří na svých vinohradech sysla
@@ -33,7 +33,7 @@ gallery:
 
 appeal:
   body: |+
-    ### Výzva
+    # Výzva
 
     Hledáme sysly!  
     Pomozte nám mapovat jejich výskyt.
@@ -44,6 +44,6 @@ appeal:
 
 other:
   body: |+
-    ### [Videogalerie](/sysel/videogalerie)
+    # [Videogalerie](/sysel/videogalerie)
 
     ![](/uploads/EK000047_100.JPG)

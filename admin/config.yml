@@ -75,7 +75,7 @@ collections:
     widget: markdown
     required: false
   - name: datetime
-    label: "\U0000270B Published at (change with caution)"
+    label: "\U00002757 Published at (change with caution)"
     widget: date
     format: YYYY-MM-DD HH:mm:ss ZZ
 
@@ -96,7 +96,7 @@ collections:
     widget: number
     valueType: int
   - name: datetime
-    label: "\U0000270B Published at (change with caution)"
+    label: "\U00002757 Published at (change with caution)"
     widget: date
     format: YYYY-MM-DD HH:mm:ss ZZ
 
@@ -126,15 +126,15 @@ collections:
     label: Published
     widget: boolean
   - name: date
-    label: "\U0000270B Published at (change with caution)"
+    label: "\U00002757 Published at (change with caution)"
     widget: date
     format: YYYY-MM-DD
   - name: category
-    label: "\U0000270B Category (do not change)"
+    label: "\U0001F6AB Category (do not change)"
     widget: string
     default: news
   - name: layout
-    label: "\U0000270B Layout (do not change)"
+    label: "\U0001F6AB Layout (do not change)"
     widget: string
     default: news
 
@@ -156,7 +156,7 @@ collections:
     widget: number
     valueType: int
   - name: datetime
-    label: "\U0000270B Published at (change with caution)"
+    label: "\U00002757 Published at (change with caution)"
     widget: date
     format: YYYY-MM-DD HH:mm:ss ZZ
 
@@ -188,15 +188,15 @@ collections:
     widget: list
     required: false
   - name: datetime
-    label: "\U0000270B Published at (change with caution)"
+    label: "\U00002757 Published at (change with caution)"
     widget: date
     format: YYYY-MM-DD HH:mm:ss ZZ
   - name: category
-    label: "\U0000270B Category (do not change)"
+    label: "\U0001F6AB Category (do not change)"
     widget: string
     default: user-answers
   - name: layout
-    label: "\U0000270B Layout (do not change)"
+    label: "\U0001F6AB Layout (do not change)"
     widget: string
     default: user_answer
 
@@ -220,7 +220,7 @@ collections:
     widget: number
     valueType: int
   - name: datetime
-    label: "\U0000270B Published at (change with caution)"
+    label: "\U00002757 Published at (change with caution)"
     widget: date
     format: YYYY-MM-DD HH:mm:ss ZZ
 
@@ -280,15 +280,15 @@ collections:
     widget: number
     valueType: int
   - name: datetime
-    label: "\U0000270B Published at (change with caution)"
+    label: "\U00002757 Published at (change with caution)"
     widget: date
     format: YYYY-MM-DD HH:mm:ss ZZ
   - name: category
-    label: "\U0000270B Category (do not change)"
+    label: "\U0001F6AB Category (do not change)"
     widget: string
     default: gallery
   - name: layout
-    label: "\U0000270B Layout (do not change)"
+    label: "\U0001F6AB Layout (do not change)"
     widget: string
     default: photo
 

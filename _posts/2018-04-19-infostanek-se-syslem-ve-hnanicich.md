@@ -14,6 +14,6 @@ V tento den se konají také [**Otevřené sklepy ve Velkých Pavlovicích**](h
 
  
 
-_Akce probíhá v rámci projektů _[**_Sysli pro krajinu, krajina pro sysly – Monitoring a podpora populace sysla obecného na jižní Moravě_**](http://www.syslinavinici.cz/o-nas/projekty/sysli-pro-krajinu-krajina-pro-sysly)_._
+*Akce probíhá v rámci projektů [**Sysli pro krajinu, krajina pro sysly – Monitoring a podpora populace sysla obecného na jižní Moravě**](http://www.syslinavinici.cz/o-nas/projekty/sysli-pro-krajinu-krajina-pro-sysly).*
 
-_Financováno z ERDF / státního rozpočtu. Vychází také s podporou Ministerstva životního prostředí. Materiál nemusí vyjadřovat stanoviska MŽP._
+*Financováno z ERDF / státního rozpočtu. Vychází také s podporou Ministerstva životního prostředí. Materiál nemusí vyjadřovat stanoviska MŽP.*

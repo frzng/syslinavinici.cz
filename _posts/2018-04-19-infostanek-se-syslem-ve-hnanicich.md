@@ -3,6 +3,8 @@ title: Infostánek se syslem ve Hnanicích
 image: /uploads/pozvanka.jpg
 published: true
 date: '2018-04-19'
+category: news
+layout: news
 ---
 S jarem se probudili sysli, nám začal nový velký projekt a vinaři se chystají na jarní otevřené sklepy. Srdečně Vás proto zveme 5. 5. 2018 na akci Otevřené sklepy ve Hnanicích, kde bude i náš informační stánek se syslem.
 

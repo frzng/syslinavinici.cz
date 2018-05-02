@@ -130,7 +130,7 @@ collections:
     widget: date
     format: YYYY-MM-DD
   - name: category
-    label: "\U0001F6AB Category (do not change)"
+    label: "\U0001F6AB Post type (do not change)"
     widget: string
     default: news
   - name: layout
@@ -192,7 +192,7 @@ collections:
     widget: date
     format: YYYY-MM-DD HH:mm:ss ZZ
   - name: category
-    label: "\U0001F6AB Category (do not change)"
+    label: "\U0001F6AB Post type (do not change)"
     widget: string
     default: user-answers
   - name: layout
@@ -284,7 +284,7 @@ collections:
     widget: date
     format: YYYY-MM-DD HH:mm:ss ZZ
   - name: category
-    label: "\U0001F6AB Category (do not change)"
+    label: "\U0001F6AB Post type (do not change)"
     widget: string
     default: gallery
   - name: layout

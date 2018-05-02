@@ -1,6 +1,6 @@
 ---
 title: Infostánek se syslem ve Hnanicích
-image: /uploads/IMG_0801u_156.jpg
+image: /uploads/pozvanka.jpg
 published: false
 date: '2018-04-19'
 ---
@@ -10,8 +10,8 @@ Více informací o [**Otevřených sklepech ve Hnanicích** najdete zde](https:/
 
 V tento den se konají také [**Otevřené sklepy ve Velkých Pavlovicích**](http://www.vinozvelkychpavlovic.cz/majove-otevrene-sklepy-2018), kde se sysly a vínem se známkou Sysli na vinici pyšní již dlouho.
 
+ 
 
-
-_Akce probíhá v rámci projektů _[_**Sysli pro krajinu, krajina pro sysly – Monitoring a podpora populace sysla obecného na jižní Moravě**_](http://www.syslinavinici.cz/o-nas/projekty/sysli-pro-krajinu-krajina-pro-sysly)_._
+_Akce probíhá v rámci projektů _[**_Sysli pro krajinu, krajina pro sysly – Monitoring a podpora populace sysla obecného na jižní Moravě_**](http://www.syslinavinici.cz/o-nas/projekty/sysli-pro-krajinu-krajina-pro-sysly)_._
 
 _Financováno z ERDF / státního rozpočtu. Vychází také s podporou Ministerstva životního prostředí. Materiál nemusí vyjadřovat stanoviska MŽP._

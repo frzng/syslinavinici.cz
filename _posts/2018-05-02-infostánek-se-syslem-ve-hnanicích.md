@@ -1,0 +1,17 @@
+---
+title: Infostánek se syslem ve Hnanicích
+image: /uploads/IMG_0801u_156.jpg
+published: false
+date: '2018-04-19'
+---
+S jarem se probudili sysli, nám začal nový velký projekt a vinaři se chystají na jarní otevřené sklepy. Srdečně Vás proto zveme 5. 5. 2018 na akci Otevřené sklepy ve Hnanicích, kde bude i náš informační stánek se syslem.
+
+Více informací o [**Otevřených sklepech ve Hnanicích** najdete zde](https://www.wineofczechrepublic.cz/akce-a-novinky/kalendar-akci/10563-otevrene-sklepy-hnanice.html).
+
+V tento den se konají také [**Otevřené sklepy ve Velkých Pavlovicích**](http://www.vinozvelkychpavlovic.cz/majove-otevrene-sklepy-2018), kde se sysly a vínem se známkou Sysli na vinici pyšní již dlouho.
+
+
+
+_Akce probíhá v rámci projektů _[_**Sysli pro krajinu, krajina pro sysly – Monitoring a podpora populace sysla obecného na jižní Moravě**_](http://www.syslinavinici.cz/o-nas/projekty/sysli-pro-krajinu-krajina-pro-sysly)_._
+
+_Financováno z ERDF / státního rozpočtu. Vychází také s podporou Ministerstva životního prostředí. Materiál nemusí vyjadřovat stanoviska MŽP._

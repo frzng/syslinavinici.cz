@@ -313,7 +313,6 @@ collections:
   label: User answers
   label_singular: User answer
   description: >-
-    Disabled on this site.
     Answers to questions submitted by site visitors. These questions
     can be found in administration on Netlify.com.
   folder: _posts

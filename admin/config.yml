@@ -89,6 +89,8 @@ collections:
   - name: 404
     label: Page not found
     file: 404.md
+    format: frontmatter
+    extension: md
     fields:
     - name: title
       label: Title
@@ -117,6 +119,8 @@ collections:
   - name: search
     label: Search
     file: search.html
+    format: frontmatter
+    extension: html
     fields:
     - name: title
       label: Title
@@ -132,6 +136,8 @@ collections:
   - name: user_answers
     label: User answers
     file: user-answers.html
+    format: frontmatter
+    extension: html
     fields:
     - name: title
       label: Title
@@ -157,6 +163,8 @@ collections:
   - name: gallery
     label: Gallery
     file: gallery.html
+    format: frontmatter
+    extension: html
     fields:
     - name: title
       label: Title
@@ -182,6 +190,8 @@ collections:
   - name: news
     label: News
     file: news.html
+    format: frontmatter
+    extension: html
     fields:
     - name: title
       label: Title
@@ -207,6 +217,8 @@ collections:
   - name: index
     label: Home
     file: index.html
+    format: frontmatter
+    extension: html
     fields:
     - name: title
       label: Title

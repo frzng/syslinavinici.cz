@@ -85,23 +85,42 @@ collections:
     Pages created and maintained by developers which can be slightly
     customized either here or in Site settings.
   files:
-  - name: index
-    label: Home
-    file: index.html
+
+  - name: 404
+    label: Page not found
+    file: 404.md
     fields:
     - name: title
       label: Title
       widget: string
-    - name: published
-      label: Enabled
-      widget: boolean
-    - name: listed
-      label: Show in the navigation menu
-      widget: boolean
-    - name: position
-      label: Position among siblings in listings
-      widget: number
-      valueType: int
+    - name: shout
+      label: Shout (succinct message saying page wasn’t found)
+      widget: string
+    - name: shout_style
+      label: Shout style
+      widget: select
+      options:
+      - muted
+      - primary
+      - success
+      - info
+      - warning
+      - danger
+    - name: body
+      label: Body
+      widget: markdown
+    meta:
+    - name: layout
+      label: Layout
+      widget: string
+
+  - name: search
+    label: Search
+    file: search.html
+    fields:
+    - name: title
+      label: Title
+      widget: string
     meta:
     - name: layout
       label: Layout
@@ -110,9 +129,9 @@ collections:
       label: Body
       widget: text
 
-  - name: news
-    label: News
-    file: news.html
+  - name: user_answers
+    label: User answers
+    file: user-answers.html
     fields:
     - name: title
       label: Title
@@ -160,9 +179,9 @@ collections:
       label: Body
       widget: text
 
-  - name: user_answers
-    label: User answers
-    file: user-answers.html
+  - name: news
+    label: News
+    file: news.html
     fields:
     - name: title
       label: Title
@@ -185,13 +204,23 @@ collections:
       label: Body
       widget: text
 
-  - name: search
-    label: Search
-    file: search.html
+  - name: index
+    label: Home
+    file: index.html
     fields:
     - name: title
       label: Title
       widget: string
+    - name: published
+      label: Enabled
+      widget: boolean
+    - name: listed
+      label: Show in the navigation menu
+      widget: boolean
+    - name: position
+      label: Position among siblings in listings
+      widget: number
+      valueType: int
     meta:
     - name: layout
       label: Layout
@@ -199,34 +228,6 @@ collections:
     - name: body
       label: Body
       widget: text
-
-  - name: 404
-    label: Page not found
-    file: 404.md
-    fields:
-    - name: title
-      label: Title
-      widget: string
-    - name: shout
-      label: Shout (succinct message saying page wasn’t found)
-      widget: string
-    - name: shout_style
-      label: Shout style
-      widget: select
-      options:
-      - muted
-      - primary
-      - success
-      - info
-      - warning
-      - danger
-    - name: body
-      label: Body
-      widget: markdown
-    meta:
-    - name: layout
-      label: Layout
-      widget: string
 
 - name: galleries
   label: Galleries

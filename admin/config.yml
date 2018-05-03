@@ -84,6 +84,8 @@ collections:
   description: >-
     Pages created and maintained by developers which can be slightly
     customized either here or in Site settings.
+  create: false
+  delete: false
   files:
 
   - name: 404
@@ -456,6 +458,8 @@ collections:
 - name: settings
   label: Site Settings
   description: Content of special pages like titles, button labels etc.
+  create: false
+  delete: false
   files:
   - name: authors
     label: "\U0001F6AB Authors (edit only on GitHub)"
@@ -776,6 +780,8 @@ collections:
   description: >-
     Layouts to be references from pages. Do not delete nor edit in any
     way.
+  create: false
+  delete: false
   files:
   - name: single_column_page
     label: Single-column page

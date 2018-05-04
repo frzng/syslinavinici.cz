@@ -10,7 +10,7 @@ ruby '2.3.3', engine: 'ruby', engine_version: '2.3.3'
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "~> 3.7.3"
+gem "jekyll", "~> 3.8.1"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
@@ -24,12 +24,6 @@ end
 
 # Site build and task automation.
 gem "rake"
-
-# Site migration from Locomotive CMS.
-group :development do
-  gem "nokogiri"
-  gem "locomotivecms_coal"
-end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]

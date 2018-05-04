@@ -5,7 +5,6 @@ published: false
 listed: false
 position: 2
 layout: single_column_page
-date: 2016-12-03 06:08:15 +0000
 ---
 V současnosti má známku Sysli na vinici uděleno 16 vinařství z Velkých
 Pavlovic a 4 z Hnanic. Odkazy Vás navedou na jejich webové stránky, kde

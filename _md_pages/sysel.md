@@ -7,7 +7,6 @@ published: true
 listed: true
 position: 3
 layout: single_column_page
-date: 2016-04-26 13:33:45 +0000
 ---
 Sysel obecný je menší společensky žijící **hlodavec** z příbuzenstva
 veverek.

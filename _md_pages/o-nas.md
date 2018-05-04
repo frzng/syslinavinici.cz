@@ -5,7 +5,6 @@ published: true
 listed: true
 position: 7
 layout: single_column_page
-date: 2016-04-26 13:35:34 +0000
 ---
 Stránky syslinavinici.cz provozují:
 

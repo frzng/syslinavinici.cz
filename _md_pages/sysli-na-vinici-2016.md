@@ -6,7 +6,6 @@ published: true
 listed: true
 position: 1
 layout: two_columns_page
-date: 2016-12-04 08:59:20 +0000
 ---
 **Název projektu**: Sysli na vinici
 

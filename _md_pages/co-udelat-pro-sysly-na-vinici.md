@@ -7,7 +7,6 @@ published: true
 listed: true
 position: 0
 layout: two_columns_page
-date: 2016-04-13 15:16:40 +0000
 ---
 *Aneb rady pro pěstitele vína, jak podpořit „své“ sysly na vinici či pro
 ty vinaře, kteří je tam chtějí z okolí nalákat.*

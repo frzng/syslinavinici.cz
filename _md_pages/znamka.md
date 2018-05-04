@@ -6,7 +6,6 @@ published: true
 listed: true
 position: 5
 layout: single_column_page
-date: 2016-04-26 13:34:09 +0000
 ---
 *I takto může vypadat zemědělská krajina – různorodá a plná života*
 

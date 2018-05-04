@@ -6,7 +6,6 @@ published: true
 listed: true
 position: 6
 layout: single_column_page
-date: 2016-05-29 04:39:18 +0000
 ---
 Vinaři – máte ve svém vinohradu sysly? Buďte na ně pyšní – jde
 o opravdovou vzácnost. Sysel obecný je považován za jednoho

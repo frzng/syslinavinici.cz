@@ -1,7 +1,7 @@
 ---
 title: Rozkvetlá vinice
 image: "/media/IMG_1107.JPG"
-author: katerina-polednikova
+author: Kateřina Poledníková
 gallery: "/news/jaro-ve-velkych-pavlovicich"
 published: true
 date: 2016-05-29 06:13:14 +0000

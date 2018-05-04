@@ -1,7 +1,7 @@
 ---
 title: Sysel obecný
 image: "/media/bez_n_zvu_2.png"
-author: fernando-mateos-gonzales
+author: Fernando Mateos-González
 gallery: "/news/syslum-zacal-novy-rok-probudili-se"
 published: true
 date: 2017-03-29 18:28:16 +0000

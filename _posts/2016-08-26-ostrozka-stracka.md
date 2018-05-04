@@ -1,7 +1,7 @@
 ---
 title: Ostrožka stračka
 image: "/media/IMG_3132.JPG"
-author: katerina-polednikova
+author: Kateřina Poledníková
 gallery: "/news/rozkvetla-vinice"
 published: true
 date: 2016-08-26 13:27:23 +0000

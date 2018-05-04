@@ -4,6 +4,7 @@ image: "/media/IMG_2615.JPG"
 author: katerina-polednikova
 gallery: "/news/sysli-imigranti-ve-dvou-vinarskych-obcich"
 position: 0
+published: true
 date: 2016-07-22 09:09:48 +0000
 category: gallery
 layout: photo

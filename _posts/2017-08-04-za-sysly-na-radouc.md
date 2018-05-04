@@ -1,6 +1,6 @@
 ---
 title: Za sysly na Radouč
-image: "/uploads/sysel_radou__610.jpg"
+image: "/media/sysel_radou__610.jpg"
 published: true
 date: 2017-08-04
 category: news

@@ -5,19 +5,19 @@ news:
 links:
   - title: Známka
     url: "/znamka"
-    image: "/uploads/logo_Sysli_na_vinici_156.jpg"
+    image: "/media/logo_Sysli_na_vinici_156.jpg"
   - title: Naši vinaři
     url: "/znamka/nasi-vinari"
-    image: "/uploads/DSCN0189_156.JPG"
+    image: "/media/DSCN0189_156.JPG"
   - title: Syslí vinice
     url: "/znamka/sysli-vinice"
-    image: "/uploads/IMG_1114_156.JPG"
+    image: "/media/IMG_1114_156.JPG"
   - title: sysel
     url: "/sysel"
-    image: "/uploads/IMG_0801u_156.jpg"
+    image: "/media/IMG_0801u_156.jpg"
   - title: Projekt
     url: "/o-nas/projekt"
-    image: "/uploads/DSCN0196_156.JPG"
+    image: "/media/DSCN0196_156.JPG"
 
 mission:
   body: |+
@@ -46,4 +46,4 @@ other:
   body: |+
     # [Videogalerie](/sysel/videogalerie)
 
-    ![](/uploads/EK000047_100.JPG)
+    ![](/media/EK000047_100.JPG)

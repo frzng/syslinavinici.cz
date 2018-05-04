@@ -20,12 +20,12 @@ Program: Interreg V-A Slovenská republika – Česká republika
 
 Spoločne bez hraníc / Společně bez hranic
 
-![](/uploads/logo_IRRVA_2014-20_610.JPG)
+![](/media/logo_IRRVA_2014-20_610.JPG)
 
 Projekt je podpořen Ministerstvem životního prostředí, projekt nemusí
 vyjadřovat stanoviska MŽP.
 
-# ![](/uploads/OPEU-Logo-MZP_20141218v.JPG)
+# ![](/media/OPEU-Logo-MZP_20141218v.JPG)
 
 # Partneři:
 
@@ -61,7 +61,7 @@ opatření, nástroj na sdílení dat.  Projekt přispívá ke zlepšení
 regionu, kterým bude sysel představen jako zástupce místní přírody
 a symbol zachovalé stepní zemědělské krajiny.
 
-![](/uploads/IMG_2423_u_610.JPG)
+![](/media/IMG_2423_u_610.JPG)
 
 # Aktivity projektu
 

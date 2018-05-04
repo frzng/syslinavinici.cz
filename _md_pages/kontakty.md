@@ -9,7 +9,7 @@ date: 2016-05-28 15:38:36 +0000
 ---
 # Realizátor projektu:
 
-[![](/uploads/ALKA_logo.jpg){: .wysiwyg-float-left}ALKA Wildlife, o.p.s.][1]  
+[![](/media/ALKA_logo.jpg){: .wysiwyg-float-left}ALKA Wildlife, o.p.s.][1]  
 Lidéřovice 62, 38001 Peč
 
 <div class="clearfix"></div>

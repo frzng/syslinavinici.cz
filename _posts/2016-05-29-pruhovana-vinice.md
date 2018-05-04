@@ -1,6 +1,6 @@
 ---
 title: Pruhovaná vinice
-image: "/uploads/IMG_1114.JPG"
+image: "/media/IMG_1114.JPG"
 author: katerina-polednikova
 gallery: "/news/jaro-ve-velkych-pavlovicich"
 position: 24

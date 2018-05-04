@@ -1,6 +1,6 @@
 ---
 title: vinná réva
-image: "/uploads/IMG_1163.JPG"
+image: "/media/IMG_1163.JPG"
 author: katerina-polednikova
 gallery: "/news/jaro-ve-velkych-pavlovicich"
 position: 14

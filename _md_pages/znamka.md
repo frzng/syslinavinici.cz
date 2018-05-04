@@ -1,7 +1,7 @@
 ---
 title: Známka
 permalink: "/znamka"
-image: "/uploads/SAM_2545_u_610.JPG"
+image: "/media/SAM_2545_u_610.JPG"
 published: true
 listed: true
 position: 5
@@ -15,7 +15,7 @@ původním druhem České republiky, v současnosti se statusem kriticky
 ohrožený. Vinice jižní Moravy mají zásadní význam pro záchranu
 ohroženého sysla u nás.
 
-![](/uploads/logo_Syslinavinici_zc_m.jpg){: .wysiwyg-float-left}Proto
+![](/media/logo_Syslinavinici_zc_m.jpg){: .wysiwyg-float-left}Proto
 byla registrována ochranná známka Sysli na vinici, jejíž cílem je
 podpořit populace sysla obecného u nás podporou vinařů, kteří hospodaří
 na svých vinicích způsobem, který vytváří vhodné prostředí pro tento

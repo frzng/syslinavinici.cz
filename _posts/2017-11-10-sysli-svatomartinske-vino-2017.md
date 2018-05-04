@@ -1,6 +1,6 @@
 ---
 title: Syslí svatomartinské víno 2017
-image: "/uploads/130-baner-svatomartinske2017_610.jpg"
+image: "/media/130-baner-svatomartinske2017_610.jpg"
 published: true
 date: 2017-11-10
 category: news
@@ -16,7 +16,7 @@ přijde i sysel.
 
 Najdete nás u prodeje vstupenek.
 
-![](/uploads/a_IMG_2461_u_610.JPG)
+![](/media/a_IMG_2461_u_610.JPG)
 
 A zde program:
 

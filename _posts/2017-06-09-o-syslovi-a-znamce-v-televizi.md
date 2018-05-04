@@ -1,6 +1,6 @@
 ---
 title: O syslovi a známce v televizi
-image: "/uploads/Sn_mek3_a.JPG"
+image: "/media/Sn_mek3_a.JPG"
 published: true
 date: 2017-06-09
 category: news

@@ -1,6 +1,6 @@
 ---
 title: Zatravněné vinice
-image: "/uploads/IMG_1142.JPG"
+image: "/media/IMG_1142.JPG"
 author: katerina-polednikova
 gallery: "/news/jaro-ve-velkych-pavlovicich"
 position: 21

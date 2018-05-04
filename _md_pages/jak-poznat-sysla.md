@@ -1,7 +1,7 @@
 ---
 title: Jak poznat sysla
 permalink: "/sysel/jak-poznat-sysla"
-image: "/uploads/DSCN0127_610.JPG"
+image: "/media/DSCN0127_610.JPG"
 published: true
 listed: true
 position: 0
@@ -20,7 +20,7 @@ jsou populace řidší.
 Protože je aktivní ve dne, orientuje se především zrakem a tak je možné
 často pozorovat jak sysli „panáčkují“ a rozhlížejí se po okolí.
 
-![](/uploads/KMB6072_610.jpg)
+![](/media/KMB6072_610.jpg)
 
 Poznat syslí noru není jednoduché. Vchod může být jak šikmý tak i kolmý
 k povrchu země s průměrem 5 až 6 cm. Nory mohou být jak na volných
@@ -29,21 +29,21 @@ prostranstvích, tak i u pat stromů či budov.
 Ve středu teritoria každého jedince se nachází nora se šikmým vstupem,
 obytnou komorou a více východy.
 
-![](/uploads/DSCN0142_610.JPG)
+![](/media/DSCN0142_610.JPG)
 
 Kromě této hlavní nory má obvykle v okolí vybudováno ještě několik tzv.
 únikových nor, kam se ukrývá, je-li vyrušen.
 
-![](/uploads/DSCN0139_610.JPG)
+![](/media/DSCN0139_610.JPG)
 
 Syslí trus je malý váleček o délce do 1 cm a přibližně třetinové
 tloušťce, čerstvý má černo zelenou až černou barvu, na jednom konci
 zakončen tupě, na druhém dlouze zašpičatělý. Má charakteristický pižmový
 zápach a většinou nachází na vyšlapaných místech nedaleko ústí nory.
 
-![](/uploads/DSC09864_610.JPG)
+![](/media/DSC09864_610.JPG)
 
-![](/uploads/DSC09865_610.JPG)
+![](/media/DSC09865_610.JPG)
 
 **Máte ve svém vinohradu sysly?** Zmiňoval se Vám soused, že je někde
 zahlédl**?** Pomozte nám v našem úsilí při ochraně sysla

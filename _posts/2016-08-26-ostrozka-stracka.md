@@ -1,6 +1,6 @@
 ---
 title: Ostrožka stračka
-image: "/uploads/IMG_3132.JPG"
+image: "/media/IMG_3132.JPG"
 author: katerina-polednikova
 gallery: "/news/rozkvetla-vinice"
 position: 33

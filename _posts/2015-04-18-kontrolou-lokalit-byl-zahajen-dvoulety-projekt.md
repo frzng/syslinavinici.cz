@@ -1,6 +1,6 @@
 ---
 title: Kontrolou lokalit byl zahájen dvouletý projekt
-image: "/uploads/IMG_0504_610.JPG"
+image: "/media/IMG_0504_610.JPG"
 published: true
 date: 2015-04-18
 category: news

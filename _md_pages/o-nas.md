@@ -17,7 +17,7 @@ Lidéřovice 62, 38001 Peč
 
 Nová Louka 23, 36001 Karlovy Vary
 
-![](/uploads/loga_mgs_stojato_mm.jpg){: .wysiwyg-float-left}
+![](/media/loga_mgs_stojato_mm.jpg){: .wysiwyg-float-left}
 **Financováno z**: EHP fondy 2009–2014, Ministerstvo životního
 prostředí
 

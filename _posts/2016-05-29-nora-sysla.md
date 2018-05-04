@@ -1,6 +1,6 @@
 ---
 title: Nora sysla
-image: "/uploads/a_SAM_2599.JPG"
+image: "/media/a_SAM_2599.JPG"
 author: katerina-polednikova
 gallery: "/news/kontrolou-lokalit-byl-zahajen-dvoulety-projekt"
 position: 12

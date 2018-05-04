@@ -1,6 +1,6 @@
 ---
 title: Sysel ve vinařské vesničce
-image: "/uploads/IMG_2595.JPG"
+image: "/media/IMG_2595.JPG"
 author: katerina-polednikova
 gallery: "/news/sysli-imigranti-ve-dvou-vinarskych-obcich"
 position: 31

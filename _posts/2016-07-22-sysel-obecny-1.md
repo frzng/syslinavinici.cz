@@ -1,6 +1,6 @@
 ---
 title: Sysel obecný
-image: "/uploads/IMG_2901.JPG"
+image: "/media/IMG_2901.JPG"
 author: katerina-polednikova
 position: 2
 date: 2016-07-22 09:12:07 +0000

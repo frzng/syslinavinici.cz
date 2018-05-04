@@ -1,6 +1,6 @@
 ---
 title: Hlaváč žlutavý
-image: "/uploads/IMG_3072.JPG"
+image: "/media/IMG_3072.JPG"
 author: katerina-polednikova
 gallery: "/news/rozkvetla-vinice"
 position: 36

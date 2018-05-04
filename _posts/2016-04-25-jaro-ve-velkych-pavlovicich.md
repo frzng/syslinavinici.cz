@@ -1,6 +1,6 @@
 ---
 title: Jaro ve Velkých Pavlovicích
-image: "/uploads/IMG_1112_610.JPG"
+image: "/media/IMG_1112_610.JPG"
 published: true
 date: 2016-04-25
 category: news

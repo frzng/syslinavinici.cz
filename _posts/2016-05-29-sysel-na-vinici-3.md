@@ -1,6 +1,6 @@
 ---
 title: Sysel na vinici
-image: "/uploads/IMG_1104.JPG"
+image: "/media/IMG_1104.JPG"
 author: katerina-polednikova
 gallery: "/news/jaro-ve-velkych-pavlovicich"
 position: 26

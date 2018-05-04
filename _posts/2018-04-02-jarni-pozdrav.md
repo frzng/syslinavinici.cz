@@ -1,6 +1,6 @@
 ---
 title: Jarní pozdrav
-image: "/uploads/DSCN2741.JPG"
+image: "/media/DSCN2741.JPG"
 date: 2018-04-02
 category: news
 layout: news

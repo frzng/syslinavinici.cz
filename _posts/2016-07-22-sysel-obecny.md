@@ -1,6 +1,6 @@
 ---
 title: Sysel obecný
-image: "/uploads/IMG_2615.JPG"
+image: "/media/IMG_2615.JPG"
 author: katerina-polednikova
 gallery: "/news/sysli-imigranti-ve-dvou-vinarskych-obcich"
 position: 0

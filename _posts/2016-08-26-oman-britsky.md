@@ -1,6 +1,6 @@
 ---
 title: Oman britský
-image: "/uploads/IMG_3106.JPG"
+image: "/media/IMG_3106.JPG"
 author: katerina-polednikova
 gallery: "/news/rozkvetla-vinice"
 position: 42

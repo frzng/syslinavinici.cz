@@ -1,7 +1,7 @@
 ---
 title: Realizace opatření ZP
 permalink: "/o-nas/projekty/realizace-opatreni"
-image: "/uploads/DSCN0196_610.JPG"
+image: "/media/DSCN0196_610.JPG"
 published: true
 listed: true
 position: 0
@@ -26,7 +26,7 @@ i první doprovodné aktivity bylo realizováno v rámci projektu:**
 
 EHP fondy 2009–2014, Ministerstvo životního prostředí
 
-![](/uploads/loga_mgs_stojato_mm.jpg){: .wysiwyg-float-left} Podpořeno
+![](/media/loga_mgs_stojato_mm.jpg){: .wysiwyg-float-left} Podpořeno
 grantem z Islandu, Lichtenštejnska a Norska.
 
 Tento web byl vytvořen za finanční podpory EHP fondů 2009–2014
@@ -82,7 +82,7 @@ v jarním a letním období. Pozorováni jsou aktivní jedinci a jsou hledán
 i nory.  Při pochůzkách jsou také získávány informace od místních
 obyvatel a vlastníků pozemků.
 
-![](/uploads/IMG_0504_610.JPG)
+![](/media/IMG_0504_610.JPG)
 
 ### 2. Demografická studie
 
@@ -93,7 +93,7 @@ sledování disperzalu jedinců. O dispersalu mladých jedinců (jak daleko
 jdou, jakým prostředím atd.) je toho známo velmi málo a přitom jde
 o zásadní informace pro propojení stávajících izolovaných populací.
 
-![](/uploads/sysel_chycen_610.jpg)
+![](/media/sysel_chycen_610.jpg)
 
 ### 3. Analýza životaschopnosti populace
 
@@ -109,7 +109,7 @@ např. při simulaci změn vnějších podmínek a modelování scénářů vý
 různých simulací managementových opatření pro porovnání jejich
 efektivity.
 
-![](/uploads/sysel_2016_basic_srovnani.jpg)
+![](/media/sysel_2016_basic_srovnani.jpg)
 
 ### 4. Osvěta
 
@@ -121,7 +121,7 @@ takovým způsobem, že se z vinic v současnosti stává vhodné prostředí 
 a kde mají vhodné podmínky pro život, zejména zatravněné meziřádky
 a toleranci ze strany vinařů.
 
-![](/uploads/samolepka_Syslinavinici.jpg)
+![](/media/samolepka_Syslinavinici.jpg)
 
 
 [1]: https://www.alkawildlife.eu

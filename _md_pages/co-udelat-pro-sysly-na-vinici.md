@@ -1,7 +1,7 @@
 ---
 title: Co udělat pro sysly na vinici?
 permalink: "/pro-vinare/co-udelat-pro-sysly-na-vinici"
-image: "/uploads/IMG_2845_610.JPG"
+image: "/media/IMG_2845_610.JPG"
 long_title: Co mohu udělat pro sysly na vinici?
 published: true
 listed: true

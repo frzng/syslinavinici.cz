@@ -1,6 +1,6 @@
 ---
 title: Zatravněné vinice
-image: "/uploads/a_SAM_2593.JPG"
+image: "/media/a_SAM_2593.JPG"
 author: katerina-polednikova
 gallery: "/news/kontrolou-lokalit-byl-zahajen-dvoulety-projekt"
 position: 8

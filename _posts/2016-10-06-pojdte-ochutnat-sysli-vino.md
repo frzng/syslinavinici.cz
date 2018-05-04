@@ -1,6 +1,6 @@
 ---
 title: Pojďte ochutnat "syslí" víno
-image: "/uploads/IMG_3042_610.jpg"
+image: "/media/IMG_3042_610.jpg"
 published: true
 date: 2016-10-06
 category: news

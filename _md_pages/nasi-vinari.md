@@ -14,7 +14,7 @@ jejich víno nakoupit.
 
 # Velké Pavlovice:
 
-## [![](/uploads/IMG_2970_slechtitelka.jpg){: .wysiwyg-float-left}Šlechtitelská stanice vinařská Velké Pavlovice a.s.][1]
+## [![](/media/IMG_2970_slechtitelka.jpg){: .wysiwyg-float-left}Šlechtitelská stanice vinařská Velké Pavlovice a.s.][1]
 
 [www.slechtitelka.cz][1]
 
@@ -22,7 +22,7 @@ Chardonnay
 
 <div class="clearfix"></div>
 
-## [![](/uploads/IMG_2973_300.jpg){: .wysiwyg-float-left}Vinařství Procházka][2]
+## [![](/media/IMG_2973_300.jpg){: .wysiwyg-float-left}Vinařství Procházka][2]
 
 [www.vinarstvi-prochazka.cz][2]
 
@@ -33,13 +33,13 @@ Neuburské p.s.
 
 <div class="clearfix"></div>
 
-## [![](/uploads/IMG_2981_buchtovi.jpg){: .wysiwyg-float-left}Rodinné vinařství Buchtovi][3]
+## [![](/media/IMG_2981_buchtovi.jpg){: .wysiwyg-float-left}Rodinné vinařství Buchtovi][3]
 
 [www.vinobuchtovi.cz][3]
 
 <div class="clearfix"></div>
 
-## [![](/uploads/IMG_2986.jpg){: .wysiwyg-float-left}Rodinné vinařství Suský][4]
+## [![](/media/IMG_2986.jpg){: .wysiwyg-float-left}Rodinné vinařství Suský][4]
 
 [www.vinosusky.cz][4]
 
@@ -51,7 +51,7 @@ Neuburské p.s.
 
 <div class="clearfix"></div>
 
-## [![](/uploads/IMG_2995_lzborovsky_300.jpg){: .wysiwyg-float-left}Víno Zborovský][6]
+## [![](/media/IMG_2995_lzborovsky_300.jpg){: .wysiwyg-float-left}Víno Zborovský][6]
 
 [www.vinozborovsky.cz][6]
 
@@ -60,13 +60,13 @@ Cabernet Moravia Rosé 2015
 
 <div class="clearfix"></div>
 
-## [![](/uploads/IMG_3007_krejcirik_a_300.jpg){: .wysiwyg-float-left}Rodinné vinařství Krejčiřík][7]
+## [![](/media/IMG_3007_krejcirik_a_300.jpg){: .wysiwyg-float-left}Rodinné vinařství Krejčiřík][7]
 
 [www.vinarstvi-krejcirik.cz][7]
 
 <div class="clearfix"></div>
 
-## [![](/uploads/VP_Mikulica_IMGP9275_300.jpg){: .wysiwyg-float-left}Vinařství Mikulica][8]
+## [![](/media/VP_Mikulica_IMGP9275_300.jpg){: .wysiwyg-float-left}Vinařství Mikulica][8]
 
 [www.vinarstvimikulica.cz][8]
 
@@ -96,7 +96,7 @@ Modrý Portugal
 
 <div class="clearfix"></div>
 
-## ![](/uploads/IMG_3020.jpg){: .wysiwyg-float-left}Petr Procházka
+## ![](/media/IMG_3020.jpg){: .wysiwyg-float-left}Petr Procházka
 
 <div class="clearfix"></div>
 
@@ -106,7 +106,7 @@ Modrý Portugal
 
 <div class="clearfix"></div>
 
-## [![](/uploads/IMG_3016_baloun_300.jpg){: .wysiwyg-float-left}Vinařství Baloun][12]
+## [![](/media/IMG_3016_baloun_300.jpg){: .wysiwyg-float-left}Vinařství Baloun][12]
 
 [www.baloun.cz][12]
 
@@ -138,7 +138,7 @@ Ryzlink rýnský
 
 # Hnanice:
 
-## [![](/uploads/IMG_6105_300.JPG){: .wysiwyg-float-left}Vinařství Špetíci][15]
+## [![](/media/IMG_6105_300.JPG){: .wysiwyg-float-left}Vinařství Špetíci][15]
 
 [www.vinarstvispetici.cz][15]
 
@@ -150,7 +150,7 @@ Rulandské modré
 
 <div class="clearfix"></div>
 
-## ![](/uploads/IMG_6094_b_300.JPG){: .wysiwyg-float-left}Vinařství Schwarz
+## ![](/media/IMG_6094_b_300.JPG){: .wysiwyg-float-left}Vinařství Schwarz
 
 Savignon  
 Děvín  
@@ -158,7 +158,7 @@ Ryzlink rýnský
 
 <div class="clearfix"></div>
 
-## [![](/uploads/H_Ko__nek_Vinice_To_na_300.JPG){: .wysiwyg-float-left}Josef Kořínek][16]
+## [![](/media/H_Ko__nek_Vinice_To_na_300.JPG){: .wysiwyg-float-left}Josef Kořínek][16]
 
 [www.josef-korinek.cz][16]
 
@@ -168,7 +168,7 @@ Veltlínské zelené
 
 <div class="clearfix"></div>
 
-## [![](/uploads/U_HAFANA_VINOBRANI_300.jpg){: .wysiwyg-float-left}Vinný sklep U hafana][17]
+## [![](/media/U_HAFANA_VINOBRANI_300.jpg){: .wysiwyg-float-left}Vinný sklep U hafana][17]
 
 [www.uhafana.cz][17]
 

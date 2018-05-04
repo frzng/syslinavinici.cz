@@ -1,6 +1,6 @@
 ---
 title: Syslům začal nový rok, probudili se
-image: "/uploads/DSCN2784_610.JPG"
+image: "/media/DSCN2784_610.JPG"
 published: true
 date: 2017-03-29
 category: news
@@ -12,7 +12,7 @@ půl roce intenzivního spánku se sysli probouzí a začíná jim doba námluv
 Aktivní sysly ve Velkých Pavlovicích nám nahlásil pan Krejčiřík
 ([Vinařství Krejčiřík](www.vinarstvi-krejcirik.cz)).
 
-![](/uploads/IMG_8523_Krejcirik20170327.JPG)
+![](/media/IMG_8523_Krejcirik20170327.JPG)
 
 *Sysel ve viniční trati Bedřišky ve Velkých Pavlovicích (foto Radek
 Krejčiřík)*

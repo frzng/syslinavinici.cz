@@ -1,6 +1,6 @@
 ---
 title: Rozkvetlá vinice
-image: "/uploads/IMG_1107.JPG"
+image: "/media/IMG_1107.JPG"
 author: katerina-polednikova
 gallery: "/news/jaro-ve-velkych-pavlovicich"
 position: 25

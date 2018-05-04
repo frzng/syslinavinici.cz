@@ -1,6 +1,6 @@
 ---
 title: Srpek obecný
-image: "/uploads/IMG_3066.JPG"
+image: "/media/IMG_3066.JPG"
 author: katerina-polednikova
 gallery: "/news/rozkvetla-vinice"
 position: 43

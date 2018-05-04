@@ -1,6 +1,6 @@
 ---
 title: Vína se známkou je možné koupit v Praze
-image: "/uploads/IMG_6041_610.JPG"
+image: "/media/IMG_6041_610.JPG"
 published: true
 date: 2016-11-25
 category: news
@@ -16,11 +16,11 @@ Po degustaci jsme víno přemístili na lepší místo k nákupu: víno najdete
 ve vinárně Cellarius – Lucerna v Pasáži Lucerna, Štěpánská 61, Praha 1,
 zde: [http://www.cellarius.cz/lucerna-wine-bar-vinoteka][1]
 
-![](/uploads/IMG_6039_610.JPG)
+![](/media/IMG_6039_610.JPG)
 
-![](/uploads/IMG_6044_610.JPG)
+![](/media/IMG_6044_610.JPG)
 
-![](/uploads/IMG_6047_610.JPG)
+![](/media/IMG_6047_610.JPG)
 
 *Projekt byl finančně podpořen v grantovém řízení Ministerstva životního
 prostředí a nemusí vyjadřovat stanoviska Ministerstva životního

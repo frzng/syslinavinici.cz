@@ -1,6 +1,6 @@
 ---
 title: O syslovi ve Velkých Pavlovicích
-image: "/uploads/IMG_2372_610.JPG"
+image: "/media/IMG_2372_610.JPG"
 published: true
 date: 2016-06-28
 category: news
@@ -23,7 +23,7 @@ Kde: **Velké Pavlovice** v rámci dvou akcí:
 
 [Otevřené sklepy Víno v oranžovém 2016][2]
 
-![](/uploads/IMG_2378_610.JPG){: .wysiwyg-float-left}
+![](/media/IMG_2378_610.JPG){: .wysiwyg-float-left}
 
 # Program k syslovi:
 

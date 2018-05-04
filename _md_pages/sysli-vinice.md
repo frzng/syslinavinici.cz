@@ -1,7 +1,7 @@
 ---
 title: Viniční tratě se syslem
 permalink: "/znamka/sysli-vinice"
-image: "/uploads/IMG_1216_610.JPG"
+image: "/media/IMG_1216_610.JPG"
 published: false
 listed: false
 position: 1
@@ -22,11 +22,11 @@ date: 2016-05-28 15:58:34 +0000
 
 Mapy: viniční tratě s výskytem syslů jsou označeny červeným šrafováním
 
-![](/uploads/VT_Velke_Pavlovice_610.jpg)
+![](/media/VT_Velke_Pavlovice_610.jpg)
 
-![](/uploads/VT_cejc_610.jpg)
+![](/media/VT_cejc_610.jpg)
 
-![](/uploads/VT_Hnanice_610.jpg)
+![](/media/VT_Hnanice_610.jpg)
 
 Pokud máte nějaký problém s určením trati, více o novém výskytu,
 kontaktujte nás.

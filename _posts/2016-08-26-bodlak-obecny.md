@@ -1,6 +1,6 @@
 ---
 title: Bodlák obecný
-image: "/uploads/IMG_3111.JPG"
+image: "/media/IMG_3111.JPG"
 author: katerina-polednikova
 gallery: "/news/rozkvetla-vinice"
 position: 35

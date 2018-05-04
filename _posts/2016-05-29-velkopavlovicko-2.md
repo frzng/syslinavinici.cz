@@ -1,6 +1,6 @@
 ---
 title: Velkopavlovicko
-image: "/uploads/IMG_1152.JPG"
+image: "/media/IMG_1152.JPG"
 author: katerina-polednikova
 gallery: "/news/jaro-ve-velkych-pavlovicich"
 position: 13

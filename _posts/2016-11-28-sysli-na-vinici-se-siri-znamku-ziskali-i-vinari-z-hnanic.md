@@ -1,6 +1,6 @@
 ---
 title: Známka se šíří. Získali ji i vinaři z Hnanic
-image: "/uploads/IMG_6107_610.JPG"
+image: "/media/IMG_6107_610.JPG"
 published: true
 date: 2016-11-28
 category: news
@@ -30,7 +30,7 @@ s užitečným. Říká se, že ve víně je pravda, tak já dodávám, že v 
 ‚syslím‘ je i pomoc*,“ poznamenává ministr životního prostředí Richard
 Brabec.
 
-![](/uploads/IMG_2907v_610.JPG)
+![](/media/IMG_2907v_610.JPG)
 
 Sysel obecný je v současnosti jeden z nejvzácnějších savců Evropy. Dříve
 široce rozšířený druh „polního škůdce“ je dnes kriticky ohroženým
@@ -81,13 +81,13 @@ Hnanic patří Vinařství Josef Kořínek, Vinařství Špetíci, Vinařství
 Schwarz a Vinný sklep U hafana.
 
 *Povídání o syslovi a známce*
-![](/uploads/IMG_6089_610.JPG)
+![](/media/IMG_6089_610.JPG)
 
 *První zlatá známka vylepená na víno z Hnanic*
-![](/uploads/IMG_6095_610.JPG)
+![](/media/IMG_6095_610.JPG)
 
 *První samolepka vylepená na Hnanickém vinném sklepě*
-![](/uploads/IMG_6105_610.JPG)
+![](/media/IMG_6105_610.JPG)
 
 *Víno z Hnanic označené zlatou známkou Sysli na vinici*
-![](/uploads/IMG_6126_610.JPG)
+![](/media/IMG_6126_610.JPG)

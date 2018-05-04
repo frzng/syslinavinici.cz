@@ -1,6 +1,6 @@
 ---
 title: Šalvěj hajní
-image: "/uploads/IMG_3120.JPG"
+image: "/media/IMG_3120.JPG"
 author: katerina-polednikova
 gallery: "/news/rozkvetla-vinice"
 position: 34

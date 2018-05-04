@@ -1,6 +1,6 @@
 ---
 title: Májové Otevřené sklepy
-image: "/uploads/IMG_6119_610.JPG"
+image: "/media/IMG_6119_610.JPG"
 published: true
 date: 2017-04-25
 category: news
@@ -13,6 +13,6 @@ vinicích a vinaři se o ně starají – jak ve Hnanicích, tak ve Velkých
 Pavlovicích. Vinaře poznáte podle samolepky na dveřích či někde u dveří
 a víno podle zlaté známky.
 
-![](/uploads/OS_Hnanice_2017_610.jpg)
+![](/media/OS_Hnanice_2017_610.jpg)
 
-![](/uploads/125-plakat-majove2017_610.jpg)
+![](/media/125-plakat-majove2017_610.jpg)

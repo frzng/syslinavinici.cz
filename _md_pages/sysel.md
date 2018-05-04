@@ -1,7 +1,7 @@
 ---
 title: Sysel
 permalink: "/sysel"
-image: "/uploads/IMG_0817_610.jpg"
+image: "/media/IMG_0817_610.jpg"
 long_title: Sysel obecný
 published: true
 listed: true

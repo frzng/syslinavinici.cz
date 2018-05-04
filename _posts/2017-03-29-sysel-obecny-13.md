@@ -1,6 +1,6 @@
 ---
 title: Sysel obecný
-image: "/uploads/bez_n_zvu_6.png"
+image: "/media/bez_n_zvu_6.png"
 author: fernando-mateos-gonzales
 gallery: "/news/syslum-zacal-novy-rok-probudili-se"
 position: 53

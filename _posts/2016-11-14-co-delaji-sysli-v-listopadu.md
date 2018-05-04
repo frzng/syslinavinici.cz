@@ -1,6 +1,6 @@
 ---
 title: Co dělají sysli v listopadu?
-image: "/uploads/IMG_2975_v_610.JPG"
+image: "/media/IMG_2975_v_610.JPG"
 published: true
 date: 2016-11-14
 category: news
@@ -30,20 +30,20 @@ v komoře uzavírá.
 *Sysel si komůrku v noře stele trávou, kterou si nakouše na takto krátké
 kousky.*
 
-![](/uploads/IMG_2614_610.JPG)
+![](/media/IMG_2614_610.JPG)
 
 *Nora je bezpečné místo nejen pro zimní spánek, ale po celý rok slouží
 jako místo bezpečí odkud se opatrně vylézá a zase běží schovat.*
 
-![](/uploads/IMG_2961_610.JPG)
+![](/media/IMG_2961_610.JPG)
 
-![](/uploads/IMG_2956_610.JPG)
+![](/media/IMG_2956_610.JPG)
 
-![](/uploads/IMG_2975_610.JPG)
+![](/media/IMG_2975_610.JPG)
 
-![](/uploads/IMG_2973_610.JPG)
+![](/media/IMG_2973_610.JPG)
 
-![](/uploads/IMG_2982_610.JPG)
+![](/media/IMG_2982_610.JPG)
 
 *Vychází s grantovou podporou Ministerstva životního prostředí. Materiál
 nemusí vyjadřovat stanoviska Ministerstva životního prostředí.*

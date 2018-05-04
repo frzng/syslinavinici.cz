@@ -1,6 +1,6 @@
 ---
 title: Prvních 14 vinařů získalo známku
-image: "/uploads/IMG_3010_610.jpg"
+image: "/media/IMG_3010_610.jpg"
 published: true
 date: 2016-06-24
 category: news
@@ -79,7 +79,7 @@ uniknout. Proto pokud na seznamu jejich trať chybí a o syslech u nich
 ví, určitě se může ozvat. Na uvedených stránkách najdou také kontakty
 i detailní podmínky udělování známky.*“
 
-![](/uploads/IMG_2944_610.jpg)
+![](/media/IMG_2944_610.jpg)
 
 Předání prvních známek 14 vinařstvím z Velkých Pavlovic se dnes konalo
 i za účasti ředitele Národního vinařského centra Pavla Kršky, který ke

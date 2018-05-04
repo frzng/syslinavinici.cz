@@ -4,7 +4,7 @@ permalink: "/sysel/jak-poznat-sysla"
 image: "/media/DSCN0127_610.JPG"
 published: true
 listed: true
-position: 0
+position: 1
 layout: two_columns_page
 ---
 Sysel obecný je hlodavec z příbuzenstva veverek. Váží nejčastěji 200 až

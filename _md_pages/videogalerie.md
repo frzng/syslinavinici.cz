@@ -3,7 +3,7 @@ title: Videogalerie
 permalink: "/sysel/videogalerie"
 published: true
 listed: true
-position: 1
+position: 2
 layout: two_columns_page
 ---
 # Syslí zvědavec

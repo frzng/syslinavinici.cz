@@ -3,7 +3,6 @@ title: Sysel obecný
 image: "/media/DSCN2832.JPG"
 author: fernando-mateos-gonzales
 gallery: "/news/syslum-zacal-novy-rok-probudili-se"
-position: 46
 published: true
 date: 2017-03-29 18:23:25 +0000
 category: gallery

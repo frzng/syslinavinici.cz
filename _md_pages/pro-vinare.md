@@ -4,7 +4,7 @@ permalink: "/pro-vinare"
 image: "/media/KMB6279_610.jpg"
 published: true
 listed: true
-position: 6
+position: 7
 layout: single_column_page
 ---
 Vinaři – máte ve svém vinohradu sysly? Buďte na ně pyšní – jde

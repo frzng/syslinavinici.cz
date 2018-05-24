@@ -1,10 +1,10 @@
 ---
 title: Realizace opatření ZP
-permalink: "/o-nas/projekty/realizace-opatreni"
-image: "/media/DSCN0196_610.JPG"
+permalink: /o-nas/projekty/realizace-opatreni
+image: /media/DSCN0196_610.JPG
 published: true
 listed: true
-position: 1
+position: 2
 layout: two_columns_page
 ---
 **Registrace ochranné známky, uvedení do činnosti, webové stránky
@@ -14,8 +14,8 @@ i první doprovodné aktivity bylo realizováno v rámci projektu:**
 
 ## Partneři:
 
-[ALKA Wildlife, o.p.s.][1]  
-[Muzeum Karlovy Vary][2]
+[ALKA Wildlife, o.p.s.](https://www.alkawildlife.eu)\
+[Muzeum Karlovy Vary](http://kvmuz.cz)
 
 ## Trvání projektu:
 
@@ -81,7 +81,7 @@ v jarním a letním období. Pozorováni jsou aktivní jedinci a jsou hledán
 i nory.  Při pochůzkách jsou také získávány informace od místních
 obyvatel a vlastníků pozemků.
 
-![](/media/IMG_0504_610.JPG)
+![null](/media/IMG_0504_610.JPG)
 
 ### 2. Demografická studie
 
@@ -92,7 +92,7 @@ sledování disperzalu jedinců. O dispersalu mladých jedinců (jak daleko
 jdou, jakým prostředím atd.) je toho známo velmi málo a přitom jde
 o zásadní informace pro propojení stávajících izolovaných populací.
 
-![](/media/sysel_chycen_610.jpg)
+![null](/media/sysel_chycen_610.jpg)
 
 ### 3. Analýza životaschopnosti populace
 
@@ -108,7 +108,7 @@ např. při simulaci změn vnějších podmínek a modelování scénářů vý
 různých simulací managementových opatření pro porovnání jejich
 efektivity.
 
-![](/media/sysel_2016_basic_srovnani.jpg)
+![null](/media/sysel_2016_basic_srovnani.jpg)
 
 ### 4. Osvěta
 
@@ -120,8 +120,4 @@ takovým způsobem, že se z vinic v současnosti stává vhodné prostředí 
 a kde mají vhodné podmínky pro život, zejména zatravněné meziřádky
 a toleranci ze strany vinařů.
 
-![](/media/samolepka_Syslinavinici.jpg)
-
-
-[1]: https://www.alkawildlife.eu
-[2]: http://kvmuz.cz
+![null](/media/samolepka_Syslinavinici.jpg)

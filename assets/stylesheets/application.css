@@ -9789,6 +9789,12 @@ article {
 
 .flex {
   display: flex; }
+.flex--small-wrap {
+  flex-wrap: wrap; }
+@media (min-width: 576px) {
+  .flex--small-wrap {
+    flex-wrap: nowrap; }
+}
 
 .block {
   display: block; }

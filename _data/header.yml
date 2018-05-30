@@ -2,6 +2,9 @@ logo: /media/sysli_na_vinici_gold.png
 claim: Společně pomáháme chránit sysla
 search: Hledat…
 tracking_permission:
+  button:
+    color: white
+    background: "#905372"
   remember: Zapamatovat odpověď na dva týdny
   allow: Ano
   deny: Ne

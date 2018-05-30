@@ -33,10 +33,12 @@ function tracking(id, write, strs) {
 
   function scheduleToAsk() {
     window.addEventListener("load", ask, false)
+    document.addEventListener("DOMContentLoaded", ask, false)
   }
 
   function ask() {
     window.removeEventListener("load", ask, false)
+    document.removeEventListener("DOMContentLoaded", ask, false)
 
     var form = document.createElement("FORM")
     form.className = "js-tracking";
@@ -70,7 +72,7 @@ function tracking(id, write, strs) {
 
     function answer() {
       receive(this === allow, checkbox.checked)
-      document.body.removeChild(wrap)
+      document.body.removeChild(form)
     }
 
     var allow = document.createElement("BUTTON")

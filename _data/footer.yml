@@ -1,9 +1,9 @@
 funded_by:
 - logos:
   - image: /assets/images/logo-eea_grants.svg
-    height: 90
-    margin_top_bottom: 30
-    margin_left_right: 30
+    height: 70
+    margin_top_bottom: 24
+    margin_left_right: 24
   description:
   - lang: en
     body: Supported by grant from Iceland, Liechtenstein and Norway.
@@ -11,11 +11,11 @@ funded_by:
     body: Podpořeno grantem z Islandu, Lichtenštejnska a Norska.
 - logos:
   - image: /assets/images/logo-irrva-sk_cz.svg
-    height: 60
+    height: 70
     margin_top_bottom: 30
     margin_left_right: 30
   - image: /assets/images/logo-erdf-sk.svg
-    height: 60
+    height: 70
     margin_top_bottom: 30
     margin_left_right: 30
   description:

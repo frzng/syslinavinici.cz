@@ -4,7 +4,7 @@
     <div id="copyright-row">
       <div class="row-container">
         <div class="container-fluid">
-          <div class="flex space-between">
+          <div class="flex flex--small-wrap space-between">
             <div id="copyright">
               <span class="siteName">
                 {%- include helpers/author.html author=site.author -%}
@@ -24,7 +24,7 @@
               {% endfor %}
             </div>
             {% if site.data.footer.funded_by.size > 0 %}
-              <div style="text-align: right;">
+              <div style="text-align: center;">
               {% for fund in site.data.footer.funded_by %}
                 {% unless fund.logos.size > 0 %}
                   {% continue %}

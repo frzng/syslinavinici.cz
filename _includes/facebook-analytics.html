@@ -18,10 +18,5 @@ tracking('facebook_analytics', function() {
      js.src = "https://connect.facebook.net/{{ page.lang | default: site.lang }}/sdk.js";
      fjs.parentNode.insertBefore(js, fjs);
    }(document, 'script', 'facebook-jssdk'));
-}, {
-  q: {{ site.data.header.tracking_permission.facebook_analytics | jsonify }},
-  r: {{ site.data.header.tracking_permission.remember | jsonify }},
-  y: {{ site.data.header.tracking_permission.allow | jsonify }},
-  n: {{ site.data.header.tracking_permission.deny | jsonify }}
-})
+}, {{ site.data.header.tracking_permission | jsonify }})
 </script>

@@ -6,10 +6,5 @@ tracking('google_analytics', function() {
   })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
   ga('create', '{{ site.google_analytics }}', 'auto');
   ga('send', 'pageview');
-}, {
-  q: {{ site.data.header.tracking_permission.google_analytics | jsonify }},
-  r: {{ site.data.header.tracking_permission.remember | jsonify }},
-  y: {{ site.data.header.tracking_permission.allow | jsonify }},
-  n: {{ site.data.header.tracking_permission.deny | jsonify }}
-})
+}, {{ site.data.header.tracking_permission | jsonify }})
 </script>

@@ -1,4 +1,4 @@
-function tracking(id, write, strs) {
+function tracking(id, write, opts) {
   if (![].map || ![].reduce || !document.querySelectorAll) return
 
   function cookies(name) {
@@ -54,7 +54,7 @@ function tracking(id, write, strs) {
 
     var p = document.createElement("P")
     p.style.flex = "1 1 auto"
-    p.textContent = strs.q
+    p.textContent = opts[id]
 
     var controls = document.createElement("DIV")
     controls.style.flex = "0 0 auto"
@@ -64,7 +64,7 @@ function tracking(id, write, strs) {
 
     var label = document.createElement("LABEL")
     label.style.display = "inline"
-    label.textContent = " " + strs.r
+    label.textContent = " " + opts["remember"]
     var checkbox = document.createElement("INPUT")
     checkbox.type = "checkbox"
     checkbox.name = "remember"
@@ -76,12 +76,12 @@ function tracking(id, write, strs) {
     }
 
     var allow = document.createElement("BUTTON")
-    allow.style.background = "#905372"
-    allow.style.color = "white"
+    allow.style.background = opts["button"]["background"]
+    allow.style.color = opts["button"]["color"]
     allow.style.border = "0"
     allow.name = "allow"
     allow.value = "1"
-    allow.textContent = strs.y
+    allow.textContent = opts["allow"]
     allow.onclick = answer
 
     var deny = document.createElement("BUTTON")
@@ -91,7 +91,7 @@ function tracking(id, write, strs) {
     deny.type = "submit"
     deny.name = "allow"
     deny.value = ""
-    deny.textContent = strs.n
+    deny.textContent = opts["deny"]
     deny.onclick = answer
 
     wrap.appendChild(p)

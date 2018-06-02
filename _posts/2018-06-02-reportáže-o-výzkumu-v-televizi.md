@@ -5,7 +5,7 @@ listing_thumbnail: /media/printscreen-obrazovky_274.jpg
 description: >-
   Výzkum syslů ve Velkých Pavlovicích natočila Česká televize. Podívejte se na
   dvě reportáže.
-published: true
+published: false
 date: '2018-06-03'
 category: news
 layout: news

@@ -1,36 +1,26 @@
 news:
-  following: Další zprávy
   all: Všechny novinky
-
+  following: Další zprávy
 links:
-  - title: Známka
-    url: "/znamka"
-    image: "/media/logo_Sysli_na_vinici_156.jpg"
-  - title: Naši vinaři
-    url: "/znamka/nasi-vinari"
-    image: "/media/DSCN0189_156.JPG"
-  - title: Syslí vinice
-    url: "/znamka/sysli-vinice"
-    image: "/media/IMG_1114_156.JPG"
-  - title: sysel
-    url: "/sysel"
-    image: "/media/IMG_0801u_156.jpg"
-  - title: Projekt
-    url: "/o-nas/projekt"
-    image: "/media/DSCN0196_156.JPG"
-
+  - image: /media/logo_Sysli_na_vinici_156.jpg
+    title: Známka
+    url: /znamka
+  - image: /media/DSCN0189_156.JPG
+    title: Naši vinaři
+    url: /znamka/nasi-vinari
+  - image: /media/IMG_1114_156.JPG
+    title: Syslí vinice
+    url: /znamka/sysli-vinice
+  - image: /media/IMG_0801u_156.jpg
+    title: sysel
+    url: /sysel
+  - image: /media/DSCN0196_156.JPG
+    title: Projekty
+    url: /o-nas/projekty
 mission:
-  body: |+
-    # Mise
-
-    Smyslem známky SYSLI NA VINICI je pomoci k záchraně sysla obecného
-    v naší krajině a podpora vinařů, kteří na svých vinohradech sysla
-    mají a hospodaří zde tak, aby zde zůstal, stejně jako řada dalších
-    živočichů.
-
+  body: "# Mise\n\nSmyslem známky SYSLI NA VINICI je pomoci k\_záchraně sysla obecného\nv\_naší krajině a\_podpora vinařů, kteří na svých vinohradech sysla\nmají a\_hospodaří zde tak, aby zde zůstal, stejně jako řada dalších\nživočichů.\n\n"
 gallery:
   title: Fotogalerie
-
 appeal:
   body: |+
     # Výzva
@@ -43,7 +33,7 @@ appeal:
     * [pošlete nám fotku](/sysel/jak-poznat-sysla)
 
 other:
-  body: |+
+  body: |-
     # [Videogalerie](/sysel/videogalerie)
 
-    ![](/media/EK000047_100.JPG)
+    ![null](/media/EK000047_100.JPG)

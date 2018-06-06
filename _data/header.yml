@@ -1,18 +1,3 @@
 logo: /media/sysli_na_vinici_gold.png
 claim: Společně pomáháme chránit sysla
 search: Hledat…
-tracking_permission:
-  button:
-    color: white
-    background: "#905372"
-  remember: Zapamatovat odpověď na dva týdny
-  allow: Ano
-  deny: Ne
-  google_analytics: >-
-    Souhlasíte se sledováním vaší aktivity na tomto webu pomocí služby
-    Google Analytics pro účely zlepšení a vyhodnocení úspěšnosti
-    obsahu?
-  facebook_analytics: >-
-    Souhlasíte se sledováním vaší aktivity na tomto webu pomocí služby
-    Facebook Analytics pro účely zlepšení a vyhodnocení úspěšnosti
-    obsahu v rámci jednotlivých demografických skupin?

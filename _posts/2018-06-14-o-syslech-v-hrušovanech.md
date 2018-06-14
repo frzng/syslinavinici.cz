@@ -14,4 +14,4 @@ V pondělí 18.6. proběhne seminář o syslech v Hrušovanech u Brna.
 
 Všichni jste srdečně zváni. 
 
-![](/media/pozvanka_hrusovany_610.jpg)
+![null](/media/pozvanka_hrusovany_610.jpg)

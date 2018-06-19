@@ -9,14 +9,14 @@ layout: two_columns_page
 ---
 Novou známku Sysli v sadu má již první sadař. Doufáme, že se přidají další.
 
+![null](/media/rimg0370_310.jpg)
 
-
-![](/media/rimg0370_310.jpg)
-
-Ing. Rotter
+## [{: .wysiwyg-float-left}](http://www.slechtitelka.cz "Šlechtitelka")Ing. Rotter
 
 Meruňkový sad
 
 Samosběr v sadu po telefonické domluvě
 
 Kontakt: 602 771 909
+
+<div class="clearfix"></div>

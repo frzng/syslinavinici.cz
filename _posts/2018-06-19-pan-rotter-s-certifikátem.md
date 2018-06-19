@@ -1,5 +1,5 @@
 ---
-title: Pan Rotter s certifikátem
+title: První certifikát Sysli v sadu
 image: /media/rimg0370_1500.jpg
 description: Pan Rotter s certifikátem
 gallery: /news/prvni-merunky-se-znamkou-Sysli-v-sadu

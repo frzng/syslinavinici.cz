@@ -8,3 +8,15 @@ position: 2
 layout: two_columns_page
 ---
 Novou známku Sysli v sadu má již první sadař. Doufáme, že se přidají další.
+
+
+
+![](/media/rimg0370_310.jpg)
+
+Ing. Rotter
+
+Meruňkový sad
+
+Samosběr v sadu po telefonické domluvě
+
+Kontakt: 602 771 909

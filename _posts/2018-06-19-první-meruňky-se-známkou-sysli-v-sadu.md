@@ -4,8 +4,8 @@ image: /media/snímek2.jpg
 description: >-
   Vytvořili jsme novou známku Sysli  v sadu a hned máme i prvního sadaře a první
   meruňky! 
-published: false
-date: '2018-06-19'
+published: true
+date: '2018-06-20'
 category: news
 layout: news
 ---

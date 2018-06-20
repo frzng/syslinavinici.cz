@@ -2,8 +2,8 @@
 title: Naši sadaři
 permalink: /znamka/nasi-sadari
 description: 'Informace o sadařích, kteří vlastní známku Sysli v sadu'
-published: false
-listed: false
+published: true
+listed: true
 position: 2
 layout: two_columns_page
 ---

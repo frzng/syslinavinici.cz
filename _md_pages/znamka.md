@@ -23,14 +23,12 @@ Známku může získat víno, které pochází z vinice z viniční trati, kde
 
 V současnosti má známku [20 vinařství](/znamka/nasi-vinari) z vinařských obcí Velké Pavlovice a Hnanice.
 
-
-
 ![](/media/sysli-v-sadu_200.jpg){: .wysiwyg-float-left} Známka Sysli v sadu byla vytvořena v roce 2018. Cílem je podpořit populace sysla podporou sadařů, kteří mají ve svých sadech sysly. 
 
 Známku může získat ovoce ze sadu, kde byl v daném roce prokázán výskyt sysla obecného a na kterém se hospodaří způsobem šetrným k syslům (je zatravněn  a sadař toleruje sysly, nepoužívá rodenticidy).
 
 V současnosti má známku [první sadař](/znamka/nasi-sadari) z Hrušovan u Brna.
 
-
+<div class="clearfix"></div>
 
 Známky uděluje společnost [ALKA Wildlife, o.p.s.](http://www.alkawildlife.eu). Kontakty ohledně známky jsou uvedeny [zde](/o-nas/kontakty). Všechny aktivity spojené se známkami Sysli na vinici a Sysli v sadu jsou financovány z EHP a ERDF fondů a státního rozpočtu, více viz sekce [Projekty](/o-nas/projekty).

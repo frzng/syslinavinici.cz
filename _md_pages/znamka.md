@@ -1,13 +1,13 @@
 ---
 title: Známka
-permalink: "/znamka"
-image: "/media/SAM_2545_u_610.JPG"
+permalink: /znamka
+image: /media/SAM_2545_u_610.JPG
 published: true
 listed: true
 position: 6
 layout: single_column_page
 ---
-*I takto může vypadat zemědělská krajina – různorodá a plná života*
+_I takto může vypadat zemědělská krajina – různorodá a plná života_
 
 Sysel obecný je považován za jednoho z nejohroženějších savců Evropy. Je
 původním druhem České republiky, v současnosti se statusem kriticky
@@ -22,19 +22,13 @@ druh.
 
 Známku může získat víno, které pochází z vinice
 
-1) z viniční trati, kde byl v daném roce prokázán výskyt sysla obecného
-
-2) na které se hospodaří způsobem šetrným k syslům  
-(je zatravněn minimálně každý druhý řádek, vinař toleruje sysly
-a nepoužívá rodenticidy)
+1. z viniční trati, kde byl v daném roce prokázán výskyt sysla obecného
+2. na které se hospodaří způsobem šetrným k syslům\
+   (je zatravněn minimálně každý druhý řádek, vinař toleruje sysly
+   a nepoužívá rodenticidy)
 
 Nákupem vína u těchto vinařů, tak podpoříte tento vzácný druh, který
 v současnosti doplácí zejména na intenzivní hospodaření v krajině.
 
-Známku uděluje společnost [ALKA Wildlife, o.p.s.][1] spolu
-s [Muzeem Karlovy Vary][2] – organizace, které se zabývají výzkumem
+Známku uděluje společnost [ALKA Wildlife, o.p.s.](https://www.alkawildlife.eu) – organizace, která se zabývá výzkumem
 a ochranou sysla obecného v České republice.
-
-
-[1]: https://www.alkawildlife.eu
-[2]: http://www.kvmuz.cz

@@ -25,6 +25,8 @@ Známku může získat víno, které pochází z vinice:
    (je zatravněn minimálně každý druhý řádek, vinař toleruje sysly
    a nepoužívá rodenticidy)
 
+![]()
+
 Známka Sysli v sadu byla vytvořena v roce 2018. Cílem je podpořit populace sysla podporou sadařů, kteří mají ve svých sadech sysly. Známku může získat ovoce ze sadu:
 
 1. ze sadu, kde byl v daném roce prokázán výskyt sysla obecného

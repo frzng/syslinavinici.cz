@@ -2,7 +2,7 @@
 title: Záhumenky u Hrušovan
 image: /media/rimg0377_1500.jpg
 description: 'Záhumenky u Hrušovan u Brna, lokalita plná syslů'
-gallery: ''
+gallery: /news/první-meruňky-se-známkou-sysli-v-sadu
 date: '2018-06-20 18:50:57 +0200'
 category: gallery
 layout: photo

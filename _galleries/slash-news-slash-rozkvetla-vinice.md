@@ -1,3 +1,3 @@
 ---
-page: "/news/rozkvetla-vinice"
+title: "/news/rozkvetla-vinice"
 ---

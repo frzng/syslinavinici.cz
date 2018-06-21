@@ -1,3 +1,3 @@
 ---
-page: "/news/kontrolou-lokalit-byl-zahajen-dvoulety-projekt"
+title: "/news/kontrolou-lokalit-byl-zahajen-dvoulety-projekt"
 ---

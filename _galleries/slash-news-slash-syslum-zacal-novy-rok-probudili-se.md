@@ -1,3 +1,3 @@
 ---
-page: "/news/syslum-zacal-novy-rok-probudili-se"
+title: "/news/syslum-zacal-novy-rok-probudili-se"
 ---

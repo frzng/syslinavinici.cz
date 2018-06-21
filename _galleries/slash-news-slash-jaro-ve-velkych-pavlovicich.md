@@ -1,3 +1,3 @@
 ---
-page: "/news/jaro-ve-velkych-pavlovicich"
+title: "/news/jaro-ve-velkych-pavlovicich"
 ---

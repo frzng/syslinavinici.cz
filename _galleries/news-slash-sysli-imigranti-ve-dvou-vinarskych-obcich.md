@@ -1,3 +1,3 @@
 ---
-page: "/news/sysli-imigranti-ve-dvou-vinarskych-obcich"
+title: "/news/sysli-imigranti-ve-dvou-vinarskych-obcich"
 ---

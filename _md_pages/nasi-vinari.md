@@ -1,6 +1,6 @@
 ---
 title: Naši vinaři
-permalink: "/znamka/nasi-vinari"
+permalink: /znamky/nasi-vinari
 published: true
 listed: true
 position: 1

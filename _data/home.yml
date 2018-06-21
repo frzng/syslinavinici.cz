@@ -3,8 +3,8 @@ news:
   following: Další zprávy
 links:
   - image: /media/logo_Sysli_na_vinici_156.jpg
-    title: Známka
-    url: /znamka
+    title: Známky
+    url: /znamky
   - image: /media/DSCN0189_156.JPG
     title: Naši vinaři
     url: /znamka/nasi-vinari
@@ -18,7 +18,7 @@ links:
     title: Projekty
     url: /o-nas/projekty
 mission:
-  body: "# Mise\n\nSmyslem známky SYSLI NA VINICI je pomoci k\_záchraně sysla obecného\nv\_naší krajině a\_podpora vinařů, kteří na svých vinohradech sysla\nmají a\_hospodaří zde tak, aby zde zůstal, stejně jako řada dalších\nživočichů.\n\n"
+  body: "# Mise\n\nCílem našich projektů, známek _Sysli na vinici _a _Sysli v sadu _a těchto webových stránek je pomoci k\_záchraně sysla obecného v\_naší zemědělské krajině."
 gallery:
   title: Fotogalerie
 appeal:

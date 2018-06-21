@@ -1,6 +1,6 @@
 ---
 title: Naši sadaři
-permalink: /znamka/nasi-sadari
+permalink: /znamky/nasi-sadari
 description: 'Informace o sadařích, kteří vlastní známku Sysli v sadu'
 published: true
 listed: true

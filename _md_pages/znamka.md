@@ -25,5 +25,11 @@ Známku může získat víno, které pochází z vinice:
    (je zatravněn minimálně každý druhý řádek, vinař toleruje sysly
    a nepoužívá rodenticidy)
 
-Známky uděluje společnost [ALKA Wildlife, o.p.s.](https://www.alkawildlife.eu) – organizace, která se zabývá výzkumem
-a ochranou sysla obecného v České republice.
+Známka Sysli v sadu byla vytvořena v roce 2018. Cílem je podpořit populace sysla podporou sadařů, kteří mají ve svých sadech sysly. Známku může získat ovoce ze sadu:
+
+1. ze sadu, kde byl v daném roce prokázán výskyt sysla obecného
+
+2. na kterém se hospodaří způsobem šetrným k syslům\
+(je zatravněn  a sadař toleruje sysly, nepoužívá rodenticidy)
+
+Známky uděluje společnost [ALKA Wildlife, o.p.s.](http://www.alkawildlife.eu). Kontakty ohledně známky jsou uvedeny [zde](/o-nas/kontakty). Všechny aktivity spojené se známkami Sysli na vinici a Sysli v sadu jsou financovány z EHP a ERDF fondů a státního rozpočtu, více viz sekce [Projekty](/o-nas/projekty).

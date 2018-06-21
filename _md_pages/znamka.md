@@ -1,6 +1,6 @@
 ---
-title: Známka
-permalink: /znamka
+title: Známky
+permalink: /znamky
 image: /media/SAM_2545_u_610.JPG
 published: true
 listed: true

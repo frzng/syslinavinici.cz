@@ -11,8 +11,10 @@ _I takto může vypadat zemědělská krajina – různorodá a plná života_
 
 Sysel obecný je považován za jednoho z nejohroženějších savců Evropy. Je
 původním druhem České republiky, v současnosti se statusem kriticky
-ohrožený. Vinice jižní Moravy mají zásadní význam pro záchranu
+ohrožený. Vinice, sady a záhumenky jižní Moravy mají zásadní význam pro záchranu
 ohroženého sysla u nás.
+
+Proto vytváříme ochranné známky, jejíchž cílem je podpořit zemědělce v hospodaření, které je vhodné pro (nejen) sysly. Nákupem u těchto vinařů a sadařů podpoříte tento vzácný druh, který v současnosti doplácí zejména na intenzivní hospodaření v krajině.
 
 ![](/media/logo_Syslinavinici_zc_m.jpg){: .wysiwyg-float-left}Proto
 byla registrována ochranná známka Sysli na vinici, jejíž cílem je
@@ -26,9 +28,6 @@ Známku může získat víno, které pochází z vinice
 2. na které se hospodaří způsobem šetrným k syslům\
    (je zatravněn minimálně každý druhý řádek, vinař toleruje sysly
    a nepoužívá rodenticidy)
-
-Nákupem vína u těchto vinařů, tak podpoříte tento vzácný druh, který
-v současnosti doplácí zejména na intenzivní hospodaření v krajině.
 
 Známku uděluje společnost [ALKA Wildlife, o.p.s.](https://www.alkawildlife.eu) – organizace, která se zabývá výzkumem
 a ochranou sysla obecného v České republice.

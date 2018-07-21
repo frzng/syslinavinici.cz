@@ -1,10 +1,10 @@
 ---
 title: První meruňky se známkou Sysli v sadu
+published: true
 image: /media/snímek2.jpg
 description: >-
   Vytvořili jsme novou známku Sysli  v sadu a hned máme i prvního sadaře a první
   meruňky! 
-published: true
 date: '2018-06-20'
 category: news
 layout: news
@@ -20,3 +20,9 @@ Sysly v sadech jsme zaznamenali  ve Velkých Pavlovicích a také v Hrušovanech
 Poprosili jsme pana Rottera o rozhovor, o čem jiném než o meruňkách a syslech.
 
 ![null](/media/medailonek_rotter.jpg)
+
+
+
+![](/media/logo_irrva-a-mzp_lezato_610.jpg)
+
+Akce probíhá v rámci projektů [Sysli pro krajinu, krajina pro sysly – Monitoring a podpora populace sysla obecného na jižní Moravě](/o-nas/projekty/sysli-pro-krajinu-krajina-pro-sysly). Financováno z ERDF / státního rozpočtu. Vychází také s podporou Ministerstva životního prostředí. Materiál nemusí vyjadřovat stanoviska MŽP.

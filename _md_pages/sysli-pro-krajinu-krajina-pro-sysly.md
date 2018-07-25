@@ -1,25 +1,25 @@
 ---
 title: 'Sysli pro krajinu, krajina pro sysly'
+published: true
 permalink: /o-nas/projekty/sysli-pro-krajinu-krajina-pro-sysly
 long_title: 'Sysli pro krajinu, krajina pro sysly'
 subtitle: Monitoring a podpora populace sysla obecného na jižní Moravě
-published: true
 listed: true
 position: 1
 layout: single_column_page
 ---
 # Kódy projektů:
 
-NFP304020D154  
+NFP304020D154\
 MZP 104/32/18
 
 # Financování:
 
-Program: Interreg V-A Slovenská republika – Česká republika
+Program: [Interreg V-A Slovenská republika – Česká republika](http://www.sk-cz.eu/)
 
 Spoločne bez hraníc / Společně bez hranic
 
-![](/media/logo_IRRVA_2014-20_610.JPG)
+![null](/media/logo_IRRVA_2014-20_610.JPG)
 
 Projekt je podpořen Ministerstvem životního prostředí, projekt nemusí
 vyjadřovat stanoviska MŽP.
@@ -30,12 +30,12 @@ vyjadřovat stanoviska MŽP.
 
 [ALKA Wildlife, o.p.s.](https://www.alkawildlife.eu) (vedoucí partner)
 
-[DAPHNE – Inštitút aplikovanej ekológie][1]
+[DAPHNE – Inštitút aplikovanej ekológie](http://daphne.sk/)
 (hlavní přeshraniční partner)
 
-[Ekocentrum Trkmanka, p.o.][2]
+[Ekocentrum Trkmanka, p.o.](https://www.ekocentrum-trkmanka.com/)
 
-[Národná zoologická záhrada Bojnice][3]
+[Národná zoologická záhrada Bojnice](http://zoobojnice.sk/)
 
 # Trvání:
 
@@ -60,7 +60,7 @@ opatření, nástroj na sdílení dat.  Projekt přispívá ke zlepšení
 regionu, kterým bude sysel představen jako zástupce místní přírody
 a symbol zachovalé stepní zemědělské krajiny.
 
-![](/media/IMG_2423_u_610.JPG)
+![null](/media/IMG_2423_u_610.JPG)
 
 # Aktivity projektu
 
@@ -114,8 +114,3 @@ demografický výzkum, osvěta zaměřená na vlastníky pozemků, vytvoření
 katalogu lokalit. Na Slovensku koncepční materiál zaměřený přímo na
 tento druh na národní úrovni neexistuje, ale výstupy projektu budou
 sloužit jako podklad pro tvorbu záchranného programu v budoucnosti.
-
-
-[1]: http://daphne.sk/
-[2]: https://www.ekocentrum-trkmanka.com/
-[3]: http://zoobojnice.sk/

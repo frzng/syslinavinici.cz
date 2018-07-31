@@ -44,11 +44,6 @@ Neuburské p.s.
 
 <div class="clearfix"></div>
 
-## [**Vinařství Reichman & Reichman**](http://www.naturalfactors.cz "Vinařství Reichman")
-
-[www.naturalfactors.cz](http://www.naturalfactors.cz "Vinařství Reichman")
-
-<div class="clearfix"></div>
 
 ## [![](/media/IMG_2995_lzborovsky_300.jpg){: .wysiwyg-float-left}**Víno Zborovský**](http://www.vinozborovsky.cz "Víno Zborovský")
 
@@ -77,33 +72,11 @@ Modrý Portugal
 
 <div class="clearfix"></div>
 
-## [**Vinařství Michna**](http://www.michna.cz "Vinařství Michna")
-
-[www.michna.cz](http://www.michna.cz "Vinařství Michna")
-
-<div class="clearfix"></div>
-
-## **Vlastimil Řádek**
-
-<mailto:vinarstvi.radek@seznam.cz>
-
-<div class="clearfix"></div>
-
-## [**Vinařství Lacina**](http://www.vinarstvilacina.cz "Vinařství Lacina")
-
-[www.vinarstvilacina.cz](http://www.vinarstvilacina.cz "Vinařství Lacina")
-
-<div class="clearfix"></div>
 
 ## ![](/media/IMG_3020.jpg){: .wysiwyg-float-left}**Petr Procházka**
 
 <div class="clearfix"></div>
 
-## [**Vinařství V & M Zborovský, v.o.s.**](http://www.zborovsky.cz "Zborovsky")
-
-[www.zborovsky.cz](http://www.zborovsky.cz "Zborovsky")
-
-<div class="clearfix"></div>
 
 ## ![](/media/img_3016_baloun_02_300.jpg){: .wysiwyg-float-left}[**Vinařství Baloun**](http://www.baloun.cz "Vinařství Baloun")
 
@@ -112,6 +85,12 @@ Modrý Portugal
 Větší rodinné vinařství z Velkých Bílovic, které má ale také vinice ve Velkých Pavlovicích, kde se nachází syslí kolonie. Víno si můžete nakoupit v e-shopu či objednat emailem na jejich webových stránkách. 
 
 Víno oceněné známkou: [Muškát moravský - kabinetní víno](http://www.baloun.cz/Galerie-vin/Bila-vina/2013-(3)/Muskat-Moravsky.aspx)
+
+<div class="clearfix"></div>
+
+## [**Vinařství V & M Zborovský, v.o.s.**](http://www.zborovsky.cz "Zborovsky")
+
+[www.zborovsky.cz](http://www.zborovsky.cz "Zborovsky")
 
 <div class="clearfix"></div>
 
@@ -132,6 +111,29 @@ Frankovka\
 Savignon\
 Modrý Portugal\
 Ryzlink rýnský
+
+<div class="clearfix"></div>
+## [**Vinařství Michna**](http://www.michna.cz "Vinařství Michna")
+
+[www.michna.cz](http://www.michna.cz "Vinařství Michna")
+
+<div class="clearfix"></div>
+
+## **Vlastimil Řádek**
+
+<mailto:vinarstvi.radek@seznam.cz>
+
+<div class="clearfix"></div>
+
+## [**Vinařství Lacina**](http://www.vinarstvilacina.cz "Vinařství Lacina")
+
+[www.vinarstvilacina.cz](http://www.vinarstvilacina.cz "Vinařství Lacina")
+
+<div class="clearfix"></div>
+
+## [**Vinařství Reichman & Reichman**](http://www.naturalfactors.cz "Vinařství Reichman")
+
+[www.naturalfactors.cz](http://www.naturalfactors.cz "Vinařství Reichman")
 
 <div class="clearfix"></div>
 

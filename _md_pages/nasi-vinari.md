@@ -109,7 +109,7 @@ Modrý Portugal
 
 ![](/media/img_3016_baloun_02_300.jpg)
 
-## [{: .wysiwyg-float-left}Vinařství Baloun](http://www.baloun.cz "Vinařství Baloun")
+{: .wysiwyg-float-left}[Vinařství Baloun](http://www.baloun.cz "Vinařství Baloun")
 
 [www.baloun.cz](http://www.baloun.cz "Vinařství Baloun")
 

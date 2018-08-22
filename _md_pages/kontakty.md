@@ -1,41 +1,39 @@
 ---
 title: Kontakty
-permalink: "/o-nas/kontakty"
 published: true
+permalink: /o-nas/kontakty
 listed: true
 position: 1
 layout: two_columns_page
 ---
 # Realizátor projektu:
 
-[![](/media/ALKA_logo.jpg){: .wysiwyg-float-left}ALKA Wildlife, o.p.s.][1]  
+[![](/media/ALKA_logo.jpg){: .wysiwyg-float-left}ALKA Wildlife, o.p.s.](https://www.alkawildlife.eu)\
 Lidéřovice 62, 38001 Peč
+
+[www.alkawildlife.eu](www.alkawildlife.eu)
 
 <div class="clearfix"></div>
 
- 
-
 # Kontaktní osoby:
 
-# Jan Matějů ([Muzeum Karlovy Vary][2])
 
-email: [HonzaMateju@seznam.cz](mailto:HonzaMateju@seznam.cz)  
-telefon: [+420 723 524 251](tel:+420-723-524-251)  
-*hlášení výskytu/pozorování sysla obecného*
 
-# Kateřina Poledníková ([ALKA Wildlife][1])
+# Kateřina Poledníková ([ALKA Wildlife](https://www.alkawildlife.eu))
 
-email: [katerina.polednikova@alkawildlife.eu](mailto:katerina.polednikova@alkawildlife.eu)   
-tel: [+420 606 598 903](tel:+420-606-598-903)  
-*známka Sysli na vinici*
+email: <mailto:katerina.polednikova@alkawildlife.eu>\
+tel: [+420 606 598 903](tel:+420-606-598-903)\
+_známka Sysli na vinici_
 
-# Tereza Mináriková ([ALKA Wildlife][1])  
+# Tereza Mináriková ([ALKA Wildlife](https://www.alkawildlife.eu))
 
 email:
-[tereza.minarikova@alkawildlife.eu](mailto:tereza.minarikova@alkawildlife.eu)  
-tel: [+420 724 706 806](tel:+420-724-706-806)  
-*známka sysli na vinici*
+<mailto:tereza.minarikova@alkawildlife.eu>\
+tel: [+420 724 706 806](tel:+420-724-706-806)\
+_známka sysli na vinici_
 
+# Jan Matějů ([Muzeum Karlovy Vary](http://kvmuz.cz))
 
-[1]: https://www.alkawildlife.eu
-[2]: http://kvmuz.cz
+email: <mailto:HonzaMateju@seznam.cz>\
+telefon: [+420 723 524 251](tel:+420-723-524-251)\
+_hlášení výskytu/pozorování sysla obecného_

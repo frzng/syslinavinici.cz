@@ -3,6 +3,7 @@ title: Sysli nora
 published: true
 image: /media/p6260061.jpg
 description: Nora u kmene meruňky
+gallery: /news/sysli-v-pavlovicích
 date: '2018-09-11 17:35:57 +0200'
 category: gallery
 layout: photo

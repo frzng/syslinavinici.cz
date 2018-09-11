@@ -1,4 +1,4 @@
 ---
-title: /news/sysli-v-pavlovicich
+title: /news/sysli-v-pavlovicích
 ---
 

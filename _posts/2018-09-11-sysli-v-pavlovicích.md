@@ -1,6 +1,6 @@
 ---
 title: Sysli v Pavlovicích
-published: false
+published: true
 image: /media/p6270098.jpg
 description: >-
   V letošním roce se nám podařilo velmi detailně zmapovat výskyt syslů v okolí

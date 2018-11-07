@@ -44,7 +44,6 @@ Neuburské p.s.
 
 <div class="clearfix"></div>
 
-
 ## [![](/media/IMG_2995_lzborovsky_300.jpg){: .wysiwyg-float-left}**Víno Zborovský**](http://www.vinozborovsky.cz "Víno Zborovský")
 
 [www.vinozborovsky.cz](http://www.vinozborovsky.cz "Víno Zborovský")
@@ -72,11 +71,9 @@ Modrý Portugal
 
 <div class="clearfix"></div>
 
-
 ## ![](/media/IMG_3020.jpg){: .wysiwyg-float-left}**Petr Procházka**
 
 <div class="clearfix"></div>
-
 
 ## ![](/media/img_3016_baloun_02_300.jpg){: .wysiwyg-float-left}[**Vinařství Baloun**](http://www.baloun.cz "Vinařství Baloun")
 
@@ -113,7 +110,7 @@ Modrý Portugal\
 Ryzlink rýnský
 
 <div class="clearfix"></div>
-## [**Vinařství Michna**](http://www.michna.cz "Vinařství Michna")
+## \[\*\*Vinařství Michna\*\*](http://www.michna.cz "Vinařství Michna")
 
 [www.michna.cz](http://www.michna.cz "Vinařství Michna")
 
@@ -152,6 +149,8 @@ Rulandské modré
 <div class="clearfix"></div>
 
 ## ![](/media/IMG_6094_b_300.JPG){: .wysiwyg-float-left}**Vinařství Schwarz**
+
+[www.vinarstvischwarz.cz](www.vinarstvischwarz.cz)
 
 Savignon\
 Děvín\

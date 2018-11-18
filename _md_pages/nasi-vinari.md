@@ -14,7 +14,6 @@ jejich víno nakoupit.
 # Miroslav:
 
 ## [![](/media/img_0917_m.jpg)
-
 {: .wysiwyg-float-left}]Víno Perk
 
 www.perk.cz
@@ -122,7 +121,7 @@ Modrý Portugal\
 Ryzlink rýnský
 
 <div class="clearfix"></div>
-## \\\[\\\*\\\*Vinařství Michna\\\*\\\*](http://www.michna.cz "Vinařství Michna")
+## \\\\[\\\\*\\\\*Vinařství Michna\\\\*\\\\*](http://www.michna.cz "Vinařství Michna")
 
 [www.michna.cz](http://www.michna.cz "Vinařství Michna")
 

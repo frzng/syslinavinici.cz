@@ -13,7 +13,7 @@ layout: news
 ---
 Tisková zpráva
 
-Lidéřovice 8.11.2018  - Známkou Sysli na vinici se pyšní další moravská vinařská obec. Tentokrát je to obec Miroslav v Jihomoravském kraji, kde se syslům dlouho dařilo na sportovním letišti.  Vinaři AGRODRUŽSTVA Miroslav, kteří vyrábí víno pod značkou VÍNO PERK, vytváří ve svých vinicích vhodné podmínky, díky kterým se sysli začali šířit z letiště i do okolních vinic a sadů, které obklopují obec. Vzhledem k tomu, že vinice splňují podmínky hospodaření přátelského k syslům, získalo pro svoje vína v tomto roce zlatou známku „Sysli na vinici“. Nákupem takto oceněného vína mohou lidé podpořit vinaře, kteří vytvářejí kriticky ohroženým syslům dobré životní prostředí.
+**Lidéřovice 8.11.2018  - Známkou Sysli na vinici se pyšní další moravská vinařská obec. Tentokrát je to obec Miroslav v Jihomoravském kraji, kde se syslům dlouho dařilo na sportovním letišti.  Vinaři AGRODRUŽSTVA Miroslav, kteří vyrábí víno pod značkou VÍNO PERK, vytváří ve svých vinicích vhodné podmínky, díky kterým se sysli začali šířit z letiště i do okolních vinic a sadů, které obklopují obec. Vzhledem k tomu, že vinice splňují podmínky hospodaření přátelského k syslům, získalo pro svoje vína v tomto roce zlatou známku „Sysli na vinici“. Nákupem takto oceněného vína mohou lidé podpořit vinaře, kteří vytvářejí kriticky ohroženým syslům dobré životní prostředí.**
 
 V Miroslavi žijí vzácní sysli obecní na travnatém letišti, tato kolonie je známá odborné veřejnosti od roku 2008, kdy čítala pouhých 10 jedinců. Díky dobrým podmínkám se populace pomalu zvětšovala, dnes na celé ploše letiště žije více jak 650 syslů. Na letiště navazují zatravněné vinice, které jsou pro sysly ideálním prostředím.
 

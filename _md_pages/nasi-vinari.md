@@ -13,9 +13,9 @@ jejich víno nakoupit.
 
 # Miroslav:
 
-![](/media/img_0917_m.jpg)
+## [![](/media/img_0917_m.jpg)
 
-## [{: .wysiwyg-float-left}](http://www.slechtitelka.cz "Šlechtitelka") Víno Perk
+{: .wysiwyg-float-left}]Víno Perk
 
 www.perk.cz
 

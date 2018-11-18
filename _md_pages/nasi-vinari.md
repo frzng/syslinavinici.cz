@@ -11,6 +11,18 @@ Pavlovic a 4 z Hnanic. Odkazy Vás navedou na jejich webové stránky, kde
 najdete více informací o těchto vinařstvích, i e-shopy, kde si můžete
 jejich víno nakoupit.
 
+# Miroslav:
+
+![](/media/img_0917_m.jpg)
+
+## [{: .wysiwyg-float-left}](http://www.slechtitelka.cz "Šlechtitelka") Víno Perk
+
+www.perk.cz
+
+Víno Perk je vinařství pod záštitou AGRODRUŽSTVA Miroslav, v Miroslavi na Znojemsku. Do Miroslavských vinic se rozšířili sysli z místního letiště. Vinařství má udělenou známku od roku 2018. Vinařství hospodaří ve dvou viničních tratích, kde se vyskytují také sysli – Weinperky a U Vinohradu. 
+
+<div class="clearfix"></div>
+
 # Velké Pavlovice:
 
 ## [![](/media/IMG_2970_slechtitelka.jpg){: .wysiwyg-float-left}**Šlechtitelská stanice vinařská Velké Pavlovice a.s.**](http://www.slechtitelka.cz "Šlechtitelka")
@@ -110,7 +122,7 @@ Modrý Portugal\
 Ryzlink rýnský
 
 <div class="clearfix"></div>
-## \[\*\*Vinařství Michna\*\*](http://www.michna.cz "Vinařství Michna")
+## \\\[\\\*\\\*Vinařství Michna\\\*\\\*](http://www.michna.cz "Vinařství Michna")
 
 [www.michna.cz](http://www.michna.cz "Vinařství Michna")
 

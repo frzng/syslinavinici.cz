@@ -15,7 +15,7 @@ jejich víno nakoupit.
 
 ![](/media/img_0917_m.jpg)
 
-Víno Perk
+{: .wysiwyg-float-left} Víno Perk
 
 www.perk.cz
 

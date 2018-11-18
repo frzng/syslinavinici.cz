@@ -13,9 +13,9 @@ jejich víno nakoupit.
 
 # Miroslav:
 
-![null](/media/img_0917_m.jpg){: .wysiwyg-float-left}**VÍNO PERK**
+![null](/media/img_0917_m.jpg){: .wysiwyg-float-left}[**VÍNO PERK**](https://www.perk.cz/)
 
-www.perk.cz
+[www.perk.cz](https://www.perk.cz/)
 
 Víno Perk je vinařství pod záštitou AGRODRUŽSTVA Miroslav, v Miroslavi na Znojemsku. Do Miroslavských vinic se rozšířili sysli z místního letiště. Vinařství má udělenou známku od roku 2018. Vinařství hospodaří ve dvou viničních tratích, kde se vyskytují také sysli – Weinperky a U Vinohradu. 
 
@@ -120,7 +120,7 @@ Modrý Portugal\
 Ryzlink rýnský
 
 <div class="clearfix"></div>
-## \\\\\\[\\\\\\*\\\\\\*Vinařství Michna\\\\\\*\\\\\\*](http://www.michna.cz "Vinařství Michna")
+## \\\\\\\[\\\\\\\*\\\\\\\*Vinařství Michna\\\\\\\*\\\\\\\*](http://www.michna.cz "Vinařství Michna")
 
 [www.michna.cz](http://www.michna.cz "Vinařství Michna")
 

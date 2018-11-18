@@ -13,9 +13,7 @@ jejich víno nakoupit.
 
 # Miroslav:
 
-![null](/media/img_0917_m.jpg) {: .wysiwyg-float-left}
-
-**VÍNO PERK**
+![null](/media/img_0917_m.jpg){: .wysiwyg-float-left}**VÍNO PERK**
 
 www.perk.cz
 
@@ -44,7 +42,7 @@ Neuburské p.s.
 
 <div class="clearfix"></div>
 
-## [![](/media/IMG_2981_buchtovi.jpg){: .wysiwyg-float-left}R**odinné vinařství Buchtovi**](http://www.vinobuchtovi.cz "Vinařství Buchtovi")
+## [![](/media/IMG_2981_buchtovi.jpg){: .wysiwyg-float-left}**rodinné vinařství Buchtovi**](http://www.vinobuchtovi.cz "Vinařství Buchtovi")
 
 [www.vinobuchtovi.cz](http://www.vinobuchtovi.cz "Vinařství Buchtovi")
 

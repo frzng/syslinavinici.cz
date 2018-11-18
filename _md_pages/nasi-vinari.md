@@ -14,7 +14,7 @@ jejich víno nakoupit.
 # Miroslav:
 
 ## [![](/media/img_0917_m.jpg)
-{: .wysiwyg-float-left}]Víno Perk
+{: .wysiwyg-float-left} Víno Perk
 
 www.perk.cz
 

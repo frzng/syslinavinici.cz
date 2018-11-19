@@ -4,7 +4,7 @@ published: true
 permalink: /o-nas/kontakty
 listed: true
 position: 1
-layout: one_column_page
+layout: single_column_page
 ---
 # Realizátor projektu:
 

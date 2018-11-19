@@ -1,7 +1,7 @@
 ---
 title: Projekty
-permalink: "/o-nas/projekty"
 published: true
+permalink: /projekty
 listed: true
 position: 2
 layout: two_columns_page

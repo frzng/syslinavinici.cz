@@ -1,8 +1,8 @@
 ---
 title: Realizace opatření ZP
-permalink: /o-nas/projekty/realizace-opatreni
-image: /media/DSCN0196_610.JPG
 published: true
+permalink: /projekty/realizace-opatreni
+image: /media/DSCN0196_610.JPG
 listed: true
 position: 2
 layout: two_columns_page

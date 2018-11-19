@@ -7,4 +7,4 @@ date: '2018-11-19'
 category: news
 layout: news
 ---
-![](/media/pozvánka_olomouc.jpg)
+![null](/media/pozvánka_olomouc.jpg)

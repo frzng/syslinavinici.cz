@@ -1,8 +1,8 @@
 ---
 title: Sysli na vinici 2016
-permalink: "/o-nas/projekty/sysli-na-vinici-2016"
-image: "/media/IMG_6044_610.JPG"
 published: true
+permalink: /projekty/sysli-na-vinici-2016
+image: /media/IMG_6044_610.JPG
 listed: true
 position: 2
 layout: two_columns_page

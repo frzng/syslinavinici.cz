@@ -1,7 +1,7 @@
 ---
 title: 'Sysli pro krajinu, krajina pro sysly'
 published: true
-permalink: /o-nas/projekty/sysli-pro-krajinu-krajina-pro-sysly
+permalink: /projekty/sysli-pro-krajinu-krajina-pro-sysly
 long_title: 'Sysli pro krajinu, krajina pro sysly'
 subtitle: Monitoring a podpora populace sysla obecného na jižní Moravě
 listed: true

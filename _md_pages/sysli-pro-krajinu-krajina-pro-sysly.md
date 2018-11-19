@@ -2,16 +2,19 @@
 title: 'Sysli pro krajinu, krajina pro sysly'
 published: true
 permalink: /projekty/sysli-pro-krajinu-krajina-pro-sysly
-long_title: 'Sysli pro krajinu, krajina pro sysly'
-subtitle: Monitoring a podpora populace sysla obecného na jižní Moravě
+long_title: >-
+  Sysli pro krajinu, krajina pro sysly a Monitoring a podpora populace sysla
+  obecného na jižní Moravě
+subtitle: ''
 listed: true
 position: 1
 layout: single_column_page
 ---
 # Kódy projektů:
 
-NFP304020D154\
-MZP 104/32/18
+Sysli pro krajinu, krajina pro sysly: NFP304020D154
+
+Monitoring a podpora populace sysla obecného na jižní Moravě: MZP 104/32/18
 
 # Financování:
 
@@ -39,7 +42,9 @@ vyjadřovat stanoviska MŽP.
 
 # Trvání:
 
-02/2018 – 01/2020
+NFP304020D154: 02/2018 – 01/2020
+
+MZP 104/32/18: 02/2018 - 12/2018
 
 # Kontaktní osoba:
 

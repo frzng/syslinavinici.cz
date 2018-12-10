@@ -119,9 +119,7 @@ Savignon\
 Modrý Portugal\
 Ryzlink rýnský
 
-##![](/media/michna_300.jpg)
-
- {: .wysiwyg-float-left} [Vinařství Michna](http://www.michna.cz)
+## ![](/media/michna_300.jpg){: .wysiwyg-float-left}[Vinařství Michna](http://www.michna.cz)
 
 [www.michna.cz](http://www.michna.cz "Vinařství Michna")
 

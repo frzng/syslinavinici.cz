@@ -119,10 +119,15 @@ Savignon\
 Modrý Portugal\
 Ryzlink rýnský
 
-<div class="clearfix"></div>
-## \\\\\\\[\\\\\\\*\\\\\\\*Vinařství Michna\\\\\\\*\\\\\\\*](http://www.michna.cz "Vinařství Michna")
+![](/media/michna_300.jpg)
+
+## {: .wysiwyg-float-left} Vinařství Michna
 
 [www.michna.cz](http://www.michna.cz "Vinařství Michna")
+
+Rodinná vinařská firma z Velkých Pavlovic s dlouholetou tradicí. Všechny jejich přívlastková vína vyzrávají ve vinicích, jež jsou domovem i pro sysly. Jsou to viniční tratě Staré hory, Bojanovska, Lizniperky a Nové hory, s odrůdami jako Veltlínské zelené, Muškát moravský, Sylvánské zelené, André, Rulandské modré, Svatovavřinecké.
+
+
 
 <div class="clearfix"></div>
 

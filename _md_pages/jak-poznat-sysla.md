@@ -31,7 +31,7 @@ obytnou komorou a více východy.
 ![null](/media/DSCN0142_610.JPG)
 
 Kromě této hlavní nory má obvykle v okolí vybudováno ještě několik tzv.
-únikových nor, kam se ukrývá, je-li vyrušen.
+únikových nor, kam se ukrývá, je-li vyrušen. Kolmé nory vypadají jako vysoustruhovaná rovná, velmi hluboká díra do země (jako by v místě byl dříve kovový sloup a někdo jej vyndal).
 
 ![null](/media/DSCN0139_610.JPG)
 

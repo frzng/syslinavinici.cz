@@ -1,5 +1,6 @@
 ---
 title: Sysli v sadu
+published: true
 image: /media/img_8496_v.jpg
 description: Sysli v meruňkovém sadu
 gallery: /news/první-meruňky-se-známkou-sysli-v-sadu

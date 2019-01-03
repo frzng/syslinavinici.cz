@@ -1,5 +1,6 @@
 ---
 title: Syslík hlídá meruňku
+published: true
 image: /media/img_8520_v.jpg
 description: Malý sysel u kmene meruňky
 gallery: /news/první-meruňky-se-známkou-sysli-v-sadu

@@ -4,8 +4,8 @@ published: true
 image: /media/img_8463_610.jpg
 listing_thumbnail: /media/img_8463_274.jpg
 description: >-
-  V pondělí 18.6. proběhne seminář o syslovi v Hrušovanech u Brna. Všichni jste
-  srdečně zváni.
+  V pondělí 18.6. 2018 proběhne seminář o syslovi v Hrušovanech u Brna. Všichni
+  jste srdečně zváni.
 date: '2018-06-14'
 category: news
 layout: news

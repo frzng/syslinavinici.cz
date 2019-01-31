@@ -2,7 +2,9 @@
 title: Přednáška v Olomouci
 published: true
 image: /media/img_8443.jpg
-description: Přednáška je ke shlédnutí online.
+description: >-
+  Přednáška Lukáše Poledníka na konferenci Biodiversita zemědělské krajiny  je
+  ke shlédnutí online.
 date: '2018-11-19'
 category: news
 layout: news

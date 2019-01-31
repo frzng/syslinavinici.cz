@@ -2,19 +2,15 @@
 title: 'Sysli pro krajinu, krajina pro sysly'
 published: true
 permalink: /projekty/sysli-pro-krajinu-krajina-pro-sysly
-long_title: >-
-  Sysli pro krajinu, krajina pro sysly a Monitoring a podpora populace sysla
-  obecného na jižní Moravě
+long_title: 'Sysli pro krajinu, krajina pro sysly '
 subtitle: ''
 listed: true
 position: 1
 layout: single_column_page
 ---
-# Kódy projektů:
+# Kód projektů:
 
-Sysli pro krajinu, krajina pro sysly: NFP304021D154
-
-Monitoring a podpora populace sysla obecného na jižní Moravě: MZP 104/32/18
+304021D154
 
 # Financování:
 
@@ -24,12 +20,9 @@ Spoločne bez hraníc / Společně bez hranic
 
 ![null](/media/logo_IRRVA_2014-20_610.JPG)
 
-Projekt je podpořen Ministerstvem životního prostředí, projekt nemusí
-vyjadřovat stanoviska MŽP.
+Projekt je také podpořen Ministerstvem životního prostředí, více zde. 
 
-# ![](/media/OPEU-Logo-MZP_20141218v.JPG)
-
-# Partneři:
+## Partneři:
 
 [ALKA Wildlife, o.p.s.](https://www.alkawildlife.eu) (vedoucí partner)
 
@@ -43,8 +36,6 @@ vyjadřovat stanoviska MŽP.
 # Trvání:
 
 NFP3040201154: 02/2018 – 01/2020
-
-MZP 104/32/18: 02/2018 - 12/2018
 
 # Kontaktní osoba:
 

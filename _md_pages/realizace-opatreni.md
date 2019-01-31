@@ -4,7 +4,7 @@ published: true
 permalink: /projekty/realizace-opatreni
 image: /media/DSCN0196_610.JPG
 listed: true
-position: 2
+position: 3
 layout: two_columns_page
 ---
 **Registrace ochranné známky, uvedení do činnosti, webové stránky

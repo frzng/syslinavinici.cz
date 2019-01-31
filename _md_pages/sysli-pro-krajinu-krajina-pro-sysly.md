@@ -12,7 +12,7 @@ layout: single_column_page
 ---
 # Kódy projektů:
 
-Sysli pro krajinu, krajina pro sysly: NFP304020D154
+Sysli pro krajinu, krajina pro sysly: NFP304021D154
 
 Monitoring a podpora populace sysla obecného na jižní Moravě: MZP 104/32/18
 
@@ -42,7 +42,7 @@ vyjadřovat stanoviska MŽP.
 
 # Trvání:
 
-NFP304020D154: 02/2018 – 01/2020
+NFP3040201154: 02/2018 – 01/2020
 
 MZP 104/32/18: 02/2018 - 12/2018
 

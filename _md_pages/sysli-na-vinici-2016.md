@@ -4,7 +4,7 @@ published: true
 permalink: /projekty/sysli-na-vinici-2016
 image: /media/IMG_6044_610.JPG
 listed: true
-position: 2
+position: 4
 layout: two_columns_page
 ---
 **Název projektu**: Sysli na vinici

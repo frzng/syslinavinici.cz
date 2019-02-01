@@ -7,9 +7,6 @@ listed: true
 position: 3
 layout: two_columns_page
 ---
-**Registrace ochranné známky, uvedení do činnosti, webové stránky
-i první doprovodné aktivity bylo realizováno v rámci projektu:**
-
 # **Realizace opatření ZP sysla obecného na jižní Moravě**
 
 ## Partneři:

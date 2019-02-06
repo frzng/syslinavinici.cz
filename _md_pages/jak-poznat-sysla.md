@@ -13,11 +13,9 @@ oči, malé ušní boltce a krátký štětkovitý ocas.
 
 Má denní aktivitu, a tak je možné jej přímo pozorovat. Je to společensky
 žijící tvor, při vhodných podmínkách vytváří kolonie a můžete tak
-pozorovat i více jedinců najednou. V prostředí vinic, sadů a záhumenků
-jsou populace řidší.
+pozorovat i více jedinců najednou. 
 
-Protože je aktivní ve dne, orientuje se především zrakem a tak je možné
-často pozorovat jak sysli „panáčkují“ a rozhlížejí se po okolí.
+Protože je sysel aktivní ve dne, orientuje se především zrakem a protože častou kořistí různých predátorů a dravců, sysli často „panáčkují“ a rozhlížejí se po okolí.
 
 ![null](/media/KMB6072_610.jpg)
 

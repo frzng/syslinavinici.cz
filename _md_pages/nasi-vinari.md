@@ -125,8 +125,6 @@ Ryzlink rýnský
 
 Rodinná vinařská firma z Velkých Pavlovic s dlouholetou tradicí. Všechny jejich přívlastková vína vyzrávají ve vinicích, jež jsou domovem i pro sysly. Jsou to viniční tratě Staré hory, Bojanovska, Lizniperky a Nové hory, s odrůdami jako Veltlínské zelené, Muškát moravský, Sylvánské zelené, André, Rulandské modré, Svatovavřinecké.
 
-
-
 <div class="clearfix"></div>
 
 ## **Vlastimil Řádek**

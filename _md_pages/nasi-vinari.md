@@ -31,14 +31,11 @@ Chardonnay
 
 <div class="clearfix"></div>
 
-## [![](/media/IMG_2973_300.jpg){: .wysiwyg-float-left}**Vinařství Procházka**](http://www.vinarstvi-prochazka.cz "Vinařství Procházka")
+## [![](/media/IMG_2973_300.jpg){: .wysiwyg-float-left}](http://www.vinarstvi-prochazka.cz "Vinařství Procházka") [Vinařství Mezi Horami](www.mezihorami.cz)
 
-[www.vinarstvi-prochazka.cz](http://www.vinarstvi-prochazka.cz "Vinařství Procházka")
 
-Cuvée Rulandské šedé/Chardonay p.s.\
-Tramín červený p.s.\
-Cuvée Ryzlink rýnský/Savignon p.s.\
-Neuburské p.s.
+
+[www.mezihorami.cz](www.mezihorami.cz)
 
 <div class="clearfix"></div>
 

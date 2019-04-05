@@ -31,11 +31,11 @@ Chardonnay
 
 <div class="clearfix"></div>
 
-## [![](/media/IMG_2973_300.jpg){: .wysiwyg-float-left}](http://www.vinarstvi-prochazka.cz "Vinařství Procházka") [Vinařství Mezi Horami](http://www.mezihorami.cz)
+## [![](/media/IMG_2973_300.jpg){: .wysiwyg-float-left}](https://www.mezihorami.cz "Vinařství Mezi Horami") [Vinařství Mezi Horami](https://www.mezihorami.cz)
 
 
 
-[www.mezihorami.cz](http://www.mezihorami.cz)
+[www.mezihorami.cz](https://www.mezihorami.cz)
 
 <div class="clearfix"></div>
 

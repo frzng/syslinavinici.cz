@@ -1,8 +1,8 @@
 ---
 title: Známka Sysli na vinici je registrovaná
-image: "/media/sysli_na_vinici_logo_200.jpg"
 published: true
-date: 2016-05-17
+image: /media/sysli_na_vinici_logo_200.jpg
+date: 2016-05-17T00:00:00.000Z
 category: news
 layout: news
 ---
@@ -21,6 +21,8 @@ První známky budou vinařům uděleny v červnu 2016.
 Víno ze syslí vinice poznáte podle zlatého loga na každé lahvi.
 
 Vinaře se syslí vinicí poznáte podle této samolepky.
+
+<div class="clearfix"></div>
 
 ![](/media/samolepka_Syslinavinici.jpg)
 

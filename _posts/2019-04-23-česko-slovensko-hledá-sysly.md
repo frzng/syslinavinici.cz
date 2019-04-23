@@ -40,7 +40,6 @@ Pozorování či dotazy je možné zasílat na tyto kontakty:
 
 SR: chrenkova@daphne.sk
 
-
 ![sysel obecný](/media/dscn2749_610.jpg "sysel obecný")
 
 ![Dva panáčkující sysli v trávě](/media/img_8253_610.jpg "sysel obecný")

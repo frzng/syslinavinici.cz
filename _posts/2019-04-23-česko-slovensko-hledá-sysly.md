@@ -42,7 +42,7 @@ SR: chrenkova@daphne.sk
 
 ![Dva panáčkující sysli v trávě](/media/img_8253_610.jpg "sysel obecný")
 
-__
+
 
 ![Nora sysla s výhrabkem](/media/DSCN0142_610.JPG "Nora sysla s výhrabkem")
 

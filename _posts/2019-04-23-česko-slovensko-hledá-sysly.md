@@ -41,8 +41,15 @@ SR: chrenkova@daphne.sk
 ![sysel obecný](/media/dscn2749_610.jpg "sysel obecný")
 
 ![Dva panáčkující sysli v trávě](/media/img_8253_610.jpg "sysel obecný")
+_Sysli velmi často panáčkují a jsou tak nezaměnitělní._
 
+__
 
+![Vchod do nory kolmo dolů](/media/img_8959_610.jpg "Kolmý vchod do nory")
+
+_Kolmý vchod do syslí nory_
+
+__
 
 ![Nora sysla s výhrabkem](/media/DSCN0142_610.JPG "Nora sysla s výhrabkem")
 

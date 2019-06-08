@@ -15,4 +15,4 @@ Reportáž z Velkých Pavlovic o syslovi obecném, jeho stavu u nás, o vinicíc
 
 O syslech a vinicích si budou povídat reportéři pan Klos a paní Ševčíká s panem Prátem z Velkých Pavlovic, panem Floriánem z vinařství Baloun a kolegyní Terezou Minárikovou. 
 
-[archiv Českého Rozhlasu](https://www.rozhlas.cz/zaznamy/plus#/2018-10-20/13)
+[archiv Českého Rozhlasu](https://plus.rozhlas.cz/syslove-na-vinici-7646527)

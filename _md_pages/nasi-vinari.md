@@ -13,9 +13,9 @@ jejich víno nakoupit.
 
 # Miroslav:
 
-![null](/media/img_0917_m.jpg){: .wysiwyg-float-left}[**VÍNO PERK**](https://www.perk.cz/)
+![null](/media/img_0917_m.jpg){: .wysiwyg-float-left}[**VÍNO PERK**](http://bit.ly/perkcz)
 
-[www.perk.cz](https://www.perk.cz/)
+[www.perk.cz](http://bit.ly/perkcz)
 
 Víno Perk je vinařství pod záštitou AGRODRUŽSTVA Miroslav, v Miroslavi na Znojemsku. Do Miroslavských vinic se rozšířili sysli z místního letiště. Vinařství má udělenou známku od roku 2018. Vinařství hospodaří ve dvou viničních tratích, kde se vyskytují také sysli – Weinperky a U Vinohradu. 
 
@@ -23,52 +23,52 @@ Víno Perk je vinařství pod záštitou AGRODRUŽSTVA Miroslav, v Miroslavi na 
 
 # Velké Pavlovice:
 
-## [![](/media/IMG_2970_slechtitelka.jpg){: .wysiwyg-float-left}**Šlechtitelská stanice vinařská Velké Pavlovice a.s.**](http://www.slechtitelka.cz "Šlechtitelka")
+## [![](/media/IMG_2970_slechtitelka.jpg){: .wysiwyg-float-left}**Šlechtitelská stanice vinařská Velké Pavlovice a.s.**](http://bit.ly/slechtitelkacz "Šlechtitelka")
 
-[www.slechtitelka.cz](http://www.slechtitelka.cz "Šlechtitelka")
+[www.slechtitelka.cz](http://bit.ly/slechtitelkacz "Šlechtitelka")
 
 Chardonnay
 
 <div class="clearfix"></div>
 
-## [![](/media/IMG_2973_300.jpg){: .wysiwyg-float-left}](https://www.mezihorami.cz "Vinařství Mezi Horami") [Vinařství Mezi Horami](https://www.mezihorami.cz)
+## [![](/media/IMG_2973_300.jpg){: .wysiwyg-float-left}](http://bit.ly/mezihoramicz "Vinařství Mezi Horami") [Vinařství Mezi Horami](http://bit.ly/mezihoramicz)
 
 
 
-[www.mezihorami.cz](https://www.mezihorami.cz)
-
-<div class="clearfix"></div>
-
-## [![](/media/IMG_2981_buchtovi.jpg){: .wysiwyg-float-left}**rodinné vinařství Buchtovi**](http://www.vinobuchtovi.cz "Vinařství Buchtovi")
-
-[www.vinobuchtovi.cz](http://www.vinobuchtovi.cz "Vinařství Buchtovi")
+[www.mezihorami.cz](http://bit.ly/mezihoramicz)
 
 <div class="clearfix"></div>
 
-## [![](/media/IMG_2986.jpg){: .wysiwyg-float-left}**Rodinné vinařství Suský**](http://www.vinosusky.cz "Vinařství Suský")
+## [![](/media/IMG_2981_buchtovi.jpg){: .wysiwyg-float-left}**rodinné vinařství Buchtovi**](http://bit.ly/buchtovicz "Vinařství Buchtovi")
 
-[www.vinosusky.cz](http://www.vinosusky.cz "Vinařství Suský")
+[www.vinobuchtovi.cz](http://bit.ly/buchtovicz "Vinařství Buchtovi")
 
 <div class="clearfix"></div>
 
-## [![](/media/IMG_2995_lzborovsky_300.jpg){: .wysiwyg-float-left}**Víno Zborovský**](http://www.vinozborovsky.cz "Víno Zborovský")
+## [![](/media/IMG_2986.jpg){: .wysiwyg-float-left}**Rodinné vinařství Suský**](http://bit.ly/vinosusky "Vinařství Suský")
 
-[www.vinozborovsky.cz](http://www.vinozborovsky.cz "Víno Zborovský")
+[www.vinosusky.cz](http://bit.ly/vinosusky "Vinařství Suský")
+
+<div class="clearfix"></div>
+
+## [![](/media/IMG_2995_lzborovsky_300.jpg){: .wysiwyg-float-left}**Víno Zborovský**](http://bit.ly/zborovsky "Víno Zborovský")
+
+[www.vinozborovsky.cz](http://bit.ly/zborovsky "Víno Zborovský")
 
 Cabernet Moravia 2015\
 Cabernet Moravia Rosé 2015
 
 <div class="clearfix"></div>
 
-## [![](/media/IMG_3007_krejcirik_a_300.jpg){: .wysiwyg-float-left}**Rodinné vinařství Krejčiřík**](http://www.vinarstvi-krejcirik.cz "Vinařství Krejčiřík")
+## [![](/media/IMG_3007_krejcirik_a_300.jpg){: .wysiwyg-float-left}**Rodinné vinařství Krejčiřík**](http://bit.ly/krejcirik "Vinařství Krejčiřík")
 
-[www.vinarstvi-krejcirik.cz](http://www.vinarstvi-krejcirik.cz "Vinařství Krejčiřík")
+[www.vinarstvi-krejcirik.cz](http://bit.ly/krejcirik "Vinařství Krejčiřík")
 
 <div class="clearfix"></div>
 
-## [![](/media/VP_Mikulica_IMGP9275_300.jpg){: .wysiwyg-float-left}**Vinařství Mikulica**](https://www.vinarstvimikulica.cz "Vinařství Mikulica")
+## [![](/media/VP_Mikulica_IMGP9275_300.jpg){: .wysiwyg-float-left}**Vinařství Mikulica**](http://bit.ly/mikulika "Vinařství Mikulica")
 
-[www.vinarstvimikulica.cz](https://www.vinarstvimikulica.cz "Vinařství Mikulica")
+[www.vinarstvimikulica.cz](http://bit.ly/mikulika "Vinařství Mikulica")
 
 Pálava p.s.\
 Pálava v.z.h.\
@@ -82,9 +82,9 @@ Modrý Portugal
 
 <div class="clearfix"></div>
 
-## ![](/media/img_3016_baloun_02_300.jpg){: .wysiwyg-float-left}[**Vinařství Baloun**](http://www.baloun.cz "Vinařství Baloun")
+## ![](/media/img_3016_baloun_02_300.jpg){: .wysiwyg-float-left}[**Vinařství Baloun**](http://bit.ly/baloun "Vinařství Baloun")
 
-[www.baloun.cz](http://www.baloun.cz "Vinařství Baloun")
+[www.baloun.cz](http://bit.ly/baloun "Vinařství Baloun")
 
 Větší rodinné vinařství z Velkých Bílovic, které má ale také vinice ve Velkých Pavlovicích, kde se nachází syslí kolonie. Víno si můžete nakoupit v e-shopu či objednat emailem na jejich webových stránkách. 
 
@@ -92,21 +92,21 @@ Víno oceněné známkou: [Muškát moravský - kabinetní víno](http://www.bal
 
 <div class="clearfix"></div>
 
-## [**Vinařství V & M Zborovský, v.o.s.**](http://www.zborovsky.cz "Zborovsky")
+## [**Vinařství V & M Zborovský, v.o.s.**](http://bit.ly/vmzborovsky "Zborovsky")
 
-[www.zborovsky.cz](http://www.zborovsky.cz "Zborovsky")
+[www.zborovsky.cz](http://bit.ly/vmzborovsky "Zborovsky")
 
 <div class="clearfix"></div>
 
-## [**Rodinné vinařství Helena**](http://www.vinarstvihelena.cz)
+## [**Rodinné vinařství Helena**](http://bit.ly/helenavicz)
 
-[www.vinarstvihelena.cz](http://www.vinarstvihelena.cz)
+[www.vinarstvihelena.cz](http://bit.ly/helenavicz)
 
 <div class="clearfix"></div>
 
 ## [**Vinařství Halm**](http://www.vinarstvihalm.cz)
 
-[www.vinarstvihalm.cz](http://www.vinarstvihalm.cz)
+[www.vinarstvihalm.cz](http://bit.ly/halmvicz)
 
 Muškát Moravský\
 Svatovavřinecké\
@@ -118,7 +118,7 @@ Ryzlink rýnský
 
 ## ![](/media/michna_300.jpg){: .wysiwyg-float-left}[Vinařství Michna](http://www.michna.cz)
 
-[www.michna.cz](http://www.michna.cz "Vinařství Michna")
+[www.michna.cz](http://bit.ly/michnacz "Vinařství Michna")
 
 Rodinná vinařská firma z Velkých Pavlovic s dlouholetou tradicí. Všechny jejich přívlastková vína vyzrávají ve vinicích, jež jsou domovem i pro sysly. Jsou to viniční tratě Staré hory, Bojanovska, Lizniperky a Nové hory, s odrůdami jako Veltlínské zelené, Muškát moravský, Sylvánské zelené, André, Rulandské modré, Svatovavřinecké.
 
@@ -132,13 +132,13 @@ Rodinná vinařská firma z Velkých Pavlovic s dlouholetou tradicí. Všechny j
 
 ## [**Vinařství Lacina**](http://www.vinarstvilacina.cz "Vinařství Lacina")
 
-[www.vinarstvilacina.cz](http://www.vinarstvilacina.cz "Vinařství Lacina")
+[www.vinarstvilacina.cz](http://bit.ly/lacinacz "Vinařství Lacina")
 
 <div class="clearfix"></div>
 
 ## [**Vinařství Reichman & Reichman**](http://www.naturalfactors.cz "Vinařství Reichman")
 
-[www.naturalfactors.cz](http://www.naturalfactors.cz "Vinařství Reichman")
+[www.naturalfactors.cz](http://bit.ly/naturalfactorscz "Vinařství Reichman")
 
 <div class="clearfix"></div>
 
@@ -146,7 +146,7 @@ Rodinná vinařská firma z Velkých Pavlovic s dlouholetou tradicí. Všechny j
 
 ## [![](/media/IMG_6105_300.JPG){: .wysiwyg-float-left}**Vinařství Špetíci**](http://www.vinarstvispetici.cz)
 
-[www.vinarstvispetici.cz](http://www.vinarstvispetici.cz)
+[www.vinarstvispetici.cz](http://bit.ly/spetici)
 
 Sauvignon\
 Ryzlink rýnský\
@@ -158,7 +158,7 @@ Rulandské modré
 
 ## ![](/media/IMG_6094_b_300.JPG){: .wysiwyg-float-left}**Vinařství Schwarz**
 
-[www.vinarstvischwarz.cz](www.vinarstvischwarz.cz)
+[www.vinarstvischwarz.cz](http://bit.ly/schwarzcz)
 
 Savignon\
 Děvín\
@@ -168,7 +168,7 @@ Ryzlink rýnský
 
 ## [![](/media/H_Ko__nek_Vinice_To_na_300.JPG){: .wysiwyg-float-left}**Josef Kořínek**](http://www.josef-korinek.cz)
 
-[www.josef-korinek.cz](http://www.josef-korinek.cz)
+[www.josef-korinek.cz](http://bit.ly/korinek)
 
 Muškát moravský\
 Ryzlink rýnský\
@@ -178,7 +178,7 @@ Veltlínské zelené
 
 ## [![](/media/U_HAFANA_VINOBRANI_300.jpg){: .wysiwyg-float-left}**Vinný sklep U hafana**](http://www.uhafana.cz)
 
-[www.uhafana.cz](http://www.uhafana.cz)
+[www.uhafana.cz](http://bit.ly/hafanacz)
 
 Veltlínské zelené\
 Rýnský ryzlink\

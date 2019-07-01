@@ -18,7 +18,7 @@ Program: [Interreg V-A Slovenská republika – Česká republika](http://www.sk
 
 Spoločne bez hraníc / Společně bez hranic
 
-![null](/media/logo_IRRVA_2014-20_610.JPG)
+![null](/media/logo_irrva_bilyokraj_610.jpg)
 
 Projekt je také podpořen Ministerstvem životního prostředí, více zde. 
 

@@ -4,7 +4,7 @@ published: true
 permalink: /znamky
 image: /media/syslí-loga.jpg
 listed: true
-position: 6
+position: 3
 layout: single_column_page
 ---
 Sysel obecný je považován za jednoho z nejohroženějších savců Evropy. Je

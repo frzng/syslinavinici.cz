@@ -29,4 +29,4 @@ V současnosti má známku [první sadař](/znamka/nasi-sadari) z Hrušovan u Br
 
 <div class="clearfix"></div>
 
-Známky uděluje společnost [ALKA Wildlife, o.p.s.](http://www.alkawildlife.eu). Kontakty ohledně známky jsou uvedeny [zde](/o-nas/kontakty). Všechny aktivity spojené se známkami Sysli na vinici a Sysli v sadu jsou financovány z EHP a ERDF fondů a státního rozpočtu, více viz sekce [Projekty](/o-nas/projekty).
+Známky uděluje společnost [ALKA Wildlife, o.p.s.](http://www.alkawildlife.eu). Kontakty ohledně známky jsou uvedeny [zde](/o-nas/kontakty). Všechny aktivity spojené se známkami Sysli na vinici a Sysli v sadu jsou financovány z EHP a ERDF fondů a státního rozpočtu, více viz sekce [Projekty](/projekty).

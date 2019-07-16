@@ -1,9 +1,9 @@
 ---
-title: O nás
-permalink: "/o-nas"
+title: "O\_nás"
 published: true
+permalink: /o-nas
 listed: true
-position: 8
+position: 5
 layout: single_column_page
 ---
 Stránky syslinavinici.cz provozují:

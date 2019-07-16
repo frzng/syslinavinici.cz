@@ -1,8 +1,8 @@
 ---
 title: Pro vinaře
-permalink: "/pro-vinare"
-image: "/media/KMB6279_610.jpg"
 published: true
+permalink: /znamky/pro-vinare
+image: /media/KMB6279_610.jpg
 listed: true
 position: 7
 layout: single_column_page

@@ -1,11 +1,11 @@
 ---
 title: Sysel
-permalink: "/sysel"
-image: "/media/IMG_0817_610.jpg"
-long_title: Sysel obecný
 published: true
+permalink: /sysel
+image: /media/IMG_0817_610.jpg
+long_title: Sysel obecný
 listed: true
-position: 4
+position: 2
 layout: single_column_page
 ---
 Sysel obecný je menší společensky žijící **hlodavec** z příbuzenstva

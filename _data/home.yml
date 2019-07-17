@@ -8,9 +8,9 @@ links:
   - image: /media/sysli_loga_full.jpg
     title: 'Známky '
     url: /znamky
-  - image: /media/DSCN0189_156.JPG
-    title: Naši vinaři
-    url: /znamka/nasi-vinari
+  - image: /media/mapa_sysli.jpg
+    title: Mapa
+    url: 'http://mapa.syslinavinici.cz/'
   - image: /media/ondra_malba_165.jpg
     title: EVVO materiály
     url: /ke-stazeni/evvo-materialy

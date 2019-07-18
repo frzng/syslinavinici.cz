@@ -13,3 +13,7 @@ Materiály pro učitele i děti k přímému použití. Rádi uvítáme zpětnou
 
 
 [Omalovánky sysel (pdf)](/media/sysel_omalovanky_fin.pdf)
+
+
+
+[Pexeso sysel (pdf)](/media/sysel_pexeso.pdf)

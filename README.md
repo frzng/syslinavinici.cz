@@ -23,7 +23,7 @@ Development
 
 3. Serve the site locally and watch for updates
 
-       bin/rake serve
+       bin/rake serve JEKYLL_LANG=cs_CZ
 
 4. See server address in output from Jekyll.
 

@@ -1,0 +1,42 @@
+showcases:
+  time: 12000
+  trans_period: 800
+news:
+  all: Všechny novinky
+  following: Další zprávy
+links:
+  - image: /media/sysli_loga_full.jpg
+    title: 'Známky '
+    url: /znamky
+  - image: /media/mapa_sysli.jpg
+    title: Mapa
+    url: 'http://mapa.syslinavinici.cz/'
+  - image: /media/ondra_malba_165.jpg
+    title: EVVO materiály
+    url: /ke-stazeni/evvo-materialy
+  - image: /media/IMG_0801u_156.jpg
+    title: sysel
+    url: /sysel
+  - image: /media/DSCN0196_156.JPG
+    title: Projekty
+    url: /projekty
+mission:
+  body: "# Mise\n\nCílem našich projektů, známek a těchto webových stránek je pomoci k\_záchraně sysla obecného v\_naší zemědělské krajině."
+gallery:
+  title: Fotogalerie
+appeal:
+  body: |+
+    # Výzva
+
+    Hledáme sysly!  
+    Pomozte nám mapovat jejich výskyt.
+
+    * [pište na email](/o-nas/kontakty)
+    * [volejte na číslo 606598903](/o-nas/kontakty)
+    * [pošlete nám fotku](/sysel/jak-poznat-sysla)
+
+other:
+  body: |-
+    # [Videogalerie](/sysel/videogalerie)
+
+    ![null](/media/EK000047_100.JPG)

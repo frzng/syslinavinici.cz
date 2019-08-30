@@ -1,12 +1,12 @@
 source: en_GB
 destination: _site.en_GB
 
-title: Sysli na vinici
+title: Sysli na vinici English
 description: >-
   Záchrana sysla obecného v naší krajině a podpora vinařů, kteří na
   svých vinohradech sysla mají.
 baseurl: ""
-url: https://www.syslinavinici.cz
+url: https://en.syslinavinici.cz
 author: alka-wildlife
 lang_alternatives:
 - lang: en_GB

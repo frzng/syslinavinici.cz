@@ -47,7 +47,7 @@ The result of production build can be generally hosted anywhere. The build itsel
 
 3. Generate production site
 
-       bin/rake JEKYLL_ENV=production TZ=Europe/Prague
+       bin/rake JEKYLL_ENV=production JEKYLL_LANG=cs_CZ TZ=Europe/Prague
 
 4. Make everything from Jekyll’s destination directory accessible
    on `https://www.syslinavinici.cz`

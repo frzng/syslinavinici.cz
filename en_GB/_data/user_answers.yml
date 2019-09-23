@@ -1,41 +1,39 @@
 title:
-  one: Odpověď
-  many: Odpovědi
-more: více
+  many: Answers
+  one: Answer
+more: More
 filter:
-  not_supported: >-
-    V moderních webových prohlížečích je dostupné i filtrování
-    otázek a odpovědí podle různých kritérií.
-  by_tag: Kategorie
-  by_date: Archiv
+  by_date: Archive
+  by_tag: Category
 form:
-  title: Poslat dotaz
-  fields:
-    name: Jméno
-    email: Email
-    question: Dotaz
-    honeypot: Doplňující komentář (nevyplňujte pokud jste člověk)
-    submit: Odeslat
   consent: >-
-    Údaje z formuláře budou doručeny na email zaměstnance ALKA
-    Wildlife, o.p.s. a budou použity pouze k zodpovězení dotazu.
+    Data submitted in this form will be sent to the ALKA Wildlife, o.p.s. team
+    and will only be used to answer your query.
+  fields:
+    email: Email
+    honeypot: Additional comment (do not fill in if you are human)
+    name: Name
+    question: Message
+    submit: Submit
   results:
-  - id: no-email
-    type: danger
-    message: Zadejte email, na který chcete zaslat odpověď.
-  - id: no-question
-    type: danger
-    message: Zadejte svůj dotaz.
-  - id: no-email,no-question
-    type: danger
-    message: >-
-      Zadejte svůj dotaz a email, na který chcete zaslat odpověď.
-  - id: fail
-    type: danger
-    message: >-
-      Omlouváme se, ale dotaz se nepodařilo odeslat. Zkuste to
-      prosím znovu. Pokud se ani to nepodaří, oslovte přímo někoho
-      uvedeného v <a href="/o-nas/kontakty">kontaktech</a>.
-  - id: sent
-    type: success
-    message: Dotaz byl úspěšně odeslán.
+    - id: no-email
+      message: Please enter your email address you want us to send a reply to.
+      type: danger
+    - id: no-question
+      message: Please enter your question.
+      type: danger
+    - id: 'no-email,no-question'
+      message: >-
+        Please enter your question and email address you want us to send a reply
+        to.
+      type: danger
+    - id: fail
+      message: >-
+        Sorry, your question could not be sent. Please try again. If that
+        doesn't work, please reach out to someone in our <a
+        href="/about-us/contacts"> contacts </a>.
+      type: danger
+    - id: sent
+      message: Your question was successfully submitted.
+      type: success
+  title: Your question

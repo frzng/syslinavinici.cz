@@ -2,41 +2,46 @@ showcases:
   time: 12000
   trans_period: 800
 news:
-  all: Všechny novinky
-  following: Další zprávy
+  all: All news articles
+  following: Latest news
 links:
   - image: /media/sysli_loga_full.jpg
-    title: 'Známky '
-    url: /znamky
+    title: Stamp
+    url: /stamp
   - image: /media/mapa_sysli.jpg
-    title: Mapa
+    title: Map
     url: 'http://mapa.syslinavinici.cz/'
   - image: /media/ondra_malba_165.jpg
-    title: EVVO materiály
-    url: /ke-stazeni/evvo-materialy
+    title: Education Materials
+    url: /downloads/education-materials
   - image: /media/IMG_0801u_156.jpg
-    title: sysel
-    url: /sysel
+    title: sousliks
+    url: /sousliks
   - image: /media/DSCN0196_156.JPG
-    title: Projekty
-    url: /projekty
+    title: Projects
+    url: /projects
 mission:
-  body: "# Mise\n\nCílem našich projektů, známek a těchto webových stránek je pomoci k\_záchraně sysla obecného v\_naší zemědělské krajině."
+  body: >-
+    # Mission
+
+
+    The aim of our projects, stamps and website is to help save the European
+    ground squirrel from disappearing from our landscape.
 gallery:
-  title: Fotogalerie
+  title: Gallery
 appeal:
-  body: |+
-    # Výzva
+  body: |-
+    # Appeal
 
-    Hledáme sysly!  
-    Pomozte nám mapovat jejich výskyt.
+    We are looking for sousliks!\
+    We need you to help us to map their occurence.\
+    You can contact us via the following methods:
 
-    * [pište na email](/o-nas/kontakty)
-    * [volejte na číslo 606598903](/o-nas/kontakty)
-    * [pošlete nám fotku](/sysel/jak-poznat-sysla)
-
+    * [Email](/o-nas/kontakty)
+    * [Phone](/o-nas/kontakty)
+    * [Send us a photo](/sysel/jak-poznat-sysla)
 other:
   body: |-
-    # [Videogalerie](/sysel/videogalerie)
+    # [Video gallery](/sysel/videogalerie)
 
     ![null](/media/EK000047_100.JPG)

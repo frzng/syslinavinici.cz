@@ -1,7 +1,7 @@
 ---
 title: Video Gallery
 published: true
-permalink: /souslik/videogallery
+permalink: /sousliks/videogallery
 listed: true
 position: 2
 layout: two_columns_page

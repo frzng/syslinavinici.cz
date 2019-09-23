@@ -1,34 +1,31 @@
 ---
-title: "O\_nás"
+title: About us
 published: true
-permalink: /o-nas
+permalink: /about-us
 listed: true
 position: 5
 layout: single_column_page
 ---
-Stránky syslinavinici.cz provozují:
+This website is owned, maintained and updated by:
 
-# [ALKA Wildlife, o.p.s.][1]
+# [ALKA Wildlife, o.p.s.](https://www.alkawildlife.eu)
 
-Lidéřovice 62, 38001 Peč
+## Lidéřovice 62, 38001 Peč
 
-# [Muzeum Karlovy Vary][2]
+and
 
-Nová Louka 23, 36001 Karlovy Vary
+# [Muzeum Karlovy Vary](http://www.kvmuz.cz)
+
+## Nová Louka 23, 36001 Karlovy Vary
 
 ![](/media/loga_mgs_stojato_mm.jpg){: .wysiwyg-float-left}
-**Financováno z**: EHP fondy 2009–2014, Ministerstvo životního
-prostředí
 
-Podpořeno grantem z Islandu, Lichtenštejnska a Norska.
+# Funding
+
+## EEA Funds 2009–2014, Ministry of the Environment
+
+## Supported by a grant from Iceland, Liechtenstein and Norway.
 
 <div class="clearfix"></div>
 
-*Tento web byl vytvořen za finanční podpory EHP fondů 2009–2014
-a Ministerstva životního prostředí. Za jeho obsah je výhradně odpovědná
-ALKA Wildlife,o.p.s. a nelze jej v žádném případě považovat za názor
-donora nebo Ministerstva životního prostředí.*
-
-
-[1]: https://www.alkawildlife.eu
-[2]: http://www.kvmuz.cz
+_This website was created with the financial support of the EEA Funds 2009–2014 and the Ministry of the Environment. ALKA Wildlife is solely responsible for its content and is by no means an opinion of the donor or the Ministry of Environment._

@@ -2,8 +2,6 @@ funded_by:
   - description:
       - body: 'Supported by a grant from Iceland, Liechtenstein and Norway.'
         lang: en
-      - body: "Podpořeno grantem z\_Islandu, Lichtenštejnska a\_Norska."
-        lang: cs
     logos:
       - height: 70
         image: /assets/images/logo-eea_grants.svg

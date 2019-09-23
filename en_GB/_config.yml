@@ -11,7 +11,7 @@ lang_alternatives:
     label: Přepnout na češtinu
     title: 'Navštivte českou verzi této stránky: %@'
     url: 'https://www.syslinavinici.cz'
-    lang: en_GB
+    lang: cs_CZ
 author: alka-wildlife
 facebook:
   admins: 1133305906

@@ -1,35 +1,27 @@
 ---
-title: Videogalerie
-permalink: "/sysel/videogalerie"
+title: Video Gallery
 published: true
+permalink: /souslik/videogallery
 listed: true
 position: 2
 layout: two_columns_page
 ---
-# Syslí zvědavec
+# Curious souslik
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zYKQmikBEGE" frameborder="0" allowfullscreen=""></iframe>
 
- 
-
-# Sysel panáčkuje
+# Alert sousliks
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Fm3C0OKYDAU" frameborder="0" allowfullscreen=""></iframe>
 
- 
-
-# Syslí rodina
+# Souslik family
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jNiOwtURiTE" frameborder="0" allowfullscreen=""></iframe>
 
- 
-
-# Zvědavá mláďata
+# Curious young
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PX39WGY9UOI" frameborder="0" allowfullscreen=""></iframe>
 
- 
-
-# Pořád někdo na stráži
+# Souslik on guard
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6ArjGfFTbAo" frameborder="0" allowfullscreen=""></iframe>

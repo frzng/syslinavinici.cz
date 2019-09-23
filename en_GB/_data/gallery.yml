@@ -1,11 +1,15 @@
-long_title: Fotogalerie
+long_title: Gallery
 body: >-
-  Většinu snímků a videí publikovaných na tomto webu je možno po
-  domluvě použít pro nekomerční účely (např. do škol pro
-  výuku). V případě domluvy zašleme v lepším rozlišení. Pro komerční
-  použití snímků či videí nás kontaktujte, cena bude stanovena dle
-  konkrétního užití.
+  Most of the images and videos published on this site can be used for
+  non-commercial purposes such as for educational purposes in schools. Please
+  get in contact with us so we can work with you to provide the best images and
+  content. 
+
+
+  For commercial use of the images or videos on this website, please get in
+  contact as the price will be determined according to the specific use. Some
+  images and videos can be provided in higher quality on request.
 filter:
-  all: všechny fotky
-  by_tag: Filtrovat podle kategorie
-content_gallery_title: Galerie
+  all: All photos
+  by_tag: Filter by category
+content_gallery_title: Gallery

@@ -1,7 +1,7 @@
 ---
-title: Sysel
+title: Sousliks
 published: true
-permalink: /sysel
+permalink: /sousliks
 image: /media/IMG_0817_610.jpg
 long_title: Sysel obecný
 listed: true

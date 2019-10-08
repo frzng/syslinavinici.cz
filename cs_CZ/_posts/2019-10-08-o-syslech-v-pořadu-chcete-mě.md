@@ -11,3 +11,5 @@ layout: news
 Další reportáž o syslech a vinařích proběhla 6.10.2019 v pořadu Chcete mě.
 
 Reportáž [Ohrožení sysli na vinicích je možné shlédnout v archivu ČT](https://www.ceskatelevize.cz/porady/1095970013-chcete-me/219562221300028/).
+
+(reportáž o syslech je jako první, hned na začátku)

@@ -1,10 +1,9 @@
 ---
-title: Projekty
+title: Projects
 published: true
-permalink: /projekty
+permalink: /projects
 listed: true
 position: 1
 layout: single_column_page
 ---
-Naše aktivity spojené s výzkumem a ochranou populací sysla obecného jsou financovány
-z dotačních projektů.
+All our activities and projects relating to the research and protection of European ground squirrel are financed through grants.

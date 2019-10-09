@@ -1,52 +1,24 @@
 ---
 title: Sysli na vinici 2016
 published: true
-permalink: /projekty/sysli-na-vinici-2016
+permalink: /projects/sysli-na-vinici-2016
 image: /media/IMG_6044_610.JPG
 listed: true
 position: 4
 layout: two_columns_page
 ---
-**Název projektu**: Sysli na vinici
+**Project title**: Sysli na vinici
 
-**Trvání projektu**: 07–11 2016
+**Project duration**: 07–11 2016
 
-**Finanční zdroje**: Ministerstvo životního prostředí v rámci projektu
-„Propagace záchranných programů zvláště chráněných druhů v České
-republice“ realizovaný [Beleco, z.s.][1]
+**Financial support**: Ministry of the Environment, within the project "Promotion of rescue programmes for specially protected species in the Czech Republic" implemented by [Beleco, z.s.](http://www.beleco.cz)
 
-Projekt byl finančně podpořen v grantovém řízení Ministerstva životního
-prostředí a nemusí vyjadřovat stanoviska Ministerstva životního
-prostředí.
+The project was financially supported through a grant from the Ministry of the Environment but does not have to express the opinions of the Ministry of the Environment.
 
-**Vedoucí projektu**: Kateřina Poledníková
+**Project manager**: Kateřina Poledníková
 
-Sysel obecný je považován za jednoho z nejohroženějších savců Evropy. Je
-původním druhem České republiky, v současnosti se statusem kriticky
-ohrožený. V ČR se vyskytuje na zhruba 35 izolovaných lokalitách. Sysla
-ohrozily především změny v české a moravské krajině: scelování pozemků,
-intenzifikace zemědělství a naopak upuštění od obhospodařování strojově
-nedostupných pozemků, jako jsou meze, menší louky či pastviny. Tyto
-změny zničily jeho přirozené prostředí: krátkostébelné
-trávníky. V současnosti většina jedinců sysla obecného žije na drobných
-izolovaných lokalitách travnatých letišť, kempů a golfových hřišť
-a několik málo v prostředí přirozených stepí. V posledních letech ale
-narůstá počet syslů ve vinicích, sadech a záhumenkách jižní Moravy,
-které tvoří funkční zemědělskou krajinu. Výhodou tohoto prostředí je
-jeho potenciál, a to jak v rozloze, tak v možnostech propojení
-jednotlivých lokalit. Vinice jižní Moravy v současnosti představují
-reálný podklad pro vytvoření funkční metapopulace (vytvoření
-5 metapopulačních systémů výskytu sysla je jedním z dlouhodobých cílů
-záchranného programu). Vinice ale nejsou automaticky vhodným prostředím
-pro sysla obecného. Zásadní je, v jakém stavu udržují vinaři meziřadí
-mezi řádky révy – je-li zde odkrytá zemina či travnatý porost.
+European ground squirrels or sousliks are considered one of the most endangered mammals in Europe. Once a common inhabitant of lowland grasslands in the Czech Republic, their conservation status for the Czech Republic is now critically endangered status, limited to around 35 isolated communities. Sousliks are threatened primarily by changes in the Czech and Moravian landscape: land consolidation, agricultural intensification and also, on the contrary, the abandonment of land such as meadows and pastures. These changes have destroyed sousliks natural environment: short grassland. Currently, most souslik communities live on small isolated grassland sites such as campsites, golf courses, airports and a few in the natural steppe. 
 
-Stávající projekt je zaměřen na ochranu a osvětu sysla obecného
-v prostředí vinic, udělování ochranné známky „Sysli na vinici“ vinařům.
-Známka byla registrována v rámci projektu [Realizace opatření ZP sysla
-obecného na Jižní Moravě](/o-nas/projekty/realizace-opatreni) již
-existuje, první akce již proběhly u největší populace syslů ve Velkých
-Pavlovicích. Navrhované aktivity navazují na předchozí.
+In recent years, however, the number of sousliks has increased in the mosaic, agricultural landscape of South Moravia which consists of vineyards, orchards and embankments. These environments have potential in providing suitable souslik habitat and increasing the chance of interconnection between individual souslik localities. These vineyards present a real potential basis for a functional metapopulation - the creation of 5 metapopulation systems of souslik occurrence is one of the long-term objectives of the rescue programme. The vineyards, however, are not always a suitable environment for sousliks. Maintenance of the rows between vines is key to sousliks success in these environments and this is where increased communication with the winemakers is vital.
 
-
-[1]: http://www.beleco.cz
+The project aims to protect sousliks and educate the general public about their present in vineyards. We will do this by awarding the trade mark "Souslik friendly vineyard" to winemakers. This trademark has been registered as part of the project “Implementation of the Action Plan measures in the South Moravia”. The first action has already taken place in the largest population of sousliks in Velké Pavlovice.

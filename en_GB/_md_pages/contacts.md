@@ -1,5 +1,5 @@
 ---
-title: Kontakty
+title: Contacts
 published: true
 permalink: /about-us/contacts
 listed: true

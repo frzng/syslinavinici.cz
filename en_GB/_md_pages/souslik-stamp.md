@@ -9,9 +9,7 @@ layout: single_column_page
 ---
 # Sysli na vinci
 
-![](/media/logo_Syslinavinici_zc_m.jpg)
-
-![]()
+![](/media/logo_syslinavinici_zc_m-cutout.png)
 
 {: .wysiwyg-float-left}
 
@@ -31,9 +29,11 @@ A trademark can be given a vineyard where:
 
 Currently, [21 wineries](/souslik-stamp/our-winemakers) from the villages of Velké Pavlovice, Hnanice and Miroslav have been awarded the trademark.
 
-# Sysli v sadu
+# Sysli v sadu 
 
-![](/media/sysli-v-sadu_200.jpg){: .wysiwyg-float-left} 
+![](/media/sysli-v-sadu_200-cutout.png)
+
+{: .wysiwyg-float-left} 
 
 <div class="clearfix"></div>
 

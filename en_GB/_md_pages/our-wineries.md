@@ -31,7 +31,7 @@ Chardonnay
 
 <div class="clearfix"></div>
 
-## ****[****![](/media/IMG_2973_300.jpg)**{: .wysiwyg-float-left}**](http://bit.ly/mezihoramicz "Vinařství Mezi Horami")** **[**Vinařství Mezi Horami**](http://bit.ly/mezihoramicz)****
+![](/media/IMG_2973_300.jpg)[{: .wysiwyg-float-left}](http://bit.ly/buchtovicz "Vinařství Buchtovi")[Vinařství Mezi Horami](http://bit.ly/mezihoramicz)
 
 [www.mezihorami.cz](http://bit.ly/mezihoramicz)
 
@@ -79,7 +79,7 @@ Chardonnay
 
 <div class="clearfix"></div>
 
-## ![](/media/img_3016_baloun_02_300.jpg){: .wysiwyg-float-left}[**Vinařství Baloun**](http://bit.ly/baloun "Vinařství Baloun")
+## ![](/media/img_3016_baloun_02_300.jpg)[{: .wysiwyg-float-left}](http://bit.ly/baloun)[**Vinařství Baloun**](http://bit.ly/baloun "Vinařství Baloun")
 
 [www.baloun.cz](http://bit.ly/baloun "Vinařství Baloun")
 
@@ -89,7 +89,7 @@ Wine awarded with the Sysli na vinci trademark can be found here: [Moravian musc
 
 <div class="clearfix"></div>
 
-## ![](/media/michna_300.jpg){: .wysiwyg-float-left}[**Vinařství Michna**](http://www.michna.cz)****
+## ![](/media/michna_300.jpg)[{: .wysiwyg-float-left}](http://www.michna.cz/)[**Vinařství Michna**](http://www.michna.cz)****
 
 [www.michna.cz](http://bit.ly/michnacz "Vinařství Michna")
 
@@ -123,7 +123,7 @@ Traditional, family run wine company from Velké Pavlovice. All of their wines m
 * Blauer Portugieser
 * Riesling
 
-****[**Vlastimil Řádek**](vinarstvi.radek@seznam.cz)****
+****[**Vlastimil Řádek**](mailto:vinarstvi.radek@seznam.cz)****
 
 <mailto:vinarstvi.radek@seznam.cz>
 
@@ -158,7 +158,7 @@ Traditional, family run wine company from Velké Pavlovice. All of their wines m
 
 <div class="clearfix"></div>
 
-## ![](/media/IMG_6094_b_300.JPG){: .wysiwyg-float-left}**Vinařství Schwarz**
+## ![](/media/IMG_6094_b_300.JPG)[{: .wysiwyg-float-left}**Vinařství Schwarz**](http://bit.ly/schwarzcz)****
 
 [www.vinarstvischwarz.cz](http://bit.ly/schwarzcz)
 

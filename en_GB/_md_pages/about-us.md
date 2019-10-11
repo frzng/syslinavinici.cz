@@ -10,19 +10,21 @@ This website is owned, maintained and updated by:
 
 # [ALKA Wildlife, o.p.s.](http://bit.ly/alkawildlife)
 
-## Lidéřovice 62, 38001 Peč
+Lidéřovice 62, 38001 Peč
 
 # [Muzeum Karlovy Vary](http://www.kvmuz.cz)
 
-## Nová Louka 23, 36001 Karlovy Vary
+Nová Louka 23, 36001 Karlovy Vary
 
 <div class="clearfix"></div>
 
-# Funding
+This website was funded by:
 
-## EEA Funds 2009–2014, Ministry of the Environment
+## EEA Funds 2009–2014
 
-Supported by a grant from Iceland, Liechtenstein and Norway.
+## Ministry of the Environment
+
+## Supported by a grant from Iceland, Liechtenstein and Norway.
 
 <div class="clearfix"></div>
 

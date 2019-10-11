@@ -8,7 +8,7 @@ layout: single_column_page
 ---
 This website is owned, maintained and updated by:
 
-# [ALKA Wildlife, o.p.s.](https://www.alkawildlife.eu)
+# [ALKA Wildlife, o.p.s.](http://bit.ly/alkawildlife)
 
 ## Lidéřovice 62, 38001 Peč
 
@@ -18,13 +18,17 @@ and
 
 ## Nová Louka 23, 36001 Karlovy Vary
 
-![](/media/loga_mgs_stojato_mm.jpg){: .wysiwyg-float-left}
+<div class="clearfix"></div>
 
 # Funding
 
 ## EEA Funds 2009–2014, Ministry of the Environment
 
 ## Supported by a grant from Iceland, Liechtenstein and Norway.
+
+<div class="clearfix"></div>
+
+![](/media/loga_mgs_stojato_mm.jpg){: .wysiwyg-float-left}
 
 <div class="clearfix"></div>
 

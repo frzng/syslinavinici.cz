@@ -1,15 +1,15 @@
 ---
-title: Naši vinaři
+title: Our vineyards
 published: true
-permalink: /znamky/nasi-vinari
+permalink: /souslik-stamp/our-vineyards
+description: Information on wineries awarded with the "Sysli na vinici" trademark
 listed: true
 position: 1
 layout: two_columns_page
 ---
-V současnosti má známku Sysli na vinici uděleno 16 vinařství z Velkých
-Pavlovic a 4 z Hnanic. Odkazy Vás navedou na jejich webové stránky, kde
-najdete více informací o těchto vinařstvích, i e-shopy, kde si můžete
-jejich víno nakoupit.
+Currently, we have awarded the **Sysli na vinici** trademark to 16 wineries in Velké Pavlovice and 4 in Hnanice. If you are interested in applying for a trademark for your winery, please get in [contact](/about-us/contacts) with us.
+
+Below you can find more information about these wineries and links to their websites where you can buy their wine, supporting the research and protection of sousliks.
 
 # Miroslav:
 
@@ -17,7 +17,7 @@ jejich víno nakoupit.
 
 [www.perk.cz](http://bit.ly/perkcz)
 
-Víno Perk je vinařství pod záštitou AGRODRUŽSTVA Miroslav, v Miroslavi na Znojemsku. Do Miroslavských vinic se rozšířili sysli z místního letiště. Vinařství má udělenou známku od roku 2018. Vinařství hospodaří ve dvou viničních tratích, kde se vyskytují také sysli – Weinperky a U Vinohradu. 
+Víno Perk is a winery of Miroslav, in the Znojmo district. Sousliks have spread to the vineyards from a colony in the local, isolated airport. Víno Perk has been awarded a mark since 2018. It's two areas of operation, Weinperk and Vinohradu, both have colonies of sousliks.
 
 <div class="clearfix"></div>
 
@@ -32,8 +32,6 @@ Chardonnay
 <div class="clearfix"></div>
 
 ## [![](/media/IMG_2973_300.jpg){: .wysiwyg-float-left}](http://bit.ly/mezihoramicz "Vinařství Mezi Horami") [Vinařství Mezi Horami](http://bit.ly/mezihoramicz)
-
-
 
 [www.mezihorami.cz](http://bit.ly/mezihoramicz)
 
@@ -70,15 +68,19 @@ Cabernet Moravia Rosé 2015
 
 [www.vinarstvimikulica.cz](http://bit.ly/mikulika "Vinařství Mikulica")
 
-Pálava p.s.\
-Pálava v.z.h.\
-Aurelius p.s.\
-Rulandské modré p.s.\
-Modrý Portugal
+Pálava p.s.
+
+Pálava v.z.h.
+
+Aurelius p.s.
+
+Pinot Noir
+
+Blauer Portugieser
 
 <div class="clearfix"></div>
 
-## ![](/media/IMG_3020.jpg){: .wysiwyg-float-left}**Petr Procházka**
+## ![](/media/IMG_3020.jpg){: .wysiwyg-float-left}[**Petr Procházka**](/souslik-stamp/our-wineries)****
 
 <div class="clearfix"></div>
 
@@ -86,9 +88,17 @@ Modrý Portugal
 
 [www.baloun.cz](http://bit.ly/baloun "Vinařství Baloun")
 
-Větší rodinné vinařství z Velkých Bílovic, které má ale také vinice ve Velkých Pavlovicích, kde se nachází syslí kolonie. Víno si můžete nakoupit v e-shopu či objednat emailem na jejich webových stránkách. 
+A large, family run winery from Velké Bílovice. Their vineyard in Velké Pavlovice is home to a souslik colony. **Sysli na vinici** wine from this winery can be purchased on their e-shop or ordered by email on their website.
 
-Víno oceněné známkou: [Muškát moravský - kabinetní víno](http://www.baloun.cz/Galerie-vin/Bila-vina/2013-(3)/Muskat-Moravsky.aspx)
+Víno oceněné známkou: [Moravian muscat - cabinet wine](http://www.baloun.cz/Galerie-vin/Bila-vina/2013-(3)/Muskat-Moravsky.aspx)
+
+<div class="clearfix"></div>
+
+## ![](/media/michna_300.jpg){: .wysiwyg-float-left}[Vinařství Michna](http://www.michna.cz)
+
+[www.michna.cz](http://bit.ly/michnacz "Vinařství Michna")
+
+Traditional, family run wine company from Velké Pavlovice. All of their wines mature in vineyards home to sousliks. Their vineyards are in Staré Hory, Bojanovsko, Lizniperky and Nové hory and they produce varieties such as Grüner Veltliner, Moravian Muscat, Silvaner, André, Pinot Noir and St. Laurent.
 
 <div class="clearfix"></div>
 
@@ -108,23 +118,21 @@ Víno oceněné známkou: [Muškát moravský - kabinetní víno](http://www.bal
 
 [www.vinarstvihalm.cz](http://bit.ly/halmvicz)
 
-Muškát Moravský\
-Svatovavřinecké\
-Rulandské šedé\
-Frankovka\
-Savignon\
-Modrý Portugal\
-Ryzlink rýnský
+Moravian muscat
 
-## ![](/media/michna_300.jpg){: .wysiwyg-float-left}[Vinařství Michna](http://www.michna.cz)
+St. Laurent
 
-[www.michna.cz](http://bit.ly/michnacz "Vinařství Michna")
+Pinot Grigio
 
-Rodinná vinařská firma z Velkých Pavlovic s dlouholetou tradicí. Všechny jejich přívlastková vína vyzrávají ve vinicích, jež jsou domovem i pro sysly. Jsou to viniční tratě Staré hory, Bojanovska, Lizniperky a Nové hory, s odrůdami jako Veltlínské zelené, Muškát moravský, Sylvánské zelené, André, Rulandské modré, Svatovavřinecké.
+Blaufränkisch
 
-<div class="clearfix"></div>
+Sauvignon
 
-## **Vlastimil Řádek**
+Blauer Portugieser
+
+Riesling
+
+****[**Vlastimil Řádek**](mailto:vinarstvi.radek@seznam.cz)****
 
 <mailto:vinarstvi.radek@seznam.cz>
 
@@ -148,11 +156,13 @@ Rodinná vinařská firma z Velkých Pavlovic s dlouholetou tradicí. Všechny j
 
 [www.vinarstvispetici.cz](http://bit.ly/spetici)
 
-Sauvignon\
-Ryzlink rýnský\
-Veltlínské zelené\
-Frankovka\
-Rulandské modré
+Sauvignon 
+
+Riesling 
+
+Grüner Veltliner 
+
+Pinot Noir
 
 <div class="clearfix"></div>
 
@@ -160,9 +170,11 @@ Rulandské modré
 
 [www.vinarstvischwarz.cz](http://bit.ly/schwarzcz)
 
-Savignon\
-Děvín\
-Ryzlink rýnský
+Sauvignon
+
+Děvín
+
+Riesling
 
 <div class="clearfix"></div>
 
@@ -170,9 +182,11 @@ Ryzlink rýnský
 
 [www.josef-korinek.cz](http://bit.ly/korinek)
 
-Muškát moravský\
-Ryzlink rýnský\
-Veltlínské zelené
+Moravian Muscat
+
+Riesling
+
+Grüner Veltliner
 
 <div class="clearfix"></div>
 
@@ -180,9 +194,14 @@ Veltlínské zelené
 
 [www.uhafana.cz](http://bit.ly/hafanacz)
 
-Veltlínské zelené\
-Rýnský ryzlink\
-Rulandské šedé\
-Cabernet Moravia\
-Svatovavřinecké\
-Rulandské modré
+Grüner Veltliner
+
+Riesling
+
+Pinot Grigio
+
+Moravian Cabernet
+
+St. Laurent
+
+Pinot Noir

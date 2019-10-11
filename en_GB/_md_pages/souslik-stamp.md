@@ -9,7 +9,11 @@ layout: single_column_page
 ---
 # Sysli na vinci
 
-![](/media/logo_Syslinavinici_zc_m.jpg){: .wysiwyg-float-left}
+![](/media/logo_Syslinavinici_zc_m.jpg)
+
+![]()
+
+{: .wysiwyg-float-left}
 
 <div class="clearfix"></div>
 

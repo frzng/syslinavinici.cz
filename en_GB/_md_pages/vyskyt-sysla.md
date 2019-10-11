@@ -1,23 +1,18 @@
 ---
-title: Výskyt sysla
-permalink: /znamky/vyskyt-sysla
-image: /media/IMG_1216_610.JPG
-long_title: Aktuální výskyt sysla obecného
+title: Souslik occurence
 published: true
+permalink: /souslik-stamp/souslik-occurence
+image: /media/IMG_1216_610.JPG
+long_title: Current occurence of sousliks
 listed: true
 position: 3
 layout: two_columns_page
 ---
-V současnosti se sysel obecný vyskytuje ve vinicích a sadech těchto obcí:
+Currently, sousliks can be found in vineyards and orchards of the following municipalities:
 
-## Velké Pavlovice
-
-## Čejč
-
-## Hrušovany u Brna
-
-## Valtice
-
-## Hnanice
-
-## Miroslav
+* Velké Pavlovice
+* Čejč
+* Hrušovany u Brna
+* Valtice
+* Hnanice
+* Miroslav

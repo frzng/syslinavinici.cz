@@ -1,9 +1,16 @@
 ---
-title: Ke stažení
+title: Downloads
 published: true
-permalink: /ke-stazeni
+permalink: /downloads
 listed: true
 position: 4
 layout: single_column_page
 ---
-V této sekci najdete ke stažení publikace či materiály týkající se sysla obecného: články, brožury, letáky, materiály pro učitele/děti.
+Here you can download publications and materials related to the European ground squirrels. 
+
+These include: 
+
+* Articles
+* Brochures
+* Leaflets
+* Materials for teachers / children

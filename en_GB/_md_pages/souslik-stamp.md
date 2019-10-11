@@ -9,11 +9,9 @@ layout: single_column_page
 ---
 # Sysli na vinci
 
-
-
 ![](/media/logo_Syslinavinici_zc_m.jpg){: .wysiwyg-float-left}
 
-
+<div class="clearfix"></div>
 
 The souslik is considered one of the most endangered mammals in Europe. Once a common species of the Czech Republic it’s now critically endangered here. Vineyards, orchards and other areas of South Moravia are areas less affected by the intensification of farming across our landscape and are essential for the future of this species.
 

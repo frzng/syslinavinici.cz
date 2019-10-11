@@ -31,7 +31,7 @@ Chardonnay
 
 <div class="clearfix"></div>
 
-## [![](/media/IMG_2973_300.jpg){: .wysiwyg-float-left}](http://bit.ly/mezihoramicz "Vinařství Mezi Horami") [Vinařství Mezi Horami](http://bit.ly/mezihoramicz)
+## ****[****![](/media/IMG_2973_300.jpg)**{: .wysiwyg-float-left}**](http://bit.ly/mezihoramicz "Vinařství Mezi Horami")** **[**Vinařství Mezi Horami**](http://bit.ly/mezihoramicz)****
 
 [www.mezihorami.cz](http://bit.ly/mezihoramicz)
 
@@ -53,8 +53,8 @@ Chardonnay
 
 [www.vinozborovsky.cz](http://bit.ly/zborovsky "Víno Zborovský")
 
-Cabernet Moravia 2015\
-Cabernet Moravia Rosé 2015
+* Cabernet Moravia 2015
+* Cabernet Moravia Rosé 2015
 
 <div class="clearfix"></div>
 
@@ -68,19 +68,14 @@ Cabernet Moravia Rosé 2015
 
 [www.vinarstvimikulica.cz](http://bit.ly/mikulika "Vinařství Mikulica")
 
-Pálava p.s.
-
-Pálava v.z.h.
-
-Aurelius p.s.
-
-Pinot Noir
-
-Blauer Portugieser
+* Pálava p.s.
+* Aurelius p.s.
+* Pinot Noir
+* Blauer Portugieser
 
 <div class="clearfix"></div>
 
-## ![](/media/IMG_3020.jpg){: .wysiwyg-float-left}[**Petr Procházka**](/souslik-stamp/our-wineries)****
+## ![](/media/IMG_3020.jpg){: .wysiwyg-float-left}[**Petr Procházka**](/souslik-stamp/our-wineries)
 
 <div class="clearfix"></div>
 
@@ -90,15 +85,17 @@ Blauer Portugieser
 
 A large, family run winery from Velké Bílovice. Their vineyard in Velké Pavlovice is home to a souslik colony. **Sysli na vinici** wine from this winery can be purchased on their e-shop or ordered by email on their website.
 
-Víno oceněné známkou: [Moravian muscat - cabinet wine](http://www.baloun.cz/Galerie-vin/Bila-vina/2013-(3)/Muskat-Moravsky.aspx)
+Wine awarded with the Sysli na vinci trademark can be found here: [Moravian muscat - cabinet wine](http://www.baloun.cz/Galerie-vin/Bila-vina/2013-(3)/Muskat-Moravsky.aspx)
 
 <div class="clearfix"></div>
 
-## ![](/media/michna_300.jpg){: .wysiwyg-float-left}[Vinařství Michna](http://www.michna.cz)
+## ![](/media/michna_300.jpg){: .wysiwyg-float-left}[**Vinařství Michna**](http://www.michna.cz)****
 
 [www.michna.cz](http://bit.ly/michnacz "Vinařství Michna")
 
 Traditional, family run wine company from Velké Pavlovice. All of their wines mature in vineyards home to sousliks. Their vineyards are in Staré Hory, Bojanovsko, Lizniperky and Nové hory and they produce varieties such as Grüner Veltliner, Moravian Muscat, Silvaner, André, Pinot Noir and St. Laurent.
+
+<div class="clearfix"></div>
 
 <div class="clearfix"></div>
 
@@ -118,21 +115,15 @@ Traditional, family run wine company from Velké Pavlovice. All of their wines m
 
 [www.vinarstvihalm.cz](http://bit.ly/halmvicz)
 
-Moravian muscat
+* Moravian muscat
+* St. Laurent
+* Pinot Grigio
+* Blaufränkisch
+* Sauvignon
+* Blauer Portugieser
+* Riesling
 
-St. Laurent
-
-Pinot Grigio
-
-Blaufränkisch
-
-Sauvignon
-
-Blauer Portugieser
-
-Riesling
-
-****[**Vlastimil Řádek**](mailto:vinarstvi.radek@seznam.cz)****
+****[**Vlastimil Řádek**](vinarstvi.radek@seznam.cz)****
 
 <mailto:vinarstvi.radek@seznam.cz>
 
@@ -150,19 +141,20 @@ Riesling
 
 <div class="clearfix"></div>
 
+<div class="clearfix"></div>
+
 # Hnanice:
+
+<div class="clearfix"></div>
 
 ## [![](/media/IMG_6105_300.JPG){: .wysiwyg-float-left}**Vinařství Špetíci**](http://www.vinarstvispetici.cz)
 
 [www.vinarstvispetici.cz](http://bit.ly/spetici)
 
-Sauvignon 
-
-Riesling 
-
-Grüner Veltliner 
-
-Pinot Noir
+* Sauvignon 
+* Riesling 
+* Grüner Veltliner 
+* Pinot Noir
 
 <div class="clearfix"></div>
 
@@ -170,11 +162,9 @@ Pinot Noir
 
 [www.vinarstvischwarz.cz](http://bit.ly/schwarzcz)
 
-Sauvignon
-
-Děvín
-
-Riesling
+* Sauvignon
+* Děvín
+* Riesling
 
 <div class="clearfix"></div>
 
@@ -182,11 +172,9 @@ Riesling
 
 [www.josef-korinek.cz](http://bit.ly/korinek)
 
-Moravian Muscat
-
-Riesling
-
-Grüner Veltliner
+* Moravian Muscat
+* Riesling
+* Grüner Veltliner
 
 <div class="clearfix"></div>
 
@@ -194,14 +182,9 @@ Grüner Veltliner
 
 [www.uhafana.cz](http://bit.ly/hafanacz)
 
-Grüner Veltliner
-
-Riesling
-
-Pinot Grigio
-
-Moravian Cabernet
-
-St. Laurent
-
-Pinot Noir
+* Grüner Veltliner
+* Riesling
+* Pinot Grigio
+* Moravian Cabernet
+* St. Laurent
+* Pinot Noir

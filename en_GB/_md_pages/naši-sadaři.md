@@ -11,7 +11,7 @@ We are pleased to award the "Sysli v sadu" trademark to our first orchard. If yo
 
 ## ![](/media/rimg0370_310.jpg)
 
-## {: .wysiwyg-float-left}
+{: .wysiwyg-float-left}
 
 <div class="clearfix"></div>
 

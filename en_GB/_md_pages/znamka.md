@@ -1,32 +1,43 @@
 ---
-title: Známky
+title: Souslik stamp
 published: true
-permalink: /znamky
+permalink: /souslik-stamp
 image: /media/syslí-loga.jpg
 listed: true
 position: 3
 layout: single_column_page
 ---
-Sysel obecný je považován za jednoho z nejohroženějších savců Evropy. Je
-původním druhem České republiky, v současnosti se statusem kriticky
-ohrožený. Vinice, sady a záhumenky jižní Moravy mají zásadní význam pro záchranu
-ohroženého sysla u nás.
+# Sysli na vinci
 
-Proto vytváříme ochranné známky, jejíchž cílem je podpořit zemědělce v hospodaření, které je vhodné pro (nejen) sysly. Nákupem u těchto vinařů a sadařů podpoříte tento vzácný druh, který
- v současnosti doplácí zejména na intenzivní hospodaření v krajině.
+The souslik is considered one of the most endangered mammals in Europe. Once a common species of the Czech Republic it’s now critically endangered here. Vineyards, orchards and other areas of South Moravia are areas less affected by the intensification of farming across our landscape and are essential for the future of this species.
 
-![](/media/logo_Syslinavinici_zc_m.jpg){: .wysiwyg-float-left}Zlatá známka **Sysli na vinici** byla registrovaná u Úřadu průmyslového vlastnictví v roce 2016. Jejím cílem je podpořit populace sysla obecného u nás podporou vinařů, kteří hospodaří na svých vinicích způsobem, který vytváří vhodné prostředí pro tento druh.
+Therefore, we created the "**Sysli na vinici**" trademark - meaning "**Souslik friendly vineyard**". This can be awarded to winemakers who manage their vineyards in a way that is friendly to both sousliks and the environment. Then by buying their wine you can support the protection of this rare species. The trademark was registered with the Industrial Property Office in 2016. 
 
-Známku může získat víno, které pochází z vinice z viniční trati, kde byl v daném roce prokázán výskyt sysla obecného a na které se hospodaří způsobem šetrným k syslům (je zatravněn minimálně každý druhý řádek v meziřadí, vinař toleruje sysly a nepoužívá rodenticidy).
+A trademark can be given a vineyard where:
 
-V současnosti má známku [21 vinařství](/znamka/nasi-vinari) z vinařských obcí Velké Pavlovice, Hnanice a Miroslav.
+1. Occurrence of sousliks living within the vineyard for the given year has been proven
+2. The vineyards are maintained in a way that is both souslik and environmentally friendly. Specifically, the minimum requirements are: 
 
-![](/media/sysli-v-sadu_200.jpg){: .wysiwyg-float-left} Známka **Sysli v sadu **byla vytvořena v roce 2018. Cílem je podpořit populace sysla podporou sadařů, kteří mají ve svých sadech sysly. 
+* At least every second row of the vineyard is grassy
+* The viticulturist tolerates the sousliks and does not use pesticides such as rodenticides
 
-Známku může získat ovoce ze sadu, kde byl v daném roce prokázán výskyt sysla obecného, a ve kterém se hospodaří způsobem šetrným k syslům (sad je zatravněn  a sadař toleruje sysly, nepoužívá rodenticidy).
+Currently, [21 wineries](/souslik-stamp/our-winemakers) from the villages of Velké Pavlovice, Hnanice and Miroslav have been awarded the trademark.
 
-V současnosti má známku [první sadař](/znamka/nasi-sadari) z Hrušovan u Brna.
+![](/media/logo_Syslinavinici_zc_m.jpg){: .wysiwyg-float-left}
+
+# Sysli v sadu
+
+Following the success of our Sysli na vinici trademark, we created the “**Sysli v sadu**” trademark - meaning “**Souslik friendly orchard**”. This can be awarded to orchard owners who manage their orchards in a way that is friendly to both sousliks and the environment. By buying their fruits and other produce from their orchards, you can support this rare species, which is currently at risk due to the intensification of farming across our landscape. The trademark was registered with the Industrial Property Office in 2018.
+
+A trademark can be given to an orchard which:
+
+1. Proves occurrence of sousliks living within the orchard for the given year
+2. The orchards are maintained in a way that is both souslik and environmentally friendly. 
+
+Currently, the first orchard to receive a stamp is [Hrušovan](/souslik-stamp/our-orchards) near Brno. 
+
+![](/media/sysli-v-sadu_200.jpg){: .wysiwyg-float-left} 
 
 <div class="clearfix"></div>
 
-Známky uděluje společnost [ALKA Wildlife, o.p.s.](http://www.alkawildlife.eu). Kontakty ohledně známky jsou uvedeny [zde](/o-nas/kontakty). Všechny aktivity spojené se známkami Sysli na vinici a Sysli v sadu jsou financovány z EHP a ERDF fondů a státního rozpočtu, více viz sekce [Projekty](/projekty).
+Stamps are awarded by [ALKA Wildlife, ops.](https://www.alkawildlife.eu) All activities associated with Sysli na vinici and Sysli v sadu are funded from EEA and ERDF funds and the state budget. For more details see our [projects](/projects) page.

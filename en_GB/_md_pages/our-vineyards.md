@@ -1,7 +1,7 @@
 ---
-title: Our vineyards
+title: Our wineries
 published: true
-permalink: /souslik-stamp/our-vineyards
+permalink: /souslik-stamp/our-wineries
 description: Information about wineries awarded with the "Sysli na vinici" trademark
 listed: true
 position: 1

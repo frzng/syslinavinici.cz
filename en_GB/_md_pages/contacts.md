@@ -24,18 +24,18 @@ Lidéřovice 62, 38001 Peč
 
 Kateřina Poledníková ([ALKA Wildlife](http://bit.ly/alkawildlife))
 
-Email: <mailto:katerina.polednikova@alkawildlife.eu>\
-Tel: [+420 606 598 903](tel:+420-606-598-903)\
+Email: <mailto:katerina.polednikova@alkawildlife.eu> Tel: [+420 606 598 903](tel:+420-606-598-903)__
+
 _Sysli na vinici trademark enquiries_
 
 Tereza Mináriková ([ALKA Wildlife](http://bit.ly/alkawildlife))
 
-Email: <mailto:tereza.minarikova@alkawildlife.eu>\
-Tel: [+420 724 706 806](tel:+420-724-706-806)\
+Email: <mailto:tereza.minarikova@alkawildlife.eu> Tel: [+420 724 706 806](tel:+420-724-706-806)
+
 S_ysli na vinici trademark enquiries_
 
 Jan Matějů ([Muzeum Karlovy Vary](http://kvmuz.cz))
 
-Email: <mailto:HonzaMateju@seznam.cz>\
-Tel: [+420 723 524 251](tel:+420-723-524-251)\
+Email: <mailto:HonzaMateju@seznam.cz> Tel: [+420 723 524 251](tel:+420-723-524-251)__
+
 _Reporting occurrence/observation of sousliks_

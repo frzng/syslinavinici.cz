@@ -12,8 +12,6 @@ This website is owned, maintained and updated by:
 
 ## Lidéřovice 62, 38001 Peč
 
-and
-
 # [Muzeum Karlovy Vary](http://www.kvmuz.cz)
 
 ## Nová Louka 23, 36001 Karlovy Vary
@@ -24,7 +22,7 @@ and
 
 ## EEA Funds 2009–2014, Ministry of the Environment
 
-## Supported by a grant from Iceland, Liechtenstein and Norway.
+Supported by a grant from Iceland, Liechtenstein and Norway.
 
 <div class="clearfix"></div>
 

@@ -2,7 +2,7 @@
 title: Our orchards
 published: true
 permalink: /souslik-stamp/our-orchards
-description: Information on orchards awarded with the "Sysli v sadu" trademark
+description: Information about orchards awarded with the "Sysli v sadu" trademark
 listed: true
 position: 2
 layout: two_columns_page

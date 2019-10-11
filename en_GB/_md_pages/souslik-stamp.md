@@ -29,7 +29,7 @@ A trademark can be given to a vineyard where:
 * At least every second row of the vineyard is grassy
 * The viticulturist tolerates the sousliks and does not use pesticides such as rodenticides
 
-Currently, [21 wineries](/souslik-stamp/our-winemakers) from the villages of Velké Pavlovice, Hnanice and Miroslav have been awarded the trademark.
+Currently, [21 wineries](/souslik-stamp/our-wineries) from the villages of Velké Pavlovice, Hnanice and Miroslav have been awarded the trademark.
 
 # Sysli v sadu
 
@@ -49,7 +49,5 @@ A trademark can be given to an orchard which:
 2. The orchards are maintained in a way that is both souslik and environmentally friendly. 
 
 Currently, the first orchard to receive a stamp is [Hrušovan](/souslik-stamp/our-orchards) near Brno. 
-
-
 
 Stamps are awarded by [ALKA Wildlife, ops.](https://www.alkawildlife.eu) All activities associated with Sysli na vinici and Sysli v sadu are funded from EEA and ERDF funds and the state budget. For more details see our [projects](/projects) page.

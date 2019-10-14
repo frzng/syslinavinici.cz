@@ -30,17 +30,21 @@ mission:
 gallery:
   title: Gallery
 appeal:
-  body: |-
+  body: >-
     # Appeal
 
-    We are looking for sousliks!
 
-    We need you to help us to map their occurence.
+    We are looking for sousliks and need your help to map their occurence.
 
-    You can contact us via the following methods:
+
+    If you have seen, heard or know about a souslik colony, please contact us
+    via one of the following methods:
+
 
     * [Email](/about-us/contacts)
+
     * [Phone](/about-us/contacts)
+
     * [Send us a photo](/sysel/jak-poznat-sysla)
 other:
   body: |-

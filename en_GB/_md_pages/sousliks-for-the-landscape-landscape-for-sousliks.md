@@ -33,11 +33,11 @@ The project is also supported by the Ministry of the Environment, more here.
 
 ALKA Wildlife, ops (Lead Partner)
 
-DAPHNE - Institute of Applied Ecology (main cross-border partner)
+[DAPHNE - Institute of Applied Ecology](http://daphne.sk/) (main cross-border partner)
 
-Ecocentre Trkmanka
+[Ecocentre Trkmanka](https://www.ekocentrum-trkmanka.com/)
 
-National Zoo Bojnice
+[National Zoo Bojnice](http://zoobojnice.sk/)
 
 # DURATION:
 
@@ -69,12 +69,12 @@ According to the Czech legislation, the European souslik is a critically endange
 
 # News
 
-[Souslik Information Stand in Pavlovice](/news/souslik-information-stand-in-pavlovice)
+[Souslik information stand in Pavlovice](/news/souslik-information-stand-in-pavlovice)
 
 [We are looking for sousliks!](/news/the-czech-republic-and-slovakia-are-looking-for-sousliks)
 
-[Saint Martin will bring 'souslik' wine to the village](/news/svatý-martin-přiveze-syslí-víno-i-z-nové-vinařské-obce)
+[Saint Martin will bring _**Sysli na vinici**_ wine to the village](/news/svatý-martin-přiveze-syslí-víno-i-z-nové-vinařské-obce)
 
-[New 'Souslik friendly orchard' stamp](/news/nová-známka-sysli-v-sadu)
+[New _**Sysli v sadu**_ stamp](/news/nová-známka-sysli-v-sadu)
 
-[Information stand about sousliks in Hnanice](/news/infostanek-se-syslem-ve-hnanicich)
+[Souslik information stand in Hnanice](/news/infostanek-se-syslem-ve-hnanicich)

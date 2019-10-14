@@ -15,13 +15,45 @@ listed: true
 position: 1
 layout: single_column_page
 ---
+# PROJECT CODE:
+
+304021D154
+
+# FINANCING:
+
+Program: [Interreg VA Slovakia - Czech Republic](http://www.sk-cz.eu/)
+
+Together without borders / Together without borders
+
+![](/media/logo_irrva_bilyokraj_610.jpg)
+
+The project is also supported by the Ministry of the Environment, more here.
+
+# PARTNERS:
+
+ALKA Wildlife, ops (Lead Partner)
+
+DAPHNE - Institute of Applied Ecology (main cross-border partner)
+
+Ecocentre Trkmanka
+
+National Zoo Bojnice
+
+# DURATION:
+
+NFP3040201154: 02/2018 - 01/2020
+
+# CONTACT PERSON:
+
+Kateřina Poledníková
+
 # Project aims
 
 The European ground squirrel, also known as European souslik or simply souslik, is an endangered species and one of Europe's rarest mammals. Currently, only 24 isolated localities are known from the programme area (scattered across the Trenčín, Trnava and South Moravian regions). 
 
 The aim of the project is to contribute to the rescue of sousliks across the programme area through a comprehensive set of activities. These will include: research, monitoring, implementation of measures to support the species and its environment, education, establishing contacts, transferring experience and sharing documents with the state administration advising on conservation priorities. Also recommendations for action, a data sharing tool, will be created. The project will contribute to improving the environment for the pre-existing colonies of sousliks. The project will also target visitors to the region to whom the sousliks will be presented as a representative of the local nature and a symbol of a well-preserved steppe agricultural landscape.
 
-![](/media/img_2907v_900.jpg "sysel obecný")
+![](/media/IMG_2423_u_610.JPG)
 
 # Project activity
 

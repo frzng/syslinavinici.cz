@@ -4,8 +4,10 @@ published: true
 permalink: /projects/implementation-of-measures
 image: /media/DSCN0196_610.JPG
 description: >-
-  Implementation of selected measures from the rescue programme for the European
-  souslik in South Moravia
+  This project, based in South Moravia, focused on the implementation of four
+  key measures for the European souslik: monitoring beyond the scope of regular
+  annual monitoring, demographic study of a selected population, analysis of
+  population viability and public awareness.
 listed: true
 position: 3
 layout: two_columns_page

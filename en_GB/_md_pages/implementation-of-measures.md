@@ -25,13 +25,11 @@ layout: two_columns_page
 
 ## **Financial resources:**
 
-**Programme: **Small grant scheme and rescue programmes for specially protected species II of programme CZ02
+**Programme:** Small grant scheme and rescue programmes for specially protected species II of programme CZ02
 
 Supported by a grant from Iceland, Liechtenstein and Norway.
 
 This project also had financial support from EEA funds 2009-2014 and the Ministry of the Environment. Its content is exclusively the responsibility of ALKA Wildlife, o.p.s. and cannot in any way be regarded as the opinion of the donor or the Ministry of the Environment.
-
-EHP fondy 2009–2014, Ministerstvo životního prostředí
 
 ![](/media/loga_mgs_stojato_mm.jpg){: .wysiwyg-float-left} 
 
@@ -43,7 +41,7 @@ Kateřina Poledníková​
 
 ## **Project objectives:**
 
-European sousliks used to be a common species in the Czech Republic. In the second half of the 20th century, however, its abundance dropped sharply and eventually only occurring in 28 localities across the Czech Republic. Most of the identified populations were isolated, had very little abundance and were  at risk of extinction. Therefore, in 2008, the Ministry of the Environment of the Czech Republic adopted the "European Souslik Rescue Programme in the Czech Republic". 
+European sousliks used to be a common species in the Czech Republic. In the second half of the 20th century, however, its abundance dropped sharply and eventually only occurring in 28 localities across the Czech Republic. Most of the identified populations were isolated, had very little abundance and were  at risk of extinction. Therefore, in 2008, the Ministry of the Environment of the Czech Republic adopted the 'European Souslik Rescue Programme in the Czech Republic'.
 
 The aim of the project was to implement four key measures of this rescue programme, focussing in South Moravia: monitoring beyond the scope of regular annual monitoring, demographic study of selected population population, population viability analysis, public awareness.
 
@@ -83,21 +81,17 @@ In recent years, a method called population viability analysis (PVA) has become 
 
 We aimed to increase the public awareness about sousliks and their importance in the Czech Republic. By reaching out to vineyard, orchard and other land owners in South Moravia we advised the best practices in cultivation to create a more suitable environment sousliks and other species - encouraging a rich, species diverse environment.
 
-* **Trademark**
-
-**_Sysli na vinici _**
+**Trademark - **_Sysli na vinici _
 
 Our trademark, supporting winemakers with sousliks on their land, was further supported within this project. Further information can be found [here](/souslik-stamp).
 
 ![null](/media/samolepka_Syslinavinici.jpg)
 
-* **Website**
-
-## [**_syslinavinici.cz_**](www.syslinavinici.cz)
+**Website - **[_syslinavinici.cz_](www.syslinavinici.cz)
 
 This website was further supported within this project.
 
-* **Flyers**
+**Flyers**
 
 [Leaflet: European souslik - Help us save it! (pdf)](/media/letak_sysel_Pomozte_chranit.pdf)
 

@@ -2,6 +2,7 @@
 title: Video Gallery
 published: true
 permalink: /sousliks/videogallery
+description: Collection of souslik videos
 listed: true
 position: 2
 layout: two_columns_page

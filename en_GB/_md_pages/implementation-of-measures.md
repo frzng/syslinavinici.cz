@@ -1,7 +1,7 @@
 ---
 title: Implementation of measures for the European souslik in South Moravia
 published: true
-permalink: /project/implementation-of-measures
+permalink: /projects/implementation-of-measures
 image: /media/DSCN0196_610.JPG
 description: >-
   Implementation of selected measures from the rescue programme for the European

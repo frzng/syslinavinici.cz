@@ -1,7 +1,7 @@
 ---
 title: Jak poznat sysla
 published: true
-permalink: /sysel/jak-poznat-sysla
+permalink: /sousliks/recognising-sousliks
 image: /media/DSCN0127_610.JPG
 listed: true
 position: 1
@@ -51,11 +51,16 @@ nevíme.
 
 # Jan Matějů ([Muzeum Karlovy Vary](http://kvmuz.cz))
 
-email: <mailto:HonzaMateju@seznam.cz>\
-telefon: [+420 723 524 251](tel:+420-723-524-251)\
-_hlášení výskytu/pozorování sysla obecného_
+Email: <mailto:HonzaMateju@seznam.cz>
+
+Telephone: [+420 723 524 251](tel:+420-723-524-251)__
+
+_Reporting occurrence/observation of sousliks_
 
 # Kateřina Poledníková ([ALKA Wildlife](https://www.alkawildlife.eu))
 
-email: <mailto:katerina.polednikova@alkawildlife.eu>\
-tel: [+420 606 598 903](tel:+420-606-598-903)
+Email: <mailto:katerina.polednikova@alkawildlife.eu>
+
+Telephone: [+420 606 598 903](tel:+420-606-598-903)
+
+_Sysli na vinici trademark enquiries_

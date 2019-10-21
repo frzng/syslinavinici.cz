@@ -13,7 +13,7 @@ description: >-
   to promote their protection and conservation.
 listed: true
 position: 1
-layout: single_column_page
+layout: two_columns_page
 aside_title: 'Sousliks for the landscape, landscape for sousliks'
 aside_links: >-
   The aim of this project is to contribute to the rescue of sousliks across the

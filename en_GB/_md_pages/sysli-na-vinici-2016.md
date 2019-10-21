@@ -9,10 +9,8 @@ description: >-
 listed: true
 position: 4
 layout: two_columns_page
-aside_title: Sysli na Vinici
-aside_links: >-
-  This project aims to protect sousliks and educate the general public about
-  their presence in vineyards using the Sysli na Vinici trademark.
+aside_title: ''
+aside_links: ''
 ---
 # Financing
 

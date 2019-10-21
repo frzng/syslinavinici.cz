@@ -10,19 +10,16 @@ listed: true
 position: 7
 layout: single_column_page
 ---
-Winemakers - do you have sousliks in your vineyard? Be proud of them - it's a real rarity! The souslik is considered one of the most endangered mammals in Europe. Help us, we can protect it together!
+Winemakers - do you have sousliks in your vineyard? Be proud of them - it's a real rarity! Sousliks are considered one of the most endangered mammals in Europe. Help us, we can protect them together. We  created the trademark _Sysli na Vinici_ for winemakers who maintain their vineyards with sousliks in mind.
 
-We have created the trademark "Souslik friendly vineyard" for winemakers who keep their vineyards a great environment for their sousliks.
-
-The trademark is awarded by [ALKA Wildlife, o.p.s.](https://www.alkawildlife.eu/) together with the [Karlovy Vary Museum](http://www.kvmuz.cz/), the partners who are conducting research of the sousliks in the Czech Republic.
+The trademark is awarded by [ALKA Wildlife, o.p.s.](https://www.alkawildlife.eu/) and [Karlovy Vary Museum](http://www.kvmuz.cz/) who are conducting research on sousliks in the Czech Republic.
 
 # HOW DO I GET A TRADEMARK FOR MY WINE?
 
 A trademark can be obtained for a vineyard which:
 
-1) Can prove occurrence of sousliks living within the vineyard for the given grape year 
-
-2) The vineyard is maintained in a way that is both souslik and environmentally friendly. 
+1. Can prove occurrence of sousliks living within the vineyard for the given grape year 
+2. The vineyard is maintained in a way that is both souslik and environmentally friendly. 
 
 Specifically, the minimum requirements for this are: 
 

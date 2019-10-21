@@ -79,9 +79,7 @@ Chardonnay
 
 <div class="clearfix"></div>
 
-![](/media/img_3016_baloun_02_300.jpg)
-
-{: .wysiwyg-float-left}[**Vinařství Baloun**](http://bit.ly/baloun "Vinařství Baloun")
+## ![](/media/img_3016_baloun_02_300.jpg){: .wysiwyg-float-left}[**Vinařství Baloun**](http://bit.ly/baloun "Vinařství Baloun")
 
 [www.baloun.cz](http://bit.ly/baloun "Vinařství Baloun")
 
@@ -149,7 +147,7 @@ Traditional, family run wine company from Velké Pavlovice. All of their wines m
 
 ## [![](/media/IMG_6105_300.JPG){: .wysiwyg-float-left}**Vinařství Špetíci**](http://www.vinarstvispetici.cz)
 
-[www.vinarstvispetici.cz](http://bit.ly/spetici)
+## [www.vinarstvispetici.cz](http://bit.ly/spetici)
 
 * Sauvignon 
 * Riesling 
@@ -158,7 +156,7 @@ Traditional, family run wine company from Velké Pavlovice. All of their wines m
 
 <div class="clearfix"></div>
 
-[![](/media/IMG_6094_b_300.JPG)](http://bit.ly/schwarzcz){: .wysiwg-float-left}[**Vinařství Schwarz**](http://bit.ly/schwarzcz)
+## [![](/media/IMG_6094_b_300.JPG){: .wysiwyg-float-left}**Vinařství Schwarz**](http://bit.ly/schwarzcz)****
 
 [www.vinarstvischwarz.cz](http://bit.ly/schwarzcz)
 

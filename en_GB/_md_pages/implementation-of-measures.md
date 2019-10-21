@@ -12,11 +12,9 @@ listed: true
 position: 3
 layout: two_columns_page
 ---
-# 
-
 # Financial resources
 
-Small grant scheme and rescue programmes for specially protected species II of programme CZ02.
+Programme: Small grant scheme and rescue programmes for specially protected species II of programme CZ02.
 
 Supported by a grant from Iceland, Liechtenstein and Norway.
 
@@ -46,28 +44,28 @@ European sousliks used to be a common species in the Czech Republic. In the seco
 
 The aim of the project was to implement four key measures of this rescue programme, focussing in South Moravia: monitoring beyond the scope of regular annual monitoring, demographic study of selected population population, population viability analysis, public awareness.
 
-## South Moravia Region:
+## **South Moravia Region**
 
 The project focused on South Moravia for two reasons: 
 
 1. South Moravia has so far received little attention under the recuse programme. As parts of the area are difficult to align within the framework and standard monitoring methodology, which is more suitable for clear areas such as airports, the monitoring conducted in this area is insufficient.
 2. Due to the nature of land use (functional agricultural landscape) and the distance to the main area of ​​European sousliks (Slovakia, Austria and further south and east), thus the possibilities of creating a functional meta-population, the area of ​​South Moravia is one of the most favourable areas for the souslik in the Czech Republic. In recent years, it now seems that this area could be absolutely crucial for maintaining their population in the Czech Republic.
 
-## Project activity:
+## **Project activity**
 
-### 1. Monitoring sousliks in South Moravia
+### **1. Monitoring sousliks in South Moravia**
 
 Monitoring the occurrence of sousliks took place in the wine-growing regions of the Kyjovské hills. In the spring and summer months, our team mapped pre-selected areas consisting of vineyards, gardens and orchards, in the immediate vicinity of well-known populations, as well as in locations where there had been no recent record. Our team looked for both active individuals in the areas but also proof of inhabitation such as burrows or droppings. Information from local residents and landowners was also gained during the surveys.
 
 ![null](/media/IMG_0504_610.JPG)
 
-### 2. Demographic study
+### **2. Demographic study**
 
 A well established colony of sousliks was also monitoring for the duration of this project. The population at the grassy airport in Miroslav was monitored to determine population status, population health and monitor dispersal of individuals including juveniles. Little is known regarding distances travelled and which different environments they will move into yet this is an essential information for linking existing, isolated populations.
 
 ![null](/media/sysel_chycen_610.jpg)
 
-### 3. Population viability analysis (PVA)
+### **3. Population viability analysis (PVA)**
 
 In recent years, a method called population viability analysis (PVA) has become one of the basic tools for setting appropriate species conservation measures. This method can be used to answer several basic questions about population ecology and conservation needs of a given species. It achieves this through:
 
@@ -78,17 +76,17 @@ In recent years, a method called population viability analysis (PVA) has become 
 
 ![null](/media/sysel_2016_basic_srovnani.jpg)
 
-### 4. Public awareness
+### **4. Public awareness**
 
 We aimed to increase the public awareness about sousliks and their importance in the Czech Republic. By reaching out to vineyard, orchard and other land owners in South Moravia we advised the best practices in cultivation to create a more suitable environment sousliks and other species - encouraging a rich, species diverse environment.
 
-**Trademark - **_Sysli na vinici _
+**Trademark** - _Sysli na vinici _
 
 Our trademark, supporting winemakers with sousliks on their land, was further supported within this project. Further information can be found [here](/souslik-stamp).
 
 ![null](/media/samolepka_Syslinavinici.jpg)
 
-**Website - **[_syslinavinici.cz_](https://en.syslinavinici.cz)__
+**Website** - [_syslinavinici.cz_](https://en.syslinavinici.cz)
 
 This website was further supported within this project.
 

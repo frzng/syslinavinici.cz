@@ -1,7 +1,7 @@
 ---
-title: Pro vinaře
+title: For winemakers
 published: true
-permalink: /znamky/pro-vinare
+permalink: /sousliks/for-winemakers
 image: /media/KMB6279_610.jpg
 listed: true
 position: 7

@@ -7,8 +7,8 @@ description: Monitoring the populations of sousliks in South Moravia
 listed: true
 position: 2
 layout: two_columns_page
-aside_title: Sousliks in South Moravia
-aside_links: Monitoring the populations of sousliks in South Moravia
+aside_title: ''
+aside_links: ''
 ---
 # Project Code
 

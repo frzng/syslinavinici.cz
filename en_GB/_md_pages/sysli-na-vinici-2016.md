@@ -9,26 +9,26 @@ description: >-
 listed: true
 position: 4
 layout: two_columns_page
+aside_title: Sysli na Vinici
+aside_links: >-
+  This project aims to protect sousliks and educate the general public about
+  their presence in vineyards using the Sysli na Vinici trademark.
 ---
-# Project title
-
-Sysli na vinici
-
-# Project duration
-
-07–11 2016
-
 # Financing
 
-Ministry of the Environment, within the project "Promotion of rescue programmes for specially protected species in the Czech Republic" implemented by [Beleco, z.s.](http://www.beleco.cz)
+Ministry of the Environment, within the project _Promotion of rescue programmes for specially protected species in the Czech Republic_ implemented by [Beleco, z.s.](http://www.beleco.cz)
 
 The project was financially supported through a grant from the Ministry of the Environment but does not have to express the opinions of the Ministry of the Environment.
 
-# Project manager
+# Duration
+
+07–11 2016
+
+# Contact Person
 
 Kateřina Poledníková
 
-# Project aim
+# Project aims
 
 European ground squirrels, sousliks, are considered one of the most endangered mammals in Europe. Once a common inhabitant of lowland grasslands in the Czech Republic, their Czech conservation status  is now **critically endangered**, limited to around 35 isolated communities. They are threatened primarily by changes in the Czech and Moravian landscapes such as land consolidation, agricultural intensification and also, on the contrary, the abandonment of land such as meadows and pastures. These changes have destroyed their preferred habitats like short grasslands. Currently, most communities live in small isolated grassland sites such as campsites, golf courses, airports and the natural steppe. 
 

@@ -3,38 +3,25 @@ title: Sousliks
 published: true
 permalink: /sousliks
 image: /media/IMG_0817_610.jpg
-long_title: Sysel obecný
+long_title: Sousliks
 listed: true
 position: 2
 layout: single_column_page
 ---
-Sysel obecný je menší společensky žijící **hlodavec** z příbuzenstva
-veverek.
+The European ground squirrel (_Spermophilus citellus_) commonly known as souslik, is a small, socially-living rodent of the squirrel family. They are diurnal, meaning they are mainly active during the day, returning to their burrows at night. Their burrows are extensive and they use them to both sleep in at night and for hibernation throughout the autumn and winter months. Whilst predominately herbivores, feeding on grasses, seeds and other plants, they will take advantage of insects or young voles if the opportunity arises. 
 
-Sysel obvykle obývá pravidelně kosené nebo spásané **travnaté plochy**,
-kde si buduje systém nor. V norách se neukrývá pouze v noci, ale zimním
-spánkem zde přečkává celý podzim a zimu. Za potravu syslům slouží
-především rostliny, ale nepohrdnou ani hmyzem nebo mladými hraboši.
+Once a common inhabitant of lowland grasslands in the Czech Republic, they are now a protected species with their Czech conservation status now **critically endangered**. They are limited to around 35 isolated communities and they are considered **one of the most endangered mammals in Europe**. As a protected species, it is forbidden to catch, kill them or destroy the burrows. They are threatened primarily by changes in the Czech and Moravian landscapes such as land consolidation, agricultural intensification and also, on the contrary, the abandonment of land such as meadows and pastures. These changes have destroyed their preferred habitats like short grasslands. Currently, most communities live in small isolated grassland sites such as campsites, golf courses, airports and the natural steppe.
 
-Až do 60. let minulého století byl sysel běžnou součástí zemědělské
-krajiny nejen u nás, ale ve většině střední a jihovýchodní Evropy. Od té
-doby však jeho početnost mnohonásobně poklesla a vyskytuje se jen velmi
-vzácně. **Je považován za jednoho z nejohroženějších savců**
-Evropy. Proto je v současnosti sysel **chráněným druhem** v kategorii
-kriticky ohrožený. Zakázáno je proto sysly zabíjet, chytat nebo ničit
-jejich nory.
+# Further reading
 
-# Dále ke čtení
+[What does a souslik look like?](/sousliks/recognising-sousliks)
 
-## [Co dělají sysli v listopadu?](/news/co-delaji-sysli-v-listopadu)
+_Find out how to identify a souslik in the wild. _
 
-*Co dělají sysli v listopadu? Spí. A někteří už poměrně dlouho. Samice,
-které se v daném roce nerozmnožují, se ukládají ke spánku již na konci
-července, pak je následují samci a nakonec v září či v říjnu tohoroční
-mláďata…*
+## [What do sousliks do in winter?](/news/co-delaji-sysli-v-listopadu)
 
-## [Jeden den v životě jedné syslí rodiny](/news/letosni-mladata-uz-vylezla-z-nor)
+_What are sousliks doing in the autumn and winter months? Sleeping! _
 
-*Sysli tráví čas od podzimu do jara zimním spánkem. Po probuzení začíná
-období páření. Po 25–28 dnech březosti samice rodí holá mláďata, která
-ve stáří čtyř týdnů začínají opouštět mateřskou noru…*
+## [A day in the life of a souslik](/news/letosni-mladata-uz-vylezla-z-nor)
+
+_After waking up from hibernation, sousliks days are full of action..._

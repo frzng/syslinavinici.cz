@@ -3,47 +3,33 @@ title: For winemakers
 published: true
 permalink: /sousliks/for-winemakers
 image: /media/KMB6279_610.jpg
+description: >-
+  Do you have sousliks? Be proud - let us award you with the Sysli na Vinici
+  trademark.
 listed: true
 position: 7
 layout: single_column_page
 ---
-Vinaři – máte ve svém vinohradu sysly? Buďte na ně pyšní – jde
-o opravdovou vzácnost. Sysel obecný je považován za jednoho
-z nejohroženějších savců Evropy. Pomozte nám jej společné
-chránit. Abyste se mohli pochlubit svým hostům a zákazníkům připravili
-jsme pro Vás ochrannou známku „Sysli na vinici“.
+Winemakers - do you have sousliks in your vineyard? Be proud of them - it's a real rarity! The souslik is considered one of the most endangered mammals in Europe. Help us, we can protect it together!
 
-Známku uděluje společnost [ALKA Wildlife, o.p.s.][1] spolu
-s [Muzeem Karlovy Vary][2] – organizace, které se zabývají výzkumem
-a ochranou sysla obecného v České republice.
+We have created the trademark "Souslik friendly vineyard" for winemakers who keep their vineyards a great environment for their sousliks.
 
-Známku může získat víno, které pochází z vinice
+The trademark is awarded by [ALKA Wildlife, o.p.s.](https://www.alkawildlife.eu/) together with the [Karlovy Vary Museum](http://www.kvmuz.cz/), the partners who are conducting research of the sousliks in the Czech Republic.
 
-1) z viniční trati, kde byl v daném roce prokázán výskyt sysla obecného
+# HOW DO I GET A TRADEMARK FOR MY WINE?
 
-2) na které se hospodaří způsobem šetrným k syslům, přesněji minimální
-požadavky jsou: je zatravněn minimálně každý druhý řádek ve vinici
-a vinař toleruje sysly a nepoužívá rodenticidy (prostředky na hubení
-hlodavců)
+A trademark can be obtained for a vineyard which:
 
-Seznam viničních obcí, kde byl/je potvrzen výskyt sysla obecného najdete
-[zde](/znamka/vyskyt-sysla). Pro víno z viničních tratí těchto
-vinařských obcí je možné získat licenci.
+1) Can prove occurrence of sousliks living within the vineyard for the given grape year 
 
-Licence se uděluje pro konkrétní viniční tratě. Jestli právě Vy
-splňujete podmínky s Vámi prodiskutujeme emailem či telefonicky.
+2) The vineyard is maintained in a way that is both souslik and environmentally friendly. 
 
-Kontakty pro udělení licence i hlášení výskytu jsou
-[zde](/o-nas/kontakty).
+Specifically, the minimum requirements for this are: 
 
-V současnosti je udělování licence zdarma, náklady jsou hrazeny
-z dotačních [projektů](/o-nas/projekty).
+\- At least every second row of the vineyard is grassed and
 
-Po podpisu smlouvy od nás dostanete samolepky na lahve, větší samolepky
-a informační letáky. Vaše vinařství bude uvedeno na webových stránkách
-[www.syslinavinici.cz][3].
+\- The viticulturist tolerates the sousliks and does not use pesticides such as rodenticides
 
+[Here](/souslik-stamp/our-wineries) you can find a list of vineyards where sousliks have been confirmed and the award has been given. 
 
-[1]: https://www.alkawildlife.eu
-[2]: http://www.kvmuz.cz
-[3]: https://www.syslinavinici.cz
+If you would like to obtain the _Sysli na Vinci_ trademark and display the stickers on your bottles, at your cellar and provide information leaflets to display and distribute to members of the public, please [get in contact](/about-us/contacts). You can also discuss reporting sightings of sousliks as well.

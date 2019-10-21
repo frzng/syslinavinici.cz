@@ -31,7 +31,7 @@ Chardonnay
 
 <div class="clearfix"></div>
 
-## ![](/media/IMG_2973_300.jpg)[{: .wysiwyg-float-left}](http://bit.ly/buchtovicz "Vinařství Buchtovi") [**Vinařství Mezi Horami**](http://bit.ly/mezihoramicz)****
+![](/media/IMG_2973_300.jpg)[{: .wysiwyg-float-left}](http://bit.ly/buchtovicz "Vinařství Buchtovi") [**Vinařství Mezi Horami**](http://bit.ly/mezihoramicz)
 
 [www.mezihorami.cz](http://bit.ly/mezihoramicz)
 
@@ -79,7 +79,7 @@ Chardonnay
 
 <div class="clearfix"></div>
 
-![](/media/img_3016_baloun_02_300.jpg)[{: .wysiwyg-float-left}](http://bit.ly/baloun)[**Vinařství Baloun**](http://bit.ly/baloun "Vinařství Baloun")
+![](/media/img_3016_baloun_02_300.jpg)[{: .wysiwyg-float-left}](http://bit.ly/baloun) [**Vinařství Baloun**](http://bit.ly/baloun "Vinařství Baloun")
 
 [www.baloun.cz](http://bit.ly/baloun "Vinařství Baloun")
 

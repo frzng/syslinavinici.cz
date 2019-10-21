@@ -14,6 +14,14 @@ description: >-
 listed: true
 position: 1
 layout: single_column_page
+aside_title: 'Sousliks for the landscape, landscape for sousliks'
+aside_links: >-
+  The aim of this project is to contribute to the rescue of sousliks across the
+  Czech Republic and Slovakia. It will include a multitude of activities
+  including: monitoring species in known areas, identifying new areas for
+  potential colonies, improving the environment for the sousliks, providing
+  education to local landowners,villages and target visitors to souslik regions
+  to promote their protection and conservation.
 ---
 # PROJECT CODE
 

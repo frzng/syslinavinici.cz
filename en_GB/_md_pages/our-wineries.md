@@ -75,11 +75,13 @@ Chardonnay
 
 <div class="clearfix"></div>
 
-![](/media/IMG_3020.jpg){: .wysiwyg-float-left}[**Petr Procházka**](/souslik-stamp/our-wineries)
+![](/media/IMG_3020.jpg){: .wysiwyg-float-left} [**Petr Procházka**](/souslik-stamp/our-wineries)
 
 <div class="clearfix"></div>
 
-![](/media/img_3016_baloun_02_300.jpg)[{: .wysiwyg-float-left}](http://bit.ly/baloun) [**Vinařství Baloun**](http://bit.ly/baloun "Vinařství Baloun")
+![](/media/img_3016_baloun_02_300.jpg)[{: .wysiwyg-float-left}](http://bit.ly/baloun) 
+
+[**Vinařství Baloun**](http://bit.ly/baloun "Vinařství Baloun")
 
 [www.baloun.cz](http://bit.ly/baloun "Vinařství Baloun")
 
@@ -89,7 +91,9 @@ Wine awarded with the Sysli na vinci trademark can be found here: [Moravian musc
 
 <div class="clearfix"></div>
 
-![](/media/michna_300.jpg)[{: .wysiwyg-float-left}](http://www.michna.cz/)[**Vinařství Michna**](http://www.michna.cz)
+![](/media/michna_300.jpg)[{: .wysiwyg-float-left}](http://www.michna.cz/)
+
+[**Vinařství Michna**](http://www.michna.cz)
 
 [www.michna.cz](http://bit.ly/michnacz "Vinařství Michna")
 

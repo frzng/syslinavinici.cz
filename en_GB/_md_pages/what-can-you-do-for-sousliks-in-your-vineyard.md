@@ -1,7 +1,7 @@
 ---
 title: What can you do for sousliks in your vineyard?
 published: true
-permalink: /souslik-stamp/our-winaries/what-can-you-do-for-sousliks-in-your-vineyard
+permalink: /souslik-stamp/for-winemakers/what-can-you-do-for-sousliks-in-your-vineyard
 image: /media/IMG_2845_610.JPG
 long_title: What can you do for sousliks in your vineyard?
 description: >-

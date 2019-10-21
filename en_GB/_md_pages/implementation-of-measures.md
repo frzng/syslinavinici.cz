@@ -12,20 +12,11 @@ listed: true
 position: 3
 layout: two_columns_page
 ---
-# **Implementation of measures for the European souslik in South Moravia**
+# 
 
-## **Partners:**
+# Financial resources
 
-[ALKA Wildlife, o.p.s.](https://www.alkawildlife.eu)\
-[Muzeum Karlovy Vary](http://kvmuz.cz)
-
-## **Project duration:**
-
-2015–2017
-
-## **Financial resources:**
-
-**Programme:** Small grant scheme and rescue programmes for specially protected species II of programme CZ02
+Small grant scheme and rescue programmes for specially protected species II of programme CZ02.
 
 Supported by a grant from Iceland, Liechtenstein and Norway.
 
@@ -35,24 +26,34 @@ This project also had financial support from EEA funds 2009-2014 and the Ministr
 
 <div class="clearfix"></div>
 
-## **Contact person:**
+# Partners
+
+[ALKA Wildlife, o.p.s.](https://www.alkawildlife.eu)
+
+[Muzeum Karlovy Vary](http://kvmuz.cz)
+
+# Project duration
+
+2015–2017
+
+# Contact person
 
 Kateřina Poledníková​
 
-## **Project objectives:**
+# Project aims
 
 European sousliks used to be a common species in the Czech Republic. In the second half of the 20th century, however, its abundance dropped sharply and eventually only occurring in 28 localities across the Czech Republic. Most of the identified populations were isolated, had very little abundance and were  at risk of extinction. Therefore, in 2008, the Ministry of the Environment of the Czech Republic adopted the 'European Souslik Rescue Programme in the Czech Republic'.
 
 The aim of the project was to implement four key measures of this rescue programme, focussing in South Moravia: monitoring beyond the scope of regular annual monitoring, demographic study of selected population population, population viability analysis, public awareness.
 
-## **South Moravia Region:**
+## South Moravia Region:
 
 The project focused on South Moravia for two reasons: 
 
 1. South Moravia has so far received little attention under the recuse programme. As parts of the area are difficult to align within the framework and standard monitoring methodology, which is more suitable for clear areas such as airports, the monitoring conducted in this area is insufficient.
 2. Due to the nature of land use (functional agricultural landscape) and the distance to the main area of ​​European sousliks (Slovakia, Austria and further south and east), thus the possibilities of creating a functional meta-population, the area of ​​South Moravia is one of the most favourable areas for the souslik in the Czech Republic. In recent years, it now seems that this area could be absolutely crucial for maintaining their population in the Czech Republic.
 
-## **Project activity:**
+## Project activity:
 
 ### 1. Monitoring sousliks in South Moravia
 
@@ -87,12 +88,16 @@ Our trademark, supporting winemakers with sousliks on their land, was further su
 
 ![null](/media/samolepka_Syslinavinici.jpg)
 
-**Website - **[_syslinavinici.cz_](www.syslinavinici.cz)
+**Website - **[_syslinavinici.cz_](https://en.syslinavinici.cz)__
 
 This website was further supported within this project.
 
 **Flyers**
 
-[Leaflet: European souslik - Help us save it! (pdf)](/media/letak_sysel_Pomozte_chranit.pdf)
+[Leaflet: European souslik - Help us save it! (pdf)](https://en.alkawildlife.eu/media/letak_sysel_Pomozte_chranit.pdf)
 
-[Leaflet: Buy wine with a souslik stamp and you can help protect the European souslik (pdf)](/media/letak_sysel_znamka.pdf)
+[Leaflet: Buy wine with a souslik stamp and you can help protect the European souslik (pdf)](https://en.alkawildlife.eu/media/letak_sysel_znamka.pdf)
+
+**Publications**
+
+[Nature Conservation Forum 1/2017: Can marketing be used as a means of protecting a species? (pdf)](https://www.alkawildlife.eu/media/11-marketing_ochrana_druhu.pdf)

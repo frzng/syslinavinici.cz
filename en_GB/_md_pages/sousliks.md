@@ -16,11 +16,11 @@ Once a common inhabitant of lowland grasslands in the Czech Republic, they are n
 
 [What does a souslik look like?](/sousliks/recognising-sousliks)
 
-_Find out how to identify a souslik in the wild. _
+_Find out how to identify a souslik in the wild._
 
 ## [What do sousliks do in winter?](/news/co-delaji-sysli-v-listopadu)
 
-_What are sousliks doing in the autumn and winter months? Sleeping! _
+_What are sousliks doing in the autumn and winter months? Sleeping!_
 
 ## [A day in the life of a souslik](/news/letosni-mladata-uz-vylezla-z-nor)
 

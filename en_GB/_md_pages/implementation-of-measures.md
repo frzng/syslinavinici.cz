@@ -12,7 +12,7 @@ listed: true
 position: 3
 layout: two_columns_page
 ---
-# Financial resources
+# Financing
 
 Programme: Small grant scheme and rescue programmes for specially protected species II of programme CZ02.
 

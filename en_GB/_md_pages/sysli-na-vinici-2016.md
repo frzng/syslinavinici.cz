@@ -14,11 +14,11 @@ layout: two_columns_page
 
 Sysli na vinici
 
-# Project duration 
+# Project duration
 
 07–11 2016
 
-# Financial support
+# Financing
 
 Ministry of the Environment, within the project "Promotion of rescue programmes for specially protected species in the Czech Republic" implemented by [Beleco, z.s.](http://www.beleco.cz)
 

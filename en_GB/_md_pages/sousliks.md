@@ -14,7 +14,7 @@ Once a common inhabitant of lowland grasslands in the Czech Republic, they are n
 
 # Further reading
 
-[What does a souslik look like?](/sousliks/recognising-sousliks)
+## [What does a souslik look like?](/sousliks/recognising-sousliks)
 
 _Find out how to identify a souslik in the wild._
 

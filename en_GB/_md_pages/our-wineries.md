@@ -91,7 +91,7 @@ Wine awarded with the Sysli na vinci trademark can be found here: [Moravian musc
 
 <div class="clearfix"></div>
 
-![](/media/michna_300.jpg){: .wysiwyg-float-left} [**Vinařství Michna**](http://www.michna.cz)
+![](/media/michna_300.jpg){: .wysiwyg-float-left}[**Vinařství Michna**](http://www.michna.cz)
 
 [www.michna.cz](http://bit.ly/michnacz "Vinařství Michna")
 

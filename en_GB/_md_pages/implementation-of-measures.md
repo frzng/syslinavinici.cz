@@ -4,7 +4,7 @@ published: true
 permalink: /projects/implementation-of-measures
 image: /media/DSCN0196_610.JPG
 description: >-
-  This project, based in South Moravia, focused on the implementation of four
+  This project, based in South Moravia, is focused on the implementation of four
   key measures for the European souslik: monitoring beyond the scope of regular
   annual monitoring, demographic study of a selected population, analysis of
   population viability and public awareness.
@@ -86,7 +86,7 @@ Our trademark, supporting winemakers with sousliks on their land, was further su
 
 ![null](/media/samolepka_Syslinavinici.jpg)
 
-**Website** - [_syslinavinici.cz_](https://en.syslinavinici.cz)
+**Website** - [syslinavinici.cz](https://www.syslinavinici.cz)
 
 This website was further supported within this project.
 

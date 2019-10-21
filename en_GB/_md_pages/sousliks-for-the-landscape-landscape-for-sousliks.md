@@ -21,7 +21,7 @@ layout: single_column_page
 
 # FINANCING
 
-Program: [Interreg VA Slovakia - Czech Republic](http://www.sk-cz.eu/)
+Programme: [Interreg VA Slovakia - Czech Republic](http://www.sk-cz.eu/)
 
 Together without borders / Together without borders
 
@@ -73,8 +73,8 @@ According to the Czech legislation, the European souslik is a critically endange
 
 [We are looking for sousliks!](/news/the-czech-republic-and-slovakia-are-looking-for-sousliks)
 
-[Saint Martin will bring **_Sysli na vinici_** wine to the village](/news/svatý-martin-přiveze-syslí-víno-i-z-nové-vinařské-obce)
+[Saint Martin will bring _**Sysli na vinici**_ wine to the village](/news/svatý-martin-přiveze-syslí-víno-i-z-nové-vinařské-obce)
 
-[New **_Sysli v sadu_** stamp](/news/nová-známka-sysli-v-sadu)
+[New _**Sysli v sadu**_ stamp](/news/nová-známka-sysli-v-sadu)
 
 [Souslik information stand in Hnanice](/news/infostanek-se-syslem-ve-hnanicich)

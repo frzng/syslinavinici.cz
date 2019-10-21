@@ -1,7 +1,7 @@
 ---
 title: For winemakers
 published: true
-permalink: /sousliks/for-winemakers
+permalink: /souslik-stamp/for-winemakers
 image: /media/KMB6279_610.jpg
 description: >-
   Do you have sousliks? Be proud - let us award you with the Sysli na Vinici

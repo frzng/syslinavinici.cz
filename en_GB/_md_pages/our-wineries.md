@@ -158,7 +158,7 @@ Traditional, family run wine company from Velké Pavlovice. All of their wines m
 
 <div class="clearfix"></div>
 
-[![](/media/IMG_6094_b_300.JPG)](http://bit.ly/schwarzcz){: .wysiwg-float-left} [**Vinařství Schwarz**](http://bit.ly/schwarzcz)
+[![](/media/IMG_6094_b_300.JPG)](http://bit.ly/schwarzcz){: .wysiwg-float-left}[**Vinařství Schwarz**](http://bit.ly/schwarzcz)
 
 [www.vinarstvischwarz.cz](http://bit.ly/schwarzcz)
 

@@ -15,11 +15,11 @@ listed: true
 position: 1
 layout: single_column_page
 ---
-# PROJECT CODE:
+# PROJECT CODE
 
 304021D154
 
-# FINANCING:
+# FINANCING
 
 Program: [Interreg VA Slovakia - Czech Republic](http://www.sk-cz.eu/)
 
@@ -29,7 +29,7 @@ Together without borders / Together without borders
 
 The project is also supported by the Ministry of the Environment, more here.
 
-# PARTNERS:
+# PARTNERS
 
 ALKA Wildlife, ops (Lead Partner)
 
@@ -39,11 +39,11 @@ ALKA Wildlife, ops (Lead Partner)
 
 [National Zoo Bojnice](http://zoobojnice.sk/)
 
-# DURATION:
+# DURATION
 
 NFP3040201154: 02/2018 - 01/2020
 
-# CONTACT PERSON:
+# CONTACT PERSON
 
 Kateřina Poledníková
 
@@ -73,8 +73,8 @@ According to the Czech legislation, the European souslik is a critically endange
 
 [We are looking for sousliks!](/news/the-czech-republic-and-slovakia-are-looking-for-sousliks)
 
-[Saint Martin will bring _**Sysli na vinici**_ wine to the village](/news/svatý-martin-přiveze-syslí-víno-i-z-nové-vinařské-obce)
+[Saint Martin will bring **_Sysli na vinici_** wine to the village](/news/svatý-martin-přiveze-syslí-víno-i-z-nové-vinařské-obce)
 
-[New _**Sysli v sadu**_ stamp](/news/nová-známka-sysli-v-sadu)
+[New **_Sysli v sadu_** stamp](/news/nová-známka-sysli-v-sadu)
 
 [Souslik information stand in Hnanice](/news/infostanek-se-syslem-ve-hnanicich)

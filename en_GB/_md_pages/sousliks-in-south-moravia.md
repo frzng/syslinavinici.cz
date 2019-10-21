@@ -6,7 +6,7 @@ long_title: Monitoring the populations of sousliks in South Moravia
 description: ''
 listed: true
 position: 2
-layout: single_column_page
+layout: two_columns_page
 aside_links: Projekt financovaný MŽP byl realizovaný v roce 2018.
 ---
 # Project Code

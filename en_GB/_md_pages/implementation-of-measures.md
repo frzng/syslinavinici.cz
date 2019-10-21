@@ -11,12 +11,8 @@ description: >-
 listed: true
 position: 3
 layout: two_columns_page
-aside_title: Implementation of measures for the European souslik in South Moravia
-aside_links: >-
-  This project, based in South Moravia, is focused on the implementation of four
-  key measures for the European souslik: monitoring beyond the scope of regular
-  annual monitoring, demographic study of a selected population, analysis of
-  population viability and public awareness.
+aside_title: ''
+aside_links: ''
 ---
 # Financing
 

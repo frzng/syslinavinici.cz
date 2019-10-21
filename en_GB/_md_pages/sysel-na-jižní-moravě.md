@@ -1,37 +1,34 @@
 ---
-title: Sysel na jižní Moravě
+title: Sousliks in South Moravia
 published: true
-permalink: /projekty/sysel-jizni-morava
-long_title: Monitoring a podpora populací sysla obecného na jižní Moravě
-description: >-
-  Projekt financovaný MŽP byl realizovaný v roce 2018. Cílem projektu bylo
-  detailní terénní mapování výskytu sysla obecného na jižní Moravě v zemědělské
-  krajině a sledování parametrů prostředí, kde se vyskytuje. Druhým cílem
-  projektu je komunikace s místními zemědělci, předávání informací, spolupráce s
-  nimi na jeho ochraně a prezentace druhu a známky Sysli na vinici veřejnosti. 
+permalink: /projects/sousliks-in-south-moravia
+long_title: Monitoring the populations of sousliks in South Moravia
+description: ''
 listed: true
 position: 2
 layout: single_column_page
 aside_links: Projekt financovaný MŽP byl realizovaný v roce 2018.
 ---
-Kód projektu: 104/32/18
+# Project Code
 
-## Financování: 
+104/32/18
 
-Projekt je podpořen Ministerstvem životního prostředí, projekt nemusí vyjadřovat stanoviska MŽP.
+# Financing
+
+The project was financially supported through a grant from the Ministry of the Environment but does not have to express the opinions of the Ministry of the Environment.
 
 ![](/media/OPEU-Logo-MZP_20141218v.JPG)
 
-Aktivity projektu Monitoring a podpora populací sysla obecného na jižní Moravě se překrývá s projektem [Sysli pro krajinu, krajina pro sysly](/projekty/sysli-pro-krajinu-krajina-pro-sysly), čímž jsou zajištěny náklady na kofinancování. 
+Activity from this project overlaps with activities and is co-funded through our other project [Sousliks for the landscape, landscape for souslisk](/projects/sousliks-for-the-landscape-landscape-for-sousliks). 
 
-## Trvání:
+# Duration
 
  02/2018 - 12/2018
 
-## Kontaktní osoba:
+# Contact Person
 
 Kateřina Poledníková
 
-## Cíle a aktivity projektu
+# Project aims
 
-Cílem projektu bylo detailní terénní mapování výskytu sysla obecného na jižní Moravě v zemědělské krajině a sledování parametrů prostředí, kde se vyskytuje. Druhým cílem projektu byla komunikace s místními zemědělci, předávání informací, spolupráce s nimi na jeho ochraně a prezentace druhu a známky Sysli na vinici veřejnosti.
+The first aim of this project was to map, in detail, the occurrence of European ground squirrels in South Moravian, agricultural landscape and assess the occupied environment. The second aim was to increase communication with local farmers to transmit information, cooperate on the sousliks protection and to effectively present the species and the _Sysli na Vinici_ trademark to the public.

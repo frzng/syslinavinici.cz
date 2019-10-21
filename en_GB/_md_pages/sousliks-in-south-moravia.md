@@ -2,12 +2,13 @@
 title: Sousliks in South Moravia
 published: true
 permalink: /projects/sousliks-in-south-moravia
-long_title: Monitoring the populations of sousliks in South Moravia
-description: ''
+long_title: ''
+description: Monitoring the populations of sousliks in South Moravia
 listed: true
 position: 2
 layout: two_columns_page
-aside_links: Projekt financovaný MŽP byl realizovaný v roce 2018.
+aside_title: Sousliks in South Moravia
+aside_links: Monitoring the populations of sousliks in South Moravia
 ---
 # Project Code
 

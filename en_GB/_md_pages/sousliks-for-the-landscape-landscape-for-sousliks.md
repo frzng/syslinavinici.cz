@@ -31,7 +31,7 @@ The project is also supported by the Ministry of the Environment, more here.
 
 # PARTNERS
 
-ALKA Wildlife, ops (Lead Partner)
+[ALKA Wildlife, o.p.s.](https://www.alkawildlife.eu) (Lead Partner)
 
 [DAPHNE - Institute of Applied Ecology](http://daphne.sk/) (main cross-border partner)
 

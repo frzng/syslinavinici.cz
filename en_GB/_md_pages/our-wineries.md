@@ -81,7 +81,7 @@ Chardonnay
 
 ![](/media/img_3016_baloun_02_300.jpg)
 
-[**Vinařství Baloun**](http://bit.ly/baloun "Vinařství Baloun")
+{: .wysiwyg-float-left}[**Vinařství Baloun**](http://bit.ly/baloun "Vinařství Baloun")
 
 [www.baloun.cz](http://bit.ly/baloun "Vinařství Baloun")
 
@@ -91,13 +91,11 @@ Wine awarded with the Sysli na vinci trademark can be found here: [Moravian musc
 
 <div class="clearfix"></div>
 
-![](/media/michna_300.jpg)[**Vinařství Michna**](http://www.michna.cz)
+![](/media/michna_300.jpg){: .wysiwyg-float-left} [**Vinařství Michna**](http://www.michna.cz)
 
 [www.michna.cz](http://bit.ly/michnacz "Vinařství Michna")
 
 Traditional, family run wine company from Velké Pavlovice. All of their wines mature in vineyards home to sousliks. Their vineyards are in Staré Hory, Bojanovsko, Lizniperky and Nové hory and they produce varieties such as Grüner Veltliner, Moravian Muscat, Silvaner, André, Pinot Noir and St. Laurent.
-
-<div class="clearfix"></div>
 
 <div class="clearfix"></div>
 
@@ -160,7 +158,7 @@ Traditional, family run wine company from Velké Pavlovice. All of their wines m
 
 <div class="clearfix"></div>
 
-[![](/media/IMG_6094_b_300.JPG)](http://bit.ly/schwarzcz){: .wysiwg-float-left} [**Vinařství Schwarz**](http://bit.ly/schwarzcz)****
+[![](/media/IMG_6094_b_300.JPG)](http://bit.ly/schwarzcz){: .wysiwg-float-left} [**Vinařství Schwarz**](http://bit.ly/schwarzcz)
 
 [www.vinarstvischwarz.cz](http://bit.ly/schwarzcz)
 

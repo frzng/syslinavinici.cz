@@ -25,3 +25,9 @@ Rozhovor tentokrát v angličtině si můžete poslechnout v archivu Rádia Prah
 [Rozhovor byl vysílán 9. července na programu Focus](https://www.radio.cz/en/section/in-focus/young-uk-conservationist-ground-squirrels-are-great-to-work-with). 
 
 ![Autor: Ondřej Tomšů](/media/czech-radio-by-ondrej-tomsu.jpg)
+
+
+
+_Probíhá v rámci projektů Sysli pro krajinu, krajina pro sysly – Monitoring a podpora populace sysla obecného na jižní Moravě II. Financováno z ERDF / státního rozpočtu. Vychází také s podporou Ministerstva životního prostředí. Materiál nemusí vyjadřovat stanoviska MŽP._
+
+![](/media/logo_irrva-a-mzp_lezato_610.jpg)

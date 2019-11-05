@@ -14,24 +14,16 @@ Cílem setkání je představit nejnovější poznatky o stavu a ochraně sysla 
 
 Realizováno v rámci [projektu Sysli pro krajinu, krajina pro sysly](https://www.syslinavinici.cz/projekty/sysli-pro-krajinu-krajina-pro-sysly).
 
-Pořadatelé: [ALKA Wildlife](https://www.alkawildlife.eu/), [Ekocentrum Trkmanka](https://www.ekocentrum-trkmanka.com/), Daphne-IAE, [Národná zoologicá záhrada Bojnice](https://zoobojnice.sk/)
+**Pořadatelé**: [ALKA Wildlife](https://www.alkawildlife.eu/), [Ekocentrum Trkmanka](https://www.ekocentrum-trkmanka.com/), [Daphne-IAE](http://daphne.sk/), [Národná zoologicá záhrada Bojnice](https://zoobojnice.sk/)
 
-Kdy: 28. 11. - 29. 11. 2019
+**Kdy**: 28. 11. - 29. 11. 2019
 
-Kde: Velké Pavlovice, Ekocentrum Trkmanka
+**Kde**: Velké Pavlovice, [Ekocentrum Trkmanka](https://www.ekocentrum-trkmanka.com/)
 
-Termín pro přihlášky a příspěvky: 30. 9. 2019
 
-(kapacita pro účast i příspěvky je omezená, proto prosíme o dodržení termínu přihlášení)
 
-Přihlásit se k účasti či s přednesením příspěvku lze v registračním formuláři.
-
-Kontakty na organizátory: 
+**Kontakty na organizátory**: 
 
 Česká republika: katerina.polednikova@alkawildlife.eu (tel. +420 606 598 903)
 
 Slovenská republika: chrenkova@daphne.sk (tel. +421 917 256 577)
-
-Účast na konferenci je zdarma. Ubytování a strava jsou hrazeny pořadateli.
-
-Další informace budou zasílány přihlášeným účastníkům e-mailem.

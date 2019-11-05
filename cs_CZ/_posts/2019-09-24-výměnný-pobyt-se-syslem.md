@@ -17,3 +17,8 @@ Obrazový záznam z tábora si prohlídněte na krátkém videu. Hlavním fotogr
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GSUegBpJZdU" frameborder="0" allowfullscreen=""></iframe>
 
+
+
+_Probíhá v rámci projektů Sysli pro krajinu, krajina pro sysly – Monitoring a podpora populace sysla obecného na jižní Moravě II. Financováno z ERDF / státního rozpočtu. Vychází také s podporou Ministerstva životního prostředí. Materiál nemusí vyjadřovat stanoviska MŽP._
+
+![](/media/logo_irrva-a-mzp_lezato_610.jpg)

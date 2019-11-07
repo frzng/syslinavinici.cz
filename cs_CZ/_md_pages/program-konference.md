@@ -1,7 +1,7 @@
 ---
 title: Program konference
 published: true
-permalink: /news/konference-sysli-pro-krajinu-krajina-pro-sysly
+permalink: /news/konference-sysli-pro-krajinu-krajina-pro-sysly/program
 description: Podrobný program
 position: 1
 layout: two_columns_page

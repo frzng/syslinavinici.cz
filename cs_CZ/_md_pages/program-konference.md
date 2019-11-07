@@ -12,28 +12,25 @@ layout: two_columns_page
 
 10:00 		organizační připomínky a úvodní slovo
 
-
-
 10:10 Kateřina Poledníková: Projekt Sysli pro krajinu, krajina pro sysly
 
-**Status populací
-**10:30 Jan Matějů: Stav a vývoj populací sysla obecného v ČR
+**Status populací**
+10:30 Jan Matějů: Stav a vývoj populací sysla obecného v ČR
 
 10:50 Ervín Hapl: Aktuálny stav populácie sysľa pasienkového na Slovensku
 
 11:10 Kateřina Poledníková: Analýzy životaschopnosti populací sysla obecného
 
-****
-
-**Biologie/výzkum
-**11:30 Jan Matějů: Shrnutí znalostí o disperzi syslů v krajině
+**Biologie/výzkum**
+11:30 Jan Matějů: Shrnutí znalostí o disperzi syslů v krajině
 
 11:50 Ján Šeffer: Vegetácia syslích lokalít na západnom Slovensku
 
 12:10 Barbara Győri-Koósz: Potravná preferencia sysľa pasienkového na juhozápadnom Slovensku (přednáška v Aj)
 
-_12:30 - 13:30  polední přestávka, oběd
-_13:30 Lucia Deutschová: Ako syseľ dravcom karty zamiešal
+12:30 - 13:30  polední přestávka, oběd
+
+13:30 Lucia Deutschová: Ako syseľ dravcom karty zamiešal
 
 13:50 Lukáš Poledník: Srovnání metod odhadu velikosti populace
 
@@ -41,15 +38,13 @@ _13:30 Lucia Deutschová: Ako syseľ dravcom karty zamiešal
 
 14:30 Andrej Ciho: Prevalencia intestinálnych parazitóz v syslej populácií na Slovensku
 
-****
-
-**Podpora sysla 
-**14:50 Kateřina Poledníková: Osvěta veřejnosti
+**Podpora sysla**
+14:50 Kateřina Poledníková: Osvěta veřejnosti
 
 15:10 Ervín Hapl: Sysel a turismus
 
-_15:30 - 15:40 	coffee break
-_15:40 Jitka Větrovcová: Realizace záchranného programu pro sysla obecného v České republice
+15:30 - 15:40 	coffee break
+15:40 Jitka Větrovcová: Realizace záchranného programu pro sysla obecného v České republice
 
 16:00 Jana Matrková: Sysli na Mohelně: pomohla instalace prahů snížit mortalitu?
 
@@ -59,12 +54,8 @@ _15:40 Jitka Větrovcová: Realizace záchranného programu pro sysla obecného 
 
 17:00 Denisa Lobbová: Jak je možné syslům pomoci
 
-****
-
-**Závěrečná přednáška
-**17:20 Lukáš Poledník: Sysli v zemědělské krajině jižní Moravy 
-
-
+**Závěrečná přednáška**
+17:20 Lukáš Poledník: Sysli v zemědělské krajině jižní Moravy 
 
 18:00 		večerní program
 

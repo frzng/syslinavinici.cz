@@ -55,3 +55,23 @@ Slovenská republika: chrenkova@daphne.sk (tel. +421 917 256 577)
 12:00 – 13:00 polední přestávka, oběd
 
 13: 00 – 14:30 Záchranný program pro sysla obecného v ČR
+
+
+
+## [Podrobný program](/news/konference-sysli-pro-krajinu-krajina-pro-sysly/program)
+
+
+
+## Příjezd
+
+Adresa Ekocentra: 
+
+Nádražní 1, Velké Pavlovice
+
+48.8961092N, 16.8191983E
+
+**Příjezd autem**: Autem po D2 (Brno-Bratislava), D2 opustíte exitem 25 na Hustopeče nebo z jihu exitem 41 na Velké Bílovice a poté již místními komunikacemi do Pavlovic. 
+
+**Parkování**: několik parkovacích míst je přímo na dvoře Ekocentra a před Ekocentrem po obou stranách ulice. V případě naplnění, je parkoviště v ulici Tovární. 
+
+**Příjezd vlakem či autobusem**: Ekocentrum je dostupné pěšky - od autobusového nádraží 350 m, vlakové nádraží Velké Pavlovice 750 m, vlak Velké Pavlovice – zastávka 950 m

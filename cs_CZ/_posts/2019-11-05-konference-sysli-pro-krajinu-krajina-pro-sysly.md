@@ -58,11 +58,11 @@ Slovenská republika: chrenkova@daphne.sk (tel. +421 917 256 577)
 
 
 
-## [Podrobný program](/news/konference-sysli-pro-krajinu-krajina-pro-sysly/program)
+## ****[**Podrobný program**](/news/konference-sysli-pro-krajinu-krajina-pro-sysly/program)****
 
 
 
-## Příjezd
+## **Příjezd**
 
 Adresa Ekocentra: 
 

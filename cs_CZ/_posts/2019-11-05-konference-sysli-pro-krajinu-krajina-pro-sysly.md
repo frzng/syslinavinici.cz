@@ -1,6 +1,6 @@
 ---
 title: 'Konference Sysli pro krajinu, krajina pro sysly'
-published: false
+published: true
 image: /media/img_9883_610.jpg
 listing_thumbnail: /media/img_9883_274.jpg
 description: Na konci listopadu proběhne ve Velkých Pavlovicích syslí konference.
@@ -30,13 +30,13 @@ Slovenská republika: chrenkova@daphne.sk (tel. +421 917 256 577)
 
 ## Program:
 
-**Čtvrtek 28. 11. 2019  **
+**Čtvrtek 28. 11. 2019**
 
 9:00 – 10:00 	registrace účastníků
 
 10:00 		organizační připomínky a úvodní slovo
 
-10:00 – 12:30 první blok přednášek 
+10:10 – 12:30 první blok přednášek 
 
 12:30 - 13:30  polední přestávka, oběd
 
@@ -48,9 +48,8 @@ Slovenská republika: chrenkova@daphne.sk (tel. +421 917 256 577)
 
 18:00 		večerní program
 
-
-
-**Pátek 29. 11. 2019 **
+**Pátek 29. 11. 2019 
+**
 
 09:00 – 11:00 	diskusní blok 
 
@@ -60,4 +59,4 @@ Slovenská republika: chrenkova@daphne.sk (tel. +421 917 256 577)
 
 13: 00 – 14:30 Záchranný program pro sysla obecného v ČR
 
-\    (zhodnocení po 10 letech průběhu, příprava aktualizace)
+(zhodnocení po 10 letech průběhu, příprava aktualizace)

@@ -26,8 +26,6 @@ Realizováno v rámci [projektu Sysli pro krajinu, krajina pro sysly](https://ww
 
 Slovenská republika: chrenkova@daphne.sk (tel. +421 917 256 577)
 
-## 
-
 ## Program:
 
 **Čtvrtek 28. 11. 2019**
@@ -48,8 +46,7 @@ Slovenská republika: chrenkova@daphne.sk (tel. +421 917 256 577)
 
 18:00 		večerní program
 
-**Pátek 29. 11. 2019 
-**
+**Pátek 29. 11. 2019**
 
 09:00 – 11:00 	diskusní blok 
 
@@ -58,5 +55,3 @@ Slovenská republika: chrenkova@daphne.sk (tel. +421 917 256 577)
 12:00 – 13:00 polední přestávka, oběd
 
 13: 00 – 14:30 Záchranný program pro sysla obecného v ČR
-
-(zhodnocení po 10 letech průběhu, příprava aktualizace)

@@ -64,11 +64,7 @@ Slovenská republika: chrenkova@daphne.sk (tel. +421 917 256 577)
 
 ## **Příjezd**
 
-Adresa Ekocentra: 
-
-Nádražní 1, Velké Pavlovice
-
-48.8961092N, 16.8191983E
+Adresa Ekocentra: Nádražní 1, Velké Pavlovice (48.8961092N, 16.8191983E)
 
 **Příjezd autem**: Autem po D2 (Brno-Bratislava), D2 opustíte exitem 25 na Hustopeče nebo z jihu exitem 41 na Velké Bílovice a poté již místními komunikacemi do Pavlovic. 
 

@@ -29,8 +29,7 @@ Realizováno v rámci [projektu Sysli pro krajinu, krajina pro sysly](https://ww
 Česká republika: katerina.polednikova@alkawildlife.eu (tel. +420 606 598 903)
 
 Slovenská republika: chrenkova@daphne.sk (tel. +421 917 256 577)
-
-
+- - -
 
 ## Program:
 
@@ -61,7 +60,6 @@ Slovenská republika: chrenkova@daphne.sk (tel. +421 917 256 577)
 12:00 – 13:00 polední přestávka, oběd
 
 13: 00 – 14:30 Záchranný program pro sysla obecného v ČR
-
 
 
 ## [Podrobný program](/news/konference-sysli-pro-krajinu-krajina-pro-sysly/program)

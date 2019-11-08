@@ -14,10 +14,9 @@ layout: two_columns_page
 
 10:10 Kateřina Poledníková: Projekt Sysli pro krajinu, krajina pro sysly
 
-****
+- - -
 
 **Status populací**
-
 
 10:30 Jan Matějů: Stav a vývoj populací sysla obecného v ČR
 
@@ -25,10 +24,9 @@ layout: two_columns_page
 
 11:10 Kateřina Poledníková: Analýzy životaschopnosti populací sysla obecného
 
-****
+- - -
 
 **Biologie/výzkum**
-
 
 11:30 Jan Matějů: Shrnutí znalostí o disperzi syslů v krajině
 
@@ -46,10 +44,9 @@ layout: two_columns_page
 
 14:30 Andrej Ciho: Prevalencia intestinálnych parazitóz v syslej populácií na Slovensku
 
-****
+- - -
 
 **Podpora sysla**
-
 
 14:50 Kateřina Poledníková: Osvěta veřejnosti
 
@@ -66,16 +63,15 @@ layout: two_columns_page
 
 17:00 Denisa Lobbová: Jak je možné syslům pomoci
 
-****
+- - -
 
 **Závěrečná přednáška**
 
-
 17:20 Lukáš Poledník: Sysli v zemědělské krajině jižní Moravy 
 
+**18:00 		večerní program**
 
 
-18:00 		večerní program
 
 ## Pátek 29. 11. 2019
 

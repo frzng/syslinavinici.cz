@@ -58,7 +58,6 @@ layout: two_columns_page
 
 15:50 - 16:00 	coffee break
 
-
 16:00 Jitka Matoušová: Realizace záchranného programu pro sysla obecného v České republice
 
 16:20 Jana Matrková: Sysli na Mohelně: pomohla instalace prahů snížit mortalitu?
@@ -79,7 +78,7 @@ layout: two_columns_page
 
 **18:00 		večerní program**
 
-
+****
 
 ## Pátek 29. 11. 2019
 

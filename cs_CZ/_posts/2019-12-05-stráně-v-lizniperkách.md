@@ -14,8 +14,6 @@ Stepní trávníky patří jednoznačně k přírodovědně nejcennější veget
 
 ![Dolní stráň v Lizniperkách](/media/2019_vp_sysli-stran-dolni_610.jpg "Dolní stráň v Lizniperkách na podzim 2019 (autor: Ester Ekrtová)")
 
-
-
 Dle ortofotomap pořízených v různých letech ještě někdy okolo roku 2006 byly stepní trávníky udržovány. Od té doby ale postupně zarůstají, povětšinou šípkem a trnkou. Přesto zde bylo v rámci botanického průzkumu v roce 2018 nalezeno několik vzácných druhů stepních rostlin, a přestože stráň zarůstá křovím, bylinná vegetace byla ještě v poměrně zachovalém stavu. Namátkový průzkum odhalil výskyt hvězdnice chlumní, hvězdnice zlatohlávek, kosatce nízkýho, mordovky písečné, kavyla vláskovitého, kavyla ivanova, třešně křovité, sesla fenyklového.
 
 ![Zarůstání strání](/media/vývoj-stráně.jpg "Zarůstání strání je vidět i na ortofoto mapách")

@@ -8,4 +8,4 @@ date: '2019-12-05 09:18:40 +0100'
 category: gallery
 layout: photo
 ---
-Po zásahu po nás zůstaly hromady klestí...
+Po zásahu po nás zůstaly hromady klestí, které budou využity jako štěpka k topení.

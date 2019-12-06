@@ -14,13 +14,13 @@ Stepní trávníky patří jednoznačně k přírodovědně nejcennější veget
 
 ![Zarůstání strání](/media/vývoj-stráně.jpg "Zarůstání strání je vidět i na ortofoto mapách")
 
-Dle ortofotomap pořízených v různých letech ještě někdy okolo roku 2006 byly stepní trávníky udržovány. Od té doby ale postupně zarůstají, povětšinou šípkem a trnkou. Přesto zde bylo v rámci botanického průzkumu v roce 2018 nalezeno několik vzácných druhů stepních rostlin, a přestože stráň zarůstá křovím, bylinná vegetace byla ještě v poměrně zachovalém stavu. Namátkový průzkum odhalil výskyt hvězdnice chlumní, hvězdnice zlatovlásek, kosatce nízkýho, mordovky písečné, kavyla vláskovitého, kavyla ivanova, třešně křovité, sesla fenyklového.
+Dle ortofotomap pořízených v různých letech ještě někdy okolo roku 2006 byly stepní trávníky udržovány. Od té doby ale postupně zarůstaly, povětšinou šípkem a trnkou. Přesto zde bylo v rámci botanického průzkumu v roce 2018 nalezeno několik vzácných druhů stepních rostlin, a přestože stráň zarůstá křovím, bylinná vegetace byla ještě v poměrně zachovalém stavu. Namátkový průzkum odhalil výskyt hvězdnice chlumní, hvězdnice zlatovlásek, kosatce nízkého, mordovky písečné, kavyla vláskovitého, kavyla ivanova, třešně křovité, sesla fenyklového.
 
 ![Dolní stráň v Lizniperkách](/media/2019_vp_sysli-stran-dolni_610.jpg "Dolní stráň v Lizniperkách na podzim 2019 (autor: Ester Ekrtová)")
 
 _Dolní stráň v Lizniperkách na podzim 2019 (autor foto: Ester Ekrtová)_
 
-Stráně oddělují zatravněné vinice, a tak je celá viniční trať vhodným prostředím i pro sysly. Moc jich zde ale není. Malá mikrokolonie se nachází cca 150 m od strání a občas jsou ojedinělé nory nacházeny ve stráních či ve vinicích mezi nimi. 
+Stráně oddělují zatravněné vinice, a tak je celá viniční trať vhodným prostředím i pro sysly. Moc jich zde ale není. Malá mikrokolonie se nachází cca 150 m od strání a občas jsou ojedinělé nory nacházeny ve stráních či ve vinicích mezi nimi. V porostech křoví se ale může nacházet plno predátorů. Na sysly je to zde v současnosti moc zarostlé, tedy nepřehledné.
 
 ![Horní stráň v Lizniperkách (autor foto: Ester Ekrtová)](/media/2019_vp_sysli-stran-horni_610.jpg "Horní stráň v Lizniperkách na podzim 2019 (autor foto: Ester Ekrtová)")
 

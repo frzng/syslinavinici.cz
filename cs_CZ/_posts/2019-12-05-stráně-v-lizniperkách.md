@@ -29,3 +29,7 @@ _Horní stráň v Lizniperkách na podzim 2019 (autor foto: Ester Ekrtová)_
 Tyto důvody vedly k tomu, že jsme se domluvili s městem Velké Pavlovice, vlastníkem pozemku, že stráně prořežeme. Více než 20 dobrovolníků se sešlo v listopadový víkend, aby stráně vyčistili. Pustili se do toho s takovou vervou, že zvládli za víkend celý hektar. Odstraněná dřevina bude použita jako štěpka na topení. Až se sysli na jaře probudí, najdou novou bezpečnější plochu k bydlení. Udržet luční charakter plochy však bude potřeba další prací i v následujících letech. Ten největší díl jsme ale s velkou pomocí dobrovolníků a obce zvládli, čímž to jim děkujeme!
 
 ![Dobrovolníci na vyčištěné stráni (autor foto: Kateřina Poledníková)](/media/img_3703_610.jpg "Dobrovolníci na vyčištěné stráni (autor foto: Kateřina Poledníková)")
+
+_Probíhá v rámci projektů Sysli pro krajinu, krajina pro sysly – Monitoring a podpora populace sysla obecného na jižní Moravě II. Financováno z ERDF / státního rozpočtu. Vychází také s podporou Ministerstva životního prostředí. Materiál nemusí vyjadřovat stanoviska MŽP._
+
+![](/media/logo_irrva-a-mzp_lezato_610.jpg)

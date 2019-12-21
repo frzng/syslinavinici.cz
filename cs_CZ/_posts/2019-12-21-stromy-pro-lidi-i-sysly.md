@@ -23,3 +23,7 @@ Ovocných stromů je ale v naší dnešní zemědělské krajině málo. Přitom
 ![Nové ovocné stromy v Miroslavi](/media/20191116_153034_620.jpg "Nové ovocné stromy v Miroslavi")
 
 Jaké ovocné stromy jsou vhodné? Určitě dlouhověké vysokokmenné stromy. Ideální je vystřídat různé druhy a odrůdy ovoce, čímž se docílí pestrosti a toho, že postupně budou dozrávat jiné plody. Nejprve dozraje raná třešen, např. Burlat nebo Karešova, v druhé půlce června dozraje Kaštánka, po třešních na začátku července meruňky. Vhodné mohou být i rané hrušky či jablka s drobnými plody jako Nagevicova či Krvavka. Sysli jsou také schopni využít plody ořechů, pokud je najdou spadané na zemi z loňského roku.
+
+_Probíhá v rámci projektů Sysli pro krajinu, krajina pro sysly – Monitoring a podpora populace sysla obecného na jižní Moravě II. Financováno z ERDF / státního rozpočtu. Vychází také s podporou Ministerstva životního prostředí. Materiál nemusí vyjadřovat stanoviska MŽP._
+
+![](/media/logo_irrva-a-mzp_lezato_610.jpg)

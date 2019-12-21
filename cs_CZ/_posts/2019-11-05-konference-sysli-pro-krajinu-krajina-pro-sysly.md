@@ -75,3 +75,7 @@ Adresa Ekocentra: Nádražní 1, Velké Pavlovice (48.8961092N, 16.8191983E)
 **Parkování**: několik parkovacích míst je přímo na dvoře Ekocentra a před Ekocentrem po obou stranách ulice. V případě naplnění, je parkoviště v ulici Tovární. 
 
 **Příjezd vlakem či autobusem**: Ekocentrum je dostupné pěšky - od autobusového nádraží 350 m, vlakové nádraží Velké Pavlovice 750 m, vlak Velké Pavlovice – zastávka 950 m
+
+_Probíhá v rámci projektů Sysli pro krajinu, krajina pro sysly – Monitoring a podpora populace sysla obecného na jižní Moravě II. Financováno z ERDF / státního rozpočtu. Vychází také s podporou Ministerstva životního prostředí. Materiál nemusí vyjadřovat stanoviska MŽP._
+
+![](/media/logo_irrva-a-mzp_lezato_610.jpg)

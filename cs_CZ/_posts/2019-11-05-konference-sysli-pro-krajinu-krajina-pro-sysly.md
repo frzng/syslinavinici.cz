@@ -64,7 +64,9 @@ Slovenská republika: chrenkova@daphne.sk (tel. +421 917 256 577)
 
 # [Podrobný program](/news/konference-sysli-pro-krajinu-krajina-pro-sysly/program)
 
-[Sborník abstraktů (pdf)](/media/Sbornik_abstraktu__konference_sysli.pdf)
+
+
+[SBORNÍK ABSTRAKTŮ (pdf)](/media/Sbornik_abstraktu_konference_sysli.pdf)
 
 - - -
 

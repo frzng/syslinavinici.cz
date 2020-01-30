@@ -1,7 +1,7 @@
 ---
-title: Sysel na jižní Moravě
+title: Sysli na jižní Moravě
 published: true
-permalink: /projekty/sysel-jizni-morava
+permalink: /projekty/sysli-jizni-morava
 long_title: Monitoring a podpora populací sysla obecného na jižní Moravě
 description: >-
   Projekt financovaný MŽP byl realizovaný v roce 2018. Cílem projektu bylo

@@ -15,12 +15,11 @@ layout: two_columns_page
 ---
 ## Kód projektu: 104/32/18
 
-
 ## Financování:
 
 Projekt je podpořen Ministerstvem životního prostředí, projekt nemusí vyjadřovat stanoviska MŽP.
 
-
+![](/media/OPEU-Logo-MZP_20141218v.JPG)
 
 Aktivity projektu Monitoring a podpora populací sysla obecného na jižní Moravě se překrývá s projektem Sysli pro krajinu, krajina pro sysly, čímž jsou zajištěny náklady na kofinancování.
 

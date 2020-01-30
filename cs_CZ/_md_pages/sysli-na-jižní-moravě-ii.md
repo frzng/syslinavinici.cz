@@ -1,7 +1,7 @@
 ---
 title: Sysli na jižní Moravě II
 published: true
-permalink: /projekty
+permalink: /projekty/sysli_jizni_Morava_II
 long_title: Monitoring a podpora populace sysla obecného na jižní Moravě II
 description: >-
   Projekt financovaný MŽP byl realizovaný v roce 2019. Cílem projektu bylo

@@ -1,60 +1,76 @@
 ---
-title: Česko Slovensko hledá sysly
+title: The Czech Republic and Slovakia are looking for sousliks
 published: true
 image: /media/dscn7300_610.jpg
 listing_thumbnail: /media/dscn7300_274.jpg
 description: >-
-  S přicházejícím jarem skončil zimní spánek syslů. Monitoring tohoto kriticky
-  ohroženého savce může právě začít. 
+  Now that spring is in the air, the winter hibernation of sousliks comes to an
+  end. Another monitoring season of this critically endangered mammal can
+  begin. 
 date: '2019-04-24'
 category: news
 layout: news
 ---
-TISKOVÁ ZPRÁVA ALKA WILDLIFE,O.P.S. A DAPHNE - INŠTITÚTU APLIKOVANEJ EKOLÓGIE
+PRESS RELEASE OF ALKA WILDLIFE AND DAPHNE INSTITUTE OF APPLIED ECOLOGY
 
-## Česko Slovensko hledá sysly. Po zimním spánku je mapují odborníci i veřejnost
+## The Czech Republic and Slovakia are looking for sousliks. Experts, with the help from the public, are mapping their distribution after their hibernation.
 
-Lidéřovice, Bratislava 24. dubna 2019 
+Lidéřovice, Bratislava, April 24, 2019
 
-**S přicházejícím jarem skončil zimní spánek syslů. Monitoring tohoto kriticky ohroženého savce může právě začít. Do terénu vyrazí odborníci na jižní Moravě i na západním Slovensku. Mapování syslů je ale velmi náročné, a tak odborníci uvítají pomoc veřejnosti.** 
+**Now that spring is in the air, the winter hibernation of sousliks comes to an end. Another monitoring season of this critically endangered mammal can begin. Experts in South Moravia and in Western Slovakia are heading back into the field, but the mapping of the sousliks can be very challenging, so they welcome public help.**
 
-Sysel obecný je hlodavec, který více než polovinu roku prospí zimním spánkem. Protože je to druh, který z naší krajiny skoro vymizel, soustředí se na něj pozornost ochránců přírody i výzkumníků, kteří se snaží zmapovat jeho zbývající populace. Kvůli zimnímu spánku je období sledování syslů limitováno dobou, kdy jsou aktivní. A toto období právě začíná. 
+The European ground squirrel, otherwise known as the European souslik or simply souslik, is a critically endangered rodent. It has almost disappeared from our countryside and has become the focus of some nature conservationists and researchers who are now trying to map out its remaining populations. As it hibernates for more than half a year, the monitoring period is limited by the time they are active. And it is this period, which is just beginning.
 
-Jak takové mapování syslů probíhá? "_Na lokalitách, ktoré poznáme, sa snažíme spočítať počet jedincov v kolónii. To je možné odhadnúť pomocou čerstvo otvorených vchodov do nôr. Syseľ po prebudení zo zimného spánku inštinktívne vyhrabáva novú kolmú noru priamo k povrchu. Čerstvý vchod možno odlíšiť od starých z minulého roka_,“ vysvětluje koordinátor mapování na Slovensku, Ervín Hapl z nevládní organizace Živá planina a pokračuje: "_K otvoreným norám prisypávame slnečnicu, aby sme sysľom v skorom jarnom období pomohli prekonať nedostatok potravy a podporili vývoj kolónií._“ Přikrmováním ale lze syslům i velmi ublížit! „Sysel přirozeně konzumuje poměrně chudou stravu složenou především z rostlin a jejich semen a např. pečivo či zbytky z kuchyně nebo i větší množství ovoce pro ně rozhodně nejsou vhodné“ varuje veřejnost ředitel odboru druhové ochrany MŽP Jan Šíma. Takovýto způsob podpory syslů je proto lépe nechat na odborníky a pomoci je možné právě třeba zapojením se do probíhajícího mapování.  
+So, how does mapping of sousliks happen? Ervín Hapl, mapping coordinator from Living Plain, a non-governmental organisation in Slovakia, explains:
 
-Je možné, že některé menší kolonie syslů zatím unikaly pozornosti odborníků. Proto se v jarním období snaží pátrat po syslech také v nových územích, a to jak hledáním nor, tak pozorováním. Při pochůzce krajinou lze sysly vidět či slyšet. Sysel je denní tvor. V trávě se často staví na zadní nohy, aby měl přehled o predátorech či dalším nebezpečí. Tehdy si ho lidé mohou dobře prohlédnout. Sysly lze vystopovat i sluchem, před nebezpečím se totiž navzájem varují charakteristickým pískáním. „_Syseľ je tvor poľnohospodárskej krajiny, na Slovensku ide často o pastviny s veľkou rozlohou. Nájsť ho teda vôbec nie je jednoduché,_“ objasňuje náročnost úkolu Monika Chrenková z Daphne Inštitútu aplikovanej ekológie. Koordinátorka mapování z druhé strany hranice Kateřina Poledníková z organizace ALKA Wildlife přitakává: "_Naši pracovníci prochodí na jaře desítky kilometrů. Na rozdíl od Slovenska jde ale o trochu jiné prostředí, u nás vypadá zemědělská krajina jinak, a tak nacházíme sysly zejména ve vinicích, v sadech a v záhumenkách na okraji vesnic. Prostředí je to hodně nepřehledné, hlavně když už se vegetace zazelená, proto je důležité co nejvíce zmapovat na začátku jara_.“ 
+“_At the sites we know, we're trying to count the number of individuals in the colony. This can be estimated by counting freshly opened entrances to burrows. Upon awakening from hibernation, sousliks will instinctively dig a new, vertical hole directly to the surface. These new, fresh holes can then be distinguished from last years. We also put sunflower seeds at open burrows to help the sousliks overcome food shortages and support colony development during early spring_.” 
 
-Sysel obecný je kriticky ohrožený druh, vyskytuje se jak v České republice, tak i na Slovensku jen v malých, navzájem izolovaných koloniích. Zmapování jeho výskytu je základní informací, na ní staví následný monitoring, ochrana i realizace opatření na podporu  populace. „_V závislosti na tom, ako lokalita vyzerá, sa snažíme zlepšiť ich prostredie kosením, odstránením náletu, prerezávaním krovín, usmernením pastvy, výsadbou ovocných stromov atď_.“, popisuje aktivity ochranářů na Slovensku Monika Chrenková. 
+But feeding can also be harmful to sousliks, as the director of Species protection and implementation of international commitments department of the Ministry of the Environment of the Czech Republic, Jan Šíma, warns:
 
-„Z_ásadní roli mají vlastníci pozemků, zemědělci, kteří mohou syslím koloniím pomoci, např. udržováním nebo obnovou pestré mozaiky krajiny v rámci tradičního hospodaření ve vinicích, sadech i na travních porostech, omezením užívání pesticidů a podobně_“, doplňuje ředitel Jan Šíma. Na české straně již takto probíhá podpora syslů v zemědělsky využívaných lokalitách zejména formou spolupráce s vlastníky pozemků pod záštitou ochranných známek Sysli na vinici a Sysli v sadu. 
+“_Sousliks naturally consume a rather simple diet, composed primarily of plants and their seeds. Feeding them pastries or kitchen remnants, for example, and even large amounts of fruit, is not appropriate for them._”
 
-Veřejnost tak vlastně může pomoci dvakrát. Nákupem vína či meruněk od pěstitelů, kteří vytváří vhodné prostředí pro sysla, a nahlášením svých pozorování. „_Pomoc od veřejnosti moc oceníme. Stačí, aby se lidé při jarní procházce dívali okolo sebe, co v jejich okolí žije. Místní lidé někdy vědí, že v jejich sadu či na jejich pastvině žijí sysli. Ale ne každý si uvědomí, o jakou jde vzácnost a že bychom tuto informaci uvítali_,“ uzavírá Kateřina Poledníková. 
+Supporting the sousliks with food is therefore better left to the experts, but it is possible to help with mapping. Some of the smaller souslik colonies may have, so far, escaped the attention of experts. Therefore, in the spring, they aim to look for sousliks in new areas, by both checking for burrows and from direct observations. When walking through the countryside, sousliks can be seen and heard during the day. When in the grass, they often stand on their hind legs to keep track of predators and other dangers. At this time, you may be able to catch a glimpse of them. Sousliks can also be found by listening out for their characteristic alarm call, a short high-pitched squeak, which they use to warn each other of danger. Monika Chrenková, from Daphne Institute of Applied Ecology, explains the difficulties in searching for sousliks in Slovakia:
 
-A jak vlastně poznáte sysla či syslí noru? Sysel je středně velký hlodavec, váží přibližně 200 až 350 g a měří okolo 20 cm. Má hnědavý přiléhavý kožich, malé uši a velké oči, krátký štětkovitý ocas. Na rozdíl od jiných našich hlodavců je aktivní ve dne. Když se postaví na zadní, nelze ho si splést. Jeho nory jsou poměrně velké, s průměrem 5 až 6 cm. U vchodu do šikmých nor je výhrabek hlíny, protože je sysel hrabe shora a hlínu vyhazuje za sebe na povrch. Kolmé nory, které naopak sysel vyhrabává zezdola a vyhrabaná hlína okolo vchodu tedy není, vypadají jako by někdo zapíchnul a opět vyndal ze země kovový sloupek plotu – jsou to ostře řezané, perfektně rovné kolmé díry hluboko do země. 
+“_The souslik is commonly found in agricultural landscape. In Slovakia, they are often found in large pastures which makes finding them not so easy._” 
 
-Pozorování či dotazy je možné zasílat na tyto kontakty: 
+Kateřina Poledníková, mapping coordinator from ALKA Wildlife o.p.s., describes what it’s like on the other side of the border in the Czech Republic:
 
-ČR: katerina.polednikova@alkawildlife.eu 
+“_Our researchers cover great distances when mapping sousliks in the spring. In contrast to Slovakia, our environment includes vineyards and orchards, and this is another area where we find sousliks. Also, they can be found in areas on the outskirts of villages. The environment can be very difficult to map, especially when the vegetation is green, so it is important we cover as much as possible at the beginning of spring_.”
 
-SR: chrenkova@daphne.sk
+Sousliks occur in both the Czech Republic and Slovakia in small, isolated colonies. Mapping their occurrence is the first step taken in their conservation. This is followed by further monitoring, protection and implementation of measures to support the population. Monika Chrenková describes the activities of conservationists in Slovakia:
 
-![sysel obecný](/media/dscn2749_610.jpg "sysel obecný")
+“_Depending on how the site looks, we are trying to improve their environment by mowing grass, pruning surrounding bushes, regulating grazing and planting fruit trees._”
 
-![Dva panáčkující sysli v trávě](/media/img_8253_610.jpg "sysel obecný")
-_Sysli velmi často panáčkují a jsou tak nezaměnitělní._
+Jan Šíma adds how others can help support souslik colonies:
 
-__
+“_Landowners and farmers can help the souslik colonies with methods such as maintaining or restoring the varied mosaic of landscapes within traditional vineyard, orchard and grassland management. Limiting pesticide use also plays a crucial role_.”
 
-![Vchod do nory kolmo dolů](/media/img_8959_610.jpg "Kolmý vchod do nory")
+On the Czech side, support for ground squirrels in agriculturally exploited areas is already taking place, particularly through cooperation with landowners under the umbrella of the trademarks “Souslik friendly vineyard” and “Souslik friendly orchard”. Through this, the public can support sousliks again by buying wine or apricots from growers who create suitable environments for sousliks on their land and report their observations. Kateřina Poledníková concludes:
 
-_Kolmý vchod do syslí nory_
+“_We appreciate all help from the public. It can be as little as people having a look around in their local environment during their spring walks. Local people sometimes already know that sousliks live in their orchards or pastures but not everyone realise the scarcity of these animals. We welcome all information the public might have regarding sousliks_.”
 
-__
+So, how do you actually recognise a souslik? 
 
-![Nora sysla s výhrabkem](/media/DSCN0142_610.JPG "Nora sysla s výhrabkem")
+The souslik is a medium sized rodent, weighing approximately 200 to 350 g and measuring about 20 cm. It has brownish fur with small ears, large eyes and a short, tufted tail. Unlike other rodents which you may not see, it is day active, so you have more chance of catching a glimpse of it. When they stand on their back legs, you can't mistake them. Their burrows are relatively large, with a diameter of 5 to 6 cm. There will be freshly dug dirt at the entrance to the burrows as when they dig, they kick the dirt out behind them. On the other hand, the sousliks vertical burrows, which they dig from underneath, are sharply cut and will be perfectly straight, vertical holes deep into the ground.
 
-_Vchod do nora sysla s výhrabkem_
+Your observations or queries can be sent to:
 
-_Probíhá v rámci projektů Sysli pro krajinu, krajina pro sysly – Monitoring a podpora populace sysla obecného na jižní Moravě II. Financováno z ERDF / státního rozpočtu. Vychází také s podporou Ministerstva životního prostředí. Materiál nemusí vyjadřovat stanoviska MŽP._
+CZ: katerina.polednikova@alkawildlife.eu 
+
+SR: ervin.hapl@gmail.com, chrenkova@daphne.sk
+
+![Sysel obecný](/media/dscn2749_610.jpg "sysel obecný")
+
+![European souslik](/media/img_8253_610.jpg "European souslik")
+
+_When they stand on their back legs, you can't mistake them._ 
+
+![vertical entrance to burrow of souslik](/media/img_8959_610.jpg "vertical entrance to burrow of souslik")
+
+_Sousliks vertical burrows_
+
+![Nora sysla s výhrabkem](/media/dscn0142_610.jpg "Nora sysla s výhrabkem")
+
+_Entrance to souslik main burrow_
 
 ![](/media/logo_irrva-a-mzp_lezato_610.jpg)

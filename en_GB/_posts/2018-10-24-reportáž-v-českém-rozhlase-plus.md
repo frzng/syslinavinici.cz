@@ -1,18 +1,16 @@
 ---
-title: Reportáž v Českém rozhlase Plus
+title: Czech Radio Plus interview about sousliks
 published: true
 image: /media/dscn7805.jpg
-description: 'Poslechněte si reportáž o syslech ve vinicích, o Velkých Pavlovicích.'
+description: >-
+  Listen to a radio interview about sousliks in the vineyards of Velké
+  Pavlovice.
 date: '2018-10-24'
 category: news
 layout: news
 ---
-Reportáž z Velkých Pavlovic o syslovi obecném, jeho stavu u nás, o vinicích, vinařích:
+Our colleague, Tereza Mináříková, reported on the status of the sousliks in Velke Pavlovice. Alongside Mr. Klos, Mrs. Ševčíka and Mr. Prát from Velke Pavlovice and Mr. Florian from Baloun winery, they discussed the status of the sousliks in our country and about the help received from vineyards and wineries in South Moravia.
 
-Český Rozhlas Plus, pořad Natura
+The show was broadcast on Czech Radio Plus on the nature programme, 20 October 2018 at 13:07.
 
-20.10. 2018 13:07
-
-O syslech a vinicích si budou povídat reportéři pan Klos a paní Ševčíká s panem Prátem z Velkých Pavlovic, panem Floriánem z vinařství Baloun a kolegyní Terezou Minárikovou. 
-
-[archiv Českého Rozhlasu](https://plus.rozhlas.cz/syslove-na-vinici-7646527)
+It you want to list back to the report, you can access the Czech Radio archive [here](https://plus.rozhlas.cz/syslove-na-vinici-7646527).

@@ -1,19 +1,19 @@
 ---
-title: Sysli v Pavlovicích
+title: Sysli in Pavlovice
 published: true
 image: /media/p6270098.jpg
 description: >-
-  V letošním roce se nám podařilo velmi detailně zmapovat výskyt syslů v okolí
-  Velkých Pavlovic. Mapovatelé nachodili přes 600 km a přesně zjistili, kde
-  všude se sysli v okolí Pavlovic v současnosti vyskytují.
+  This year we mapped in detail the occurrence of ground squirrels around the
+  Velke Pavlovice. Our surveyors walked over 600km to obtain information on
+  where exactly the ground squirrels of Velke Pavlovice are.
 date: '2018-09-11'
 category: news
 layout: news
 ---
-V letošním roce se nám podařilo velmi detailně zmapovat výskyt syslů v okolí Velkých Pavlovic. Mapovatelé nachodili přes 600 km, aby zjistili, kde vlastně všude přesně v Pavlovicích sysli žijí. Ač mají sysli denní aktivitu a je tedy možné je zahlédnout, jak pobíhají po trávě a panáčkují či na sebe pískají, v nepřehledném různorodém porostu v okolí Pavlovic není jednoduché je vždy vidět a tak zbývá pouze prochodit každý řádek vinice, každou pěšinu, okraj záhonku a meziřadí v sadu a hledat jednotlivé nory. Syslí noru zkušený mapovatel pozná podle tvaru a velikosti od dalších hlodavců, kteří zde žijí. Jednotliví sysli používají více nor a tak jejich počet neodpovídá počtu syslů, ale to nevadí. Prvním základním krokem mapování bylo zjistit, kde vlastně všude jsou. A protože s mapovateli syslů oblast prochodili také botanici, kteří mapovali vegetaci a kolegové z University Karlovy pomocí dronu vytvořili detailní snímky prostředí, budeme moci pomocí moderních analýz definovat faktory, který výskyt syslů ovlivňují. 
+This year we successfully produced a detailed map of the occurrence of sousliks in Velké Pavlovice and the surrounding areas. We covered over 600km to identify where the sousliks are living in Velké Pavlovice. Although they are day active and it is possible to see them running along the grass or stopping to call to each other, with the inconsistent vegetation which surrounds Velké Pavlovice, it is not easy to always see them. Therefore, it is only necessary to walk between the rows in the vineyards, every footpath, the edges of fields and connections to orchards to look for and map each souslik hole. Our experienced surveryors are able to distinguish between a souslik hole and other types of holes created by mice, voles or hamsters. As sousliks use more than one hole, it is difficult to estimate the total number of individuals in the area but this type of mapping is the first step towards using statistics to predict the number of sousliks living there. As well as hole mapping, botanists have surveyed the area and colleagues from Charles University have taken drone images so combining these data, we will be able to define the factors influencing the occurrence of ground squirrels using modern analyses.
 
-Centrum výskytu syslů je v  Novosádech a Starých horách, kde se nachází drobné viničky, sady a záhonky. V nižších hustotách se vyskytují také ve svazích Ostrovce v meruňkových sadech, ve vinicích Nových hor, v Išperkách a Bedřiškách. Stále se také drží izolovaná kolonie v Lizniperkách.
+The central colonies of ground squirrels are in Novosady and Staré hory, where there are small vineyards, orchards and flower beds. They also occur in lower densities on the slopes of Ostrovec in apricot orchards, in the vineyards of Nové hory, in Išperky and Bedřiška. There is also an isolated colony in Lizniperky.
 
 ![](/media/velké-pavlovice-2018-nory.jpg)
 
-_Červený bod - nora sysla obecného _
+_Red points - European ground squirrel hole_

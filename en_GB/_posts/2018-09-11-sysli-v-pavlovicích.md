@@ -1,5 +1,5 @@
 ---
-title: Sysli in Pavlovice
+title: Sousliks in Pavlovice
 published: true
 image: /media/p6270098.jpg
 description: >-

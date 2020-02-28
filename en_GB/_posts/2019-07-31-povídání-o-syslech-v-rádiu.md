@@ -1,27 +1,27 @@
 ---
-title: Povídání o syslech v rádiu
+title: Talking about sousliks on national radio
 published: true
 image: /media/dscn8837_620.jpg
 listing_thumbnail: /media/dscn8837_274.jpg
 description: >-
-  Hned ve dvou rádiích byly vysílány reportáže o syslech. Záznamy je možné
-  poslechnout si v archivech.
+  We've recently discussed sousliks on Czech national radio. Missed the
+  programmes? Don't worry, you can catch up here.
 date: '2019-07-31'
 category: news
 layout: news
 ---
-# Český rozhlas Plus
+# Czech Radio - Plus interview
 
-Na prvního máje jsme hledali sysly na jižní Moravě v okolí obce Jaroslavice a přímo do terénu za námi přijeli natočit reportáž z Českého rozhlasu Plus. O syslech si povídali Kateřina Poledníková a Lukáš Poledník. 
+On 1st May 2019, Kateřina Poledníková and Lukáš Poledník discussed monitoring populations of the critically endangered souslik whilst walking through souslik inhabited vineyards, near the town of Jaroslavice, South Moravia.
 
-Rozhovor je možné si poslechnout z [archivu Českého rozhlasu na programu Dopolední Plus, 13.5.2019](http://bit.ly/sysliczechradio), začátek je přibližně v 10:24. 
+The interview can be heard in Czech on the [Morning Plus programme from 13 May 2019 at 10:24](http://bit.ly/sysliczechradio).
 
-![Photo: Hannah Findlay](/media/whatsapp-image-2019-07-29-at-17.55.52.jpeg "Natáčení reportáže přímo ve vinici")
+![Photo: Hannah Findlay](/media/whatsapp-image-2019-07-29-at-17.55.52.jpeg "Katerina and Lukas Polednik discussing sousliks in the vineyards of South Moravia")
 
-# Radio Praha
+# Czech Radio - Radio Praha interview
 
-Rozhovor tentokrát v angličtině si můžete poslechnout v archivu Rádia Praha, kde si o syslech povídala 24. června paní Ruth Fraňková s naší Hannah Findlay.
+On 24th June 2019, Hannah Findlay was invited to Prague to talk about sousliks with Ruth Fraňková at Czech Radio, Prague. They discussed their status and how the public can help save the fragile population.
 
-[Rozhovor byl vysílán 9. července na programu Focus](https://www.radio.cz/en/section/in-focus/young-uk-conservationist-ground-squirrels-are-great-to-work-with). 
+The interview can be heard in English on the [In Focus Programme from 9th July 2019](http://bit.ly/sysliradiopraha).
 
-![Autor: Ondřej Tomšů](/media/czech-radio-by-ondrej-tomsu.jpg)
+![Photo: Ondřej Tomšů](/media/czech-radio-by-ondrej-tomsu.jpg "Hannah Findlay at Czech Radio Headquarters in Prague")

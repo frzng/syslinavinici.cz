@@ -25,3 +25,7 @@ Materiály pro učitele i děti k přímému použití. Rádi uvítáme zpětnou
 
 
 [Syslí rok](https://www.youtube.com/watch?v=1XOhmTshwes&t=32s) (výukové video uložené na youtube kanále, na vyžádání zašleme video v plném rozlišení)
+
+
+
+[Můj soused sysel](/media/Sysel_vystava_prezentace.pdf) (ukázkové pdf fotografické putovní výstavy, panely je možné dočasně zapůjčit)

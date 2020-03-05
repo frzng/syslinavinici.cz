@@ -6,7 +6,7 @@ listed: true
 position: 1
 layout: single_column_page
 ---
-# Realizátor projektu:
+# Realizátor projektů:
 
 [![](/media/ALKA_logo.jpg){: .wysiwyg-float-left}ALKA Wildlife, o.p.s.](https://www.alkawildlife.eu)\
 Lidéřovice 62, 38001 Peč

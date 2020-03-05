@@ -28,4 +28,4 @@ Materiály pro učitele i děti k přímému použití. Rádi uvítáme zpětnou
 
 
 
-[Můj soused sysel](/media/Sysel_vystava_prezentace.pdf) (ukázkové pdf fotografické putovní výstavy, panely je možné dočasně zapůjčit)
+[Můj soused sysel](/media/Sysel_vystava_prezentace.pdf) (ukázkové pdf fotografické putovní výstavy, obrazy je možné dočasně zapůjčit)

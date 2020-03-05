@@ -15,6 +15,8 @@ Lidéřovice 62, 38001 Peč
 
 <div class="clearfix"></div>
 
+
+
 # Kontaktní osoby:
 
 
@@ -22,18 +24,25 @@ Lidéřovice 62, 38001 Peč
 # Kateřina Poledníková ([ALKA Wildlife](https://www.alkawildlife.eu))
 
 email: <mailto:katerina.polednikova@alkawildlife.eu>\
-tel: [+420 606 598 903](tel:+420-606-598-903)\
-_známka Sysli na vinici_
+tel: [+420 606 598 903](tel:+420-606-598-903)
+
+_hlavní manažer projektů_, _známky Sysli na vinici, Sysli v sadu; _
+
+
 
 # Tereza Mináriková ([ALKA Wildlife](https://www.alkawildlife.eu))
 
 email:
 <mailto:tereza.minarikova@alkawildlife.eu>\
-tel: [+420 724 706 806](tel:+420-724-706-806)\
-_známka sysli na vinici_
+tel: [+420 724 706 806](tel:+420-724-706-806)__
+
+_známka Sysli na vinici_
+
+
 
 # Jan Matějů ([Muzeum Karlovy Vary](http://kvmuz.cz))
 
 email: <mailto:HonzaMateju@seznam.cz>\
-telefon: [+420 723 524 251](tel:+420-723-524-251)\
+telefon: [+420 723 524 251](tel:+420-723-524-251)__
+
 _hlášení výskytu/pozorování sysla obecného_

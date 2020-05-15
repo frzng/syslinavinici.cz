@@ -1,20 +1,21 @@
 ---
-title: Vína se známkou je možné koupit v Praze
-image: "/media/IMG_6041_610.JPG"
+title: Souslik wine in Prague
 published: true
-date: 2016-11-25
+image: /media/IMG_6041_610.JPG
+date: 2016-11-25T00:00:00.000Z
 category: news
 layout: news
 ---
-A je tady první vinárna s naší samolepkou Sysli na vinici! Do Vánoc si
-zde můžete koupit víno od pěti vinařství, které má zlatou známku Sysli
-na vinici. Ve vinárně Cellarius jsme včera tyto vína společně
-degustovali, Tereza Mináriková nám přitom povídala o syslovi a Denisa
-Novotná o víně.
+# The first wine bar in the capital with our Sysli na Vinici trademark! 
 
-Po degustaci jsme víno přemístili na lepší místo k nákupu: víno najdete
-ve vinárně Cellarius – Lucerna v Pasáži Lucerna, Štěpánská 61, Praha 1,
-zde: [http://www.cellarius.cz/lucerna-wine-bar-vinoteka][1]
+Until Christmas, you can buy wine, all awarded the Sysle na Vinici trademark, sourced from five different wineries at the Cellarius wine bar. 
+
+Yesterday, Tereza Mináriková spoke about the ground squirrel and Denisa Novotná spoke about the wine while we tasted!
+
+If you're interested in buying souslik wine, check out:
+
+Cellarius – Lucerna v Pasáži Lucerna, Štěpánská 61, Praha 1,
+[cellarius.cz/lucerna-wine-bar-vinoteka](http://www.cellarius.cz/lucerna-wine-bar-vinoteka)
 
 ![](/media/IMG_6039_610.JPG)
 
@@ -22,10 +23,6 @@ zde: [http://www.cellarius.cz/lucerna-wine-bar-vinoteka][1]
 
 ![](/media/IMG_6047_610.JPG)
 
-*Projekt byl finančně podpořen v grantovém řízení Ministerstva životního
-prostředí a nemusí vyjadřovat stanoviska Ministerstva životního
-prostředí.  
-Projekt probíhá ve spolupráci s Beleco z. s.*
+_The project was financially supported by a grant from the Ministry of the Environment but ALKA Wildlife does not have to express the opinions of the Ministry of the Environment._
 
-
-[1]: http://www.cellarius.cz/lucerna-wine-bar-vinoteka
+_The project is being carried out in cooperation with Beleco, z.s._

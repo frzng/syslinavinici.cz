@@ -31,7 +31,7 @@ Chardonnay
 
 <div class="clearfix"></div>
 
-![](/media/IMG_2973_300.jpg)[{: .wysiwyg-float-left}](http://bit.ly/buchtovicz "Vinařství Buchtovi") [**Vinařství Mezi Horami**](http://bit.ly/mezihoramicz)
+##[![](/media/IMG_2973_300.jpg){: .wysiwyg-float-left}**Vinařství Mezi Horami**](http://bit.ly/mezihoramicz)
 
 [www.mezihorami.cz](http://bit.ly/mezihoramicz)
 

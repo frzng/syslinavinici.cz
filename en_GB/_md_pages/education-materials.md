@@ -5,7 +5,7 @@ permalink: /downloads/education-materials
 long_title: ''
 description: ' '
 listed: true
-position: 1
+position: 2
 layout: two_columns_page
 ---
 [Souslik colouring book](https://en.syslinavinici.cz/media/sysel_omalovanky_fin.pdf) (pdf)

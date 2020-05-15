@@ -21,12 +21,11 @@ A trademark can be obtained for a vineyard which:
 1. Can prove occurrence of sousliks living within the vineyard for the given grape year 
 2. The vineyard is maintained in a way that is both souslik and environmentally friendly. 
 
-Specifically, the minimum requirements for this are: 
+Specifically, the minimum requirements for this are:
 
-\- At least every second row of the vineyard is grassed and
+* At least every second row of the vineyard is grassed and
+* The viticulturist does not endangered the sousliks through the use of pesticides such as rodenticides
 
-\- The viticulturist tolerates the sousliks and does not use pesticides such as rodenticides
+[Here](/souslik-stamp/our-wineries) you can find a list of vineyards which have been awarded this special mark.
 
-[Here](/souslik-stamp/our-wineries) you can find a list of vineyards where sousliks have been confirmed and the award has been given. 
-
-If you would like to obtain the _Sysli na Vinci_ trademark and display the stickers on your bottles, at your cellar and provide information leaflets to display and distribute to members of the public, please [get in contact](/about-us/contacts). You can also discuss reporting sightings of sousliks as well.
+If you would like to obtain the _Sysli na Vinci_ trademark and display the stickers on your bottles, at your cellar and provide information leaflets for visitors to your wine cellars, please [get in contact](/about-us/contacts).

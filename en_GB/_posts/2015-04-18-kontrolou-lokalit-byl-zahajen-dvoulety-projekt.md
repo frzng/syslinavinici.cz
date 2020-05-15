@@ -1,22 +1,13 @@
 ---
-title: Kontrolou lokalit byl zahájen dvouletý projekt
-image: "/media/IMG_0504_610.JPG"
+title: 'The start of our new, two-year project'
 published: true
-date: 2015-04-18
+image: /media/IMG_0504_610.JPG
+date: 2015-04-18T00:00:00.000Z
 category: news
 layout: news
 ---
-Týdenní expedicí byl zahájen dvouletý projekt Realizace opatření
-Záchranného programu sysla obecného na jižní Moravě.
+# The implementation of measures for the European souslik in South Moravia
 
-Při expedici byla zkontrolována populace sysla na letišti v Miroslavi
-a proběhlo kompletní mapování výskytu na Kyjovské pahorkatině
-v prostředí vinic, sadů a záhumenků. Výskyt byl potvrzen jen v okolí
-obce Velké Pavlovice. Ze všech ostatních míst nám jen místní lidé
-potvrdili, že sysel zde byl před deseti, dvaceti, třiceti… lety :-(.
+As part of our project, "The implementation of measures for the European souslik in South Moravia" we recently went to monitor the population of ground squirrels at Miroslav airport and mapped souslik occurrence in the Kyjovská pahorkatina vineyards and orchards. Occurrence has only been confirmed only in the vicinity of the village of Velké Pavlovice. In the other areas, after talking to local members of the public, it seems as though the ground quirrel was last seen ten, twenty, thirty… years ago :-(. 
 
-Cílem současného projektu je realizovat čtyři klíčová opatření
-záchranného programu se zaměřením na jižní Moravu: monitoring nad rámec
-běžného každoročního monitoringu, demografická studie vybrané syslí
-populace a analýza životaschopnosti populací a posledním je osvěta
-veřejnosti. Více o projektu [zde](/o-nas/projekt).
+Learn more about this project [here](https://en.syslinavinici.cz/projects/implementation-of-measures).

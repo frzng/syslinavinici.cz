@@ -1,19 +1,11 @@
 ---
-title: Jaro ve Velkých Pavlovicích
-image: "/media/IMG_1112_610.JPG"
+title: Spring in Velké Pavlovice
 published: true
-date: 2016-04-25
+image: /media/IMG_1112_610.JPG
+date: 2016-04-25T00:00:00.000Z
 category: news
 layout: news
 ---
-V rámci jarního mapování výskytu syslů jsme pro Vás připravili
-fotoreportáž z vinic ve Velkých Pavlovicích. Zatravňování vinic ve
-Velkých Pavlovicích, které je zásadní pro sysla obecného, je již běžnou
-součástí hospodaření. Není tomu tak ale ve všech vinařských oblastech.
+As part of our occurance mapping session this spring, we took a variety of photos in the vineyards of Velké Pavlovice. Grassy lines between vines is essential for ground squirrels and is becoming common place across Velké Pavlovice. This is not the case, however, for all wine-growing areas.
 
-Ani ve Velkých Pavlovicích však zatím sysli nemají vyhráno. Sysli zde
-žijí zdá se velice rozptýleně, zcela jiným způsobem než na ostatních
-lokalitách, kde tvoří na malých plochách hustě osídlené kolonie. Proč
-tomu tak je, a jaký to má vliv na populaci zatím nevíme. Je nám
-například záhadou, jak se tady každý rok najdou samci a samice
-a rozmnoží se.
+In Velké Pavlovice, though, ground squirrels have not yet won. The sousliks which do live here don't live in densely populated colonies as in other localities, but are scattered and potentially isolated from each other. We do not yet know why this is the case and how it will affects the population, it is still a mystery to us how males and females get together and reproduced here every year.

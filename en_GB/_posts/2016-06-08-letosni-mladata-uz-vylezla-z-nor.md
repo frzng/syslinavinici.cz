@@ -1,49 +1,45 @@
 ---
-title: Jeden den v životě jedné syslí rodiny
-image: "/media/DSCN1240.JPG"
+title: A day in the life of a ground squirrel family
 published: true
-date: 2016-06-08
+image: /media/DSCN1240.JPG
+date: 2016-06-08T00:00:00.000Z
 category: news
 layout: news
 ---
-Sysli tráví čas od podzimu do jara zimním spánkem. Po probuzení začíná
-období páření. Po 25–28 dnech březosti samice rodí holá mláďata, která
-ve stáří čtyř týdnů začínají opouštět mateřskou noru a pohybovat se po
-okolí a objevovat svět a sousedy. Ten čas právě teď nastal…
+From Autumn to Spring, sousliks spend their time hibernating in their burrows. Once they wake up, the mating season starts! Gestation lasts for from around 25-28 days and afterwards, the females will give birth to 3-12 young! For around four weeks, these young will spend all their time in the safety of the burrow, but in the end that have to emerge and discover the new world above the ground...
 
-*…nejdůležitější je stále samozřejmě mléko od mámy…*
+They might have emerged, but having a quick meal from mum is still very important
 
 ![](/media/DSCN1187.JPG)
 
-Je nás letos pět, máma má tedy dost starostí nás uhlídat.
+There are five in this littler this year, so mum has a lot of work on her hands...
 
 ![](/media/IMG_1732.JPG)
 
-Ta divná paní se nám nelíbí. „Mami, podívej se na to.“
+They have spied the strange photographer..._"Mum, look at that!"_
 
 ![](/media/IMG_1763.JPG)
 
-„Kde??? To se mi nelíbí, pojďte domů.“
+_"Where??? I'm not too sure about her, quick, come home!“_
 
 ![](/media/IMG_1766.JPG)
 
-„Jo jo mami, už jdeme.“
+_"Yeah, okay mum, we're coming!"_
 
 ![](/media/IMG_1767.JPG)
 
-Já mám hlad, pořád mám hlad. Teď vážím asi 40 gramů a do září musím mít
-aspoň 200, abych měl tukové zásoby na zimní spánek.
+Even though these little ones might still be getting fed by their mother, they're still very small! They currently weigh around 40g but will need to be at least 200g in time for hibernation.
 
 ![](/media/IMG_1712.JPG)
 
-…pořád mám hlad…
+…they're still hungry…
 
 ![](/media/IMG_1770.JPG)
 
-Teď bych šel prozkoumat svět. Mami můžu?
+They're looking like they want to go an explore this new world.._."Mum, can I go?!"_
 
 ![](/media/IMG_1779.JPG)
 
-Tak já na chvíli jdu. Ahoj.
+_"Okay thanks mum! Off I go!"_
 
 ![](/media/IMG_1790.JPG)

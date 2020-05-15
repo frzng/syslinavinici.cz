@@ -7,16 +7,6 @@ listed: true
 position: 1
 layout: single_column_page
 ---
-# Project organiser
-
-## [ALKA Wildlife o.p.s](http://bit.ly/alkawildlife)
-
-Lidéřovice 62, 38001 Peč
-
-![](/media/alka-resized.jpg)
-
-# Contacts:
-
 ## Kateřina Poledníková ([ALKA Wildlife](http://bit.ly/alkawildlife))
 
 * Email: <mailto:katerina.polednikova@alkawildlife.eu> 

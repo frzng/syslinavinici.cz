@@ -6,19 +6,23 @@ listed: true
 position: 5
 layout: single_column_page
 ---
-This website is owned, maintained and updated by:
+# This website is owned, maintained and updated by:
 
-# [ALKA Wildlife, o.p.s.](http://bit.ly/alkawildlife)
+![](/media/alka-resized.jpg)
+
+{: .wysiwyg-float-left}
+
+## [ALKA Wildlife, o.p.s.](http://bit.ly/alkawildlife)
 
 Lidéřovice 62, 38001 Peč
 
-# [Muzeum Karlovy Vary](http://www.kvmuz.cz)
+## [Muzeum Karlovy Vary](http://www.kvmuz.cz)
 
 Nová Louka 23, 36001 Karlovy Vary
 
 <div class="clearfix"></div>
 
-This website was funded by:
+# This website was funded by:
 
 ## EEA Funds 2009–2014
 

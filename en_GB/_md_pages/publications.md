@@ -13,4 +13,4 @@ This brochure describes the basic biology and ecology of European ground squirre
 
 # [The ground squirrel - an umbrella species for an agricultural landscape with high biodiversity (PDF) (Czech)](https://www.syslinavinici.cz/media/OP_022020_Sysel.pdf)
 
-This article was published in the February 2020 edition of Ochrana přírody. It discusses the results of a recently survey of ground squirrels, plants and invertebrates on the slopes of Velké Pavlovice.
+This article was published in the February 2020 edition of Ochrana přírody. It discusses the results of a recent survey of ground squirrels, plants and invertebrates on the slopes of Velké Pavlovice.

@@ -2,41 +2,41 @@
 title: Contacts
 published: true
 permalink: /about-us/contacts
-description: Contact information
+description: ' '
 listed: true
 position: 1
 layout: single_column_page
 ---
-# Project organiser:
+# Project organiser
 
-[![](/media/ALKA_logo.jpg){: .wysiwyg-float-left}](https://www.alkawildlife.eu)
+![](/media/alka-resized.jpg)
 
-<div class="clearfix"></div>
+[{: .wysiwyg-float-left}](bit.ly/alkawildlife)
 
 ## [ALKA Wildlife o.p.s](http://bit.ly/alkawildlife)
 
 Lidéřovice 62, 38001 Peč
 
-[www.alkawildlife.eu](http://bit.ly/alkawildlife)
+[alkawildlife.eu](http://bit.ly/alkawildlife)
 
 <div class="clearfix"></div>
 
-# Contact person:
+# Contacts:
 
 ## Kateřina Poledníková ([ALKA Wildlife](http://bit.ly/alkawildlife))
 
 * Email: <mailto:katerina.polednikova@alkawildlife.eu> 
-* Tel: [+420 606 598 903](tel:+420-606-598-903)
-* _Sysli na vinici trademark enquiries_
+* Tel: [+420 606 598 903](tel:+420-606-598-903)__
+* _You can contact Kateřina with your enquiries about sousliks and the 'Sysli na vinici' trademark_
 
 ## Tereza Mináriková ([ALKA Wildlife](http://bit.ly/alkawildlife))
 
 * Email: <mailto:tereza.minarikova@alkawildlife.eu> 
 * Tel: [+420 724 706 806](tel:+420-724-706-806)
-* S_ysli na vinici trademark enquiries_
+* _You can also contact Tereza with your queries and enquiries_
 
 ## Jan Matějů ([Muzeum Karlovy Vary](http://kvmuz.cz))
 
 * Email: <mailto:HonzaMateju@seznam.cz> 
 * Tel: [+420 723 524 251](tel:+420-723-524-251)
-* _Reporting occurrence/observation of sousliks_
+* _Please send any information about occurrence or observations of sousliks to Jan_

@@ -2,14 +2,16 @@
 title: Our wineries
 published: true
 permalink: /souslik-stamp/our-wineries
-description: Information about wineries awarded with the "Sysli na vinici" trademark
+description: Information about wineries awarded with the Sysli na Vinici trademark
 listed: true
 position: 1
 layout: two_columns_page
 ---
-Currently, we have awarded the **Sysli na vinici** trademark to 16 wineries in Velké Pavlovice, 4 in Hnanice and one in Miroslav. If you are interested in applying for a trademark for your winery, please get in [contact](/about-us/contacts) with us.
+Currently, we have awarded the Sysli na Vinici trademark to 16 wineries in Velké Pavlovice, four in Hnanice and one in Miroslav. 
 
 Below you can find more information about these wineries and links to their websites where you can buy their wine, supporting the research and protection of sousliks.
+
+If you are interested in applying for a trademark for your winery, please get in [contact](/about-us/contacts) with us.
 
 # Miroslav:
 
@@ -31,7 +33,7 @@ Chardonnay
 
 <div class="clearfix"></div>
 
-##[![](/media/IMG_2973_300.jpg){: .wysiwyg-float-left}**Vinařství Mezi Horami**](http://bit.ly/mezihoramicz)
+## [![](/media/IMG_2973_300.jpg){: .wysiwyg-float-left}**Vinařství Mezi Horami**](http://bit.ly/mezihoramicz)
 
 [www.mezihorami.cz](http://bit.ly/mezihoramicz)
 
@@ -147,7 +149,7 @@ Traditional, family run wine company from Velké Pavlovice. All of their wines m
 
 ## [![](/media/IMG_6105_300.JPG){: .wysiwyg-float-left}**Vinařství Špetíci**](http://www.vinarstvispetici.cz)
 
-## [www.vinarstvispetici.cz](http://bit.ly/spetici)
+[www.vinarstvispetici.cz](http://bit.ly/spetici)
 
 * Sauvignon 
 * Riesling 
@@ -156,7 +158,7 @@ Traditional, family run wine company from Velké Pavlovice. All of their wines m
 
 <div class="clearfix"></div>
 
-## [![](/media/IMG_6094_b_300.JPG){: .wysiwyg-float-left}**Vinařství Schwarz**](http://bit.ly/schwarzcz)****
+## [![](/media/IMG_6094_b_300.JPG){: .wysiwyg-float-left}**Vinařství Schwarz**](http://bit.ly/schwarzcz)
 
 [www.vinarstvischwarz.cz](http://bit.ly/schwarzcz)
 

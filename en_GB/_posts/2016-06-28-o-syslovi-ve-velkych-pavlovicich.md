@@ -1,50 +1,40 @@
 ---
-title: O syslovi ve Velkých Pavlovicích
-image: "/media/IMG_2372_610.JPG"
+title: Ground squirrels in Velké Pavlovice
 published: true
-date: 2016-06-28
+image: /media/IMG_2372_610.JPG
+date: 2016-06-28T00:00:00.000Z
 category: news
 layout: news
 ---
-***Přijeďte na víkend do Velkých Pavlovic: v pátek bude přednáška
-o syslovi a v sobotu nás uvidíte po celý den v informačním stánku či se
-toulat v ulicích se syslem na tričku. Zájemci se s námi také mohou vydat
-do vinic, kde sysly určitě uvidíte!***
+# Come to Velké Pavlovice for the weekend and learn all about ground squirrels!
 
-Srdečně Vás zveme na tématické setkání o syslovi a jeho známce
-realizované v rámci projektu „Realizace vybraných opatření Záchranného
-programu sysla obecného na jižní Moravě“.
+_We invite you to Velké Pavlovice to learn about ground squirrels through a lecture, information stand or a visit to the vineyards to look for them in real life! Look out for us in our yellow T-shirts and come and say hi. _
 
-Kdy: **1.–2. 7. 2016**
+**When: **1.–2. 7. 2016
 
-Kde: **Velké Pavlovice** v rámci dvou akcí:
+**Where: **Velké Pavlovice 
 
-[Velkopavlovické meruňkobranní 2016][1]
+There will be two events taking place:
 
-[Otevřené sklepy Víno v oranžovém 2016][2]
+* [Velkopavlovické meruňkobranní 2016](http://www.velke-pavlovice.cz/article.asp?nDepartmentID=1&nArticleID=7208&nLanguageID=1)
+* [Otevřené sklepy Víno v oranžovém 2016](http://www.vinozvelkychpavlovic.cz/)
 
 ![](/media/IMG_2378_610.JPG){: .wysiwyg-float-left}
 
-# Program k syslovi:
+# Programme of events:
 
-## Pátek 1. července 2016
+## Friday 1 June 2016
 
-**Přednáška** Jana Matějů v rámci semináře od 18:00 v Ekocentru
-Trkmanka: "Sysel obecný – kriticky ohrožený druh naší fauny, proč a jak
-jej chránit"
+**A lecture** by Jan Matějů's on "Common ground squirrel - a critically endangered species of our fauna, why and how to protect it" will take place at 18:00 at Trkmanka Ecocentrum.
 
-## Sobota 2. července 2016
+## Saturday 2 June 2016
 
-**Informační stánek**: v Ekocentru Trkmanka od 10:00 do 17:00
+**Souslik information stand** will be in place at Ekocentrum Trkmanka from 10:00 to 17:00
 
-**za sysly do vinic**: sraz v 11:00 a v 16:00 před Městským úřadem
+**Excursion to the vineyards** will meet in front of the Municipal Office at 11:00 and 6:00
 
-**Informační stánek**: na Městském úřadu u prodeje vstupenek na
-Otevřené sklepy od 17:00
+**An information stand **at the Municipal Office will be open from 17:00 selling tickets for the Open cellars evening 
 
-**syslí hlídky**: ve večerních hodinách si o syslech s námi můžete
-také povídat na ulici či v otevřených sklepech
+**Workers in yellow ground squirrel T-shirts **will also be around the streets of Velké Pavlovice and around at the open cellars for you to come and talk to about ground squirrels
 
-
-[1]: http://www.velke-pavlovice.cz/article.asp?nDepartmentID=1&amp;nArticleID=7208&amp;nLanguageID=1
-[2]: http://www.vinozvelkychpavlovic.cz/
+This event is being implemented under the project "Implementation of measures for the European souslik in South Moravia".

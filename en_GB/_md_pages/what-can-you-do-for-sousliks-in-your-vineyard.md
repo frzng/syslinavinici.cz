@@ -25,9 +25,9 @@ Please [contact us](/about-us/contact) if you have seen sousliks in your vineyar
 
 # GRASS
 
-To be awarded the **_Sysli na vinici_** trademark, you will have to keep at least every other row in your vineyard grassy. The optimum would be, of course, to have grass all over your vineyard. Now, having grass is the first step, the next is to ensure the suitability of your grass.
+To be awarded the _**Sysli na vinici**_ trademark, you will have to keep at least every other row in your vineyard grassy. The optimum would be, of course, to have grass all over your vineyard. Now, having grass is the first step, the next is to ensure the suitability of your grass.
 
-# LET YOUR GRASS GROW! 
+# LET YOUR GRASS GROW!
 
 The height of your grass is fundamental to the survival of sousliks. Too short, the sousliks won’t be able to hide from predators but too high and they won’t be able to see them coming! They are constantly looking around and watching their surroundings so grass of around 15cm is about right. The number of times you need to mow depends on your soil productivity and rainfall in the year, but normally around three times per year is sufficient. If you have other animals such livestock, you could always use them to graze your vineyard as well. 
 
@@ -41,7 +41,7 @@ Sousliks feed on various parts of plants such as leaves, seeds and even the root
 
 # Linking vineyards
 
-Not everywhere in the wine-growing region is suitable for sousliks. Areas between vineyards where it is overgrown, sloped, there are dense bushes or open fields are not very suitable for the sousliks. We therefore must try to interconnect colonies of sousliks to encourage individuals to meet and reproduction. Creating suitable belts between these areas is one method to help the sousliks. Also another method could be maintaining grass paths between these areas.
+Not everywhere in the wine-growing region is suitable for sousliks. Areas between vineyards where it is overgrown, sloped, there are dense bushes or open fields are not very suitable for the sousliks. We must, therefore, try to connect the current, isolated colonies of sousliks. Creating suitable belts between these areas is one method to help the sousliks. Another method could be to the maintain grassy paths between these areas.
 
 # Feeding
 

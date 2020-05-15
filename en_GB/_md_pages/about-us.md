@@ -18,6 +18,10 @@ Lidéřovice 62, 38001 Peč
 
 ## [Muzeum Karlovy Vary](http://www.kvmuz.cz)
 
+![](/media/museum-karlovy-vary-logo-resized.jpg)
+
+<div class="clearfix"></div>
+
 Nová Louka 23, 36001 Karlovy Vary
 
 <div class="clearfix"></div>
@@ -31,6 +35,8 @@ Nová Louka 23, 36001 Karlovy Vary
 ## Supported by a grant from Iceland, Liechtenstein and Norway.
 
 <div class="clearfix"></div>
+
+![](/media/loga_mgs_stojato_mm-resized.jpg)
 
 ![](/media/loga_mgs_stojato_mm.jpg){: .wysiwyg-float-left}
 

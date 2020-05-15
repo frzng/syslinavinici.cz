@@ -1,29 +1,23 @@
 ---
-title: Známka Sysli na vinici je registrovaná
+title: Registration of the Sysli na vinici trademark
 published: true
 image: /media/sysli_na_vinici_logo_200.jpg
 date: 2016-05-17T00:00:00.000Z
 category: news
 layout: news
 ---
-U Úřadu průmyslového vlastnictví byla zaregistrována ochranná známka
-Sysli na vinici. Udělována bude vinařům, kteří mají na svých vinicích
-vzácné sysly obecné.
+Our new trademark "Sysli na vinici" has been registered with the Industrial Property Office and will be awarded to winemakers who have rare ground squirrels in their vineyards.
 
-Známku uděluje a její používání kontroluje společnost ALKA Wildlife,
-která je jejím vlastníkem, spolu s Muzeem Karlovy Vary. Obě organizace
-se věnují výzkumu a ochraně sysla obecného v České republice.
+The trademark is awarded by [ALKA Wildlife, o.p.s.](https://www.alkawildlife.eu/) and [Karlovy Vary Museum](http://www.kvmuz.cz/) who are conducting research on sousliks in the Czech Republic.
 
-První známky budou vinařům uděleny v červnu 2016.
+The first stamps will be awarded to winemakers in June 2016.
 
-![](/media/logo_Syslinavinici_zc_m.jpg){: .wysiwyg-float-left}
+You can recognise the wine from the ground squirrel friendly vineyard by the golden trademark on each bottle.
 
-Víno ze syslí vinice poznáte podle zlatého loga na každé lahvi.
+![](/media/logo_syslinavinici_zc_m-cutout-resize.png)
 
-Vinaře se syslí vinicí poznáte podle této samolepky.
+You can recognise winemakers awarded with the Sysli na vinici trademark by this sticker at their cellars.
 
-<div class="clearfix"></div>
+![](/media/samolepka_syslinavinici-reszie-cutout.png)
 
-![](/media/samolepka_Syslinavinici.jpg)
-
-Pomozte chránit sysly nákupem vína od vinařů, kteří jim pomáhají.
+You can help protect ground squirrels by buying wine from [winemakers ](https://en.syslinavinici.cz/souslik-stamp/our-wineries)who support them.

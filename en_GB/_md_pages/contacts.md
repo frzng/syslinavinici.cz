@@ -11,7 +11,7 @@ layout: single_column_page
 
 * Email: <mailto:katerina.polednikova@alkawildlife.eu> 
 * Tel: [+420 606 598 903](tel:+420-606-598-903)_
-* _You can contact Kateřina with your enquiries about sousliks and the "Sysli na vinici" trademark_
+* _You can contact Kateřina with your enquiries about sousliks and the Sysli na Vinici trademark_
 
 ## Tereza Mináriková ([ALKA Wildlife](http://bit.ly/alkawildlife))
 

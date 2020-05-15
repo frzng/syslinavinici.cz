@@ -2,6 +2,7 @@
 title: Publications
 published: true
 permalink: /downloads/publications
+description: ' '
 listed: true
 position: 1
 layout: single_column_page

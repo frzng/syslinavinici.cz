@@ -4,7 +4,7 @@ published: true
 image: /media/img_3682_610.jpg
 listing_thumbnail: /media/img_3682_274.jpg
 description: >-
-  In November 2019, over 20 volunteers gathered on the overground steppe slopes
+  In November 2019, over 20 volunteers gathered on the overgrown steppe slopes
   in Lizniperky.
 date: '2019-12-05'
 category: news

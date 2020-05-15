@@ -16,14 +16,14 @@ The trademark is awarded by [ALKA Wildlife, o.p.s.](https://www.alkawildlife.eu/
 
 # HOW DO I GET A TRADEMARK FOR MY WINE?
 
-A trademark can be obtained for a vineyard which:
+A trademark can be given to a vineyard where:
 
-1. Can prove occurrence of sousliks living within the vineyard for the given grape year 
-2. The vineyard is maintained in a way that is both souslik and environmentally friendly. 
+1. Occurrence of sousliks living within the vineyard for the given year has been proven
+2. The vineyards are maintained in a way that is both souslik and environmentally friendly.
 
-Specifically, the minimum requirements for this are:
+Specifically, the minimum requirements are: 
 
-* At least every second row of the vineyard is grassed and
+* At least every second row of the vineyard is grassy
 * The viticulturist does not endangered the sousliks through the use of pesticides such as rodenticides
 
 [Here](/souslik-stamp/our-wineries) you can find a list of vineyards which have been awarded this special mark.

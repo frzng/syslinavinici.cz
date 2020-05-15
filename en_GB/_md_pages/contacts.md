@@ -9,17 +9,11 @@ layout: single_column_page
 ---
 # Project organiser
 
-![](/media/alka-resized.jpg)
-
-[{: .wysiwyg-float-left}](bit.ly/alkawildlife)
-
 ## [ALKA Wildlife o.p.s](http://bit.ly/alkawildlife)
 
 Lidéřovice 62, 38001 Peč
 
-[alkawildlife.eu](http://bit.ly/alkawildlife)
-
-<div class="clearfix"></div>
+![](/media/alka-resized.jpg)
 
 # Contacts:
 
@@ -27,13 +21,13 @@ Lidéřovice 62, 38001 Peč
 
 * Email: <mailto:katerina.polednikova@alkawildlife.eu> 
 * Tel: [+420 606 598 903](tel:+420-606-598-903)_
-* _You can contact Kateřina with your enquiries about sousliks and the 'Sysli na vinici' trademark_
+* _You can contact Kateřina with your enquiries about sousliks and the "Sysli na vinici" trademark_
 
 ## Tereza Mináriková ([ALKA Wildlife](http://bit.ly/alkawildlife))
 
 * Email: <mailto:tereza.minarikova@alkawildlife.eu> 
 * Tel: [+420 724 706 806](tel:+420-724-706-806)
-* _You can also contact Tereza with your queries and enquiries_
+* _You can also contact Tereza with your queries and enquiries about sousliks_
 
 ## Jan Matějů ([Muzeum Karlovy Vary](http://kvmuz.cz))
 

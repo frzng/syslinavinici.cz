@@ -23,6 +23,7 @@ Cellarius – Lucerna v Pasáži Lucerna, Štěpánská 61, Praha 1,
 
 ![](/media/IMG_6047_610.JPG)
 
-_The project was financially supported by a grant from the Ministry of the Environment but ALKA Wildlife does not have to express the opinions of the Ministry of the Environment._
+_The project was financially supported by a grant from the Ministry of the Environment but ALKA Wildlife does not have to express the opinions of the Ministry of the Environment.
+_
 
 _The project is being carried out in cooperation with Beleco, z.s._

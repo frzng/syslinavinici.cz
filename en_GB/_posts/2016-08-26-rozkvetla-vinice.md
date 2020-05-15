@@ -1,12 +1,11 @@
 ---
-title: Rozkvetlá vinice
-image: "/media/IMG_3083_zlute_Lotus_corniculatus_ruzove_Securigera_varia.JPG"
+title: Vineyards in bloom
 published: true
-date: 2016-08-26
+image: /media/IMG_3083_zlute_Lotus_corniculatus_ruzove_Securigera_varia.JPG
+date: 2016-08-26T00:00:00.000Z
 category: news
 layout: news
 ---
-Zatravněné vinice (hlavní podmínka pro udělení ochranné známky *Sysli na
-vinici* pro vinaře) poskytují domov nejen vzácným syslům, ale celé řadě
-rostlin a živočichů. V letním období se mohou vinice přeměnit na
-rozkvetlé louky. Při hledání syslů jsme je pro Vás nafotili.
+# Blooming vineyards
+
+Vineyards with grassy lines are one of the main conditions when winemarker eligibility for the Sysli na Vinici trademark. They provide a home not only to our rare ground squirrels, but also to a wide range of plants and animals. In summer, the vineyards can turn into flowering meadows. We took advantage of this looking for ground squirrels and photographed them for you :)

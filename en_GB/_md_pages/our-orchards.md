@@ -15,12 +15,10 @@ We are pleased to award the **Sysli v sadu** trademark to our first orchard. If 
 
 <div class="clearfix"></div>
 
-## **Ing. Rotter**
+# Ing. Rotter
 
 Apricot orchard
 
-Collection at orchard can be arranged by telephone
-
-Telephone: 602 771 909
+Tel: 602 771 909
 
 <div class="clearfix"></div>

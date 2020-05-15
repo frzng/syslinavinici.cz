@@ -13,4 +13,4 @@ These include:
 * Articles
 * Brochures
 * Leaflets
-* [Materials for teachers / children](/downloads/education-materials)
+* Materials for teachers and children

@@ -17,7 +17,9 @@ Currently, sousliks can be found in vineyards and orchards of the following muni
 * Hnanice
 * Miroslav
 
-# Vineyards with confirmed occurrence of sousliks in 2015:
+
+
+# Vineyards with confirmed occurrence of sousliks in 2015
 
 | **Vineyard** | **Reg #** | **Region**       | **Town**        |
 | ------------ | --------- | ---------------- | --------------- |
@@ -29,11 +31,15 @@ Currently, sousliks can be found in vineyards and orchards of the following muni
 | Okolesy      | 75488902  | Velkopavlovická  | Velké Pavlovice |
 | Kn           | 64000001  | Znojemská        | Hnanice         |
 
+ 
 
+<div class="clearfix"></div>
 
 # Maps of distribution in vineyards
 
 Highlighted with red squares, we have developed maps to show the distribution of sousliks in vineyards across different areas.
+
+## Velké
 
 ![](/media/VT_Velke_Pavlovice_610.jpg)
 

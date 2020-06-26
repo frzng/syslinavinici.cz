@@ -24,6 +24,8 @@ Zatím nevíme, jestli prudké červnové deště nezasáhly letos také nějako
 
 Přívalové deště ovlivnit nemůžeme, ale můžeme podpořit kolonie, aby se rozrůstaly a vytvořily metapopulační charakter, kdy se jednotlivé kolonie mohou vzájemně doplňovat. A v případě zjištění, že se katastrofa stala, můžeme alespoň mláďatům pomoci, tak jak to zvládli v Bielych Vodách. 
 
+__
+
 _Zdroje:_ 
 
 [Matějů, Schnitzerová a Větrovcová (2019): Zkušenosti z monitoringu sysla obecného Spermophilus citellus (Rodentia: Sciuridae) v ČR v letech 2004 – 2016. Příroda, Praha 39: 141 – 150.

@@ -16,7 +16,7 @@ Sysli jsou stepní živočichové. Žijí v norách v zemi a jedním z důležit
 
 Letošní červen byl v tomto velmi nepříjemný. A ukázalo se to ve velkém na lokalitě Biele Vody na Muráňské planině na Slovensku, kde prudký déšť zaplavil údolí s pastvinou, kde žije velká kolonie syslů. Stovky mláďat uhynuly. Asi pět set jich zachránili členové spolku [Živá planina](https://zivaplanina.sk/) a dobrovolníci, kteří se o tuto lokalitu starají. Problém je, že když se sysel neutopí, tak s mokrým kožichem prochladne. Ervín a jeho přátelé z Živé Planiny ještě za deště lokalitu zkontrolovali a vyplavená ještě živá mláďata posbírali a sušili, jak se dalo. 
 
-![Vyplavená usušená mláďata syslů na lokalitě Biele Vody v červnu 2020 (zdroj: Živá planina) ](/media/mokri_sysli_biele_vody_610.jpg "Vyplavená usušená mláďata syslů na lokalitě Biele Vody v červnu 2020 (zdroj: Živá planina) ")
+![Vyplavená usušená mláďata syslů na lokalitě Biele Vody v červnu 2020 (zdroj: Živá planina) ](/media/zachranena_mladata_610.jpg "Vyplavená usušená mláďata syslů na lokalitě Biele Vody v červnu 2020 (zdroj: Živá planina) ")
 
 _Vyplavená usušená mláďata syslů na lokalitě Biele Vody v červnu 2020 (zdroj: _[_Živá planina_](https://www.facebook.com/zivaplanina.sk/)_)_ 
 

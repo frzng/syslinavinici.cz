@@ -1,6 +1,6 @@
 ---
 title: Sysli a bleskové povodně
-published: false
+published: true
 image: /media/mokri_sysli_biele_vody_610.jpg
 listing_thumbnail: /media/mokri_sysli_biele_vody_274.jpg
 description: >-

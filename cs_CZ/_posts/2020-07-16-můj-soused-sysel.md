@@ -1,6 +1,6 @@
 ---
 title: Můj soused sysel
-published: false
+published: true
 image: /media/foto_mujsousedsysel_620.jpg
 listing_thumbnail: /media/foto_mujsousedsysel_274.jpg
 description: Fotografická výstava Můj soused sysel  - nyní ve Velkých Pavlovicích

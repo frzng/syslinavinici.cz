@@ -12,4 +12,4 @@ Putovní fotografická výstava, určena pro děti i dospělé.
 
 17.7.2020 - 31.7.2020 Ekocentrum Trkmanka, Velké Pavlovice
 
-![](/media/pozvanka_vystava.jpg)
+![](/media/pozvánka_výstava-page-620.jpg)

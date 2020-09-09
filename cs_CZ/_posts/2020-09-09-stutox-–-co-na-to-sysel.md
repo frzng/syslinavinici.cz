@@ -1,6 +1,6 @@
 ---
 title: Stutox – co na to sysel?
-published: false
+published: true
 image: /media/img_7648_v_620.jpg
 listing_thumbnail: /media/img_7648_v_274.jpg
 description: Co znamená používání Stutoxu pro sysly?

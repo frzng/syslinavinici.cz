@@ -1,14 +1,14 @@
 ---
 title: Videogalerie
-permalink: "/sysel/videogalerie"
 published: true
+permalink: /sysel/videogalerie
 listed: true
 position: 2
 layout: two_columns_page
 ---
 # Syslí zvědavec
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zYKQmikBEGE" frameborder="0" allowfullscreen=""></iframe>
+<iframe width="560" height="315" src="https://youtu.be/r3vhNfqoBZw" frameborder="0" allowfullscreen=""></iframe>
 
  
 

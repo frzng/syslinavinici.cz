@@ -1,5 +1,5 @@
 ---
-title: Sysel v Miroslavi
+title: Sysel v Miroslavi 1
 published: true
 image: /media/img_0110.jpg
 gallery: /news/sysli-v-miroslavi

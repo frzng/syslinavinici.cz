@@ -75,13 +75,7 @@ Modrý Portugal
 
 <div class="clearfix"></div>
 
-## ![](/media/img_3016_baloun_02_300.jpg){: .wysiwyg-float-left}[**Vinařství Baloun**](http://bit.ly/baloun "Vinařství Baloun")
-
-[www.baloun.cz](http://bit.ly/baloun "Vinařství Baloun")
-
-Větší rodinné vinařství z Velkých Bílovic, které má ale také vinice ve Velkých Pavlovicích, kde se nachází syslí kolonie. Víno si můžete nakoupit v e-shopu či objednat emailem na jejich webových stránkách. 
-
-Víno oceněné známkou: [Muškát moravský - kabinetní víno](http://www.baloun.cz/Galerie-vin/Bila-vina/2013-(3)/Muskat-Moravsky.aspx)
+## [![Vinařství Baloun](/media/kartička_baloun.jpg "Vinařství Baloun")] (http://bit.ly/baloun "Vinařství Baloun")
 
 <div class="clearfix"></div>
 

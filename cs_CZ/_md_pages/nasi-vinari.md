@@ -15,11 +15,15 @@ jejich víno nakoupit.
 
 ## [![Vinařství Reichman a Reichman](/media/kartička_reichman.jpg "Vinařství Reichman a Reichman")](http://bit.ly/naturalfactorscz "Vinařství Reichman")
 
-<div class="clearfix"></div>
+
+
+## [![Vinařství Michna](/media/kartička_michna.jpg "Vinařství Michna")](http://bit.ly/michnacz "Vinařství Michna")
+
+
 
 ## [![Vinařství Baloun](/media/kartička_baloun.jpg "Vinařství Baloun")](http://bit.ly/baloun "Vinařství Baloun")
 
-<div class="clearfix"></div>
+
 
 ## [![Víno Zborovský](/media/kartička_vinozborovsky.jpg "Víno Zborovský")](http://bit.ly/zborovsky "Víno Zborovský")
 
@@ -59,6 +63,8 @@ Chardonnay
 
 [www.vinosusky.cz](http://bit.ly/vinosusky "Vinařství Suský")
 
+<div class="clearfix"></div>
+
 ## [![](/media/IMG_3007_krejcirik_a_300.jpg){: .wysiwyg-float-left}**Rodinné vinařství Krejčiřík**](http://bit.ly/krejcirik "Vinařství Krejčiřík")
 
 [www.vinarstvi-krejcirik.cz](http://bit.ly/krejcirik "Vinařství Krejčiřík")
@@ -78,8 +84,6 @@ Modrý Portugal
 <div class="clearfix"></div>
 
 ## ![](/media/IMG_3020.jpg){: .wysiwyg-float-left}**Petr Procházka**
-
-
 
 ## [**Vinařství V & M Zborovský, v.o.s.**](http://bit.ly/vmzborovsky "Zborovsky")
 
@@ -104,12 +108,6 @@ Frankovka\
 Savignon\
 Modrý Portugal\
 Ryzlink rýnský
-
-## ![](/media/michna_300.jpg){: .wysiwyg-float-left}[Vinařství Michna](http://www.michna.cz)
-
-[www.michna.cz](http://bit.ly/michnacz "Vinařství Michna")
-
-Rodinná vinařská firma z Velkých Pavlovic s dlouholetou tradicí. Všechny jejich přívlastková vína vyzrávají ve vinicích, jež jsou domovem i pro sysly. Jsou to viniční tratě Staré hory, Bojanovska, Lizniperky a Nové hory, s odrůdami jako Veltlínské zelené, Muškát moravský, Sylvánské zelené, André, Rulandské modré, Svatovavřinecké.
 
 <div class="clearfix"></div>
 

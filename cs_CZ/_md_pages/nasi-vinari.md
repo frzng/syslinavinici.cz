@@ -51,7 +51,7 @@ Chardonnay
 
 ## 
 
-![](/media/kartička_vinozborovsky_620.jpg)
+![Víno Zborovský](/media/kartička_vinozborovsky.jpg "Víno Zborovský")
 
 <div class="clearfix"></div>
 

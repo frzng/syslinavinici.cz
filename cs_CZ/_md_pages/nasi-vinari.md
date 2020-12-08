@@ -11,19 +11,15 @@ Pavlovic, čtyři z Hnanic a jedno z Miroslavi. Odkazy Vás navedou na jejich 
 najdete více informací o těchto vinařstvích, i e-shopy, kde si můžete
 jejich víno nakoupit.
 
-
-
 ## [![Vinařství Reichman a Reichman](/media/kartička_reichman.jpg "Vinařství Reichman a Reichman")](http://bit.ly/naturalfactorscz "Vinařství Reichman")
-
-
 
 ## [![Vinařství Michna](/media/kartička_michna.jpg "Vinařství Michna")](http://bit.ly/michnacz "Vinařství Michna")
 
+## [![Vinařství Buchtovi](/media/kartička_buchtovi.jpg "Vinařství Buchtovi")](http://bit.ly/buchtovicz "Vinařství Buchtovi")
 
+## [![Vinařství Krejčiřík](/media/kartička_krejčiřík.jpg "Vinařství Krejčiřík")](http://bit.ly/krejcirik "Vinařství Krejčiřík")
 
 ## [![Vinařství Baloun](/media/kartička_baloun.jpg "Vinařství Baloun")](http://bit.ly/baloun "Vinařství Baloun")
-
-
 
 ## [![Víno Zborovský](/media/kartička_vinozborovsky.jpg "Víno Zborovský")](http://bit.ly/zborovsky "Víno Zborovský")
 
@@ -50,12 +46,6 @@ Chardonnay
 ## [![](/media/IMG_2973_300.jpg){: .wysiwyg-float-left}](http://bit.ly/mezihoramicz "Vinařství Mezi Horami") [Vinařství Mezi Horami](http://bit.ly/mezihoramicz)
 
 [www.mezihorami.cz](http://bit.ly/mezihoramicz)
-
-<div class="clearfix"></div>
-
-## [![](/media/IMG_2981_buchtovi.jpg){: .wysiwyg-float-left}**rodinné vinařství Buchtovi**](http://bit.ly/buchtovicz "Vinařství Buchtovi")
-
-[www.vinobuchtovi.cz](http://bit.ly/buchtovicz "Vinařství Buchtovi")
 
 <div class="clearfix"></div>
 

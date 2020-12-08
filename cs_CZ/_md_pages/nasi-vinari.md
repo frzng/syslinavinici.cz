@@ -33,8 +33,6 @@ Chardonnay
 
 ## [![](/media/IMG_2973_300.jpg){: .wysiwyg-float-left}](http://bit.ly/mezihoramicz "Vinařství Mezi Horami") [Vinařství Mezi Horami](http://bit.ly/mezihoramicz)
 
-
-
 [www.mezihorami.cz](http://bit.ly/mezihoramicz)
 
 <div class="clearfix"></div>
@@ -51,12 +49,9 @@ Chardonnay
 
 <div class="clearfix"></div>
 
-## [![](/media/IMG_2995_lzborovsky_300.jpg){: .wysiwyg-float-left}**Víno Zborovský**](http://bit.ly/zborovsky "Víno Zborovský")
+## 
 
-[www.vinozborovsky.cz](http://bit.ly/zborovsky "Víno Zborovský")
-
-Cabernet Moravia 2015\
-Cabernet Moravia Rosé 2015
+![](/media/kartička_vinozborovsky_620.jpg)
 
 <div class="clearfix"></div>
 

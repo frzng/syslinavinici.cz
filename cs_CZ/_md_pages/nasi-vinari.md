@@ -75,7 +75,7 @@ Modrý Portugal
 
 <div class="clearfix"></div>
 
-## [![Vinařství Baloun](/media/kartička_baloun.jpg "Vinařství Baloun")] (http://bit.ly/baloun "Vinařství Baloun")
+## [![Vinařství Baloun](/media/kartička_baloun.jpg "Vinařství Baloun")](http://bit.ly/baloun "Vinařství Baloun")
 
 <div class="clearfix"></div>
 

@@ -7,11 +7,23 @@ position: 1
 layout: two_columns_page
 ---
 V současnosti má známku Sysli na vinici uděleno 16 vinařství z Velkých
-Pavlovic a 4 z Hnanic. Odkazy Vás navedou na jejich webové stránky, kde
+Pavlovic, čtyři z Hnanic a jedno z Miroslavi. Odkazy Vás navedou na jejich webové stránky, kde
 najdete více informací o těchto vinařstvích, i e-shopy, kde si můžete
 jejich víno nakoupit.
 
-# Miroslav:
+
+
+## [![Vinařství Reichman a Reichman](/media/kartička_reichman.jpg "Vinařství Reichman a Reichman")](http://bit.ly/naturalfactorscz "Vinařství Reichman")
+
+<div class="clearfix"></div>
+
+## [![Vinařství Baloun](/media/kartička_baloun.jpg "Vinařství Baloun")](http://bit.ly/baloun "Vinařství Baloun")
+
+<div class="clearfix"></div>
+
+## [![Víno Zborovský](/media/kartička_vinozborovsky.jpg "Víno Zborovský")](http://bit.ly/zborovsky "Víno Zborovský")
+
+<div class="clearfix"></div>
 
 ![null](/media/img_0917_m.jpg){: .wysiwyg-float-left}[**VÍNO PERK**](http://bit.ly/perkcz)
 
@@ -47,12 +59,6 @@ Chardonnay
 
 [www.vinosusky.cz](http://bit.ly/vinosusky "Vinařství Suský")
 
-<div class="clearfix"></div>
-
-## [![Víno Zborovský](/media/kartička_vinozborovsky.jpg "Víno Zborovský")](http://bit.ly/zborovsky "Víno Zborovský")
-
-<div class="clearfix"></div>
-
 ## [![](/media/IMG_3007_krejcirik_a_300.jpg){: .wysiwyg-float-left}**Rodinné vinařství Krejčiřík**](http://bit.ly/krejcirik "Vinařství Krejčiřík")
 
 [www.vinarstvi-krejcirik.cz](http://bit.ly/krejcirik "Vinařství Krejčiřík")
@@ -73,11 +79,7 @@ Modrý Portugal
 
 ## ![](/media/IMG_3020.jpg){: .wysiwyg-float-left}**Petr Procházka**
 
-<div class="clearfix"></div>
 
-## [![Vinařství Baloun](/media/kartička_baloun.jpg "Vinařství Baloun")](http://bit.ly/baloun "Vinařství Baloun")
-
-<div class="clearfix"></div>
 
 ## [**Vinařství V & M Zborovský, v.o.s.**](http://bit.ly/vmzborovsky "Zborovsky")
 
@@ -120,12 +122,6 @@ Rodinná vinařská firma z Velkých Pavlovic s dlouholetou tradicí. Všechny j
 ## [**Vinařství Lacina**](http://www.vinarstvilacina.cz "Vinařství Lacina")
 
 [www.vinarstvilacina.cz](http://bit.ly/lacinacz "Vinařství Lacina")
-
-<div class="clearfix"></div>
-
-## [**Vinařství Reichman & Reichman**](http://www.naturalfactors.cz "Vinařství Reichman")
-
-[www.naturalfactors.cz](http://bit.ly/naturalfactorscz "Vinařství Reichman")
 
 <div class="clearfix"></div>
 

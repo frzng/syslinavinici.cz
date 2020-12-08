@@ -55,25 +55,11 @@ Chardonnay
 
 <div class="clearfix"></div>
 
-## [![](/media/IMG_3007_krejcirik_a_300.jpg){: .wysiwyg-float-left}**Rodinné vinařství Krejčiřík**](http://bit.ly/krejcirik "Vinařství Krejčiřík")
-
-[www.vinarstvi-krejcirik.cz](http://bit.ly/krejcirik "Vinařství Krejčiřík")
-
-<div class="clearfix"></div>
-
-## [![](/media/VP_Mikulica_IMGP9275_300.jpg){: .wysiwyg-float-left}**Vinařství Mikulica**](http://bit.ly/mikulika "Vinařství Mikulica")
-
-[www.vinarstvimikulica.cz](http://bit.ly/mikulika "Vinařství Mikulica")
-
-Pálava p.s.\
-Pálava v.z.h.\
-Aurelius p.s.\
-Rulandské modré p.s.\
-Modrý Portugal
-
-<div class="clearfix"></div>
-
 ## ![](/media/IMG_3020.jpg){: .wysiwyg-float-left}**Petr Procházka**
+
+<div class="clearfix"></div>
+
+
 
 ## [**Vinařství V & M Zborovský, v.o.s.**](http://bit.ly/vmzborovsky "Zborovsky")
 

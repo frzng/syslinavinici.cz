@@ -25,6 +25,9 @@ Protože se blíží Vánoce, přichystali jsme pro vás i drobné syslí dáre�
 
 ## [![Víno Zborovský](/media/kartička_vinozborovsky.jpg "Víno Zborovský")](http://bit.ly/zborovsky "Víno Zborovský")
 
+## [![Vinařství Mezi horami](/media/kartička_mezihorami.jpg "Vinařství Mezi horami")](http://bit.ly/mezihoramicz)
+
+
 <div class="clearfix"></div>
 
 ![null](/media/img_0917_m.jpg){: .wysiwyg-float-left}[**VÍNO PERK**](http://bit.ly/perkcz)
@@ -43,11 +46,6 @@ Víno Perk je vinařství pod záštitou AGRODRUŽSTVA Miroslav, v Miroslavi na 
 
 Chardonnay
 
-<div class="clearfix"></div>
-
-## [![](/media/IMG_2973_300.jpg){: .wysiwyg-float-left}](http://bit.ly/mezihoramicz "Vinařství Mezi Horami") [Vinařství Mezi Horami](http://bit.ly/mezihoramicz)
-
-[www.mezihorami.cz](http://bit.ly/mezihoramicz)
 
 <div class="clearfix"></div>
 

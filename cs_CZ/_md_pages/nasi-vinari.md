@@ -59,17 +59,9 @@ Chardonnay
 
 <div class="clearfix"></div>
 
-
-
 ## [**Vinařství V & M Zborovský, v.o.s.**](http://bit.ly/vmzborovsky "Zborovsky")
 
 [www.zborovsky.cz](http://bit.ly/vmzborovsky "Zborovsky")
-
-<div class="clearfix"></div>
-
-## [**Rodinné vinařství Helena**](http://bit.ly/helenavicz)
-
-[www.vinarstvihelena.cz](http://bit.ly/helenavicz)
 
 <div class="clearfix"></div>
 

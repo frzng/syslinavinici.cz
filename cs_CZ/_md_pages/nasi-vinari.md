@@ -27,6 +27,7 @@ Protože se blíží Vánoce, přichystali jsme pro vás i drobné syslí dáre�
 
 ## [![Vinařství Mezi horami](/media/kartička_mezihorami.jpg "Vinařství Mezi horami")](http://bit.ly/mezihoramicz)
 
+## [![Vinařství Suský](/media/kartička_suský.jpg "Vinařství Suský")](http://bit.ly/vinosusky "Vinařství Suský")
 
 <div class="clearfix"></div>
 
@@ -38,22 +39,14 @@ Víno Perk je vinařství pod záštitou AGRODRUŽSTVA Miroslav, v Miroslavi na 
 
 <div class="clearfix"></div>
 
-# Velké Pavlovice:
-
 ## [![](/media/IMG_2970_slechtitelka.jpg){: .wysiwyg-float-left}**Šlechtitelská stanice vinařská Velké Pavlovice a.s.**](http://bit.ly/slechtitelkacz "Šlechtitelka")
 
 [www.slechtitelka.cz](http://bit.ly/slechtitelkacz "Šlechtitelka")
 
 Chardonnay
 
-
 <div class="clearfix"></div>
 
-## [![](/media/IMG_2986.jpg){: .wysiwyg-float-left}**Rodinné vinařství Suský**](http://bit.ly/vinosusky "Vinařství Suský")
-
-[www.vinosusky.cz](http://bit.ly/vinosusky "Vinařství Suský")
-
-<div class="clearfix"></div>
 
 ## ![](/media/IMG_3020.jpg){: .wysiwyg-float-left}**Petr Procházka**
 

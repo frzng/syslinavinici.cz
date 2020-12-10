@@ -13,15 +13,14 @@ jejich víno nakoupit.
 
 Protože se blíží Vánoce, přichystali jsme pro vás i drobné syslí dárečky, které vám vinaři pošlou s objednaným vínem, do poznámek k objednávce pište tajné heslo "Sysli na vinici". Na vizitkách jsou nyní i uvedeny aktuální informace, jestli vinaři ještě před Vánoci syslí víno mají.
 
+
+## [![Vinařství Řádek](/media/kartička_radek.jpg "Vinařství Řádek")] (http://www.vinarstviradek.cz)
+
 ## [![Vinařství Reichman a Reichman](/media/kartička_reichman.jpg "Vinařství Reichman a Reichman")](http://bit.ly/naturalfactorscz "Vinařství Reichman")
 
 ## [![Vinařství Michna](/media/kartička_michna.jpg "Vinařství Michna")](http://bit.ly/michnacz "Vinařství Michna")
 
 ## [![Vinařství Buchtovi](/media/kartička_buchtovi.jpg "Vinařství Buchtovi")](http://bit.ly/buchtovicz "Vinařství Buchtovi")
-
-![Vinařství Řádek](/media/kartička_radek.jpg "Vinařství Řádek")
-
-
 
 ## [![Vinařství Krejčiřík](/media/kartička_krejčiřík.jpg "Vinařství Krejčiřík")](http://bit.ly/krejcirik "Vinařství Krejčiřík")
 

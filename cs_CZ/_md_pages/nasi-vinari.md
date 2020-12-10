@@ -19,6 +19,10 @@ Protože se blíží Vánoce, přichystali jsme pro vás i drobné syslí dáre�
 
 ## [![Vinařství Buchtovi](/media/kartička_buchtovi.jpg "Vinařství Buchtovi")](http://bit.ly/buchtovicz "Vinařství Buchtovi")
 
+![Vinařství Řádek](/media/kartička_radek.jpg "Vinařství Řádek")
+
+
+
 ## [![Vinařství Krejčiřík](/media/kartička_krejčiřík.jpg "Vinařství Krejčiřík")](http://bit.ly/krejcirik "Vinařství Krejčiřík")
 
 ## [![Vinařství Baloun](/media/kartička_baloun.jpg "Vinařství Baloun")](http://bit.ly/baloun "Vinařství Baloun")
@@ -46,7 +50,6 @@ Víno Perk je vinařství pod záštitou AGRODRUŽSTVA Miroslav, v Miroslavi na 
 Chardonnay
 
 <div class="clearfix"></div>
-
 
 ## ![](/media/IMG_3020.jpg){: .wysiwyg-float-left}**Petr Procházka**
 

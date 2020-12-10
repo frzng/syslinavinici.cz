@@ -13,8 +13,7 @@ jejich víno nakoupit.
 
 Protože se blíží Vánoce, přichystali jsme pro vás i drobné syslí dárečky, které vám vinaři pošlou s objednaným vínem, do poznámek k objednávce pište tajné heslo "Sysli na vinici". Na vizitkách jsou nyní i uvedeny aktuální informace, jestli vinaři ještě před Vánoci syslí víno mají.
 
-
-## [![Vinařství Řádek](/media/kartička_radek.jpg "Vinařství Řádek")] (http://www.vinarstviradek.cz)
+## [![Vinařství Řádek](/media/kartička_radek.jpg "Vinařství Řádek")](http://www.vinarstviradek.cz)
 
 ## [![Vinařství Reichman a Reichman](/media/kartička_reichman.jpg "Vinařství Reichman a Reichman")](http://bit.ly/naturalfactorscz "Vinařství Reichman")
 
@@ -71,12 +70,6 @@ Frankovka\
 Savignon\
 Modrý Portugal\
 Ryzlink rýnský
-
-<div class="clearfix"></div>
-
-## **Vlastimil Řádek**
-
-<mailto:vinarstvi.radek@seznam.cz>
 
 <div class="clearfix"></div>
 

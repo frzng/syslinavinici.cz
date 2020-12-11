@@ -11,4 +11,6 @@ Známkou Sysli v sadu byli dosud oceněni dva sadaři, jeden z Hrušovan u Brna 
 
 ![sadař Rotter](/media/kartička_rotter.jpg "sadař Rotter")
 
-![Vinařství Lacina](/media/kartička_lacina_merunky.jpg "Vinařství Lacina")
+
+
+## [![Vinařství Lacina](/media/kartička_lacina_merunky.jpg "Vinařství Lacina")](http://bit.ly/lacinacz "Vinařství Lacina")

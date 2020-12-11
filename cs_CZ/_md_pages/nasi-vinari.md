@@ -13,20 +13,19 @@ jejich víno nakoupit.
 
 Protože se blíží Vánoce, přichystali jsme pro vás i drobné syslí dárečky, které vám vinaři pošlou s objednaným vínem, do poznámek k objednávce pište tajné heslo "Sysli na vinici". Na vizitkách jsou nyní i uvedeny aktuální informace, jestli vinaři ještě před Vánoci syslí víno mají.
 
-## [![Vinařství Řádek](/media/kartička_radek.jpg "Vinařství Řádek")](http://www.vinarstviradek.cz)
+## [![Vinařství Michna](/media/kartička_michna.jpg "Vinařství Michna")](http://bit.ly/michnacz "Vinařství Michna")
 
-## [![Vinný sklep U hafana](/media/kartička_uhafana.jpg "Vinný sklep U hafana")](http://bit.ly/hafanacz)
+## [![Vinařství Řádek](/media/kartička_radek.jpg "Vinařství Řádek")](http://www.vinarstviradek.cz)
 
 ## [![Vinařství Reichman a Reichman](/media/kartička_reichman.jpg "Vinařství Reichman a Reichman")](http://bit.ly/naturalfactorscz "Vinařství Reichman")
 
-## [![Vinařství Michna](/media/kartička_michna.jpg "Vinařství Michna")](http://bit.ly/michnacz "Vinařství Michna")
+## [![Vinný sklep U hafana](/media/kartička_uhafana.jpg "Vinný sklep U hafana")](http://bit.ly/hafanacz)
 
 ## [![Vinařství Buchtovi](/media/kartička_buchtovi.jpg "Vinařství Buchtovi")](http://bit.ly/buchtovicz "Vinařství Buchtovi")
 
 ## [![Vinařství Krejčiřík](/media/kartička_krejčiřík.jpg "Vinařství Krejčiřík")](http://bit.ly/krejcirik "Vinařství Krejčiřík")
 
 ## [![Vinařství Lacina](/media/kartička_lacina_vino.jpg "Vinařství Lacina")](http://bit.ly/lacinacz "Vinařství Lacina")
-
 
 ## [![Vinařství Baloun](/media/kartička_baloun.jpg "Vinařství Baloun")](http://bit.ly/baloun "Vinařství Baloun")
 
@@ -36,7 +35,10 @@ Protože se blíží Vánoce, přichystali jsme pro vás i drobné syslí dáre�
 
 ## [![Vinařství Suský](/media/kartička_suský.jpg "Vinařství Suský")](http://bit.ly/vinosusky "Vinařství Suský")
 
-<div class="clearfix"></div>
+## [![Vinařství Schwarz](/media/kartička_schwarz.jpg "Vinařství Schwarz")](http://bit.ly/schwarzcz)
+
+## [![Vinařství Josef Kořínek](/media/kartička_kořínek.jpg "Vinařství Josef Kořínek")](http://bit.ly/korinek)
+
 
 ![null](/media/img_0917_m.jpg){: .wysiwyg-float-left}[**VÍNO PERK**](http://bit.ly/perkcz)
 
@@ -63,29 +65,3 @@ Chardonnay
 [www.zborovsky.cz](http://bit.ly/vmzborovsky "Zborovsky")
 
 <div class="clearfix"></div>
-
-## 
-
-## [**Vinařství Lacina**](http://www.vinarstvilacina.cz "Vinařství Lacina")
-
-[www.vinarstvilacina.cz](http://bit.ly/lacinacz "Vinařství Lacina")
-
-<div class="clearfix"></div>
-
-## ![](/media/IMG_6094_b_300.JPG){: .wysiwyg-float-left}**Vinařství Schwarz**
-
-[www.vinarstvischwarz.cz](http://bit.ly/schwarzcz)
-
-Savignon\
-Děvín\
-Ryzlink rýnský
-
-<div class="clearfix"></div>
-
-## [![](/media/H_Ko__nek_Vinice_To_na_300.JPG){: .wysiwyg-float-left}**Josef Kořínek**](http://www.josef-korinek.cz)
-
-[www.josef-korinek.cz](http://bit.ly/korinek)
-
-Muškát moravský\
-Ryzlink rýnský\
-Veltlínské zelené

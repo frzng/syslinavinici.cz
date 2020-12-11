@@ -39,29 +39,10 @@ Protože se blíží Vánoce, přichystali jsme pro vás i drobné syslí dáre�
 
 ## [![Vinařství Josef Kořínek](/media/kartička_kořínek.jpg "Vinařství Josef Kořínek")](http://bit.ly/korinek)
 
+## [![Vinařství Zborovský](/media/kartička_zborovsti.jpg "Vinařství Zborovský")](http://bit.ly/vmzborovsky "Zborovsky")
 
-![null](/media/img_0917_m.jpg){: .wysiwyg-float-left}[**VÍNO PERK**](http://bit.ly/perkcz)
+## [![Víno Perk](/media/kartička_perk.jpg "Víno Perk")](http://bit.ly/perkcz)
 
-[www.perk.cz](http://bit.ly/perkcz)
+## [![Šlechtitelská stanice vinařská](/media/kartička_šlechtitelka.jpg "Šlechtitelská stanice vinařská")](http://bit.ly/slechtitelkacz "Šlechtitelka")
 
-Víno Perk je vinařství pod záštitou AGRODRUŽSTVA Miroslav, v Miroslavi na Znojemsku. Do Miroslavských vinic se rozšířili sysli z místního letiště. Vinařství má udělenou známku od roku 2018. Vinařství hospodaří ve dvou viničních tratích, kde se vyskytují také sysli – Weinperky a U Vinohradu. 
-
-<div class="clearfix"></div>
-
-## [![](/media/IMG_2970_slechtitelka.jpg){: .wysiwyg-float-left}**Šlechtitelská stanice vinařská Velké Pavlovice a.s.**](http://bit.ly/slechtitelkacz "Šlechtitelka")
-
-[www.slechtitelka.cz](http://bit.ly/slechtitelkacz "Šlechtitelka")
-
-Chardonnay
-
-<div class="clearfix"></div>
-
-## ![](/media/IMG_3020.jpg){: .wysiwyg-float-left}**Petr Procházka**
-
-<div class="clearfix"></div>
-
-## [**Vinařství V & M Zborovský, v.o.s.**](http://bit.ly/vmzborovsky "Zborovsky")
-
-[www.zborovsky.cz](http://bit.ly/vmzborovsky "Zborovsky")
-
-<div class="clearfix"></div>
+![Petr Procházka](/media/kartička_procházka.jpg "Petr Procházka")

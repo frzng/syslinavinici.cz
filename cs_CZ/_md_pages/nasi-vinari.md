@@ -25,6 +25,9 @@ Protože se blíží Vánoce, přichystali jsme pro vás i drobné syslí dáre�
 
 ## [![Vinařství Krejčiřík](/media/kartička_krejčiřík.jpg "Vinařství Krejčiřík")](http://bit.ly/krejcirik "Vinařství Krejčiřík")
 
+## [![Vinařství Lacina](/media/kartička_lacina_vino.jpg "Vinařství Lacina")](http://bit.ly/lacinacz "Vinařství Lacina")
+
+
 ## [![Vinařství Baloun](/media/kartička_baloun.jpg "Vinařství Baloun")](http://bit.ly/baloun "Vinařství Baloun")
 
 ## [![Víno Zborovský](/media/kartička_vinozborovsky.jpg "Víno Zborovský")](http://bit.ly/zborovsky "Víno Zborovský")
@@ -61,37 +64,11 @@ Chardonnay
 
 <div class="clearfix"></div>
 
-## [**Vinařství Halm**](http://www.vinarstvihalm.cz)
-
-[www.vinarstvihalm.cz](http://bit.ly/halmvicz)
-
-Muškát Moravský\
-Svatovavřinecké\
-Rulandské šedé\
-Frankovka\
-Savignon\
-Modrý Portugal\
-Ryzlink rýnský
-
-<div class="clearfix"></div>
+## 
 
 ## [**Vinařství Lacina**](http://www.vinarstvilacina.cz "Vinařství Lacina")
 
 [www.vinarstvilacina.cz](http://bit.ly/lacinacz "Vinařství Lacina")
-
-<div class="clearfix"></div>
-
-# Hnanice:
-
-## [![](/media/IMG_6105_300.JPG){: .wysiwyg-float-left}**Vinařství Špetíci**](http://www.vinarstvispetici.cz)
-
-[www.vinarstvispetici.cz](http://bit.ly/spetici)
-
-Sauvignon\
-Ryzlink rýnský\
-Veltlínské zelené\
-Frankovka\
-Rulandské modré
 
 <div class="clearfix"></div>
 

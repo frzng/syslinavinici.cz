@@ -15,6 +15,8 @@ Protože se blíží Vánoce, přichystali jsme pro vás i drobné syslí dáre�
 
 ## [![Vinařství Řádek](/media/kartička_radek.jpg "Vinařství Řádek")](http://www.vinarstviradek.cz)
 
+## [![Vinný sklep U hafana](/media/kartička_uhafana.jpg "Vinný sklep U hafana")](http://bit.ly/hafanacz)
+
 ## [![Vinařství Reichman a Reichman](/media/kartička_reichman.jpg "Vinařství Reichman a Reichman")](http://bit.ly/naturalfactorscz "Vinařství Reichman")
 
 ## [![Vinařství Michna](/media/kartička_michna.jpg "Vinařství Michna")](http://bit.ly/michnacz "Vinařství Michna")

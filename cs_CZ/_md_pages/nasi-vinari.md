@@ -112,16 +112,3 @@ Ryzlink rýnský
 Muškát moravský\
 Ryzlink rýnský\
 Veltlínské zelené
-
-<div class="clearfix"></div>
-
-## [![](/media/U_HAFANA_VINOBRANI_300.jpg){: .wysiwyg-float-left}**Vinný sklep U hafana**](http://www.uhafana.cz)
-
-[www.uhafana.cz](http://bit.ly/hafanacz)
-
-Veltlínské zelené\
-Rýnský ryzlink\
-Rulandské šedé\
-Cabernet Moravia\
-Svatovavřinecké\
-Rulandské modré

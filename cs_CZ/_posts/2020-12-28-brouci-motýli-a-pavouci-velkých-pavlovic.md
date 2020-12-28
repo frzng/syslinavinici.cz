@@ -1,0 +1,31 @@
+---
+title: 'Brouci, motýli a pavouci Velkých Pavlovic'
+published: false
+image: /media/vretenuska_ligrusova.jpg
+listing_thumbnail: /media/vretenuska_ligrusova-274.jpg
+description: >-
+  Stráně Velkých Pavlovic jsou domovem nejen syslům, ale také velkému množství
+  vzácných druhů bezobratlých
+date: '2020-12-28'
+category: news
+layout: news
+---
+Stráně Velkých Pavlovic jsou domovem nejen syslům a mnoha druhům vzácných bylin, ale také velkému množství bezobratlých. Orientační entomologický a arachnologický průzkum provedený v letech 2018 a 2019 to prokázal. Příčinou je jednoznačně způsob hospodaření v této zemědělské krajině. Naprosto zásadní je zdejší mozaikovitá krajina, díky které se zde nachází v dnešní době vzácné typy prostředí - různé typy úhorů, ruderálů, narušovaných ploch a okrajů polí či polních cest. Modelovým příkladem mohou být nosatcovití brouci rýhonosci, kteří jsou převážně vázáni na různé otevřené plochy s řídkou vegetací, okraje cest, úhory nebo jinak narušovaná místa v otevřené krajině. Řada z nich patří k ohroženým druhům a jejich výskyt je dokladem vysoké biologické hodnoty území. Ve sledované oblasti je například poměrně hojný rýhonosec Pseudocleonus cinereus, který se v ČR vyskytuje pouze na několika lokalitách na jižní Moravě. Žije na různých druzích rostlin z čeledi Asteraceae v řídké vegetaci na okrajích cest, ve vinicích nebo na okrajích stepních lokalit. K dalším ohroženým teplomilným druhům patří Lixus angustus vázaný na hořčík jestřábníkovitý. Na pumpavě obecné žije Lixus vilis, v kořenech hadince obecného se vyvíjí larvy druhu Rhabdorrhynchus seriegranosus. 
+
+
+
+Brouci
+
+Orientačním průzkumem bylo zjištěno 298 druhů brouků. Celkem 11 je zařazeno mezi zvláště chráněné druhy a 62 druhů je uvedeno v různých kategoriích Červeného seznamu bezobratlých. Na lokalitě bylo zjištěno velké množství ohrožených a vzácných druhů vázaných na různé typy stanovišť od zbytků stepních biotopů, úhorů, různě obhospodařovaných políček a vinohradů až po xylofágní druhy vázané na dřeviny a teplomilné křoviny. Z řady zaznamenaných ohrožených druhů xylofágů lze uvést např. nápadného krasce třešňového (Anthaxia candens), v sutinách starých ovocných stromů probíhá vývoj larev zlatohlávka skvostného (Protatetia speciossisima) a setkat se zde můžeme vzácně i s naším největším broukem, roháčem obecným (Lucanus cervus), jehož larvy žijí na kořenech odumírajících starých stromů. Starší suché dřevo a často také dřevěné kůly ve vinicích hostí pestře zbarveného tesaříka Chlorophorus varius, kterého můžeme najít ve vrcholném létě na květech máčky ladní nebo řebříčků. Pod kůrou odumřelých ořešáků byl zjištěn také ohrožený druh z čeledi Zopheridae Colobicus hirtus. V zaschlých větvičkách révy vinné žije drobný krasec Agrilus derasofasciatus nebo korovník Psoa viennensis. K velmi vzácným druhům naší fauny patří drobný tesařík Glaphyra kiesenwetteri, jehož vývoj probíhá prosychajících v růžích na xerotermních stanovištích.
+
+
+
+Motýli
+
+Na lokalitě bylo zjištěno 51 druhů denních motýlů a 5 druhů vřetenušek, z nichž 10 je zařazeno do různých kategorií Červeného seznamu bezobratlých a 3 druhy jsou zařazeny mezi zvláště chráněné dle Vyhl. 395/92. K významným zástupcům denních motýlů patří modrásek vičencový (Polyommatus thersites), m. kozincový (Glaucopsyche alexis), poměrně početné jsou populace modráska podobného (Plebejus argyrognomon). K druhům spíše mezofilních až vlhčích biotopů patří ohniváček černočerný (Lycaena dispar). K dalším zajímavým motýlům patří tři druhy ostruháčků, kteří jsou vázáni na porosty trnek a dalších teplomilných křovin, podobně jako otakárek ovocný (Iphiclides podalirius). Z vřetenušek patří k významným druhům stepních lokalit Zygaena punctum vázaná na máčku ladní a Z. carniolica žijící na čičorce pestré.
+
+
+
+Pavouci
+
+Na zkoumaném území bylo zjištěno 55 druhů pavouků ze 14 čeledí. Z tohoto počtu je celkem 18 druhů uvedeno mezi ohroženými v aktuálním Červeném seznamu pavouků ČR, z toho 2 druhy v kategorii kriticky ohrožený, 3 druhy v kategorii ohrožný, 5 druhů v kategorii zranitelný a 8 druhů v kategorii téměř ohrožený. Vzhledem k celkovému počtu zjištěných druhů se jedná téměř o jednu třetinu, což samo o sobě svědčí o zachovalosti zdejší extenzivní zemědělské krajiny a její dlouhodobé kontinuitě. Nejvýznamnější, kriticky ohrožené druhy pavouků, byly nalezeny ve fragmentech stepní vegetace na zachovalých pozůstatcích stepních ploch, jako např. listovník trávový (Tibellus macellus), který je v ČR tradičně znám pouze z nedaleké Pouzdřanské stepi či pavučenka okrajová (Metopobactrus ascitus), zjištěná jednotlivě pouze na několika stepních lokalitách nejjižnější Moravy. Mezi významné teplomilné druhy, jimž vyhovují pravidelně obhospodařované plochy vinic patří nápadně kovově zbarvená mikárie duhová (Micaria dives), drobný brabenčík stepní (Phrurolithus pullatus), nenápadný běžník hlínový (Ozyptila scabricula) či naopka kontrastně zbarvený listovník strakatý (Rhysodromus histrio), který byl v ČR zjištěn poprvé až v r. 2002. Na okrajích porostů křovin a na nižších větvích solitérních stromů žije též vzácný běžník člunkový (Tmarus stellio), jenž se u nás vyskytuje jen sporadicky na jižní Moravě, jeho poněkud hojnější příbuzný běžník větvový (Tmarus piger) či snovačka černostrakatá (Heterotheridion nigrovariegatum).

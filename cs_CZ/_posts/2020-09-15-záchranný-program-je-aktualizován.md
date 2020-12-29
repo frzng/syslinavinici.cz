@@ -14,3 +14,9 @@ Pro záchranu syslů je klíčové zajištění vhodného hospodaření na míst
 Přípravu a koordinaci realizace záchranných programů zajišťuje [Agentura ochrany přírody a krajiny ČR](https://www.zachranneprogramy.cz/sysel-obecny/) ve spolupráci s odbornými institucemi a dalšími subjekty.
 
 Aktualizovaná verze Záchranného programu pro sysla obecného v České republice je [ke stažení na stránkách AOPK ČR](https://www.zachranneprogramy.cz/sysel-obecny/ke-stazeni/).
+
+
+
+Vychází s podporou Ministerstva životního prostředí. Materiál nemusí vyjadřovat stanoviska MŽP.
+
+![](/media/OPEU-Logo-MZP_20141218v.JPG)

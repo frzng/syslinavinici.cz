@@ -16,6 +16,30 @@ Stráně Velkých Pavlovic jsou domovem nejen syslům a mnoha druhům vzácných
 
 Orientačním průzkumem bylo zjištěno 298 druhů brouků. Celkem 11 je zařazeno mezi zvláště chráněné druhy a 62 druhů je uvedeno v různých kategoriích Červeného seznamu bezobratlých. Na lokalitě bylo zjištěno velké množství ohrožených a vzácných druhů vázaných na různé typy stanovišť od zbytků stepních biotopů, úhorů, různě obhospodařovaných políček a vinohradů až po xylofágní druhy vázané na dřeviny a teplomilné křoviny. Z řady zaznamenaných ohrožených druhů xylofágů lze uvést např. nápadného krasce třešňového (_Anthaxia candens_), v sutinách starých ovocných stromů probíhá vývoj larev zlatohlávka skvostného (_Protatetia speciossisima_) a setkat se zde můžeme vzácně i s naším největším broukem, roháčem obecným (_Lucanus cervus_), jehož larvy žijí na kořenech odumírajících starých stromů. Starší suché dřevo a často také dřevěné kůly ve vinicích hostí pestře zbarveného tesaříka _Chlorophorus varius_, kterého můžeme najít ve vrcholném létě na květech máčky ladní nebo řebříčků. Pod kůrou odumřelých ořešáků byl zjištěn také ohrožený druh z čeledi _Zopheridae Colobicus hirtus_. V zaschlých větvičkách révy vinné žije drobný krasec _Agrilus derasofasciatus_ nebo korovník _Psoa viennensis_. K velmi vzácným druhům naší fauny patří drobný tesařík _Glaphyra kiesenwetteri_, jehož vývoj probíhá prosychajících v růžích na xerotermních stanovištích.
 
+
+
+_krasec třešňový (foto Václav Křivan)_
+
+![krasec třešňový](/media/krasec_tresnovy.jpg "krasec třešňový")
+
+_hrobařík Nicrophorus germanicus (foto Václav Křivan)_
+
+![hrobařík Nicrophorus germanicus](/media/hrobarik_nicrophorus_germanicus.jpg "hrobařík Nicrophorus germanicus")
+
+_nosatec Pseudocleonus cinereus (foto Václav Křivan)_
+
+![nosatec Pseudocleonus cinereus](/media/nosatec-pseudocleonus_cinereus.jpg "nosatec Pseudocleonus cinereus")
+
+_roháč velký (foto Václav Křivan)_
+
+![roháč velký](/media/rohac_velky.jpg "roháč velký")
+
+_májka obecná (foto Václav Křivan)_
+
+![](/media/majka_obecna.jpg)
+
+
+
 # Motýli
 
 Na lokalitě bylo zjištěno 51 druhů denních motýlů a 5 druhů vřetenušek, z nichž 10 je zařazeno do různých kategorií Červeného seznamu bezobratlých a 3 druhy jsou zařazeny mezi zvláště chráněné dle Vyhl. 395/92. K významným zástupcům denních motýlů patří modrásek vičencový (_Polyommatus thersite_s), m. kozincový (_Glaucopsyche alexis_), poměrně početné jsou populace modráska podobného (_Plebejus argyrognomon_). K druhům spíše mezofilních až vlhčích biotopů patří ohniváček černočerný (_Lycaena dispar_). K dalším zajímavým motýlům patří tři druhy ostruháčků, kteří jsou vázáni na porosty trnek a dalších teplomilných křovin, podobně jako otakárek ovocný (_Iphiclides podalirius_). Z vřetenušek patří k významným druhům stepních lokalit _Zygaena punctum_ vázaná na máčku ladní a _Z. carniolica_ žijící na čičorce pestré.

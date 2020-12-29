@@ -28,9 +28,9 @@ _nosatec Pseudocleonus cinereus (foto Václav Křivan)_
 
 ![nosatec Pseudocleonus cinereus](/media/nosatec-pseudocleonus_cinereus.jpg "nosatec Pseudocleonus cinereus")
 
-_roháč velký (foto Václav Křivan)_
+_roháč obecný (foto Václav Křivan)_
 
-![roháč velký](/media/rohac_velky.jpg "roháč velký")
+![roháč obecný](/media/rohac_velky.jpg "roháč obecný")
 
 _májka obecná (foto Václav Křivan)_
 
@@ -83,8 +83,6 @@ _listovník trávový (foto Aleš Jelínek)_
 _listovník strakatý (foto Aleš Jelínek)_
 
 ![listovník strakatý](/media/listovnik_strakaty.jpg "listovník strakatý")
-
-
 
 Vychází také s podporou Ministerstva životního prostředí. Materiál nemusí vyjadřovat stanoviska MŽP.
 

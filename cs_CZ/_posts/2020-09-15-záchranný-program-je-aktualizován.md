@@ -17,6 +17,6 @@ Aktualizovaná verze Záchranného programu pro sysla obecného v České republ
 
 
 
-Vychází s podporou Ministerstva životního prostředí. Materiál nemusí vyjadřovat stanoviska MŽP.
+_Vychází s podporou Ministerstva životního prostředí. Materiál nemusí vyjadřovat stanoviska MŽP._
 
 ![](/media/OPEU-Logo-MZP_20141218v.JPG)

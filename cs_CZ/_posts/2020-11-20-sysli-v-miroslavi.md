@@ -25,3 +25,9 @@ __
 _Když malí sysli vylezou poprvé z mateřské nory, všude okolo nich dozrávají jahody._
 
 ![sysel obecný](/media/img_7597.jpg "sysel obecný")
+
+
+
+Vychází také s podporou Ministerstva životního prostředí. Materiál nemusí vyjadřovat stanoviska MŽP.
+
+![](/media/OPEU-Logo-MZP_20141218v.JPG)

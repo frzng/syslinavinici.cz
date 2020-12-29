@@ -26,6 +26,10 @@ Přívalové deště ovlivnit nemůžeme, ale můžeme podpořit kolonie, aby se
 
 __
 
+Vychází s podporou Ministerstva životního prostředí. Materiál nemusí vyjadřovat stanoviska MŽP.
+
+![](/media/OPEU-Logo-MZP_20141218v.JPG)
+
 _Zdroje:_ 
 
 [Matějů, Schnitzerová a Větrovcová (2019): Zkušenosti z monitoringu sysla obecného Spermophilus citellus (Rodentia: Sciuridae) v ČR v letech 2004 – 2016. Příroda, Praha 39: 141 – 150.

@@ -6,8 +6,8 @@ news:
   following: Další zprávy
 links:
   - image: /media/sysli_loga_full.jpg
-    title: 'Známky '
-    url: /znamky
+    title: sokol
+    url: /sokol
   - image: /media/mapa_sysli.jpg
     title: Sysli na mapě
     url: 'http://mapa.syslinavinici.cz/'

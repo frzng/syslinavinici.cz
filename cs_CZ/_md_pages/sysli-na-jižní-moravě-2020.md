@@ -16,52 +16,38 @@ layout: two_columns_page
 
 80/32/20
 
-
-
 ## FINANCOVÁNÍ
 
 Projekt byl podpořen Ministerstvem životního prostředí, projekt nemusí vyjadřovat stanoviska MŽP.
-
-
 
 Program na podporu projektů nestátních neziskových organizací pro rok 2020 - Podprogram A
 
 ![](/media/OPEU-Logo-MZP_20141218v.JPG)
 
-
-
-
-
 ## TRVÁNÍ
 
 1/2020 – 12/2020
-
-
 
 ## CÍLOVÉ DRUHY
 
 sysel obecný
 
-
-
 ## CÍLOVÁ OBLAST
 
 jižní Morava
 
-
-
 ## CÍL PROJEKTU
 
 Hlavním dlouhodobým cílem projektu je podpora ohrožených populací sysla obecného na jižní Moravě. Dílčími cíli jsou:
-
-
 
 * sledování stavu vybraných populací sysla na jižní Moravě, hledání neznámých kolonií,
 * dlouhodobé zajištění vhodného prostředí pro sysla formou spolupráce s vlastníky pozemků – hospodařícími zemědělci, a to osvětou a podporou zemědělců ve formě ochranných známek Sysli na vinici a Sysli v sadu, které byly vytvořeny v rámci předchozích projektů žadatele.
 * osvěta veřejnosti – aby veřejnost znala a chránila druhy rostlin a živočichů žijících v naší zemědělské krajině, aby tato krajina plnila i mimoprodukční funkce, aby veřejnost ocenila zemědělce, kteří tyto podmínky naplňují
 * prvotní zásah na dvou pozemcích se stepními společenstvy – stepní trávníky zde zarůstají keři, jejich jednorázové prosekání výrazně posune stav sukcese zpět
 
-# Aktuality
+
+
+## Aktuality
 
 [Brouci, motýli a pavouci Velkých Pavlovic](https://www.syslinavinici.cz/news/brouci-mot%C3%BDli-a-pavouci-velk%C3%BDch-pavlovic)
 

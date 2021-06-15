@@ -336,6 +336,15 @@ collections:
     label: "\U00002757 Published at (change with caution)"
     widget: date
     format: YYYY-MM-DD
+  - name: logoset
+    label: >-
+      Logoset (manage in separate collection Logosets)
+    widget: relation
+    collection: logosets
+    searchFields:
+    - title
+    valueField: title
+    required: false
   - name: category
     label: "\U0001F6AB Post type (do not change)"
     widget: string
